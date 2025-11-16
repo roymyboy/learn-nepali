@@ -1,0 +1,1250 @@
+[
+  {
+    "DevanagriWord": "चरा",
+    "romanization": "chara",
+    "pos": "noun",
+    "definitions": [
+      "a bird; a winged animal"
+    ],
+    "examples": "चरा आकाशमा उड्छ।",
+    "examplesRomanized": "chara akashma udchha.",
+    "exampleEnglish": "The bird flies in the sky.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "सुगा",
+    "romanization": "suga",
+    "pos": "noun",
+    "definitions": [
+      "a parrot"
+    ],
+    "examples": "सुगा कुरा नक्कल गर्छ।",
+    "examplesRomanized": "suga kura nakkal garchha.",
+    "exampleEnglish": "Parrots mimic speech.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "हाँस",
+    "romanization": "hans",
+    "pos": "noun",
+    "definitions": [
+      "a goose"
+    ],
+    "examples": "हाँस पोखरीमा पौडिन्छ।",
+    "examplesRomanized": "hans pokharima paudincha.",
+    "exampleEnglish": "The goose swims in the pond.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "काग",
+    "romanization": "kag",
+    "pos": "noun",
+    "definitions": [
+      "a crow"
+    ],
+    "examples": "काग कराउँछ।",
+    "examplesRomanized": "kag karaunchha.",
+    "exampleEnglish": "The crow caws.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "चील",
+    "romanization": "chil",
+    "pos": "noun",
+    "definitions": [
+      "an eagle"
+    ],
+    "examples": "चील माथि घुम्दै उड्छ।",
+    "examplesRomanized": "chil mathi ghumdai udchha.",
+    "exampleEnglish": "The eagle soars above in circles.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "गिद्ध",
+    "romanization": "giddh",
+    "pos": "noun",
+    "definitions": [
+      "a vulture"
+    ],
+    "examples": "गिद्ध मृत जनावरको मासु खान्छ।",
+    "examplesRomanized": "giddh mrit janawarko masu khanchha.",
+    "exampleEnglish": "Vultures eat carrion.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "मैना",
+    "romanization": "maina",
+    "pos": "noun",
+    "definitions": [
+      "a myna"
+    ],
+    "examples": "मैना राम्रो गाउन सक्छ।",
+    "examplesRomanized": "maina ramro gauna sakchha.",
+    "exampleEnglish": "The myna can sing well.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "परेवा",
+    "romanization": "parewa",
+    "pos": "noun",
+    "definitions": [
+      "a pigeon"
+    ],
+    "examples": "परेवा शहरमा धेरै देखिन्छ।",
+    "examplesRomanized": "parewa saharma dherai dekhinchha.",
+    "exampleEnglish": "Pigeons are often seen in cities.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "बत्तख",
+    "romanization": "battakh",
+    "pos": "noun",
+    "definitions": [
+      "a duck"
+    ],
+    "examples": "बत्तख पानीमा पौडिन्छ।",
+    "examplesRomanized": "battakh panima paudincha.",
+    "exampleEnglish": "The duck swims in water.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "मयुर",
+    "romanization": "mayur",
+    "pos": "noun",
+    "definitions": [
+      "a peacock"
+    ],
+    "examples": "मयुर वर्षामा पखेटा फिजाएर नाच्छ।",
+    "examplesRomanized": "mayur barshama pakheta phijayera nachchha.",
+    "exampleEnglish": "The peacock dances spreading its feathers in the monsoon.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "डाँफे",
+    "romanization": "damphe",
+    "pos": "noun",
+    "definitions": [
+      "the Himalayan monal (Nepal's national bird)"
+    ],
+    "examples": "डाँफे नेपालको राष्ट्रिय पक्षी हो।",
+    "examplesRomanized": "damphe Nepalko rashtriya pakshi ho.",
+    "exampleEnglish": "The Danphe is Nepal's national bird.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "भँगेरा",
+    "romanization": "bhangera",
+    "pos": "noun",
+    "definitions": [
+      "a sparrow"
+    ],
+    "examples": "भँगेरा घरको छानामा बस्छ।",
+    "examplesRomanized": "bhangera gharko chhanama baschha.",
+    "exampleEnglish": "The sparrow sits on the roof.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "कुखुरा",
+    "romanization": "kukhura",
+    "pos": "noun",
+    "definitions": [
+      "a chicken; domestic fowl"
+    ],
+    "examples": "कुखुराले बिहान डाक्छ।",
+    "examplesRomanized": "kukhurale bihan dakchha.",
+    "exampleEnglish": "The rooster crows in the morning.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "काफलको चरा",
+    "romanization": "kafalko chara",
+    "pos": "noun",
+    "definitions": [
+      "the grey-winged blackbird (kafal-eater)"
+    ],
+    "examples": "काफलको चराले काफल खान रुचाउँछ।",
+    "examplesRomanized": "kafalko charale kafal khana ruchaunchha.",
+    "exampleEnglish": "The kafal bird likes to eat kafal fruit.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "सारस",
+    "romanization": "saras",
+    "pos": "noun",
+    "definitions": [
+      "a crane"
+    ],
+    "examples": "सारस दलदली क्षेत्रमा पाइन्छ।",
+    "examplesRomanized": "saras daldali kshetrama painchha.",
+    "exampleEnglish": "Cranes are found in marshy areas.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "उल्लु",
+    "romanization": "ullu",
+    "pos": "noun",
+    "definitions": [
+      "an owl"
+    ],
+    "examples": "उल्लु राति सिकार गर्छ।",
+    "examplesRomanized": "ullu rati sikar garchha.",
+    "exampleEnglish": "Owls hunt at night.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "लाटोकोसेरो",
+    "romanization": "latokosero",
+    "pos": "noun",
+    "definitions": [
+      "a barn owl"
+    ],
+    "examples": "लाटोकोसेरो गोठ वरिपरि देखिन्छ।",
+    "examplesRomanized": "latokosero goth waripari dekhinchha.",
+    "exampleEnglish": "Barn owls are seen around barns.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "बाज",
+    "romanization": "baaj",
+    "pos": "noun",
+    "definitions": [
+      "a falcon; a hawk"
+    ],
+    "examples": "बाज चरा माथिबाट सिकार गर्छ।",
+    "examplesRomanized": "baaj chara mathibata sikar garchha.",
+    "exampleEnglish": "A falcon hunts from above.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "बगुला",
+    "romanization": "bagula",
+    "pos": "noun",
+    "definitions": [
+      "a heron/egret"
+    ],
+    "examples": "बगुला खोलाको किनारमा बस्छ।",
+    "examplesRomanized": "bagula kholako kinarma baschha.",
+    "exampleEnglish": "Herons sit by the riverbank.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "ढुकुर",
+    "romanization": "dhukur",
+    "pos": "noun",
+    "definitions": [
+      "a dove"
+    ],
+    "examples": "ढुकुर बोटमा गुहा बनाउँछ।",
+    "examplesRomanized": "dhukur botma guha banaunchha.",
+    "exampleEnglish": "Doves make nests in trees.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "बुलबुल",
+    "romanization": "bulbul",
+    "pos": "noun",
+    "definitions": [
+      "a bulbul"
+    ],
+    "examples": "बुलबुलको आवाज मधुर हुन्छ।",
+    "examplesRomanized": "bulbulko awaj madhur hunchha.",
+    "exampleEnglish": "The bulbul's call is sweet.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "कोइली",
+    "romanization": "koili",
+    "pos": "noun",
+    "definitions": [
+      "a koel; a cuckoo"
+    ],
+    "examples": "कोइली वसन्तमा गुँजिन्छ।",
+    "examplesRomanized": "koili basantma gunjinchha.",
+    "exampleEnglish": "The koel sings in spring.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "अबाबिल",
+    "romanization": "ababil",
+    "pos": "noun",
+    "definitions": [
+      "a swallow"
+    ],
+    "examples": "अबाबिल आकाशमा छिटो उड्छ।",
+    "examplesRomanized": "ababil akashma chhito udchha.",
+    "exampleEnglish": "Swallows fly swiftly in the sky.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "किङफिसर",
+    "romanization": "kingfisar",
+    "pos": "noun",
+    "definitions": [
+      "a kingfisher"
+    ],
+    "examples": "किङफिसर माछा समात्न पानीमा डुब्छ।",
+    "examplesRomanized": "kingfisar machha samatna panima dubchha.",
+    "exampleEnglish": "The kingfisher dives into water to catch fish.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "कठफोर",
+    "romanization": "kathphor",
+    "pos": "noun",
+    "definitions": [
+      "a woodpecker"
+    ],
+    "examples": "कठफोरले रूखको टाल टक टक ठोक्छ।",
+    "examplesRomanized": "kathphorle rukhko tal tak tak thokchha.",
+    "exampleEnglish": "The woodpecker taps the tree trunk.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "हुदहुदे",
+    "romanization": "hudahude",
+    "pos": "noun",
+    "definitions": [
+      "a hoopoe"
+    ],
+    "examples": "हुदहुदे घाँसमा किरा खोज्छ।",
+    "examplesRomanized": "hudahude ghasma kira khojchha.",
+    "exampleEnglish": "The hoopoe searches for insects in the grass.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "टिटिहरी",
+    "romanization": "titihari",
+    "pos": "noun",
+    "definitions": [
+      "a lapwing"
+    ],
+    "examples": "टिटिहरी खेतवरिपरि हिँड्छ।",
+    "examplesRomanized": "titihari khetwaripari hindchha.",
+    "exampleEnglish": "Lapwings walk around the fields.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "बटेर",
+    "romanization": "bater",
+    "pos": "noun",
+    "definitions": [
+      "a quail"
+    ],
+    "examples": "बटेर झाडीभित्र लुक्छ।",
+    "examplesRomanized": "bater jhadibhitra lukchha.",
+    "exampleEnglish": "Quails hide in bushes.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "तित्रा",
+    "romanization": "titra",
+    "pos": "noun",
+    "definitions": [
+      "a partridge; a francolin"
+    ],
+    "examples": "तित्रा बगरमैदानमा दौडन्छ।",
+    "examplesRomanized": "titra bagarmaidanma daudanchha.",
+    "exampleEnglish": "Partridges run across open plains.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "कालिज",
+    "romanization": "kalij",
+    "pos": "noun",
+    "definitions": [
+      "the Kalij pheasant"
+    ],
+    "examples": "कालिज वनमा फुत्कन्छ।",
+    "examplesRomanized": "kalij vanma futkanchha.",
+    "exampleEnglish": "The Kalij pheasant bursts through the forest.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "मयूरी",
+    "romanization": "mayuri",
+    "pos": "noun",
+    "definitions": [
+      "a peahen (female peafowl)"
+    ],
+    "examples": "मयूरी बारीमा दाना टिप्छ।",
+    "examplesRomanized": "mayuri barima dana tipchha.",
+    "exampleEnglish": "The peahen pecks grains in the field.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "राजहंस",
+    "romanization": "rajhans",
+    "pos": "noun",
+    "definitions": [
+      "a swan"
+    ],
+    "examples": "राजहंस तालमा शान्तसँग पौडिन्छ।",
+    "examplesRomanized": "rajhans talma shantsanga paudincha.",
+    "exampleEnglish": "Swans swim calmly in lakes.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "नीलकण्ठ",
+    "romanization": "nilkanth",
+    "pos": "noun",
+    "definitions": [
+      "the Indian roller"
+    ],
+    "examples": "नीलकण्ठ बिजुली तारमा बस्छ।",
+    "examplesRomanized": "nilkanth bijuli tarma baschha.",
+    "exampleEnglish": "The Indian roller sits on electric wires.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "धनेश",
+    "romanization": "dhanesh",
+    "pos": "noun",
+    "definitions": [
+      "a hornbill"
+    ],
+    "examples": "धनेशको चुच्चो ठूलो हुन्छ।",
+    "examplesRomanized": "dhaneshko chuchcho thulo hunchha.",
+    "exampleEnglish": "Hornbills have large beaks.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "श्यामा",
+    "romanization": "syama",
+    "pos": "noun",
+    "definitions": [
+      "the oriental magpie robin"
+    ],
+    "examples": "श्यामाले घरछेउ गीत गाउँछ।",
+    "examplesRomanized": "syamale gharchheu git gauchha.",
+    "exampleEnglish": "The magpie robin sings near houses.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "फाख्ता",
+    "romanization": "fakhta",
+    "pos": "noun",
+    "definitions": [
+      "a laughing dove"
+    ],
+    "examples": "फाख्ता घरछेउका बोटमा बस्छ।",
+    "examplesRomanized": "fakhta gharchheuka botma baschha.",
+    "exampleEnglish": "Laughing doves sit on trees near houses.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "दुधराज",
+    "romanization": "dudhraj",
+    "pos": "noun",
+    "definitions": [
+      "Asian paradise flycatcher"
+    ],
+    "examples": "दुधराजको लामो पुच्छर मनमोहक हुन्छ।",
+    "examplesRomanized": "dudhrajko lamo puchchhar manmohak hunchha.",
+    "exampleEnglish": "The paradise flycatcher has a charming long tail.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "चिवी",
+    "romanization": "chivi",
+    "pos": "noun",
+    "definitions": [
+      "a swift"
+    ],
+    "examples": "चिवी आकाशमा छिटो घुम्छ।",
+    "examplesRomanized": "chivi akashma chhito ghumchha.",
+    "exampleEnglish": "Swifts circle rapidly in the sky.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "मराल",
+    "romanization": "maral",
+    "pos": "noun",
+    "definitions": [
+      "bar-headed goose"
+    ],
+    "examples": "मराल सागरसरी तालहरूमा देखिन्छ।",
+    "examplesRomanized": "maral sagarsari talharuma dekhinchha.",
+    "exampleEnglish": "Bar-headed geese are seen in large lakes.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "फूलचरी",
+    "romanization": "phulchari",
+    "pos": "noun",
+    "definitions": [
+      "a sunbird"
+    ],
+    "examples": "फूलचरीले फूलबाट रस टिप्छ।",
+    "examplesRomanized": "phulcharile phulbata ras tipchha.",
+    "exampleEnglish": "Sunbirds sip nectar from flowers.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "ड्रोंगो",
+    "romanization": "drongo",
+    "pos": "noun",
+    "definitions": [
+      "a drongo"
+    ],
+    "examples": "ड्रोंगो चरा पुच्छर कात्तिएको जस्तो देखिन्छ।",
+    "examplesRomanized": "drongo chara puchchhar kattieko jasto dekhinchha.",
+    "exampleEnglish": "The drongo's tail looks forked.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "स्टार्लिङ",
+    "romanization": "starling",
+    "pos": "noun",
+    "definitions": [
+      "a starling"
+    ],
+    "examples": "स्टार्लिङहरू ठूलो झुण्डमा उड्छन्।",
+    "examplesRomanized": "starlingharu thulo jhundma udchhan.",
+    "exampleEnglish": "Starlings fly in large flocks.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "वार्बलर",
+    "romanization": "warbler",
+    "pos": "noun",
+    "definitions": [
+      "a warbler"
+    ],
+    "examples": "वार्बलर झाडीमा लुकेर गाउने बानी छ।",
+    "examplesRomanized": "warbler jhadima lukera gaune bani chha.",
+    "exampleEnglish": "Warblers tend to sing from within bushes.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "वागटेल",
+    "romanization": "wagtail",
+    "pos": "noun",
+    "definitions": [
+      "a wagtail"
+    ],
+    "examples": "वागटेलले पुच्छर हल्लाउँदै हिँड्छ।",
+    "examplesRomanized": "wagtalle puchchhar hallaudaai hindchha.",
+    "exampleEnglish": "Wagtails walk while wagging their tails.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "पिपिट",
+    "romanization": "pipit",
+    "pos": "noun",
+    "definitions": [
+      "a pipit"
+    ],
+    "examples": "पिपिट घाँसेमैदानमा देखिन्छ।",
+    "examplesRomanized": "pipit ghasemaidanma dekhinchha.",
+    "exampleEnglish": "Pipits are seen in grasslands.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "लार्क",
+    "romanization": "lark",
+    "pos": "noun",
+    "definitions": [
+      "a lark"
+    ],
+    "examples": "लार्क खुलेआकाशमा गाउन उड्छ।",
+    "examplesRomanized": "lark khuleakashma gauna udchha.",
+    "exampleEnglish": "Larks sing in flight under open skies.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "फिन्च",
+    "romanization": "finch",
+    "pos": "noun",
+    "definitions": [
+      "a finch"
+    ],
+    "examples": "फिन्च बिरुवाको बिउ टिप्छ।",
+    "examplesRomanized": "finch biruwako biu tipchha.",
+    "exampleEnglish": "Finches peck plant seeds.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "वीभर",
+    "romanization": "weaver",
+    "pos": "noun",
+    "definitions": [
+      "a weaver bird"
+    ],
+    "examples": "वीभरले झुन्डिएको घोसला बन्छ।",
+    "examplesRomanized": "weaverle jhundieko ghosla banchha.",
+    "exampleEnglish": "Weavers build hanging nests.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "बिटरन",
+    "romanization": "bittern",
+    "pos": "noun",
+    "definitions": [
+      "a bittern"
+    ],
+    "examples": "बिटरन दलदली घाँसभित्र लुकेर बस्छ।",
+    "examplesRomanized": "bittern daldali ghashbhitra lukera baschha.",
+    "exampleEnglish": "Bitterns hide within marsh grasses.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "एग्रेट",
+    "romanization": "egret",
+    "pos": "noun",
+    "definitions": [
+      "an egret"
+    ],
+    "examples": "एग्रेट उथले पानीमा चाल्दै सिकार गर्छ।",
+    "examplesRomanized": "egret uthale panima chaladai sikar garchha.",
+    "exampleEnglish": "Egrets stalk prey in shallow water.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "स्टोर्क",
+    "romanization": "stork",
+    "pos": "noun",
+    "definitions": [
+      "a stork"
+    ],
+    "examples": "स्टोर्क लामो खुट्टा लिएर पानीभित्र चल्छ।",
+    "examplesRomanized": "stork lamo khutta liera panibhitra chalachha.",
+    "exampleEnglish": "Storks with long legs wade in water.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "आइबिस",
+    "romanization": "ibis",
+    "pos": "noun",
+    "definitions": [
+      "an ibis"
+    ],
+    "examples": "आइबिसको लामो बाँका चुच्चो हुन्छ।",
+    "examplesRomanized": "ibisko lamo banka chuchcho hunchha.",
+    "exampleEnglish": "Ibises have long curved beaks.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "स्पूनबिल",
+    "romanization": "spoonbill",
+    "pos": "noun",
+    "definitions": [
+      "a spoonbill"
+    ],
+    "examples": "स्पूनबिलको चम्मचजस्तो चुच्चो हुन्छ।",
+    "examplesRomanized": "spoonbillko chammach jasto chuchcho hunchha.",
+    "exampleEnglish": "Spoonbills have spoon-shaped bills.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "टर्न",
+    "romanization": "tern",
+    "pos": "noun",
+    "definitions": [
+      "a tern"
+    ],
+    "examples": "टर्न नदीमाथि उडेर माछा टिप्छ।",
+    "examplesRomanized": "tern nadimathi udera machha tipchha.",
+    "exampleEnglish": "Terns fly over rivers and pick fish.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "सीगल",
+    "romanization": "seagull",
+    "pos": "noun",
+    "definitions": [
+      "a seagull"
+    ],
+    "examples": "सीगल समुद्रकिनार वरिपरि देखिन्छ।",
+    "examplesRomanized": "seagull samudra kinar waripari dekhinchha.",
+    "exampleEnglish": "Seagulls are seen around the seashore.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "कूट",
+    "romanization": "coot",
+    "pos": "noun",
+    "definitions": [
+      "a coot"
+    ],
+    "examples": "कूट तालको सतहमा पौडिन्छ।",
+    "examplesRomanized": "coot talko satahमा paudincha.",
+    "exampleEnglish": "Coots swim on lake surfaces.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "ग्रीब",
+    "romanization": "grebe",
+    "pos": "noun",
+    "definitions": [
+      "a grebe"
+    ],
+    "examples": "ग्रीब तालमा डुबुल्की मारेर सिकार गर्छ।",
+    "examplesRomanized": "grebe talma dubulki marera sikar garchha.",
+    "exampleEnglish": "Grebes dive in lakes to hunt.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "फिजेन्ट",
+    "romanization": "pheasant",
+    "pos": "noun",
+    "definitions": [
+      "a pheasant"
+    ],
+    "examples": "फिजेन्ट वनको झाडीमा बस्न मन पराउँछ।",
+    "examplesRomanized": "pheasant vanko jhadima basna man paraunchha.",
+    "exampleEnglish": "Pheasants prefer to stay in forest undergrowth.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "क्वेल",
+    "romanization": "quail",
+    "pos": "noun",
+    "definitions": [
+      "a quail"
+    ],
+    "examples": "क्वेल झाडीमा लुकेर हिँड्छ।",
+    "examplesRomanized": "quail jhadima lukera hindchha.",
+    "exampleEnglish": "Quails move hidden within bushes.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "टर्की",
+    "romanization": "turki",
+    "pos": "noun",
+    "definitions": [
+      "a turkey"
+    ],
+    "examples": "टर्की फार्ममा पालन गरिन्छ।",
+    "examplesRomanized": "turki farma palan garinchha.",
+    "exampleEnglish": "Turkeys are raised on farms.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "ओस्ट्रिच",
+    "romanization": "ostrich",
+    "pos": "noun",
+    "definitions": [
+      "an ostrich"
+    ],
+    "examples": "ओस्ट्रिच उड्दैन तर छिटो दौडन्छ।",
+    "examplesRomanized": "ostrich uddaina tara chhito daudanchha.",
+    "exampleEnglish": "Ostriches don't fly but run fast.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "एमु",
+    "romanization": "emu",
+    "pos": "noun",
+    "definitions": [
+      "an emu"
+    ],
+    "examples": "एमु ठूलो उड्न नसक्ने चरा हो।",
+    "examplesRomanized": "emu thulo udna nasakne chara ho.",
+    "exampleEnglish": "The emu is a large flightless bird.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "पेंगुइन",
+    "romanization": "penguin",
+    "pos": "noun",
+    "definitions": [
+      "a penguin"
+    ],
+    "examples": "पेंगुइन चिसो समुन्द्री क्षेत्रमा बस्छ।",
+    "examplesRomanized": "penguin chiso samundri kshetrama baschha.",
+    "exampleEnglish": "Penguins live in cold marine regions.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "अल्बाट्रोस",
+    "romanization": "albatross",
+    "pos": "noun",
+    "definitions": [
+      "an albatross"
+    ],
+    "examples": "अल्बाट्रोस महासागरमाथि टाढासम्म उड्छ।",
+    "examplesRomanized": "albatross mahasagarmathi tada samma udchha.",
+    "exampleEnglish": "Albatrosses fly far over oceans.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "पफिन",
+    "romanization": "puffin",
+    "pos": "noun",
+    "definitions": [
+      "a puffin"
+    ],
+    "examples": "पफिन समुद्री चट्टानमा बास बस्छ।",
+    "examplesRomanized": "puffin samudri chattanma bas baschha.",
+    "exampleEnglish": "Puffins nest on sea cliffs.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "पेलिकन",
+    "romanization": "pelican",
+    "pos": "noun",
+    "definitions": [
+      "a pelican"
+    ],
+    "examples": "पेलिकनको थैलीजस्तो चुच्चो हुन्छ।",
+    "examplesRomanized": "pelikanko thailaijasto chuchcho hunchha.",
+    "exampleEnglish": "Pelicans have pouch-like bills.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "ओरियोल",
+    "romanization": "oriole",
+    "pos": "noun",
+    "definitions": [
+      "an oriole"
+    ],
+    "examples": "ओरियोल रुखका माथिल्लो हाँगामा बस्छ।",
+    "examplesRomanized": "oriole rukhka mathillo hanga ma baschha.",
+    "exampleEnglish": "Orioles sit on high branches of trees.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "बार्बेट",
+    "romanization": "barbet",
+    "pos": "noun",
+    "definitions": [
+      "a barbet"
+    ],
+    "examples": "बार्बेटले रूखको पोकाको प्वालमा घोसला बनाउँछ।",
+    "examplesRomanized": "barbetle rukhko pokako pwalma ghosla banaunchha.",
+    "exampleEnglish": "Barbets nest in tree cavities.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "मिनिवेट",
+    "romanization": "minivet",
+    "pos": "noun",
+    "definitions": [
+      "a minivet"
+    ],
+    "examples": "मिनिवेट समूहमा उड्न मन पराउँछ।",
+    "examplesRomanized": "minivet samuhma udna man paraunchha.",
+    "exampleEnglish": "Minivets like to fly in flocks.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "श्राइक",
+    "romanization": "shrike",
+    "pos": "noun",
+    "definitions": [
+      "a shrike"
+    ],
+    "examples": "श्राइकले टुक्रा टुक्रा सिकार काँडामा अड्याउँछ।",
+    "examplesRomanized": "shrikele tukra tukra sikar kandama adyaunchha.",
+    "exampleEnglish": "Shrikes impale prey on thorns.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "नटह्याच",
+    "romanization": "nuthatch",
+    "pos": "noun",
+    "definitions": [
+      "a nuthatch"
+    ],
+    "examples": "नटह्याच रूखको टाल माथि तल दुवै दिशामा हिँड्छ।",
+    "examplesRomanized": "nuthatch rukhko tal mathi tala duvai dishamा hindchha.",
+    "exampleEnglish": "Nuthatches move both up and down tree trunks.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "ट्रीक्रिपर",
+    "romanization": "treecreeper",
+    "pos": "noun",
+    "definitions": [
+      "a treecreeper"
+    ],
+    "examples": "ट्रीक्रिपर टाल चिप्लिँदै माथि चढ्छ।",
+    "examplesRomanized": "treecreeper tal chiplindai mathi chadhchha.",
+    "exampleEnglish": "Treecreepers creep up trunks.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "मार्टिन",
+    "romanization": "martin",
+    "pos": "noun",
+    "definitions": [
+      "a martin"
+    ],
+    "examples": "मार्टिनहरू हावामा किरा टिप्छन्।",
+    "examplesRomanized": "martinharu hawama kira tipchhan.",
+    "exampleEnglish": "Martins pick insects on the wing.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "थ्रस",
+    "romanization": "thrush",
+    "pos": "noun",
+    "definitions": [
+      "a thrush"
+    ],
+    "examples": "थ्रस झाडीभित्र गाउछ।",
+    "examplesRomanized": "thrush jhadibhitra gauchha.",
+    "exampleEnglish": "Thrushes sing from inside shrubs.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "ब्ल्याकबर्ड",
+    "romanization": "blackbird",
+    "pos": "noun",
+    "definitions": [
+      "a blackbird"
+    ],
+    "examples": "ब्ल्याकबर्ड घाँसमा किरा खोज्छ।",
+    "examplesRomanized": "blackbird ghasma kira khojchha.",
+    "exampleEnglish": "Blackbirds search for insects on lawns.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "रबिन",
+    "romanization": "robin",
+    "pos": "noun",
+    "definitions": [
+      "a robin"
+    ],
+    "examples": "रबिन बिहानबेलुकी गाउने गर्छ।",
+    "examplesRomanized": "robin bihan beluki gaune garchha.",
+    "exampleEnglish": "Robins sing at dawn and dusk.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "एक्सेन्टोर",
+    "romanization": "accentor",
+    "pos": "noun",
+    "definitions": [
+      "an accentor"
+    ],
+    "examples": "एक्सेन्टोर उच्च हिमाली क्षेत्रमा पाइन्छ।",
+    "examplesRomanized": "accentor uchcha himali kshetrama painchha.",
+    "exampleEnglish": "Accentors are found in high Himalayas.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "रोजफिन्च",
+    "romanization": "rosefinch",
+    "pos": "noun",
+    "definitions": [
+      "a rosefinch"
+    ],
+    "examples": "रोजफिन्चका रंग चम्किला हुन्छन्।",
+    "examplesRomanized": "rosefinchka rang chamkila hunchhan.",
+    "exampleEnglish": "Rosefinches have bright colors.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "ग्रोस्बेक",
+    "romanization": "grosbek",
+    "pos": "noun",
+    "definitions": [
+      "a grosbeak"
+    ],
+    "examples": "ग्रोस्बेकको चुच्चो बलियो हुन्छ।",
+    "examplesRomanized": "grosbekko chuchcho baliyo hunchha.",
+    "exampleEnglish": "Grosbeaks have strong beaks.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "बन्टिङ",
+    "romanization": "bunting",
+    "pos": "noun",
+    "definitions": [
+      "a bunting"
+    ],
+    "examples": "बन्टिङ खुला खेतमा दाना टिप्छ।",
+    "examplesRomanized": "bunting khula khetma dana tipchha.",
+    "exampleEnglish": "Buntings peck grains in open fields.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "कुकू",
+    "romanization": "cuckoo",
+    "pos": "noun",
+    "definitions": [
+      "a cuckoo"
+    ],
+    "examples": "कुकूले अरू चराको गुँडमा अण्डा पार्छ।",
+    "examplesRomanized": "cuckule aru charako gundma anda parchha.",
+    "exampleEnglish": "Cuckoos lay eggs in other birds' nests.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "नाइटजार",
+    "romanization": "nightjar",
+    "pos": "noun",
+    "definitions": [
+      "a nightjar"
+    ],
+    "examples": "नाइटजार साँझमा सक्रिय हुन्छ।",
+    "examplesRomanized": "nightjar sanjh ma sakriya hunchha.",
+    "exampleEnglish": "Nightjars are active at dusk.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "स्विफ्टलेट",
+    "romanization": "swiftlet",
+    "pos": "noun",
+    "definitions": [
+      "a swiftlet"
+    ],
+    "examples": "स्विफ्टलेट गुफामा घोसला बनाउँछ।",
+    "examplesRomanized": "swiftlet guphama ghosla banaunchha.",
+    "exampleEnglish": "Swiftlets build nests in caves.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "डिपर",
+    "romanization": "dipper",
+    "pos": "noun",
+    "definitions": [
+      "a dipper"
+    ],
+    "examples": "डिपर खोला किनारमै दौडिँदै सिकार गर्छ।",
+    "examplesRomanized": "dipper khola kinarmai daudindai sikar garchha.",
+    "exampleEnglish": "Dippers hunt along fast streams.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "स्यान्डपाइपर",
+    "romanization": "sandpiper",
+    "pos": "noun",
+    "definitions": [
+      "a sandpiper"
+    ],
+    "examples": "स्यान्डपाइपर नदीकिनारमा दगुर्छ।",
+    "examplesRomanized": "sandpiper nadikinarma dagurchha.",
+    "exampleEnglish": "Sandpipers scurry along riverbanks.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "प्लोभर",
+    "romanization": "plover",
+    "pos": "noun",
+    "definitions": [
+      "a plover"
+    ],
+    "examples": "प्लोभर बालुवामा अण्डा लुकाउँछ।",
+    "examplesRomanized": "plover baluwama anda lukaunchha.",
+    "exampleEnglish": "Plovers hide eggs in sand.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "कर्ल्यु",
+    "romanization": "curlew",
+    "pos": "noun",
+    "definitions": [
+      "a curlew"
+    ],
+    "examples": "कर्ल्युको चुच्चो लामो बाँका हुन्छ।",
+    "examplesRomanized": "curlyuko chuchcho lamo banka hunchha.",
+    "exampleEnglish": "Curlews have long, curved bills.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "स्नाइप",
+    "romanization": "snipe",
+    "pos": "noun",
+    "definitions": [
+      "a snipe"
+    ],
+    "examples": "स्नाइप दलदली घाँसमा लुकेर बस्छ।",
+    "examplesRomanized": "snipe daldali ghasma lukera baschha.",
+    "exampleEnglish": "Snipes hide in marsh grass.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "रेल",
+    "romanization": "rail",
+    "pos": "noun",
+    "definitions": [
+      "a water rail"
+    ],
+    "examples": "रेल घना बोटबिरुवाभित्र लुकेर हिँड्छ।",
+    "examplesRomanized": "rail ghana botbiruwabhitra lukera hindchha.",
+    "exampleEnglish": "Water rails move hidden in dense vegetation.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "क्रेक",
+    "romanization": "crake",
+    "pos": "noun",
+    "definitions": [
+      "a crake"
+    ],
+    "examples": "क्रेक दलदली क्षेत्रमा बस्छ।",
+    "examplesRomanized": "crake daldali kshetrama baschha.",
+    "exampleEnglish": "Crakes live in marshy areas.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "मूर्हेन",
+    "romanization": "moorhen",
+    "pos": "noun",
+    "definitions": [
+      "a moorhen"
+    ],
+    "examples": "मूर्हेन तालको किनार लागेर दौडन्छ।",
+    "examplesRomanized": "moorhen talko kinar lagera daudanchha.",
+    "exampleEnglish": "Moorhens run along the edges of ponds.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "ग्यालिन्युल",
+    "romanization": "gallinule",
+    "pos": "noun",
+    "definitions": [
+      "a gallinule"
+    ],
+    "examples": "ग्यालिन्युल हरियो दलदलमा बास बस्छ।",
+    "examplesRomanized": "gallinule hariyo daldal ma bas baschha.",
+    "exampleEnglish": "Gallinules nest in green marshes.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "ज्याकाना",
+    "romanization": "jacana",
+    "pos": "noun",
+    "definitions": [
+      "a jacana"
+    ],
+    "examples": "ज्याकाना पोखरीका कमलको पातमा हिँड्छ।",
+    "examplesRomanized": "jacana pokharika kamalko patma hindchha.",
+    "exampleEnglish": "Jacanas walk on lotus leaves of ponds.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "कर्मोरान्ट",
+    "romanization": "cormorant",
+    "pos": "noun",
+    "definitions": [
+      "a cormorant"
+    ],
+    "examples": "कर्मोरान्ट पानीमा डुबुल्की मारेर माछा समात्छ।",
+    "examplesRomanized": "cormorant panima dubulki marera machha samatchha.",
+    "exampleEnglish": "Cormorants dive to catch fish.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "डार्टर",
+    "romanization": "darter",
+    "pos": "noun",
+    "definitions": [
+      "an anhinga; darter"
+    ],
+    "examples": "डार्टरे पखेटा फिजाएर घाम ताप्छ।",
+    "examplesRomanized": "dartere pakheta phijayera gham tapchha.",
+    "exampleEnglish": "Darters spread wings to dry in the sun.",
+    "frequency": "low",
+    "category": "birds"
+  },
+  {
+    "DevanagriWord": "काइट",
+    "romanization": "kite",
+    "pos": "noun",
+    "definitions": [
+      "a kite (raptor)"
+    ],
+    "examples": "काइटले माथिबाट बित্তिकै सिकार टिप्छ।",
+    "examplesRomanized": "kitele mathibata bittikai sikar tipchha.",
+    "exampleEnglish": "Kites snatch prey swiftly from above.",
+    "frequency": "low",
+    "category": "birds"
+  }
+]

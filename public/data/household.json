@@ -1,0 +1,327 @@
+[
+  {
+    "DevanagriWord": "कुर्सी",
+    "romanization": "kursi",
+    "pos": "noun",
+    "definitions": [
+      "chair"
+    ],
+    "examples": "कुर्सीमा बस्नुहोस्।",
+    "examplesRomanized": "kursima basnuhos.",
+    "exampleEnglish": "Please sit on the chair.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "कोठा",
+    "romanization": "kotha",
+    "pos": "noun",
+    "definitions": [
+      "room"
+    ],
+    "examples": "यो कोठा ठूलो छ।",
+    "examplesRomanized": "yo kotha thulo chha.",
+    "exampleEnglish": "This room is big.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "घर",
+    "romanization": "ghar",
+    "pos": "noun",
+    "definitions": [
+      "house; home"
+    ],
+    "examples": "उनको घर काठका ढोकाले सजिएको छ।",
+    "examplesRomanized": "unko ghar kathka dhokale sajieko chha.",
+    "exampleEnglish": "Their house is decorated with wooden doors.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "छुरी",
+    "romanization": "chhuri",
+    "pos": "noun",
+    "definitions": [
+      "knife"
+    ],
+    "examples": "छुरीले तरकारी काटियो।",
+    "examplesRomanized": "chhurile tarkari katiyo.",
+    "exampleEnglish": "The vegetables were cut with a knife.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "झ्याल",
+    "romanization": "jhyal",
+    "pos": "noun",
+    "definitions": [
+      "window"
+    ],
+    "examples": "झ्यालबाट हावा आउँछ।",
+    "examplesRomanized": "jhyalbata hawa aauchha.",
+    "exampleEnglish": "Air comes through the window.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "टेबल",
+    "romanization": "tebal",
+    "pos": "noun",
+    "definitions": [
+      "table"
+    ],
+    "examples": "टेबलमा किताब छ।",
+    "examplesRomanized": "tebalma kitab chha.",
+    "exampleEnglish": "There is a book on the table.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "ढोका",
+    "romanization": "dhoka",
+    "pos": "noun",
+    "definitions": [
+      "door"
+    ],
+    "examples": "ढोका बन्द गर्नुहोस्।",
+    "examplesRomanized": "dhoka banda garnuhos.",
+    "exampleEnglish": "Please close the door.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "भाँडा",
+    "romanization": "bhandaa",
+    "pos": "noun",
+    "definitions": [
+      "utensil; pot"
+    ],
+    "examples": "भाँडा धुनुहोस्।",
+    "examplesRomanized": "bhandaa dhunuhos.",
+    "exampleEnglish": "Please wash the utensils.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "छानो",
+    "romanization": "chhano",
+    "pos": "noun",
+    "definitions": [
+      "roof"
+    ],
+    "examples": "छानोबाट पानी चुहियो।",
+    "examplesRomanized": "chhanobata pani chuhiyo.",
+    "exampleEnglish": "Water leaked from the roof.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "सिँढी",
+    "romanization": "sidhi",
+    "pos": "noun",
+    "definitions": [
+      "stairs; ladder"
+    ],
+    "examples": "सिँढीबाट माथि जाऊ।",
+    "examplesRomanized": "sidhibata mathi jau.",
+    "exampleEnglish": "Go up the stairs.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "भान्सा",
+    "romanization": "bhansa",
+    "pos": "noun",
+    "definitions": [
+      "kitchen"
+    ],
+    "examples": "भान्सामा खाना पकाइन्छ।",
+    "examplesRomanized": "bhansama khana pakainchha.",
+    "exampleEnglish": "Food is cooked in the kitchen.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "बत्ती",
+    "romanization": "batti",
+    "pos": "noun",
+    "definitions": [
+      "light; lamp"
+    ],
+    "examples": "बत्ती बाल्नुहोस्।",
+    "examplesRomanized": "batti balnuhos.",
+    "exampleEnglish": "Please turn on the light.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "रेडियो",
+    "romanization": "radio",
+    "pos": "noun",
+    "definitions": [
+      "radio"
+    ],
+    "examples": "रेडियोमा समाचार सुन्ने गरिन्छ।",
+    "examplesRomanized": "radioma samachar sunne garincha.",
+    "exampleEnglish": "News is heard on the radio.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "टेलिभिजन",
+    "romanization": "television",
+    "pos": "noun",
+    "definitions": [
+      "television"
+    ],
+    "examples": "टेलिभिजनमा कार्यक्रम हेर्छौँ।",
+    "examplesRomanized": "televisionma karyakram herchhaun.",
+    "exampleEnglish": "We watch programs on television.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "फ्रिज",
+    "romanization": "fridge",
+    "pos": "noun",
+    "definitions": [
+      "refrigerator"
+    ],
+    "examples": "फ्रिजमा फलफूल राखिन्छ।",
+    "examplesRomanized": "frijma phalphul rakhinchha.",
+    "exampleEnglish": "Fruits are kept in the fridge.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "कप",
+    "romanization": "cup",
+    "pos": "noun",
+    "definitions": [
+      "cup"
+    ],
+    "examples": "कपमा चिया छ।",
+    "examplesRomanized": "cupma chiya chha.",
+    "exampleEnglish": "There is tea in the cup.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "गिलास",
+    "romanization": "gilas",
+    "pos": "noun",
+    "definitions": [
+      "glass (drinking)"
+    ],
+    "examples": "गिलासमा पानी छ।",
+    "examplesRomanized": "gilasma pani chha.",
+    "exampleEnglish": "There is water in the glass.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "थाल",
+    "romanization": "thal",
+    "pos": "noun",
+    "definitions": [
+      "plate; dish"
+    ],
+    "examples": "थालमा खाना राखियो।",
+    "examplesRomanized": "thalma khana rakhiyo.",
+    "exampleEnglish": "Food was placed on the plate.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "चम्मच",
+    "romanization": "chammach",
+    "pos": "noun",
+    "definitions": [
+      "spoon"
+    ],
+    "examples": "चम्मचले खानेकुरा खाइयो।",
+    "examplesRomanized": "chammachle khanekura khaiyo.",
+    "exampleEnglish": "Food was eaten with a spoon.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "काँटा",
+    "romanization": "kanta",
+    "pos": "noun",
+    "definitions": [
+      "fork"
+    ],
+    "examples": "काँटाले सलाद खाइयो।",
+    "examplesRomanized": "kantal e salad khaiyo.",
+    "exampleEnglish": "Salad was eaten with a fork.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "भाँडाकुचो",
+    "romanization": "bhandakucho",
+    "pos": "noun",
+    "definitions": [
+      "kitchen tools and utensils"
+    ],
+    "examples": "भाँडाकुचो सच्याउनुहोस्।",
+    "examplesRomanized": "bhandakucho sachyaunuhos.",
+    "exampleEnglish": "Please organize the kitchen tools.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "पंखा",
+    "romanization": "pankha",
+    "pos": "noun",
+    "definitions": [
+      "fan"
+    ],
+    "examples": "पंखा बिस्तारै घुमिरहेको छ।",
+    "examplesRomanized": "pankha bistaarai ghumirheko chha.",
+    "exampleEnglish": "The fan is rotating slowly.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "म्याट्रेस",
+    "romanization": "mattress",
+    "pos": "noun",
+    "definitions": [
+      "mattress"
+    ],
+    "examples": "म्याट्रेस सफा राख्नुहोस्।",
+    "examplesRomanized": "mattress safa rakhnuhos.",
+    "exampleEnglish": "Keep the mattress clean.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "कम्बल",
+    "romanization": "kambal",
+    "pos": "noun",
+    "definitions": [
+      "blanket"
+    ],
+    "examples": "जाडोमा कम्बल ओढ्नुहोस्।",
+    "examplesRomanized": "jado ma kambal odhnuhos.",
+    "exampleEnglish": "Use a blanket in winter.",
+    "frequency": "low",
+    "category": "household"
+  },
+  {
+    "DevanagriWord": "तकिया",
+    "romanization": "takiya",
+    "pos": "noun",
+    "definitions": [
+      "pillow"
+    ],
+    "examples": "तकियामा खोल हाल्नुहोस्।",
+    "examplesRomanized": "takiyama khol halnuhos.",
+    "exampleEnglish": "Put a cover on the pillow.",
+    "frequency": "low",
+    "category": "household"
+  }
+]

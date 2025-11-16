@@ -1,27 +1,44 @@
 {
   "name": "learn-nepali",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "description": "A comprehensive Nepali-English dictionary with Devanagari script, romanization, and English translations",
+  "keywords": ["nepali", "dictionary", "devanagari", "language", "learning", "translation", "open-source"],
+  "author": "Your Name <your-email@example.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/yourusername/learn-nepali#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/learn-nepali.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/learn-nepali/issues"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
+    "export": "next build && next export",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "type-check": "tsc --noEmit",
+    "preview": "npm run build && npm run start"
   },
   "dependencies": {
+    "nepali": "^1.0.2",
+    "next": "15.5.2",
     "react": "19.1.0",
-    "react-dom": "19.1.0",
-    "next": "15.5.2"
+    "react-dom": "19.1.0"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@eslint/eslintrc": "^3",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
+    "autoprefixer": "^10.4.21",
     "eslint": "^9",
     "eslint-config-next": "15.5.2",
-    "@eslint/eslintrc": "^3"
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5"
   }
 }

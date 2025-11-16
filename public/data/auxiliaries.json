@@ -1,0 +1,1068 @@
+[
+  {
+    "DevanagriWord": "हो",
+    "romanization": "ho",
+    "pos": "auxiliary",
+    "definitions": [
+      "present copula 'is'; indicates existence or identity"
+    ],
+    "examples": "यो सत्य हो।",
+    "examplesRomanized": "yo satya ho.",
+    "exampleEnglish": "This is true.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "सक्छु",
+    "romanization": "sakchhu",
+    "pos": "auxiliary",
+    "definitions": [
+      "modal 'can' for first-person singular; expresses ability"
+    ],
+    "examples": "म नेपाली बोल्न सक्छु।",
+    "examplesRomanized": "ma nepali bolna sakchhu.",
+    "exampleEnglish": "I can speak Nepali.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "सक्छ",
+    "romanization": "sakchha",
+    "pos": "auxiliary",
+    "definitions": [
+      "modal 'can' for third-person singular; expresses ability"
+    ],
+    "examples": "ऊ छिटो दौडिन सक्छ।",
+    "examplesRomanized": "u chito daudina sakchha.",
+    "exampleEnglish": "He/She can run fast.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "सक्छन्",
+    "romanization": "sakchhan",
+    "pos": "auxiliary",
+    "definitions": [
+      "modal 'can' for third-person plural or polite form; expresses ability"
+    ],
+    "examples": "उनीहरू आउन सक्छन्।",
+    "examplesRomanized": "uniharu auna sakchhan.",
+    "exampleEnglish": "They can come.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "सक्दिन",
+    "romanization": "sakdina",
+    "pos": "auxiliary",
+    "definitions": [
+      "modal 'cannot' for first or third-person singular; expresses inability"
+    ],
+    "examples": "म आज जान सक्दिन।",
+    "examplesRomanized": "ma aaj jana sakdina.",
+    "exampleEnglish": "I cannot go today.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "सकिन्छ",
+    "romanization": "sakinchha",
+    "pos": "auxiliary",
+    "definitions": [
+      "impersonal 'can be done'; expresses possibility or feasibility"
+    ],
+    "examples": "यो काम भोलिसम्म सकिन्छ।",
+    "examplesRomanized": "yo kaam bholisamma sakinchha.",
+    "exampleEnglish": "This work can be finished by tomorrow.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "सकिन्न",
+    "romanization": "sakinna",
+    "pos": "auxiliary",
+    "definitions": [
+      "impersonal 'cannot be done'; expresses impossibility"
+    ],
+    "examples": "बिना सामग्री यो सकिन्न।",
+    "examplesRomanized": "bina samagri yo sakinna.",
+    "exampleEnglish": "Without materials, this cannot be done.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "पर्छ",
+    "romanization": "parchha",
+    "pos": "auxiliary",
+    "definitions": [
+      "obligative 'must' or 'need to'; indicates necessity"
+    ],
+    "examples": "म बैठकमा जान पर्छ।",
+    "examplesRomanized": "ma baithakma jana parchha.",
+    "exampleEnglish": "I must go to the meeting.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "पर्दैन",
+    "romanization": "pardaina",
+    "pos": "auxiliary",
+    "definitions": [
+      "lack of necessity 'need not/doesn't have to'"
+    ],
+    "examples": "आज तिमी आउन पर्दैन।",
+    "examplesRomanized": "aaj timi auna pardaina.",
+    "exampleEnglish": "You need not come today.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "परेन",
+    "romanization": "parena",
+    "pos": "auxiliary",
+    "definitions": [
+      "negative obligative past 'did not have to'"
+    ],
+    "examples": "मलाई कुर्न परेन।",
+    "examplesRomanized": "malai kurna parena.",
+    "exampleEnglish": "I didn't have to wait.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "भइसक्यो",
+    "romanization": "bhaisakyo",
+    "pos": "auxiliary",
+    "definitions": [
+      "perfective/completive 'has already happened'; indicates completion"
+    ],
+    "examples": "काम भइसक्यो।",
+    "examplesRomanized": "kaam bhaisakyo.",
+    "exampleEnglish": "The work is already done.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "रहेछ",
+    "romanization": "rahechha",
+    "pos": "auxiliary",
+    "definitions": [
+      "inferential/reportive 'turns out/it seems' (singular)"
+    ],
+    "examples": "यहाँ त मिठो खाना रहेछ!",
+    "examplesRomanized": "yahaa ta mitho khana rahechha!",
+    "exampleEnglish": "Turns out the food here is tasty!",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "रहेछन्",
+    "romanization": "rahechhan",
+    "pos": "auxiliary",
+    "definitions": [
+      "inferential/reportive plural; 'apparently they are'"
+    ],
+    "examples": "उनीहरू असाध्यै मेहनती रहेछन्।",
+    "examplesRomanized": "uniharu asadhyai mehaneti rahechhan.",
+    "exampleEnglish": "Apparently, they are very hardworking.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "छन्",
+    "romanization": "chhan",
+    "pos": "auxiliary",
+    "definitions": [
+      "plural or polite present copula 'are'; used for third-person or formal subjects"
+    ],
+    "examples": "उनीहरू यहाँ छन्।",
+    "examplesRomanized": "uniharu yahaa chhan.",
+    "exampleEnglish": "They are here.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "छु",
+    "romanization": "chhu",
+    "pos": "auxiliary",
+    "definitions": [
+      "first-person singular present copula 'am'"
+    ],
+    "examples": "म विद्यार्थी छु।",
+    "examplesRomanized": "ma vidyarthi chhu.",
+    "exampleEnglish": "I am a student.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "छौँ",
+    "romanization": "chhaun",
+    "pos": "auxiliary",
+    "definitions": [
+      "first-person plural present copula 'are'"
+    ],
+    "examples": "हामी घरमा छौँ।",
+    "examplesRomanized": "hami gharma chhaun.",
+    "exampleEnglish": "We are at home.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "थिइन्",
+    "romanization": "thiin",
+    "pos": "auxiliary",
+    "definitions": [
+      "feminine past copula 'was' (she)"
+    ],
+    "examples": "उनी त्यहाँ थिइन्।",
+    "examplesRomanized": "uni tyahaa thiin.",
+    "exampleEnglish": "She was there.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "थिए",
+    "romanization": "thiye",
+    "pos": "auxiliary",
+    "definitions": [
+      "plural past copula 'were'"
+    ],
+    "examples": "उनीहरू सँगै थिए।",
+    "examplesRomanized": "uniharu sangai thiye.",
+    "exampleEnglish": "They were together.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "थिएँ",
+    "romanization": "thiyen",
+    "pos": "auxiliary",
+    "definitions": [
+      "first-person singular past copula 'was'"
+    ],
+    "examples": "म तातोपानीमा थिएँ।",
+    "examplesRomanized": "ma tatopanima thiyen.",
+    "exampleEnglish": "I was in Tatopani.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "थियो",
+    "romanization": "thiyo",
+    "pos": "auxiliary",
+    "definitions": [
+      "neuter or masculine past copula 'was'; used for objects or events"
+    ],
+    "examples": "हिजो बैठक थियो।",
+    "examplesRomanized": "hijo baithak thiyo.",
+    "exampleEnglish": "There was a meeting yesterday.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "हुँदा",
+    "romanization": "hunda",
+    "pos": "auxiliary",
+    "definitions": [
+      "participial form of 'to be'; 'when/while being'"
+    ],
+    "examples": "बर्खामा खेतमा पानी हुँदा काम गाह्रो हुन्छ।",
+    "examplesRomanized": "barkhama khetma paani hunda kaam gahro hunchha.",
+    "exampleEnglish": "When there is water in the field during the monsoon, work is hard.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "हुनु",
+    "romanization": "hunu",
+    "pos": "auxiliary",
+    "definitions": [
+      "infinitive form of 'to be'; expresses existence or being"
+    ],
+    "examples": "इमानदार हुनु राम्रो हो।",
+    "examplesRomanized": "imandar hunu ramro ho.",
+    "exampleEnglish": "To be honest is good.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "हुने",
+    "romanization": "hune",
+    "pos": "auxiliary",
+    "definitions": [
+      "future or conditional 'that will be'; used for upcoming events or actions"
+    ],
+    "examples": "भोलि हुने परीक्षा कठिन छ।",
+    "examplesRomanized": "bholi hune pariksha kathin chha.",
+    "exampleEnglish": "Tomorrow's exam is difficult.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "हुन्",
+    "romanization": "hun",
+    "pos": "auxiliary",
+    "definitions": [
+      "root form of 'to be' for plural or polite subjects"
+    ],
+    "examples": "उनीहरू नेता हुन्।",
+    "examplesRomanized": "uniharu neta hun.",
+    "exampleEnglish": "They are leaders.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "हुन्छ",
+    "romanization": "hunchha",
+    "pos": "auxiliary",
+    "definitions": [
+      "present/future existential 'happens/is'; used to indicate occurrences or states"
+    ],
+    "examples": "जीवनमा यस्ता उतारचढाव हुन्छ।",
+    "examplesRomanized": "jibanma yasta utarchadaw hunchha.",
+    "exampleEnglish": "Such ups and downs happen in life.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "हुन्न",
+    "romanization": "hunna",
+    "pos": "auxiliary",
+    "definitions": [
+      "negative existential or prohibitive 'is not/should not'"
+    ],
+    "examples": "यस्तो गर्न हुन्न।",
+    "examplesRomanized": "yasto garnu hunna.",
+    "exampleEnglish": "One should not do this.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "पर्ला",
+    "romanization": "parla",
+    "pos": "auxiliary",
+    "definitions": [
+      "possibility 'might; could'"
+    ],
+    "examples": "ऊ भोलि आउन सक्छ पर्ला।",
+    "examplesRomanized": "u bholi aauna sakchha parla.",
+    "exampleEnglish": "He/She might come tomorrow.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "पर्नेछ",
+    "romanization": "parnechha",
+    "pos": "auxiliary",
+    "definitions": [
+      "future obligation or necessity 'will have to'"
+    ],
+    "examples": "भोलि हामीलाई रिपोर्ट बुझाउनु पर्नेछ।",
+    "examplesRomanized": "bholi haamilai report bujhāunu parnechha.",
+    "exampleEnglish": "Tomorrow we will have to submit the report.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "जानेछ",
+    "romanization": "janeschha",
+    "pos": "auxiliary",
+    "definitions": [
+      "future tense 'will go'; expresses planned action"
+    ],
+    "examples": "ऊ काठमाडौं जानेछ।",
+    "examplesRomanized": "u Kathmandu janeschha.",
+    "exampleEnglish": "He/She will go to Kathmandu.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "सक्नुहुन्छ",
+    "romanization": "saknuhunchha",
+    "pos": "auxiliary",
+    "definitions": [
+      "polite/formal 'can'; ability or permission"
+    ],
+    "examples": "तपाईंले यो प्रश्न उत्तर दिन सक्नुहुन्छ।",
+    "examplesRomanized": "tapaaile yo prashna uttar din saknuhunchha.",
+    "exampleEnglish": "You can answer this question.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "रहनु",
+    "romanization": "rahanu",
+    "pos": "auxiliary",
+    "definitions": [
+      "habitual or continuous 'keep doing'; ongoing state"
+    ],
+    "examples": "सधैं सचेत रहनुहोस्।",
+    "examplesRomanized": "sadhai sachet rahanu hos.",
+    "exampleEnglish": "Always stay alert.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गर्नुहुन्छ",
+    "romanization": "garnuhunchha",
+    "pos": "auxiliary",
+    "definitions": [
+      "polite/formal 'do'; used with actions of respect or authority"
+    ],
+    "examples": "अध्यापकले काम राम्रोसँग गर्नुहुन्छ।",
+    "examplesRomanized": "adhyapakle kaam ramro-sang garnuhunchha.",
+    "exampleEnglish": "The teacher does the work carefully.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "जानुहुन्छ",
+    "romanization": "januhunchha",
+    "pos": "auxiliary",
+    "definitions": [
+      "polite/formal 'go'; respectful form of going"
+    ],
+    "examples": "उहाँ कार्यालय जानुहुन्छ।",
+    "examplesRomanized": "uhā̃ kaaryalaya januhunchha.",
+    "exampleEnglish": "He/She goes to the office.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "हुनेछैन",
+    "romanization": "hunechaina",
+    "pos": "auxiliary",
+    "definitions": [
+      "future negative 'will not happen'; impossibility"
+    ],
+    "examples": "भोलि परीक्षा हुनेछैन।",
+    "examplesRomanized": "bholi pariksha hunechaina.",
+    "exampleEnglish": "The exam will not happen tomorrow.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "रहनुहुन्छ",
+    "romanization": "rahanu hunchha",
+    "pos": "auxiliary",
+    "definitions": [
+      "polite/formal continuous 'keeps being'; ongoing state of respect"
+    ],
+    "examples": "उहाँ सधैं सजग रहनुहुन्छ।",
+    "examplesRomanized": "uhā̃ sadhai sajag rahanu hunchha.",
+    "exampleEnglish": "He/She always remains vigilant.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "परेको छ",
+    "romanization": "pareko chha",
+    "pos": "auxiliary",
+    "definitions": [
+      "experiential perfect 'has happened/has occurred'"
+    ],
+    "examples": "भूकम्पले ठूलो क्षति पारेको छ।",
+    "examplesRomanized": "bhukamp le thulo kshati pareko chha.",
+    "exampleEnglish": "The earthquake has caused significant damage.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "रहेको छ",
+    "romanization": "raheko chha",
+    "pos": "auxiliary",
+    "definitions": [
+      "progressive 'is doing'; ongoing action"
+    ],
+    "examples": "ऊ पढ्दै रहेको छ।",
+    "examplesRomanized": "u padhdai raheko chha.",
+    "exampleEnglish": "He/She is reading.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "रहेको थियो",
+    "romanization": "raheko thiyo",
+    "pos": "auxiliary",
+    "definitions": [
+      "past progressive 'was doing'; ongoing past action"
+    ],
+    "examples": "ऊ पढ्दै रहेको थियो।",
+    "examplesRomanized": "u padhdai raheko thiyo.",
+    "exampleEnglish": "He/She was reading.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "परिरहेछ",
+    "romanization": "parirahechha",
+    "pos": "auxiliary",
+    "definitions": [
+      "inferential continuous 'seems to be happening'"
+    ],
+    "examples": "बारिस परिरहेछ।",
+    "examplesRomanized": "baris parirahechha.",
+    "exampleEnglish": "It seems to be raining.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "भएर",
+    "romanization": "bhaera",
+    "pos": "auxiliary",
+    "definitions": [
+      "causal/conditional 'because of being'; 'having become'"
+    ],
+    "examples": "उँहा बिरामी भएर घरमा बस्नुभयो।",
+    "examplesRomanized": "uhā birami bhaera gharma basnubhayo.",
+    "exampleEnglish": "He/She stayed home because he/she was sick.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "जाँदै",
+    "romanization": "jandai",
+    "pos": "auxiliary",
+    "definitions": [
+      "participle 'going'; ongoing movement"
+    ],
+    "examples": "ऊ काममा जाँदै छ।",
+    "examplesRomanized": "u kaamma jandai chha.",
+    "exampleEnglish": "He/She is going to work.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "आएको छ",
+    "romanization": "aaeko chha",
+    "pos": "auxiliary",
+    "definitions": [
+      "perfective 'has come'; completed action"
+    ],
+    "examples": "उहाँ अफिसमा आइसकेका छन्।",
+    "examplesRomanized": "uhā office ma aaidekā chhan.",
+    "exampleEnglish": "He/She has already come to the office.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गएको छ",
+    "romanization": "gaeko chha",
+    "pos": "auxiliary",
+    "definitions": [
+      "perfective 'has gone'; completed action"
+    ],
+    "examples": "ऊ बजार गएको छ।",
+    "examplesRomanized": "u bajar gaeko chha.",
+    "exampleEnglish": "He/She has gone to the market.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गरिरहेछ",
+    "romanization": "garirahechha",
+    "pos": "auxiliary",
+    "definitions": [
+      "inferential continuous 'seems to be doing'"
+    ],
+    "examples": "ऊ काम गरिरहेछ।",
+    "examplesRomanized": "u kaam garirahechha.",
+    "exampleEnglish": "He/She seems to be working.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गर्नु परेको छ",
+    "romanization": "garnu pareko chha",
+    "pos": "auxiliary",
+    "definitions": [
+      "necessity 'has to be done'; obligatory completion"
+    ],
+    "examples": "काम सक्न आजै गर्नु परेको छ।",
+    "examplesRomanized": "kaam sakna aajaai garnu pareko chha.",
+    "exampleEnglish": "The work has to be done today.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "पार्नु",
+    "romanization": "parnu",
+    "pos": "auxiliary",
+    "definitions": [
+      "causative auxiliary 'to cause/let happen'"
+    ],
+    "examples": "मैले उसलाई काम गर्न पारें।",
+    "examplesRomanized": "maile uslai kaam garn paren.",
+    "exampleEnglish": "I let him/her do the work.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गर्न सकिन्छ",
+    "romanization": "garn sakinchha",
+    "pos": "auxiliary",
+    "definitions": [
+      "impersonal ability 'can be done'"
+    ],
+    "examples": "यो काम सजिलै गर्न सकिन्छ।",
+    "examplesRomanized": "yo kaam sajilai garn sakinchha.",
+    "exampleEnglish": "This work can be done easily.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गर्न सकिँदैन",
+    "romanization": "garn sakindaina",
+    "pos": "auxiliary",
+    "definitions": [
+      "impersonal impossibility 'cannot be done'"
+    ],
+    "examples": "बिना अनुमति यो गर्न सकिँदैन।",
+    "examplesRomanized": "bina anumati yo garn sakindaina.",
+    "exampleEnglish": "This cannot be done without permission.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "हुनेछन्",
+    "romanization": "huneschhan",
+    "pos": "auxiliary",
+    "definitions": [
+      "future certainty 'will happen'"
+    ],
+    "examples": "कार्यक्रम भोलि हुनेछन्।",
+    "examplesRomanized": "karyakram bholi huneschhan.",
+    "exampleEnglish": "The programs will happen tomorrow.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "पर्न सक्छ",
+    "romanization": "parn sakchha",
+    "pos": "auxiliary",
+    "definitions": [
+      "possibility 'might happen'"
+    ],
+    "examples": "भोलि पानी पर्न सक्छ।",
+    "examplesRomanized": "bholi paani parn sakchha.",
+    "exampleEnglish": "It might rain tomorrow.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "भएको हुन्छ",
+    "romanization": "bhaeko hunchha",
+    "pos": "auxiliary",
+    "definitions": [
+      "inferential perfect 'apparently has been'"
+    ],
+    "examples": "उहाँ बिहानै घर फर्किएको भएको हुन्छ।",
+    "examplesRomanized": "uhā̃ bihānai ghar farkieko bhaeko hunchha.",
+    "exampleEnglish": "He/She has apparently returned home this morning.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गरेको हुन्छ",
+    "romanization": "gareko hunchha",
+    "pos": "auxiliary",
+    "definitions": [
+      "inferential perfect 'apparently did'"
+    ],
+    "examples": "उसले काम सकेको गरेको हुन्छ।",
+    "examplesRomanized": "usle kaam sakeko gareko hunchha.",
+    "exampleEnglish": "He/She has apparently completed the work.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गरिरहन्छ",
+    "romanization": "garirahanchha",
+    "pos": "auxiliary",
+    "definitions": [
+      "habitual progressive 'keeps doing'; repeated action"
+    ],
+    "examples": "ऊ हरेक बिहान व्यायाम गरिरहन्छ।",
+    "examplesRomanized": "u harek bihān vyāyām garirahanchha.",
+    "exampleEnglish": "He/She keeps exercising every morning.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "पर्नेछैन",
+    "romanization": "parnechaina",
+    "pos": "auxiliary",
+    "definitions": [
+      "future negative 'will not have to'"
+    ],
+    "examples": "तपाईंलाई भोलि आउन पर्दैन।",
+    "examplesRomanized": "tapāīnlai bholi aauna pardaina.",
+    "exampleEnglish": "You will not have to come tomorrow.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गर्नुपर्छ",
+    "romanization": "garnu parchha",
+    "pos": "auxiliary",
+    "definitions": [
+      "necessity 'must do'; obligatory"
+    ],
+    "examples": "हामीले काम समयमै गर्नुपर्छ।",
+    "examplesRomanized": "haamilai kaam samaymai garnu parchha.",
+    "exampleEnglish": "We must complete the work on time.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "छ",
+    "romanization": "chha",
+    "pos": "auxiliary",
+    "definitions": [
+      "present singular copula 'is'"
+    ],
+    "examples": "उ यो काम गर्छ भने ठीक छ।",
+    "examplesRomanized": "u yo kaam garchha bhane thik chha.",
+    "exampleEnglish": "It is fine if he/she does this work.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "भइसकेको छ",
+    "romanization": "bhaisakeko chha",
+    "pos": "auxiliary",
+    "definitions": [
+      "perfective/completive 'has already happened'"
+    ],
+    "examples": "काम भइसकेको छ।",
+    "examplesRomanized": "kaam bhaisakeko chha.",
+    "exampleEnglish": "The work is already done.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "हुनेछ",
+    "romanization": "hunechha",
+    "pos": "auxiliary",
+    "definitions": [
+      "future 'will happen'; certainty"
+    ],
+    "examples": "भोलि परीक्षा हुनेछ।",
+    "examplesRomanized": "bholi pariksha hunechha.",
+    "exampleEnglish": "The exam will happen tomorrow.",
+    "frequency": "high",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "थिइसक्यो",
+    "romanization": "thiisakyo",
+    "pos": "auxiliary",
+    "definitions": [
+      "perfective past 'had already been'"
+    ],
+    "examples": "काम भइसकेको थिइसक्यो।",
+    "examplesRomanized": "kaam bhiseko thiisakyo.",
+    "exampleEnglish": "The work had already been done.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "हुन्थ्यो",
+    "romanization": "hunthyo",
+    "pos": "auxiliary",
+    "definitions": [
+      "habitual past 'used to be'"
+    ],
+    "examples": "पहिले म बिहान छिटो उठ्थे, तर अब हुन्थ्यो।",
+    "examplesRomanized": "pahile ma bihana chito uththe, tara aba hunthyo.",
+    "exampleEnglish": "I used to wake up early before.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गरेको रहेछ",
+    "romanization": "gareko rahechha",
+    "pos": "auxiliary",
+    "definitions": [
+      "inferential perfect 'apparently has done'"
+    ],
+    "examples": "ऊ काम सकिसकेको रहेछ।",
+    "examplesRomanized": "u kaam sakisakeko rahechha.",
+    "exampleEnglish": "Apparently, he/she has finished the work.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "पर्ने थिए",
+    "romanization": "parne thiye",
+    "pos": "auxiliary",
+    "definitions": [
+      "past necessity 'would have had to'"
+    ],
+    "examples": "उनीहरू समयमै आउनुपर्ने थिए।",
+    "examplesRomanized": "uniharu samaymai auna parne thiye.",
+    "exampleEnglish": "They would have had to come on time.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "हुन्थ्यो होला",
+    "romanization": "hunthyo hola",
+    "pos": "auxiliary",
+    "definitions": [
+      "past conditional 'would probably have been'"
+    ],
+    "examples": "तिमी पनि आउँथ्यौ भने रमाइलो हुन्थ्यो होला।",
+    "examplesRomanized": "timi pani aaunthyaun bhane ramailo hunthyo hola.",
+    "exampleEnglish": "It would probably have been fun if you had come too.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गर्नुपर्नेछ",
+    "romanization": "garnuparnechha",
+    "pos": "auxiliary",
+    "definitions": [
+      "future necessity 'will have to do'"
+    ],
+    "examples": "तपाईंले काम पूरा गर्नुपर्नेछ।",
+    "examplesRomanized": "tapainle kaam pura garnuparnechha.",
+    "exampleEnglish": "You will have to complete the work.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गर्न नपर्ने",
+    "romanization": "garn naparne",
+    "pos": "auxiliary",
+    "definitions": [
+      "lack of necessity 'need not do'"
+    ],
+    "examples": "तपाईंले आज काम गर्न नपर्ने।",
+    "examplesRomanized": "tapainle aaja kaam garn naparne.",
+    "exampleEnglish": "You need not do the work today.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "हुन्नथियो",
+    "romanization": "hunna thiyo",
+    "pos": "auxiliary",
+    "definitions": [
+      "past negative existential 'should not have been'"
+    ],
+    "examples": "त्यो गल्ती गर्नु हुँन्नथियो।",
+    "examplesRomanized": "tyo galti garnu hunna thiyo.",
+    "exampleEnglish": "That mistake should not have happened.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गर्दैछ",
+    "romanization": "gardai chha",
+    "pos": "auxiliary",
+    "definitions": [
+      "present progressive 'is doing'"
+    ],
+    "examples": "ऊ अहिले पढ्दैछ।",
+    "examplesRomanized": "u ahile padhdai chha.",
+    "exampleEnglish": "He/She is studying right now.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गर्दैथियो",
+    "romanization": "gardai thiyo",
+    "pos": "auxiliary",
+    "definitions": [
+      "past progressive 'was doing'"
+    ],
+    "examples": "म त्यो बेला खाना बनाउँदैथियो।",
+    "examplesRomanized": "ma tyo bela khana banaudai thiyo.",
+    "exampleEnglish": "I was cooking at that time.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गर्दैथियो होला",
+    "romanization": "gardai thiyo hola",
+    "pos": "auxiliary",
+    "definitions": [
+      "past progressive inferential 'was probably doing'"
+    ],
+    "examples": "ऊ त्यतिबेला पढ्दैथियो होला।",
+    "examplesRomanized": "u tyatibela padhdai thiyo hola.",
+    "exampleEnglish": "He/She was probably studying at that time.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "रहेको हुन्छ",
+    "romanization": "raheko hunchha",
+    "pos": "auxiliary",
+    "definitions": [
+      "habitual/progressive future 'usually is doing'"
+    ],
+    "examples": "ऊ बिहानै पढ्न रहेको हुन्छ।",
+    "examplesRomanized": "u bihanaai padhna raheko hunchha.",
+    "exampleEnglish": "He/She usually studies in the morning.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गर्न नहुने",
+    "romanization": "garn nahune",
+    "pos": "auxiliary",
+    "definitions": [
+      "prohibitive 'must not do'"
+    ],
+    "examples": "तपाईंले त्यस्तो कुरा गर्न नहुने।",
+    "examplesRomanized": "tapainle tyasto kura garn nahune.",
+    "exampleEnglish": "You must not do such a thing.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "हुनेछ होला",
+    "romanization": "hunechha hola",
+    "pos": "auxiliary",
+    "definitions": [
+      "future inferential 'will probably be'"
+    ],
+    "examples": "भोलि मौसम राम्रो हुनेछ होला।",
+    "examplesRomanized": "bholi mausam ramro hunechha hola.",
+    "exampleEnglish": "The weather will probably be good tomorrow.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "हुने थिएँ",
+    "romanization": "hune thiyen",
+    "pos": "auxiliary",
+    "definitions": [
+      "past conditional 'would have been'"
+    ],
+    "examples": "म त्यहाँ भएको भए हुन्थ्यो।",
+    "examplesRomanized": "ma tyahaa bhayeko bhaye hunthyo.",
+    "exampleEnglish": "It would have been if I had been there.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गरेको हुनेछ",
+    "romanization": "gareko hunechha",
+    "pos": "auxiliary",
+    "definitions": [
+      "future perfective 'will have done'"
+    ],
+    "examples": "उ काम सकेको हुनेछ।",
+    "examplesRomanized": "u kaam sakeko hunechha.",
+    "exampleEnglish": "He/She will have finished the work.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गर्दै रहनेछ",
+    "romanization": "gardai rahnechha",
+    "pos": "auxiliary",
+    "definitions": [
+      "future progressive 'will continue doing'"
+    ],
+    "examples": "ऊ पढ्दै रहनेछ।",
+    "examplesRomanized": "u padhdai rahnechha.",
+    "exampleEnglish": "He/She will continue studying.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "नहुने भयो",
+    "romanization": "nahune bhayo",
+    "pos": "auxiliary",
+    "definitions": [
+      "resultative negative 'it cannot happen'"
+    ],
+    "examples": "त्यो सम्भव नभएपछि नभएको भयो।",
+    "examplesRomanized": "tyo sambhav nabhaepachi nabhaeko bhayo.",
+    "exampleEnglish": "Since it was impossible, it did not happen.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गर्न थालेको छ",
+    "romanization": "garn thale ko chha",
+    "pos": "auxiliary",
+    "definitions": [
+      "recent progressive 'has started doing'"
+    ],
+    "examples": "ऊ काम गर्न थालेको छ।",
+    "examplesRomanized": "u kaam garn thale ko chha.",
+    "exampleEnglish": "He/She has started working.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "हुने भएको छ",
+    "romanization": "hune bhayeko chha",
+    "pos": "auxiliary",
+    "definitions": [
+      "recent future certainty 'is about to happen'"
+    ],
+    "examples": "भोलि परीक्षा हुने भएको छ।",
+    "examplesRomanized": "bholi pariksha hune bhayeko chha.",
+    "exampleEnglish": "The exam is about to happen tomorrow.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गरेको रहेछन्",
+    "romanization": "gareko rahechhan",
+    "pos": "auxiliary",
+    "definitions": [
+      "plural inferential perfect 'apparently have done'"
+    ],
+    "examples": "उनीहरूले काम सकिसकेको रहेछन्।",
+    "examplesRomanized": "uniharle kaam sakisakeko rahechhan.",
+    "exampleEnglish": "Apparently, they have already finished the work.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गर्न सकिन्थ्यो",
+    "romanization": "garn sakinthyo",
+    "pos": "auxiliary",
+    "definitions": [
+      "past potential 'could have been done'"
+    ],
+    "examples": "यो काम समयमै गर्न सकिन्थ्यो।",
+    "examplesRomanized": "yo kaam samaymai garn sakinthyo.",
+    "exampleEnglish": "This work could have been done on time.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गर्नेछौँ",
+    "romanization": "garnechhaun",
+    "pos": "auxiliary",
+    "definitions": [
+      "first-person plural future 'will do'"
+    ],
+    "examples": "हामी परियोजना सकाउनेछौँ।",
+    "examplesRomanized": "haami pariyojana sakaaunechhaun.",
+    "exampleEnglish": "We will complete the project.",
+    "frequency": "medium",
+    "category": "auxiliaries"
+  },
+  {
+    "DevanagriWord": "गर्न नपर्नेछ",
+    "romanization": "garn naparnechha",
+    "pos": "auxiliary",
+    "definitions": [
+      "future prohibitive 'will not have to do'"
+    ],
+    "examples": "तपाईंले यो काम गर्न नपर्नेछ।",
+    "examplesRomanized": "tapainle yo kaam garn naparnechha.",
+    "exampleEnglish": "You will not have to do this work.",
+    "frequency": "low",
+    "category": "auxiliaries"
+  }
+]

@@ -1,0 +1,899 @@
+[
+  {
+    "DevanagriWord": "व्यापार",
+    "romanization": "byapar",
+    "pos": "noun",
+    "definitions": [
+      "trade; commerce; business activity"
+    ],
+    "examples": "यस वर्ष विदेशसँगको व्यापार बढ्यो।",
+    "examplesRomanized": "yas barsha bidesh sanga ko byapar badhyo.",
+    "exampleEnglish": "Trade with foreign countries increased this year.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "सेवा",
+    "romanization": "sewa",
+    "pos": "noun",
+    "definitions": [
+      "service sector; economic services"
+    ],
+    "examples": "सेवा क्षेत्रमा रोजगारी बढ्दै गएको छ।",
+    "examplesRomanized": "sewa kshetrama rojgari badhdai gaeko chha.",
+    "exampleEnglish": "Employment is rising in the service sector.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "अर्थतन्त्र",
+    "romanization": "arthatantra",
+    "pos": "noun",
+    "definitions": [
+      "economy; national financial system"
+    ],
+    "examples": "अर्थतन्त्र क्रमशः सुधार हुँदैछ।",
+    "examplesRomanized": "arthatantra kramasha sudhar hudaichha.",
+    "exampleEnglish": "The economy is gradually improving.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "बजेट",
+    "romanization": "bajet",
+    "pos": "noun",
+    "definitions": [
+      "budget; financial plan for a period"
+    ],
+    "examples": "सरकारले नयाँ बजेट प्रस्तुत गर्‍यो।",
+    "examplesRomanized": "sarkarle naya bajet prastut garyo.",
+    "exampleEnglish": "The government presented a new budget.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "मुद्रास्फीति",
+    "romanization": "mudrasphiti",
+    "pos": "noun",
+    "definitions": [
+      "inflation; rise in general price level"
+    ],
+    "examples": "मुद्रास्फीति यो महिनामा घट्यो।",
+    "examplesRomanized": "mudrasphiti yo mahinama ghathyo.",
+    "exampleEnglish": "Inflation fell this month.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "राजस्व",
+    "romanization": "rajaswa",
+    "pos": "noun",
+    "definitions": [
+      "government revenue; income from taxes and duties"
+    ],
+    "examples": "सरकारी राजस्व लक्ष्यभन्दा कम भयो।",
+    "examplesRomanized": "sarkari rajaswa lakshyabhanda kam bhayo.",
+    "exampleEnglish": "Government revenue fell short of the target.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "निर्यात",
+    "romanization": "niryat",
+    "pos": "noun",
+    "definitions": [
+      "export; goods/services sent abroad"
+    ],
+    "examples": "निर्यातमा बृद्धि भएको छ।",
+    "examplesRomanized": "niryatma briddhi bhaeko chha.",
+    "exampleEnglish": "Exports have increased.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "आयात",
+    "romanization": "ayat",
+    "pos": "noun",
+    "definitions": [
+      "import; goods/services brought from abroad"
+    ],
+    "examples": "आयात घटाउन नीति ल्याइयो।",
+    "examplesRomanized": "ayat ghatauna niti lyaiyo.",
+    "exampleEnglish": "A policy was introduced to reduce imports.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "लगानी",
+    "romanization": "lagani",
+    "pos": "noun",
+    "definitions": [
+      "investment; capital allocation for profit"
+    ],
+    "examples": "निजी क्षेत्रबाट लगानी बढ्यो।",
+    "examplesRomanized": "niji kshetrabata lagani badhyo.",
+    "exampleEnglish": "Investment from the private sector increased.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "उद्योग",
+    "romanization": "udyog",
+    "pos": "noun",
+    "definitions": [
+      "industry; organized economic production"
+    ],
+    "examples": "उद्योग सञ्चालन विस्तार गर्नुपर्ने छ।",
+    "examplesRomanized": "udyog saanchalan bistaar garnuparne chha.",
+    "exampleEnglish": "Industrial operations need to be expanded.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "पर्यटन",
+    "romanization": "paryatan",
+    "pos": "noun",
+    "definitions": [
+      "tourism; economic activity related to travelers"
+    ],
+    "examples": "पर्यटनबाट आम्दानी बढेको छ।",
+    "examplesRomanized": "paryatanbata amdani badheko chha.",
+    "exampleEnglish": "Income from tourism has risen.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "रोजगार",
+    "romanization": "rojgar",
+    "pos": "noun",
+    "definitions": [
+      "employment; job opportunities"
+    ],
+    "examples": "रोजगारका अवसरहरू सिर्जना गर्नुपर्छ।",
+    "examplesRomanized": "rojgarka awasarharu sirjana garnuparchha.",
+    "exampleEnglish": "Employment opportunities must be created.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "कर",
+    "romanization": "kar",
+    "pos": "noun",
+    "definitions": [
+      "tax; compulsory financial charge imposed by government"
+    ],
+    "examples": "समयमै कर तिर्नुहोस्।",
+    "examplesRomanized": "samaymai kar tirnuhos.",
+    "exampleEnglish": "Pay your taxes on time.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "कर्जा",
+    "romanization": "karja",
+    "pos": "noun",
+    "definitions": [
+      "loan; borrowed money with repayment terms"
+    ],
+    "examples": "सानो व्यवसायका लागि कर्जा उपलब्ध छ।",
+    "examplesRomanized": "sano byabasayka lagi karja upalabdha chha.",
+    "exampleEnglish": "Loans are available for small businesses.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "ब्याज",
+    "romanization": "byaj",
+    "pos": "noun",
+    "definitions": [
+      "interest; cost of borrowed money"
+    ],
+    "examples": "ब्याजदर घटायो।",
+    "examplesRomanized": "byajdar ghataiyo.",
+    "exampleEnglish": "The interest rate was reduced.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "शेयर",
+    "romanization": "sheyar",
+    "pos": "noun",
+    "definitions": [
+      "share; stock; equity in a company"
+    ],
+    "examples": "शेयर बजार आज उकालो लाग्यो।",
+    "examplesRomanized": "sheyar bajar aaj ukalo lagyo.",
+    "exampleEnglish": "The stock market climbed today.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "बजार",
+    "romanization": "bazar",
+    "pos": "noun",
+    "definitions": [
+      "market; place for buying/selling"
+    ],
+    "examples": "बजारको माग घटेको छ।",
+    "examplesRomanized": "bajarko mag ghateko chha.",
+    "exampleEnglish": "Market demand has decreased.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "वित्त",
+    "romanization": "vitta",
+    "pos": "noun",
+    "definitions": [
+      "finance; monetary resources management"
+    ],
+    "examples": "वित्त व्यवस्थापन आवश्यक छ।",
+    "examplesRomanized": "vitta byawasthapan aawashyak chha.",
+    "exampleEnglish": "Financial management is necessary.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "बचत",
+    "romanization": "bachat",
+    "pos": "noun",
+    "definitions": [
+      "savings; money set aside for future use"
+    ],
+    "examples": "मासिक आयको केही हिस्सा बचत गर्नुहोस्।",
+    "examplesRomanized": "masik ayako kehi hissa bachat garnuhos.",
+    "exampleEnglish": "Save a portion of your monthly income.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "तलब",
+    "romanization": "talab",
+    "pos": "noun",
+    "definitions": [
+      "salary; wages paid for work done"
+    ],
+    "examples": "यस महिनाको तलब भुक्तानी गरियो।",
+    "examplesRomanized": "yas mahinako talab bhuktani gario.",
+    "exampleEnglish": "This month's salary was paid.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "विमा",
+    "romanization": "bima",
+    "pos": "noun",
+    "definitions": [
+      "insurance; financial protection against risk"
+    ],
+    "examples": "गाडीको विमा नवीकरण गरें।",
+    "examplesRomanized": "gadiko bima navikaran garen.",
+    "exampleEnglish": "I renewed the car insurance.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "प्रिमियम",
+    "romanization": "primiyaam",
+    "pos": "noun",
+    "definitions": [
+      "premium; insurance or subscription payment"
+    ],
+    "examples": "प्रिमियम समयमै तिर्नुपर्छ।",
+    "examplesRomanized": "primiyaam samaymai tirnupardchha.",
+    "exampleEnglish": "Premium must be paid on time.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "दाबी",
+    "romanization": "dabi",
+    "pos": "noun",
+    "definitions": [
+      "claim; demand for payment/rights"
+    ],
+    "examples": "दाबी प्रक्रिया सरल बनाइयो।",
+    "examplesRomanized": "dabi prakriya saral banaiyo.",
+    "exampleEnglish": "The claim process was simplified.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "शुल्क",
+    "romanization": "shulk",
+    "pos": "noun",
+    "definitions": [
+      "fee; charge"
+    ],
+    "examples": "भर्ना शुल्क कम गरिएको छ।",
+    "examplesRomanized": "bharna shulk kam gareko chha.",
+    "exampleEnglish": "Admission fees have been reduced.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "फीस",
+    "romanization": "fees",
+    "pos": "noun",
+    "definitions": [
+      "fees"
+    ],
+    "examples": "विद्यालयको फीस बढ्यो।",
+    "examplesRomanized": "vidyalayako fees badhyo.",
+    "exampleEnglish": "School fees increased.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "बैंक",
+    "romanization": "bank",
+    "pos": "noun",
+    "definitions": [
+      "bank"
+    ],
+    "examples": "बैंकमा खाता खोलियो।",
+    "examplesRomanized": "bankma khata kholiyo.",
+    "exampleEnglish": "A bank account was opened.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "संपत्ति",
+    "romanization": "sampatti",
+    "pos": "noun",
+    "definitions": [
+      "asset; property or valuable resources owned"
+    ],
+    "examples": "उनको सम्पत्ति धेरै मूल्यवान छ।",
+    "examplesRomanized": "unko sampatti dherai mulyawan chha.",
+    "exampleEnglish": "His assets are very valuable.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "दायित्व",
+    "romanization": "dayitva",
+    "pos": "noun",
+    "definitions": [
+      "liability; financial obligation or debt"
+    ],
+    "examples": "कम्पनीको दायित्व समयमै तिर्नुपर्छ।",
+    "examplesRomanized": "kampaniko dayitva samaymai tirnupardchha.",
+    "exampleEnglish": "The company's liabilities must be paid on time.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "निवेश",
+    "romanization": "nivesh",
+    "pos": "noun",
+    "definitions": [
+      "capital investment; allocation of funds for profit"
+    ],
+    "examples": "तपाईंले ठुलो रकममा निवेश गर्नु भयो।",
+    "examplesRomanized": "tapainle thulo rakamma nivesh garnu bhayo.",
+    "exampleEnglish": "You invested a large amount of money.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "प्रतिफल",
+    "romanization": "pratifal",
+    "pos": "noun",
+    "definitions": [
+      "return; profit or yield from investment"
+    ],
+    "examples": "लगानीबाट राम्रो प्रतिफल भयो।",
+    "examplesRomanized": "laganibata ramro pratifal bhayo.",
+    "exampleEnglish": "The investment yielded a good return.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "सिक्युरिटी",
+    "romanization": "sikuriti",
+    "pos": "noun",
+    "definitions": [
+      "security; financial instrument like stocks or bonds"
+    ],
+    "examples": "कम्पनीले नयाँ सिक्युरिटी जारी गर्‍यो।",
+    "examplesRomanized": "kampanile naya sikuriti jari garyo.",
+    "exampleEnglish": "The company issued new securities.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "बन्ड",
+    "romanization": "band",
+    "pos": "noun",
+    "definitions": [
+      "bond; debt investment instrument"
+    ],
+    "examples": "सरकारले नयाँ बन्ड बिक्री गर्‍यो।",
+    "examplesRomanized": "sarkarle naya band bikri garyo.",
+    "exampleEnglish": "The government sold new bonds.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "डिभिडेन्ड",
+    "romanization": "dividend",
+    "pos": "noun",
+    "definitions": [
+      "dividend; profit share paid to shareholders"
+    ],
+    "examples": "शेयरधारकलाई डिभिडेन्ड वितरण गरियो।",
+    "examplesRomanized": "sheyardharkalai dividend vitran garyo.",
+    "exampleEnglish": "Dividends were distributed to the shareholders.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "समान्य खाता",
+    "romanization": "samanya khata",
+    "pos": "noun",
+    "definitions": [
+      "current account; standard bank account for transactions"
+    ],
+    "examples": "मैले नयाँ समान्य खाता खोलेँ।",
+    "examplesRomanized": "maile naya samanya khata khole.",
+    "exampleEnglish": "I opened a new current account.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "चेक",
+    "romanization": "chek",
+    "pos": "noun",
+    "definitions": [
+      "cheque; written order to a bank to pay money"
+    ],
+    "examples": "उसले बैंकमा चेक जम्मा गर्‍यो।",
+    "examplesRomanized": "usle bankma chek jamma garyo.",
+    "exampleEnglish": "He deposited a cheque at the bank.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "भुक्तानी",
+    "romanization": "bhuktani",
+    "pos": "noun",
+    "definitions": [
+      "payment; transfer of money for goods or services"
+    ],
+    "examples": "भुक्तानी समयमै गर्नुहोस्।",
+    "examplesRomanized": "bhuktani samaymai garnuhos.",
+    "exampleEnglish": "Make the payment on time.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "क्रेडिट कार्ड",
+    "romanization": "kredit kaard",
+    "pos": "noun",
+    "definitions": [
+      "credit card; plastic card for deferred payment"
+    ],
+    "examples": "मैले नयाँ क्रेडिट कार्ड जारी गरें।",
+    "examplesRomanized": "maile naya kredit kaard jari gare.",
+    "exampleEnglish": "I issued a new credit card.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "डेबिट कार्ड",
+    "romanization": "debit kaard",
+    "pos": "noun",
+    "definitions": [
+      "debit card; card to pay directly from bank account"
+    ],
+    "examples": "उसले डेबिट कार्ड प्रयोग गर्‍यो।",
+    "examplesRomanized": "usle debit kaard prayog garyo.",
+    "exampleEnglish": "He used the debit card.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "डिजिटल वालेट",
+    "romanization": "digital wallet",
+    "pos": "noun",
+    "definitions": [
+      "digital wallet; electronic money storage"
+    ],
+    "examples": "मैले डिजिटल वालेटबाट भुक्तानी गरे।",
+    "examplesRomanized": "maile digital walletbata bhuktani gare.",
+    "exampleEnglish": "I made the payment via digital wallet.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "भुक्तानी गेटवे",
+    "romanization": "bhuktani gateway",
+    "pos": "noun",
+    "definitions": [
+      "payment gateway; online transaction system"
+    ],
+    "examples": "अनलाइन किनमेलमा भुक्तानी गेटवे प्रयोग भयो।",
+    "examplesRomanized": "online kinmelma bhuktani gateway prayog bhayo.",
+    "exampleEnglish": "A payment gateway was used for online shopping.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "मुद्रा",
+    "romanization": "mudra",
+    "pos": "noun",
+    "definitions": [
+      "currency; money issued by government"
+    ],
+    "examples": "नेपालको आधिकारिक मुद्रा रुपैया हो।",
+    "examplesRomanized": "Nepalko adhikarik mudra rupaiya ho.",
+    "exampleEnglish": "Nepal’s official currency is the rupee.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "विद्युतीय बैंकिङ",
+    "romanization": "vidyutiy banking",
+    "pos": "noun",
+    "definitions": [
+      "electronic banking; banking through digital platforms"
+    ],
+    "examples": "अब हामी विद्युतीय बैंकिङ प्रयोग गर्छौं।",
+    "examplesRomanized": "aba hami vidyutiy banking prayog garchhau.",
+    "exampleEnglish": "We now use electronic banking.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "पैसा",
+    "romanization": "paisa",
+    "pos": "noun",
+    "definitions": [
+      "money; currency in general"
+    ],
+    "examples": "मसँग केही पैसा छ।",
+    "examplesRomanized": "ma sanga kehi paisa chha.",
+    "exampleEnglish": "I have some money.",
+    "frequency": "high",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "नोट",
+    "romanization": "not",
+    "pos": "noun",
+    "definitions": [
+      "banknote; paper currency"
+    ],
+    "examples": "उसले पाँच सयको नोट दिए।",
+    "examplesRomanized": "usle paanch sayako not diye.",
+    "exampleEnglish": "He gave a 500-rupee note.",
+    "frequency": "high",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "सिक्का",
+    "romanization": "sikka",
+    "pos": "noun",
+    "definitions": [
+      "coin; metallic currency"
+    ],
+    "examples": "पार्किङ्गको लागि सिक्का आवश्यक छ।",
+    "examplesRomanized": "parkingko lagi sikka aawashyak chha.",
+    "exampleEnglish": "A coin is required for parking.",
+    "frequency": "high",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "ब्याजदर",
+    "romanization": "byajdar",
+    "pos": "noun",
+    "definitions": [
+      "interest rate"
+    ],
+    "examples": "ब्याजदर घट्यो।",
+    "examplesRomanized": "byajdar ghathyo.",
+    "exampleEnglish": "The interest rate decreased.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "संपत्ति कर",
+    "romanization": "sampatti kar",
+    "pos": "noun",
+    "definitions": [
+      "property tax"
+    ],
+    "examples": "संपत्ति कर समयमै तिर्नुहोस्।",
+    "examplesRomanized": "sampatti kar samaymai tirnuhos.",
+    "exampleEnglish": "Pay your property tax on time.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "ऋण",
+    "romanization": "rin",
+    "pos": "noun",
+    "definitions": [
+      "loan; borrowed money"
+    ],
+    "examples": "बैंकबाट ऋण लिनुभयो।",
+    "examplesRomanized": "bankbata rin linubhayo.",
+    "exampleEnglish": "He took a loan from the bank.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "अर्थ",
+    "romanization": "artha",
+    "pos": "noun",
+    "definitions": [
+      "finance; money or wealth"
+    ],
+    "examples": "उहाँको अर्थ धेरै छ।",
+    "examplesRomanized": "uhanko artha dherai chha.",
+    "exampleEnglish": "He has a lot of wealth.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "सञ्चय",
+    "romanization": "sanchay",
+    "pos": "noun",
+    "definitions": [
+      "savings; accumulated money"
+    ],
+    "examples": "सञ्चय गर्न सुरु गर्नुहोस्।",
+    "examplesRomanized": "sanchay garnu suru garnuhos.",
+    "exampleEnglish": "Start saving money.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "मुद्रा साटासाट",
+    "romanization": "mudra satasat",
+    "pos": "noun",
+    "definitions": [
+      "currency exchange; foreign exchange"
+    ],
+    "examples": "मुद्रा साटासाटको दर बढ्यो।",
+    "examplesRomanized": "mudra satasatko dar badhyo.",
+    "exampleEnglish": "The currency exchange rate increased.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "सिक्का संग्रह",
+    "romanization": "sikka sangrah",
+    "pos": "noun",
+    "definitions": [
+      "coin collection; numismatics"
+    ],
+    "examples": "उसले सिक्का संग्रह गर्न मन पराउँछ।",
+    "examplesRomanized": "usle sikka sangrah garn man paraunchha.",
+    "exampleEnglish": "He enjoys collecting coins.",
+    "frequency": "low",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "वित्तीय योजना",
+    "romanization": "vittiya yojana",
+    "pos": "noun",
+    "definitions": [
+      "financial plan; strategy for managing money"
+    ],
+    "examples": "हामीले नयाँ वित्तीय योजना बनायौं।",
+    "examplesRomanized": "hamile naya vittiya yojana banayau.",
+    "exampleEnglish": "We created a new financial plan.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "सट्टेबाजी",
+    "romanization": "sattebaji",
+    "pos": "noun",
+    "definitions": [
+      "speculation; betting on stocks or currency"
+    ],
+    "examples": "शेयर बजारमा सट्टेबाजी बढ्यो।",
+    "examplesRomanized": "sheyar bajarma sattebaji badhyo.",
+    "exampleEnglish": "Speculation increased in the stock market.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "वित्तीय संस्था",
+    "romanization": "vittiya sanstha",
+    "pos": "noun",
+    "definitions": [
+      "financial institution; bank, insurance or investment company"
+    ],
+    "examples": "वित्तीय संस्थाले नयाँ योजना ल्यायो।",
+    "examplesRomanized": "vittiya sansthale naya yojana lyaayo.",
+    "exampleEnglish": "The financial institution launched a new plan.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "संचित रकम",
+    "romanization": "sanchit rakam",
+    "pos": "noun",
+    "definitions": [
+      "accumulated funds; total savings"
+    ],
+    "examples": "संचित रकम वृद्धि भएको छ।",
+    "examplesRomanized": "sanchit rakam vriddhi bhaeko chha.",
+    "exampleEnglish": "The accumulated funds have increased.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "लेनदेन",
+    "romanization": "len-den",
+    "pos": "noun",
+    "definitions": [
+      "transaction; exchange of money or goods"
+    ],
+    "examples": "लेनदेन प्रक्रिया सजिलो छ।",
+    "examplesRomanized": "lendena prakriya sajilo chha.",
+    "exampleEnglish": "The transaction process is simple.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "क्रिप्टोकरेन्सी",
+    "romanization": "cryptocurrency",
+    "pos": "noun",
+    "definitions": [
+      "cryptocurrency; digital currency"
+    ],
+    "examples": "क्रिप्टोकरेन्सीमा लगानी बढ्दैछ।",
+    "examplesRomanized": "cryptocurrencyma lagani badhdai chha.",
+    "exampleEnglish": "Investment in cryptocurrency is increasing.",
+    "frequency": "low",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "म्युचुअल फन्ड",
+    "romanization": "mutual fund",
+    "pos": "noun",
+    "definitions": [
+      "mutual fund; pooled investment scheme"
+    ],
+    "examples": "उसले म्युचुअल फन्डमा पैसा लगानी गर्‍यो।",
+    "examplesRomanized": "usle mutual fundma paisa lagani garyo.",
+    "exampleEnglish": "He invested money in a mutual fund.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "इक्विटी",
+    "romanization": "equity",
+    "pos": "noun",
+    "definitions": [
+      "equity; ownership shares in a company"
+    ],
+    "examples": "इक्विटी बजारमा उतार-चढाव हुन्छ।",
+    "examplesRomanized": "equity bajarma utar-chadaw hunchha.",
+    "exampleEnglish": "Equity markets experience fluctuations.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "डेरिभेटिभ",
+    "romanization": "derivative",
+    "pos": "noun",
+    "definitions": [
+      "financial derivative; contract deriving value from an asset"
+    ],
+    "examples": "डेरिभेटिभ कारोबार बढ्दो छ।",
+    "examplesRomanized": "derivative karobar baddo chha.",
+    "exampleEnglish": "Derivative trading is increasing.",
+    "frequency": "low",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "आईपीओ",
+    "romanization": "IPO",
+    "pos": "noun",
+    "definitions": [
+      "Initial Public Offering; company shares offered to public"
+    ],
+    "examples": "कम्पनीले नयाँ आईपीओ घोषणा गर्‍यो।",
+    "examplesRomanized": "companyle naya IPO ghoshana garyo.",
+    "exampleEnglish": "The company announced a new IPO.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "बोन्ड",
+    "romanization": "bond",
+    "pos": "noun",
+    "definitions": [
+      "bond; debt security"
+    ],
+    "examples": "सरकारले नयाँ बोन्ड जारी गर्‍यो।",
+    "examplesRomanized": "sarkarle naya bond jari garyo.",
+    "exampleEnglish": "The government issued a new bond.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "बजारीकरण",
+    "romanization": "bajarikaran",
+    "pos": "noun",
+    "definitions": [
+      "marketization; commercialization"
+    ],
+    "examples": "बजारीकरणले प्रतिस्पर्धा बढाउँछ।",
+    "examplesRomanized": "bajarikaranle pratispardha badauchha.",
+    "exampleEnglish": "Marketization increases competition.",
+    "frequency": "low",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "सिक्का बजार",
+    "romanization": "sikka bajar",
+    "pos": "noun",
+    "definitions": [
+      "coin market; currency market"
+    ],
+    "examples": "सिक्का बजारमा उतार-चढाव छ।",
+    "examplesRomanized": "sikka bajarma utar-chadaw chha.",
+    "exampleEnglish": "There are fluctuations in the coin market.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "मॉर्टगेज",
+    "romanization": "mortgage",
+    "pos": "noun",
+    "definitions": [
+      "mortgage; loan taken against property"
+    ],
+    "examples": "उसले घरको लागि मॉर्टगेज लियो।",
+    "examplesRomanized": "usle gharko lagi mortgage liyo.",
+    "exampleEnglish": "He took a mortgage for his house.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "वित्त पोषण",
+    "romanization": "vitta poshan",
+    "pos": "noun",
+    "definitions": [
+      "funding; financial support"
+    ],
+    "examples": "व्यवसायको लागि वित्त पोषण आवश्यक छ।",
+    "examplesRomanized": "byabasayko lagi vitta poshan aawashyak chha.",
+    "exampleEnglish": "Funding is necessary for the business.",
+    "frequency": "medium",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "हिजक",
+    "romanization": "hijak",
+    "pos": "noun",
+    "definitions": [
+      "hedging; financial risk management strategy"
+    ],
+    "examples": "हिजकले जोखिम कम गर्छ।",
+    "examplesRomanized": "hijakle jokhim kam garchha.",
+    "exampleEnglish": "Hedging reduces risk.",
+    "frequency": "low",
+    "category": "finance"
+  },
+  {
+    "DevanagriWord": "सेयर बजार",
+    "romanization": "sheyar bajar",
+    "pos": "noun",
+    "definitions": [
+      "stock market; equity market"
+    ],
+    "examples": "सेयर बजारमा आज तेजी छ।",
+    "examplesRomanized": "sheyar bajarma aaj teji chha.",
+    "exampleEnglish": "The stock market is bullish today.",
+    "frequency": "medium",
+    "category": "finance"
+  }
+]

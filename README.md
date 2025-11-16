@@ -1,36 +1,150 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Learn Nepali — Open Source Dictionary
 
-## Getting Started
+A comprehensive Nepali–English dictionary with Devanagari script, romanization, and English translations. Built with Next.js and optimized for fast searching.
 
-First, run the development server:
+## 🌟 Features
+
+- **Multi-field search**: Search in Devanagari, romanization, or English definitions
+- **Fast & precise**: Exact-match prioritization and lightweight indexing
+- **Organized data**: 40+ categories stored as JSON
+- **Modern UI**: Dark/light mode with responsive design
+- **Open source**: Free for everyone to use and contribute
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Node.js 18+ 
+- npm or yarn
+
+### Installation
 
 ```bash
+# Clone your fork of the repository
+git clone <your-repo-url>
+cd learn-nepali
+
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📚 Data Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The dictionary contains words organized by categories:
+- See `public/data/` for available categories (e.g., General, Verbs, Adverbs, Sports, Food, Technology, Health, and more)
 
-## Learn More
+Each entry includes:
+- Devanagari script
+- Romanization
+- Part of speech
+- Multiple definitions
+- Usage examples
+- Category
 
-To learn more about Next.js, take a look at the following resources:
+## 🔍 Search Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Exact Match Prioritization
+- **Devanagari words**: Exact matches rank highest
+- **Romanization**: Case-insensitive exact matches
+- **Definitions**: Single-word definitions rank above multi-word
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Search Examples
+```bash
+# Search in Devanagari
+खेल → Returns words with exact Devanagari match
 
-## Deploy on Vercel
+# Search in romanization  
+khel → Returns romanized matches
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# Search in definitions
+sports → Returns words with "sports" in definitions
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🛠️ Development
+
+### Project Structure
+```
+src/
+├── app/                 # Next.js app directory
+├── components/          # React components
+├── lib/                # Utilities and data loading
+├── contexts/           # React contexts
+└── types.ts           # TypeScript definitions
+
+public/
+└── data/              # JSON dictionary files
+```
+
+### Key Files
+- `src/lib/dataLoader.ts` - Search engine and data loading
+- `src/components/DictionarySearch.tsx` - Main search interface
+- `public/data/` - Dictionary JSON files
+
+### Useful Scripts
+- `npm run dev` — Start the development server
+- `npm run build` — Build for production
+- `npm run start` — Start the production server
+- `npm run export` — Static export (outputs to `out/`)
+- `npm run lint` — Run ESLint
+- `npm run type-check` — TypeScript checks
+
+## 🚀 Deployment
+See [`DEPLOYMENT.md`](./DEPLOYMENT.md) for options and detailed steps. For a quick start:
+- Vercel: connect your repository and deploy (Next.js is auto-detected)
+- Static hosting: `npm run build && npm run export` and deploy the `out/` directory
+
+## 🤝 Contributing
+
+We welcome contributions! Here's how you can help:
+
+### Adding Words
+1. Edit the JSON files in `public/data/`
+2. Follow the existing structure:
+```json
+{
+  "devanagari": "नयाँ",
+  "romanization": "naya",
+  "pos": "adjective",
+  "definitions": ["new", "fresh"],
+  "examples": "यो नयाँ किताब हो।",
+  "examplesRomanized": "yo naya kitab ho.",
+  "exampleEnglish": "This is a new book.",
+  "category": "general"
+}
+```
+
+### Improving Search
+- Enhance the search algorithm in `src/lib/dataLoader.ts`
+- Add new search features
+- Optimize performance
+
+### UI/UX Improvements
+- Improve the interface in `src/components/`
+- Add new features
+- Fix bugs
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- Data contributors who helped build the dictionary
+- Open source community for tools and libraries
+- Nepali language learners and teachers
+
+## 📞 Support
+
+- Open an issue in this repository for bugs or feature requests.
+
+## 🌐 Live Demo
+
+If a live demo is available, link it here.
+
+---
+
+Made with ❤️ for the Nepali language learning community

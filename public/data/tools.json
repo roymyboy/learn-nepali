@@ -1,0 +1,977 @@
+[
+  {
+    "DevanagriWord": "हातौडा",
+    "romanization": "hatauda",
+    "pos": "noun",
+    "definitions": [
+      "hammer"
+    ],
+    "examples": "हातौडाले किला ठोकियो।",
+    "examplesRomanized": "hataudale kila thokiyo.",
+    "exampleEnglish": "The nail was hammered.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "आरी",
+    "romanization": "ari",
+    "pos": "noun",
+    "definitions": [
+      "saw"
+    ],
+    "examples": "आरीले काठ काटियो।",
+    "examplesRomanized": "arile kath katiyo.",
+    "exampleEnglish": "The wood was cut with a saw.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "पेन्च",
+    "romanization": "pence",
+    "pos": "noun",
+    "definitions": [
+      "wrench; spanner"
+    ],
+    "examples": "पेन्चले बोल्ट कसियो।",
+    "examplesRomanized": "pencele bolt kasiyo.",
+    "exampleEnglish": "The bolt was tightened with a wrench.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "स्क्रुड्राइभर",
+    "romanization": "screwdriver",
+    "pos": "noun",
+    "definitions": [
+      "screwdriver"
+    ],
+    "examples": "स्क्रुड्राइभरले पेच खोलियो।",
+    "examplesRomanized": "screwdriverle pech kholiyo.",
+    "exampleEnglish": "The screw was loosened with a screwdriver.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "प्लायर",
+    "romanization": "plier",
+    "pos": "noun",
+    "definitions": [
+      "pliers"
+    ],
+    "examples": "प्लायरले तार समातियो।",
+    "examplesRomanized": "plierle tar samatiyo.",
+    "exampleEnglish": "The wire was gripped with pliers.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "ड्रिल",
+    "romanization": "drill",
+    "pos": "noun",
+    "definitions": [
+      "drill"
+    ],
+    "examples": "ड्रिलले प्वाल पारियो।",
+    "examplesRomanized": "drill le pwal pariyo.",
+    "exampleEnglish": "A hole was drilled.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "कटर",
+    "romanization": "cutter",
+    "pos": "noun",
+    "definitions": [
+      "cutter"
+    ],
+    "examples": "कटरले धातु काटियो।",
+    "examplesRomanized": "cutterle dhatu katiyo.",
+    "exampleEnglish": "The metal was cut with a cutter.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "छिनो",
+    "romanization": "chhino",
+    "pos": "noun",
+    "definitions": [
+      "chisel"
+    ],
+    "examples": "छिनोले पाथर काटियो।",
+    "examplesRomanized": "chhinole pathar katiyo.",
+    "exampleEnglish": "The stone was chiseled.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "बेल्चा",
+    "romanization": "belcha",
+    "pos": "noun",
+    "definitions": [
+      "shovel"
+    ],
+    "examples": "बेल्चाले माटो फालियो।",
+    "examplesRomanized": "belchale mato phaliyo.",
+    "exampleEnglish": "Soil was shoveled away.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "खुरपी",
+    "romanization": "khurpi",
+    "pos": "noun",
+    "definitions": [
+      "hand hoe"
+    ],
+    "examples": "खुरपीले झार उखेलियो।",
+    "examplesRomanized": "khurpile jhar ukheliyo.",
+    "exampleEnglish": "Weeds were uprooted with a hand hoe.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "कोदाली",
+    "romanization": "kodali",
+    "pos": "noun",
+    "definitions": [
+      "spade; hoe"
+    ],
+    "examples": "कोदालीले खेत खनियो।",
+    "examplesRomanized": "kodalile khet khaniyo.",
+    "exampleEnglish": "The field was dug with a spade.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "करवेली",
+    "romanization": "karbeli",
+    "pos": "noun",
+    "definitions": [
+      "sickle"
+    ],
+    "examples": "करवेलीले घाँस काटियो।",
+    "examplesRomanized": "karbelile ghas katiyo.",
+    "exampleEnglish": "Grass was cut with a sickle.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "जाली",
+    "romanization": "jali",
+    "pos": "noun",
+    "definitions": [
+      "mesh; netting"
+    ],
+    "examples": "जालीले किरा रोकियो।",
+    "examplesRomanized": "jalile kira rokiyo.",
+    "exampleEnglish": "The mesh stopped the insects.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "तार",
+    "romanization": "tar",
+    "pos": "noun",
+    "definitions": [
+      "wire"
+    ],
+    "examples": "तार काट्न उपकरण चाहिन्छ।",
+    "examplesRomanized": "tar katna upakaran chahincha.",
+    "exampleEnglish": "A tool is needed to cut the wire.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "बल्ब",
+    "romanization": "bulb",
+    "pos": "noun",
+    "definitions": [
+      "light bulb"
+    ],
+    "examples": "बल्ब बदलियो।",
+    "examplesRomanized": "bulb badaliyo.",
+    "exampleEnglish": "The bulb was replaced.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "ब्याट्री",
+    "romanization": "battery",
+    "pos": "noun",
+    "definitions": [
+      "battery"
+    ],
+    "examples": "ब्याट्री चार्ज गरियो।",
+    "examplesRomanized": "battery charge gario.",
+    "exampleEnglish": "The battery was charged.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "सर्किट",
+    "romanization": "circuit",
+    "pos": "noun",
+    "definitions": [
+      "circuit"
+    ],
+    "examples": "सर्किट बोर्ड जाँच गरियो।",
+    "examplesRomanized": "circuit board janch gario.",
+    "exampleEnglish": "The circuit board was inspected.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "मापनपट्टी",
+    "romanization": "mapan patti",
+    "pos": "noun",
+    "definitions": [
+      "measuring tape"
+    ],
+    "examples": "मापनपट्टीले लम्बाइ नापियो।",
+    "examplesRomanized": "mapan pattile lambai napiyo.",
+    "exampleEnglish": "The length was measured with a measuring tape.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "हावा पम्प",
+    "romanization": "hawa pump",
+    "pos": "noun",
+    "definitions": [
+      "air pump"
+    ],
+    "examples": "हावा पम्पले टायर भर्नुहोस्।",
+    "examplesRomanized": "hawa pumple tyre bharnuhos.",
+    "exampleEnglish": "Fill the tire with the air pump.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "रेती",
+    "romanization": "reti",
+    "pos": "noun",
+    "definitions": [
+      "file (metal file)"
+    ],
+    "examples": "रेतीले धार मिलाइयो।",
+    "examplesRomanized": "retile dhar milaiyo.",
+    "exampleEnglish": "The edge was smoothed with a file.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "म्लेट",
+    "romanization": "mallet",
+    "pos": "noun",
+    "definitions": [
+      "mallet (soft-faced hammer)"
+    ],
+    "examples": "म्लेटले काठ थपथपाइयो।",
+    "examplesRomanized": "malletle kath thapthapaiyo.",
+    "exampleEnglish": "The wood was tapped with a mallet.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "स्लेज ह्यामर",
+    "romanization": "sledge hammer",
+    "pos": "noun",
+    "definitions": [
+      "sledgehammer"
+    ],
+    "examples": "स्लेज ह्यामरले ढुंगा फुटाइयो।",
+    "examplesRomanized": "sledge hammerle dhunga phutaiyo.",
+    "exampleEnglish": "The stone was broken with a sledgehammer.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "क्रोबार",
+    "romanization": "crowbar",
+    "pos": "noun",
+    "definitions": [
+      "crowbar; pry bar"
+    ],
+    "examples": "क्रोबारले ढोका तेर्स्याइयो।",
+    "examplesRomanized": "crowbarle dhoka tersyaiyo.",
+    "exampleEnglish": "The door was pried open with a crowbar.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "ह्याकसॉ",
+    "romanization": "hacksaw",
+    "pos": "noun",
+    "definitions": [
+      "hacksaw"
+    ],
+    "examples": "ह्याकसॉले पाइप काटियो।",
+    "examplesRomanized": "hacksawle pipe katiyo.",
+    "exampleEnglish": "The pipe was cut with a hacksaw.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "ह्यान्डसॉ",
+    "romanization": "handsaw",
+    "pos": "noun",
+    "definitions": [
+      "hand saw"
+    ],
+    "examples": "ह्यान्डसॉले काठ छर्रछर्र काटियो।",
+    "examplesRomanized": "handsawle kath chharra chharra katiyo.",
+    "exampleEnglish": "The wood was neatly cut with a handsaw.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "चेनसॉ",
+    "romanization": "chainsaw",
+    "pos": "noun",
+    "definitions": [
+      "chainsaw"
+    ],
+    "examples": "चेनसॉले रुख ढालियो।",
+    "examplesRomanized": "chainsawle rukh dhaliyo.",
+    "exampleEnglish": "The tree was felled with a chainsaw.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "जिगसॉ",
+    "romanization": "jigsaw",
+    "pos": "noun",
+    "definitions": [
+      "jigsaw (power tool)"
+    ],
+    "examples": "जिगसॉले घुमाउरो काटियो।",
+    "examplesRomanized": "jigsawle ghumauro katiyo.",
+    "exampleEnglish": "Curves were cut with a jigsaw.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "सर्कुलर सॉ",
+    "romanization": "circular saw",
+    "pos": "noun",
+    "definitions": [
+      "circular saw"
+    ],
+    "examples": "सर्कुलर सॉले बोर्ड चिरियो।",
+    "examplesRomanized": "circular sawle board chiriyo.",
+    "exampleEnglish": "The board was ripped with a circular saw.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "प्लेनर",
+    "romanization": "planer",
+    "pos": "noun",
+    "definitions": [
+      "planer"
+    ],
+    "examples": "प्लेनरले सतह सम्याइयो।",
+    "examplesRomanized": "planerle satah samyaiyo.",
+    "exampleEnglish": "The surface was leveled with a planer.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "स्पिरिट लेभल",
+    "romanization": "spirit level",
+    "pos": "noun",
+    "definitions": [
+      "spirit level"
+    ],
+    "examples": "स्पिरिट लेभलले समतल जाँच गरियो।",
+    "examplesRomanized": "spirit levelle samatal janch gario.",
+    "exampleEnglish": "Levelness was checked with a spirit level.",
+    "frequency": "high",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "स्क्वायर",
+    "romanization": "square",
+    "pos": "noun",
+    "definitions": [
+      "try square; carpenter's square"
+    ],
+    "examples": "स्क्वायरले कोण जाँचिन्छ।",
+    "examplesRomanized": "squarele kon janchincha.",
+    "exampleEnglish": "Angles are checked with a square.",
+    "frequency": "high",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "क्यालिपर",
+    "romanization": "caliper",
+    "pos": "noun",
+    "definitions": [
+      "caliper"
+    ],
+    "examples": "क्यालिपरले मोटाई नापियो।",
+    "examplesRomanized": "caliperle motai napiyo.",
+    "exampleEnglish": "Thickness was measured with a caliper.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "माइक्रोमीटर",
+    "romanization": "micrometer",
+    "pos": "noun",
+    "definitions": [
+      "micrometer"
+    ],
+    "examples": "माइक्रोमीटरले सूक्ष्म नाप गरियो।",
+    "examplesRomanized": "micrometerle sukshma nap gario.",
+    "exampleEnglish": "A precise measurement was taken with a micrometer.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "क्ल्याम्प",
+    "romanization": "clamp",
+    "pos": "noun",
+    "definitions": [
+      "clamp"
+    ],
+    "examples": "क्ल्याम्पले टुक्रा थामियो।",
+    "examplesRomanized": "clampple tukra thamiyo.",
+    "exampleEnglish": "Pieces were held with a clamp.",
+    "frequency": "high",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "भाइस",
+    "romanization": "vice",
+    "pos": "noun",
+    "definitions": [
+      "bench vise"
+    ],
+    "examples": "भाइसमा काठ कसेर घिसारियो।",
+    "examplesRomanized": "vicema kath kasera ghisariyo.",
+    "exampleEnglish": "The wood was held in a vise and sanded.",
+    "frequency": "high",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "एडजस्टेबल रेन्च",
+    "romanization": "adjustable wrench",
+    "pos": "noun",
+    "definitions": [
+      "adjustable wrench"
+    ],
+    "examples": "एडजस्टेबल रेन्चले नट कसियो।",
+    "examplesRomanized": "adjustable wrenchle nut kasiyo.",
+    "exampleEnglish": "The nut was tightened with an adjustable wrench.",
+    "frequency": "high",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "सकेट रेन्च",
+    "romanization": "socket wrench",
+    "pos": "noun",
+    "definitions": [
+      "socket wrench; ratchet"
+    ],
+    "examples": "सकेट रेन्चले बोल्ट खोलियो।",
+    "examplesRomanized": "socket wrenchle bolt kholiyo.",
+    "exampleEnglish": "The bolt was loosened with a socket wrench.",
+    "frequency": "high",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "टर्क रेन्च",
+    "romanization": "torque wrench",
+    "pos": "noun",
+    "definitions": [
+      "torque wrench"
+    ],
+    "examples": "टर्क रेन्चले टर्क निर्दिष्ट गरियो।",
+    "examplesRomanized": "torque wrenchle torque nirdish t gario.",
+    "exampleEnglish": "Torque was set with a torque wrench.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "एलन की",
+    "romanization": "allen key",
+    "pos": "noun",
+    "definitions": [
+      "hex key; Allen key"
+    ],
+    "examples": "एलन कीले साना बोल्ट कसियो।",
+    "examplesRomanized": "allen kile sana bolt kasiyo.",
+    "exampleEnglish": "Small bolts were tightened with an Allen key.",
+    "frequency": "high",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "फिलिप्स स्क्रुड्राइभर",
+    "romanization": "phillips screwdriver",
+    "pos": "noun",
+    "definitions": [
+      "Phillips screwdriver"
+    ],
+    "examples": "फिलिप्स स्क्रुड्राइभरले क्रस–हेड पेच खोलियो।",
+    "examplesRomanized": "phillips screwdriverle cross-head pech kholiyo.",
+    "exampleEnglish": "A Phillips screwdriver loosened the cross-head screw.",
+    "frequency": "high",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "फ्ल्याट स्क्रुड्राइभर",
+    "romanization": "flat screwdriver",
+    "pos": "noun",
+    "definitions": [
+      "flat-head screwdriver"
+    ],
+    "examples": "फ्ल्याट स्क्रुड्राइभरले स्लटेड पेच कसियो।",
+    "examplesRomanized": "flat screwdriverle slotted pech kasiyo.",
+    "exampleEnglish": "A flat-head screwdriver tightened a slotted screw.",
+    "frequency": "high",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "इम्प्याक्ट ड्राइभर",
+    "romanization": "impact driver",
+    "pos": "noun",
+    "definitions": [
+      "impact driver"
+    ],
+    "examples": "इम्प्याक्ट ड्राइभरले स्क्रु छिटो छिरायो।",
+    "examplesRomanized": "impact driverle skru chhito chhirayo.",
+    "exampleEnglish": "An impact driver drove screws quickly.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "हिट गन",
+    "romanization": "heat gun",
+    "pos": "noun",
+    "definitions": [
+      "heat gun"
+    ],
+    "examples": "हिट गनले पेन्ट निकालियो।",
+    "examplesRomanized": "heat gunle paint nikalyo.",
+    "exampleEnglish": "Paint was stripped with a heat gun.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "हॉट ग्लु गन",
+    "romanization": "hot glue gun",
+    "pos": "noun",
+    "definitions": [
+      "hot glue gun"
+    ],
+    "examples": "हॉट ग्लु गनले प्लास्टिक जोडियो।",
+    "examplesRomanized": "hot glue gunle plastic jodiyo.",
+    "exampleEnglish": "Plastic was bonded with a hot glue gun.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "सोल्डरिङ आयरन",
+    "romanization": "soldering iron",
+    "pos": "noun",
+    "definitions": [
+      "soldering iron"
+    ],
+    "examples": "सोल्डरिङ आयरनले तार जोडियो।",
+    "examplesRomanized": "soldering ironle tar jodiyo.",
+    "exampleEnglish": "Wires were soldered with a soldering iron.",
+    "frequency": "high",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "सोल्डर",
+    "romanization": "solder",
+    "pos": "noun",
+    "definitions": [
+      "solder"
+    ],
+    "examples": "सोल्डर पगालेर जोड मजबुत बनाइयो।",
+    "examplesRomanized": "solder paga lera jod majbut banaiyo.",
+    "exampleEnglish": "The joint was strengthened by melting solder.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "डीसोल्डरिङ पम्प",
+    "romanization": "desoldering pump",
+    "pos": "noun",
+    "definitions": [
+      "desoldering pump"
+    ],
+    "examples": "डीसोल्डरिङ पम्पले टिन सोर्सियो।",
+    "examplesRomanized": "desoldering pumple tin sorsiyo.",
+    "exampleEnglish": "A desoldering pump sucked up solder.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "मल्टिमिटर",
+    "romanization": "multimeter",
+    "pos": "noun",
+    "definitions": [
+      "multimeter"
+    ],
+    "examples": "मल्टिमिटरले भोल्टेज नापियो।",
+    "examplesRomanized": "multimeterle voltage napiyo.",
+    "exampleEnglish": "Voltage was measured with a multimeter.",
+    "frequency": "high",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "ओसिलेस्कोप",
+    "romanization": "oscilloscope",
+    "pos": "noun",
+    "definitions": [
+      "oscilloscope"
+    ],
+    "examples": "ओसिलेस्कोपले सिग्नल देखायो।",
+    "examplesRomanized": "oscilloscopele signal dekayo.",
+    "exampleEnglish": "An oscilloscope displayed the signal.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "पावर सप्लाइ",
+    "romanization": "power supply",
+    "pos": "noun",
+    "definitions": [
+      "power supply"
+    ],
+    "examples": "पावर सप्लाइ स्थिर राखियो।",
+    "examplesRomanized": "power supply sthir rakhiya.",
+    "exampleEnglish": "The power supply was kept stable.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "क्रिम्पिङ टूल",
+    "romanization": "crimping tool",
+    "pos": "noun",
+    "definitions": [
+      "crimping tool"
+    ],
+    "examples": "क्रिम्पिङ टूलले कनेक्सन फर्म गर्यो।",
+    "examplesRomanized": "crimping toolle connection firm garyo.",
+    "exampleEnglish": "A crimping tool made a firm connection.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "केबल स्ट्रिपर",
+    "romanization": "cable stripper",
+    "pos": "noun",
+    "definitions": [
+      "wire stripper"
+    ],
+    "examples": "स्ट्रिपरले इन्सुलेसन हटाइयो।",
+    "examplesRomanized": "stripperle insulation hataiyo.",
+    "exampleEnglish": "Insulation was removed with a stripper.",
+    "frequency": "high",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "कटर प्लायर",
+    "romanization": "cutter plier",
+    "pos": "noun",
+    "definitions": [
+      "side cutter; diagonal pliers"
+    ],
+    "examples": "कटर प्लायरले तार काटियो।",
+    "examplesRomanized": "cutter plierle tar katiyo.",
+    "exampleEnglish": "Wire was cut with diagonal pliers.",
+    "frequency": "high",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "लॉन्ग–नोज प्लायर",
+    "romanization": "long-nose plier",
+    "pos": "noun",
+    "definitions": [
+      "needle-nose pliers"
+    ],
+    "examples": "लॉन्ग–नोज प्लायरले सानो भाग समातियो।",
+    "examplesRomanized": "long-nose plierle sano bhag samatiyo.",
+    "exampleEnglish": "Small parts were gripped with needle-nose pliers.",
+    "frequency": "high",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "पाइप रेन्च",
+    "romanization": "pipe wrench",
+    "pos": "noun",
+    "definitions": [
+      "pipe wrench"
+    ],
+    "examples": "पाइप रेन्चले पाइप कस्यो।",
+    "examplesRomanized": "pipe wrenchle pipe kasyo.",
+    "exampleEnglish": "The pipe was tightened with a pipe wrench.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "ट्युब कटर",
+    "romanization": "tube cutter",
+    "pos": "noun",
+    "definitions": [
+      "tube cutter"
+    ],
+    "examples": "ट्युब कटरले कपर पाइप काटियो।",
+    "examplesRomanized": "tube cutterle copper pipe katiyo.",
+    "exampleEnglish": "Copper pipe was cut with a tube cutter.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "ह्याकस",
+    "romanization": "hacks",
+    "pos": "noun",
+    "definitions": [
+      "hacksaw frame"
+    ],
+    "examples": "ह्याकस फ्रेममा ब्लेड फिट गरियो।",
+    "examplesRomanized": "hacks framema bled fit gario.",
+    "exampleEnglish": "A blade was fitted on the hacksaw frame.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "आँगल ग्राइन्डर",
+    "romanization": "angle grinder",
+    "pos": "noun",
+    "definitions": [
+      "angle grinder"
+    ],
+    "examples": "आँगल ग्राइन्डरले धातु घिसारियो।",
+    "examplesRomanized": "angle grinderle dhatu ghisariyo.",
+    "exampleEnglish": "Metal was ground with an angle grinder.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "बेल्ट स्यान्डर",
+    "romanization": "belt sander",
+    "pos": "noun",
+    "definitions": [
+      "belt sander"
+    ],
+    "examples": "बेल्ट स्यान्डरले सतह चिलाइयो।",
+    "examplesRomanized": "belt sanderle satah chilaiyo.",
+    "exampleEnglish": "The surface was smoothed with a belt sander.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "अर्बिटल स्यान्डर",
+    "romanization": "orbital sander",
+    "pos": "noun",
+    "definitions": [
+      "orbital sander"
+    ],
+    "examples": "अर्बिटल स्यान्डरले पेन्टको लेयर हटायो।",
+    "examplesRomanized": "orbital sanderle paintko layer hatayo.",
+    "exampleEnglish": "An orbital sander removed a layer of paint.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "बेंच ग्राइन्डर",
+    "romanization": "bench grinder",
+    "pos": "noun",
+    "definitions": [
+      "bench grinder"
+    ],
+    "examples": "बेंच ग्राइन्डरले धार तेज बनाइयो।",
+    "examplesRomanized": "bench grinderle dhar tej banaiyo.",
+    "exampleEnglish": "Edges were sharpened on a bench grinder.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "ड्रेमल",
+    "romanization": "dremel",
+    "pos": "noun",
+    "definitions": [
+      "rotary tool"
+    ],
+    "examples": "ड्रेमल टूलले सानो कट गरियो।",
+    "examplesRomanized": "dremel toolle sano kat gario.",
+    "exampleEnglish": "A small cut was made with a rotary tool.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "होल सॉ",
+    "romanization": "hole saw",
+    "pos": "noun",
+    "definitions": [
+      "hole saw"
+    ],
+    "examples": "होल सॉले ठूलो प्वाल पारियो।",
+    "examplesRomanized": "hole sawle thulo pwal pari yo.",
+    "exampleEnglish": "A large hole was cut with a hole saw.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "जिग",
+    "romanization": "jig",
+    "pos": "noun",
+    "definitions": [
+      "jig (workholding aid)"
+    ],
+    "examples": "जिगले ड्रिल एकै ठाउँमा राख्यो।",
+    "examplesRomanized": "jigle drill ekai thauma rakhyo.",
+    "exampleEnglish": "A jig held the drill in place.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "फिक्स्चर",
+    "romanization": "fixture",
+    "pos": "noun",
+    "definitions": [
+      "fixture (workholding)"
+    ],
+    "examples": "फिक्स्चरले वर्कपीस थाम्यो।",
+    "examplesRomanized": "fixturele workpiece thamy o.",
+    "exampleEnglish": "A fixture held the workpiece.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "डोवेल जिग",
+    "romanization": "dowel jig",
+    "pos": "noun",
+    "definitions": [
+      "dowel jig"
+    ],
+    "examples": "डोवेल जिगले प्वाल मिल्यो।",
+    "examplesRomanized": "dowel jigle pwal milyo.",
+    "exampleEnglish": "A dowel jig aligned the holes.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "डॉवेल",
+    "romanization": "dowel",
+    "pos": "noun",
+    "definitions": [
+      "dowel"
+    ],
+    "examples": "डॉवेलले जोड बलियो बनायो।",
+    "examplesRomanized": "dowel le jod baliyo banayo.",
+    "exampleEnglish": "Dowels strengthened the joint.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "ड्रिल बिट",
+    "romanization": "drill bit",
+    "pos": "noun",
+    "definitions": [
+      "drill bit"
+    ],
+    "examples": "ड्रिल बिट बदलियो।",
+    "examplesRomanized": "drill bittle badaliyo.",
+    "exampleEnglish": "The drill bit was changed.",
+    "frequency": "high",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "पंच",
+    "romanization": "punch",
+    "pos": "noun",
+    "definitions": [
+      "center punch"
+    ],
+    "examples": "पंचले मार्क गरियो।",
+    "examplesRomanized": "panchle mark gario.",
+    "exampleEnglish": "A center punch made a mark.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "तार ब्रश",
+    "romanization": "tar brush",
+    "pos": "noun",
+    "definitions": [
+      "wire brush"
+    ],
+    "examples": "तार ब्रशले जंग हटायो।",
+    "examplesRomanized": "tar brushle jang hatayo.",
+    "exampleEnglish": "Rust was removed with a wire brush.",
+    "frequency": "high",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "पुट्टी चक्कु",
+    "romanization": "putty chakku",
+    "pos": "noun",
+    "definitions": [
+      "putty knife"
+    ],
+    "examples": "पुट्टी चक्कुले फिनेस गरियो।",
+    "examplesRomanized": "putty chakkule finish gario.",
+    "exampleEnglish": "A putty knife was used to finish.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "ककिङ गन",
+    "romanization": "caulking gun",
+    "pos": "noun",
+    "definitions": [
+      "caulking gun"
+    ],
+    "examples": "ककिङ गनले सिलेन्ट थपियो।",
+    "examplesRomanized": "caulking gunle sealant thapiyo.",
+    "exampleEnglish": "Sealant was applied with a caulking gun.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "ब्लो टर्च",
+    "romanization": "blow torch",
+    "pos": "noun",
+    "definitions": [
+      "blowtorch"
+    ],
+    "examples": "ब्लो टर्चले मेटल तताइयो।",
+    "examplesRomanized": "blow torchle metal tataiyo.",
+    "exampleEnglish": "Metal was heated with a blowtorch.",
+    "frequency": "low",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "चिसेल सेट",
+    "romanization": "chisel set",
+    "pos": "noun",
+    "definitions": [
+      "chisel set"
+    ],
+    "examples": "चिसेल सेटले नक्कासी भयो।",
+    "examplesRomanized": "chisel setle nakkasi bhayo.",
+    "exampleEnglish": "Carving was done with a chisel set.",
+    "frequency": "medium",
+    "category": "tools"
+  },
+  {
+    "DevanagriWord": "मेसन ट्राउल",
+    "romanization": "mason trowel",
+    "pos": "noun",
+    "definitions": [
+      "mason's trowel"
+    ],
+    "examples": "ट्राउलले सिमेन्ट थापियो।",
+    "examplesRomanized": "trowelle cement thapiyo.",
+    "exampleEnglish": "Cement was applied with a trowel.",
+    "frequency": "medium",
+    "category": "tools"
+  }
+]

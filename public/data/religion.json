@@ -1,0 +1,1068 @@
+[
+  {
+    "DevanagriWord": "गुम्बा",
+    "romanization": "gumba",
+    "pos": "noun",
+    "definitions": [
+      "A Buddhist monastery or temple where monks reside and practice rituals."
+    ],
+    "examples": "हामी गुम्बामा प्रार्थना गर्न र बौद्ध धर्मका शिक्षा सिक्न गयौँ।",
+    "examplesRomanized": "hami gumbama prarthana garna ra bauddha dharmaka siksha sikna gayaun.",
+    "exampleEnglish": "We went to the monastery to pray and learn about Buddhist teachings.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "मन्दिर",
+    "romanization": "mandir",
+    "pos": "noun",
+    "definitions": [
+      "A Hindu temple where devotees perform rituals, offer prayers, and celebrate festivals."
+    ],
+    "examples": "हामी दीपावलीको अवसरमा मन्दिरमा पूजा गर्न गयौँ।",
+    "examplesRomanized": "hami deepawaliko avasarma mandirma puja garna gayaun.",
+    "exampleEnglish": "We went to the temple during Diwali to perform worship.",
+    "frequency": "high",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "मस्जिद",
+    "romanization": "masjid",
+    "pos": "noun",
+    "definitions": [
+      "A mosque; a place where Muslims gather for prayers, sermons, and religious events."
+    ],
+    "examples": "हाम्रो छिमेकमा प्रत्येक शुक्रबार मस्जिदमा विशेष नमाज हुन्छ।",
+    "examplesRomanized": "hamro chimekma pratyek shukrabar masjidma vishesh namaz hunchha.",
+    "exampleEnglish": "In our neighborhood, there is a special prayer at the mosque every Friday.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "चर्च",
+    "romanization": "church",
+    "pos": "noun",
+    "definitions": [
+      "A Christian place of worship where people gather for prayers, sermons, and ceremonies."
+    ],
+    "examples": "सन्तुको जन्मदिनमा चर्चमा विशेष प्रार्थना गरियो।",
+    "examplesRomanized": "santuko janmadinma churchma vishesh prarthana gario.",
+    "exampleEnglish": "A special prayer was held at the church for the saint's birthday.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "पूजा",
+    "romanization": "puja",
+    "pos": "noun",
+    "definitions": [
+      "A religious ritual or worship, typically involving offerings, prayers, and devotion to a deity."
+    ],
+    "examples": "घरमा बिहान साँझ देवीको पूजा नियमित रूपमा गरिन्छ।",
+    "examplesRomanized": "gharma bihan sanjh deviko puja niyamit rupma garinchha.",
+    "exampleEnglish": "Daily worship of the goddess is performed morning and evening at home.",
+    "frequency": "high",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "तीर्थ",
+    "romanization": "tirtha",
+    "pos": "noun",
+    "definitions": [
+      "A sacred pilgrimage site visited by devotees for spiritual merit and religious practices."
+    ],
+    "examples": "हर वर्ष हजारौँ भक्त रामेछापको तीर्थ यात्रा गर्न जान्छन्।",
+    "examplesRomanized": "har barsha hajaraun bhakta ramechapko tirtha yatra garna janchhan.",
+    "exampleEnglish": "Every year, thousands of devotees go on a pilgrimage to Ramechap.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "अर्चना",
+    "romanization": "archana",
+    "pos": "noun",
+    "definitions": [
+      "A form of ritualistic prayer or offering, usually involving recitation of deity names."
+    ],
+    "examples": "पिताजीले हरेक सोमबार भगवानको अर्चना गर्नुहुन्छ।",
+    "examplesRomanized": "pitaji le harek sombar bhagwanko archana garnuhunchha.",
+    "exampleEnglish": "Father performs ritualistic prayers to God every Monday.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "भजन",
+    "romanization": "bhajan",
+    "pos": "noun",
+    "definitions": [
+      "A devotional song sung in praise of a deity."
+    ],
+    "examples": "संध्यामा परिवारसँग भजन गाउने चलन छ।",
+    "examplesRomanized": "sandhyama parivarsang bhajan gaune chalan chha.",
+    "exampleEnglish": "It is customary to sing devotional songs with the family in the evening.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "मन्त्र",
+    "romanization": "mantra",
+    "pos": "noun",
+    "definitions": [
+      "A sacred utterance, word, or phrase repeated during prayers or meditation."
+    ],
+    "examples": "प्रत्येक बिहान उनले 'ओम नमः शिवाय' मन्त्र जप गर्नुहुन्छ।",
+    "examplesRomanized": "pratyek bihan unle 'Om Namah Shivaya' mantra jap garnuhunchha.",
+    "exampleEnglish": "Every morning, he chants the 'Om Namah Shivaya' mantra.",
+    "frequency": "high",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "प्रसाद",
+    "romanization": "prasad",
+    "pos": "noun",
+    "definitions": [
+      "Sacred food or offering distributed to devotees after worship."
+    ],
+    "examples": "मन्दिरमा प्रसाद ग्रहण गर्दा सबै खुशी भए।",
+    "examplesRomanized": "mandirma prasad grahan garda sabai khushi bhaye.",
+    "exampleEnglish": "Everyone was happy receiving sacred offerings at the temple.",
+    "frequency": "high",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "पवित्रता",
+    "romanization": "pavitrata",
+    "pos": "noun",
+    "definitions": [
+      "The state of being holy, pure, or sacred."
+    ],
+    "examples": "तीर्थस्थलको पवित्रता अनुभव गर्न यहाँ धेरै भक्त आउँछन्।",
+    "examplesRomanized": "tirthasthal ko pavitrata anubhav garna yaha dherai bhakta aunchhan.",
+    "exampleEnglish": "Many devotees come here to experience the holiness of the pilgrimage site.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "संस्कार",
+    "romanization": "sanskar",
+    "pos": "noun",
+    "definitions": [
+      "A Hindu ritual or rite of passage performed at different stages of life."
+    ],
+    "examples": "नवजात शिशुको नामकरण संस्कार मन्दिरमा भयो।",
+    "examplesRomanized": "navajat shishuko namkaran sanskar mandirma bhayo.",
+    "exampleEnglish": "The naming ceremony of the newborn took place at the temple.",
+    "frequency": "high",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "मौन साधना",
+    "romanization": "maun sadhana",
+    "pos": "noun",
+    "definitions": [
+      "Silent meditation or spiritual practice focusing on inner peace."
+    ],
+    "examples": "भिक्षुले जंगलमा मौन साधना गर्नुभयो।",
+    "examplesRomanized": "bhikshule jangalma maun sadhana garnubhayo.",
+    "exampleEnglish": "The monk practiced silent meditation in the forest.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "कुरान",
+    "romanization": "quran",
+    "pos": "noun",
+    "definitions": [
+      "The holy book of Islam containing revelations given to Prophet Muhammad."
+    ],
+    "examples": "मस्जिदमा कुरानको पाठ भयो।",
+    "examplesRomanized": "masjidma quran ko path bhayo.",
+    "exampleEnglish": "The Quran was recited in the mosque.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "बाइबल",
+    "romanization": "bible",
+    "pos": "noun",
+    "definitions": [
+      "The holy scripture of Christians containing teachings of Jesus and prophets."
+    ],
+    "examples": "हामीले चर्चमा बाइबलको अध्ययन गर्यौं।",
+    "examplesRomanized": "hamile churchma bible ko adhyayan garyau.",
+    "exampleEnglish": "We studied the Bible at the church.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "सत्याग्रह",
+    "romanization": "satyagraha",
+    "pos": "noun",
+    "definitions": [
+      "A form of nonviolent resistance or spiritual truth-force practice."
+    ],
+    "examples": "महात्मा गान्धीले सत्याग्रहको माध्यमबाट आन्दोलन गरे।",
+    "examplesRomanized": "mahatma gandhile satyagrah ko madhyam bata andolan gare.",
+    "exampleEnglish": "Mahatma Gandhi led the movement through nonviolent resistance.",
+    "frequency": "low",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "देवता",
+    "romanization": "devta",
+    "pos": "noun",
+    "definitions": [
+      "A deity or god worshipped in various religions."
+    ],
+    "examples": "हामीले मन्दिरमा विष्णु देवताको पूजा गर्यौं।",
+    "examplesRomanized": "hamile mandirma Vishnu devtako puja garyau.",
+    "exampleEnglish": "We worshipped Lord Vishnu at the temple.",
+    "frequency": "high",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "आरती",
+    "romanization": "aarti",
+    "pos": "noun",
+    "definitions": [
+      "A ritual of worship involving waving lighted lamps in front of a deity."
+    ],
+    "examples": "हरेक साँझ मन्दिरमा आरती गरिन्छ।",
+    "examplesRomanized": "harek sanjh mandirma aarti garinchha.",
+    "exampleEnglish": "Aarti is performed at the temple every evening.",
+    "frequency": "high",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "साधु",
+    "romanization": "sadhu",
+    "pos": "noun",
+    "definitions": [
+      "A holy man or ascetic who practices spiritual discipline."
+    ],
+    "examples": "साधुले सडकमा भिक्षाटन गर्दै जीवनयापन गर्नुहुन्छ।",
+    "examplesRomanized": "sadhule sadakma bhikshatan gardai jivanyapan garnuhunchha.",
+    "exampleEnglish": "The holy man survives by seeking alms on the street.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "योग",
+    "romanization": "yoga",
+    "pos": "noun",
+    "definitions": [
+      "A spiritual and physical practice to attain mental and bodily discipline."
+    ],
+    "examples": "हरेक बिहान उनले योग अभ्यास गर्नुहुन्छ।",
+    "examplesRomanized": "harek bihan unle yoga abhyas garnuhunchha.",
+    "exampleEnglish": "Every morning, he practices yoga.",
+    "frequency": "high",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "उपवास",
+    "romanization": "upvas",
+    "pos": "noun",
+    "definitions": [
+      "A religious fast observed for spiritual purification or devotion."
+    ],
+    "examples": "महिला हरेक सोमबार उपवास बस्छन्।",
+    "examplesRomanized": "mahila harek sombar upvas baschhan.",
+    "exampleEnglish": "Women observe a fast every Monday.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "भिक्षाटन",
+    "romanization": "bhikshatan",
+    "pos": "noun",
+    "definitions": [
+      "The act of seeking alms or donations as a religious practice."
+    ],
+    "examples": "भिक्षु भिक्षाटनका लागि गाउँमा गए।",
+    "examplesRomanized": "bhikshu bhikshatan ka lagi gaunma gaye.",
+    "exampleEnglish": "The monk went to the village to seek alms.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "शरण",
+    "romanization": "sharan",
+    "pos": "noun",
+    "definitions": [
+      "Seeking refuge or protection, often from a deity or spiritual guide."
+    ],
+    "examples": "भक्तहरूले भगवानको शरणमा जाने विश्वास गर्छन्।",
+    "examplesRomanized": "bhaktaharule bhagwanko sharanma jane bishwas garchhan.",
+    "exampleEnglish": "Devotees believe in seeking refuge with God.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "मंत्रजप",
+    "romanization": "mantrajap",
+    "pos": "noun",
+    "definitions": [
+      "The repeated chanting of a sacred mantra for spiritual benefits."
+    ],
+    "examples": "भिक्षुले ध्यानको समयमा मंत्रजप गर्नुहुन्छ।",
+    "examplesRomanized": "bhikshule dhyan ko samaya mantra jap garnuhunchha.",
+    "exampleEnglish": "The monk chants mantras during meditation.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "मोक्ष",
+    "romanization": "moksha",
+    "pos": "noun",
+    "definitions": [
+      "Liberation from the cycle of birth and death; spiritual salvation."
+    ],
+    "examples": "योग र ध्यानमार्फत मानिसले मोक्ष प्राप्त गर्न सक्छ।",
+    "examplesRomanized": "yog ra dhyan marfat manisle moksha prapt garna sakchha.",
+    "exampleEnglish": "Through yoga and meditation, one can achieve liberation.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "धार्मिक पर्व",
+    "romanization": "dharmik parv",
+    "pos": "noun",
+    "definitions": [
+      "A festival celebrated with religious significance."
+    ],
+    "examples": "दशैं नेपालीहरूको प्रमुख धार्मिक पर्व हो।",
+    "examplesRomanized": "Dashain Nepalikoharu ko pramukh dharmik parv ho.",
+    "exampleEnglish": "Dashain is the main religious festival of Nepalis.",
+    "frequency": "high",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "व्रतकथा",
+    "romanization": "vratkatha",
+    "pos": "noun",
+    "definitions": [
+      "Stories or legends told during a fast to inspire devotion and moral lessons."
+    ],
+    "examples": "महिला व्रत बसेर व्रतकथा सुन्ने चलन छ।",
+    "examplesRomanized": "mahila vrat basera vratkatha sunne chalan chha.",
+    "exampleEnglish": "Women observe fasts and listen to sacred stories.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "अहिंसा",
+    "romanization": "ahimsa",
+    "pos": "noun",
+    "definitions": [
+      "The principle of nonviolence toward all living beings."
+    ],
+    "examples": "गान्धीजीले अहिंसाको मार्ग अपनाउनुभयो।",
+    "examplesRomanized": "Gandhiji le ahimsako marg apnanu bhayo.",
+    "exampleEnglish": "Gandhi adopted the path of nonviolence.",
+    "frequency": "high",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "संत",
+    "romanization": "sant",
+    "pos": "noun",
+    "definitions": [
+      "A spiritually enlightened person or saint."
+    ],
+    "examples": "संतको उपदेशले भक्तहरूको जीवन बदलिन्छ।",
+    "examplesRomanized": "sant ko upadesh le bhaktaharu ko jivan badlinchha.",
+    "exampleEnglish": "A saint’s teachings transform the lives of devotees.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "श्मशान",
+    "romanization": "shamshan",
+    "pos": "noun",
+    "definitions": [
+      "A cremation ground where the dead are cremated according to Hindu rituals."
+    ],
+    "examples": "श्मशानमा पिताको अन्तिम संस्कार गरियो।",
+    "examplesRomanized": "shamshanma pitako antim sanskar gariyo.",
+    "exampleEnglish": "Father's final rites were performed at the cremation ground.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "पवित्र जल",
+    "romanization": "pavitra jal",
+    "pos": "noun",
+    "definitions": [
+      "Holy water used in religious rituals for purification."
+    ],
+    "examples": "मन्दिरको मूर्तिमा पवित्र जल चढाइयो।",
+    "examplesRomanized": "mandir ko murti ma pavitra jal chadhaio.",
+    "exampleEnglish": "Holy water was sprinkled on the temple idol.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "सत्संग",
+    "romanization": "satsang",
+    "pos": "noun",
+    "definitions": [
+      "A spiritual gathering where devotees listen to discourses or chant together."
+    ],
+    "examples": "हामीले सत्संगमा भगवद् गीता सुने।",
+    "examplesRomanized": "hamile satsangma Bhagavad Gita sune.",
+    "exampleEnglish": "We listened to the Bhagavad Gita at the spiritual gathering.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "तपस्या",
+    "romanization": "tapasya",
+    "pos": "noun",
+    "definitions": [
+      "Austerity or penance performed for spiritual growth or devotion."
+    ],
+    "examples": "भिक्षुले हिमालमा तपस्या गर्नुभयो।",
+    "examplesRomanized": "bhikshule himalma tapasya garnubhayo.",
+    "exampleEnglish": "The monk performed penance in the mountains.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "साधना",
+    "romanization": "sadhana",
+    "pos": "noun",
+    "definitions": [
+      "Spiritual practice or discipline aimed at self-realization and devotion."
+    ],
+    "examples": "शिवभक्त हरेक दिन साधना गर्नुहुन्छ।",
+    "examplesRomanized": "Shivbhakt harek din sadhana garnuhunchha.",
+    "exampleEnglish": "The devotee of Shiva practices spiritual discipline daily.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "प्रवचन",
+    "romanization": "pravachan",
+    "pos": "noun",
+    "definitions": [
+      "A religious sermon or discourse delivered by a spiritual teacher."
+    ],
+    "examples": "पंडितजीले मन्दिरमा प्रवचन दिनुभयो।",
+    "examplesRomanized": "panditji le mandirma pravachan dinubhayo.",
+    "exampleEnglish": "The priest delivered a sermon at the temple.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "व्रतस्थली",
+    "romanization": "vratasthali",
+    "pos": "noun",
+    "definitions": [
+      "A place designated for observing religious fasts and rituals."
+    ],
+    "examples": "महिलाहरू व्रतस्थलीमा व्रत बस्न आउँछन्।",
+    "examplesRomanized": "mahilaharu vratasthali ma vrat basna aunchhan.",
+    "exampleEnglish": "Women come to the fasting site to observe their vows.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "दर्शन",
+    "romanization": "darshan",
+    "pos": "noun",
+    "definitions": [
+      "The act of seeing or being in the presence of a deity for blessings."
+    ],
+    "examples": "हामी मन्दिरमा भगवानको दर्शन गर्न गयौँ।",
+    "examplesRomanized": "hami mandirma bhagwanko darshan garna gayaun.",
+    "exampleEnglish": "We went to the temple to have a glimpse of the deity.",
+    "frequency": "high",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "उपदेश",
+    "romanization": "upadesh",
+    "pos": "noun",
+    "definitions": [
+      "Advice or teachings given by a spiritual teacher or elder."
+    ],
+    "examples": "बाबाको उपदेशले मेरो जीवन बदलियो।",
+    "examplesRomanized": "baba ko upadesh le mero jivan badliyo.",
+    "exampleEnglish": "Father's guidance changed my life.",
+    "frequency": "high",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "प्रसन्नता",
+    "romanization": "prasannata",
+    "pos": "noun",
+    "definitions": [
+      "The state of being spiritually joyful or content, often as a result of devotion."
+    ],
+    "examples": "पूजा गरेपछि भक्तको मनमा प्रसन्नता हुन्छ।",
+    "examplesRomanized": "puja garepachi bhaktako manma prasannata hunchha.",
+    "exampleEnglish": "After performing worship, the devotee feels joy in their heart.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "धार्मिक अनुष्ठान",
+    "romanization": "dharmik anushthan",
+    "pos": "noun",
+    "definitions": [
+      "A religious ceremony or ritual performed according to tradition."
+    ],
+    "examples": "शादीको अवसरमा धार्मिक अनुष्ठान सम्पन्न भयो।",
+    "examplesRomanized": "shadiko avasarma dharmik anushthan sampanna bhayo.",
+    "exampleEnglish": "A religious ceremony was performed during the wedding.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "सन्तानश्रवण",
+    "romanization": "santanshravan",
+    "pos": "noun",
+    "definitions": [
+      "Hearing the teachings or stories of saints to gain spiritual knowledge."
+    ],
+    "examples": "हामीले सत्संगमा सन्तानश्रवण गर्यौं।",
+    "examplesRomanized": "hamile satsangma santanshravan garyau.",
+    "exampleEnglish": "We listened to saintly teachings at the spiritual gathering.",
+    "frequency": "low",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "धार्मिक अनुशासन",
+    "romanization": "dharmik anushasan",
+    "pos": "noun",
+    "definitions": [
+      "Religious discipline or adherence to spiritual rules and moral conduct."
+    ],
+    "examples": "भक्तले जीवनभर धार्मिक अनुशासन पालना गर्नुपर्छ।",
+    "examplesRomanized": "bhaktale jivanbhar dharmik anushasan palana garnu parchha.",
+    "exampleEnglish": "A devotee must maintain religious discipline throughout life.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "धर्मपालक",
+    "romanization": "dharmapalak",
+    "pos": "noun",
+    "definitions": [
+      "A person who protects, promotes, or preserves religious teachings and practices."
+    ],
+    "examples": "पंडितजी धर्मपालकको रूपमा चर्चमा कार्यरत हुनुहुन्छ।",
+    "examplesRomanized": "panditji dharmapalakko roopma churchma karyarat hunuhunchha.",
+    "exampleEnglish": "The priest works as a guardian of religious traditions in the church.",
+    "frequency": "low",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "अष्टांग योग",
+    "romanization": "ashtang yoga",
+    "pos": "noun",
+    "definitions": [
+      "The eightfold path of yoga, focusing on ethical, physical, and spiritual practices for liberation."
+    ],
+    "examples": "योग गुरुले हामीलाई अष्टांग योग सिकाउनुभयो।",
+    "examplesRomanized": "yog guru le hamilai ashtang yoga sikaunubhayo.",
+    "exampleEnglish": "The yoga teacher taught us the eightfold path of yoga.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "धार्मिक विधि",
+    "romanization": "dharmik vidhi",
+    "pos": "noun",
+    "definitions": [
+      "A method or procedure prescribed by religious tradition for performing rituals."
+    ],
+    "examples": "सन्तले धार्मिक विधि अनुसार पूजा सञ्चालन गर्नुभयो।",
+    "examplesRomanized": "sant le dharmik vidhi anusaar puja sanchalan garnubhayo.",
+    "exampleEnglish": "The saint conducted the worship according to religious procedure.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "अष्टमी",
+    "romanization": "ashtami",
+    "pos": "noun",
+    "definitions": [
+      "The eighth day of the lunar fortnight, considered auspicious for certain religious observances."
+    ],
+    "examples": "नवरात्रिको अष्टमीमा विशेष पूजा गरिन्छ।",
+    "examplesRomanized": "navaratriko ashtami ma vishesh puja garinchha.",
+    "exampleEnglish": "Special worship is performed on the eighth day of Navaratri.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "नवमी",
+    "romanization": "navami",
+    "pos": "noun",
+    "definitions": [
+      "The ninth day of the lunar fortnight, significant in Hindu religious rituals."
+    ],
+    "examples": "दशैँको नवमीमा घोडा मेला आयोजना हुन्छ।",
+    "examplesRomanized": "dashain ko navami ma ghoda mela aayojana hunchha.",
+    "exampleEnglish": "A horse fair is held on the ninth day of Dashain.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "अक्षय तृतीया",
+    "romanization": "akshaya tritiya",
+    "pos": "noun",
+    "definitions": [
+      "A Hindu festival day considered highly auspicious for starting new ventures and religious rituals."
+    ],
+    "examples": "अक्षय तृतीयामा घरमा विशेष पूजा गरिन्छ।",
+    "examplesRomanized": "akshaya tritiya ma gharma vishesh puja garinchha.",
+    "exampleEnglish": "Special worship is conducted at home on Akshaya Tritiya.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "जप",
+    "romanization": "jap",
+    "pos": "noun",
+    "definitions": [
+      "The act of repeating a mantra or divine name as a form of devotion."
+    ],
+    "examples": "साधुले 'राम' शब्दको जप गर्दै ध्यान गर्नुभयो।",
+    "examplesRomanized": "sadhule 'Ram' shabda ko jap gardai dhyan garnubhayo.",
+    "exampleEnglish": "The ascetic meditated while chanting the name 'Ram'.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "धूप",
+    "romanization": "dhup",
+    "pos": "noun",
+    "definitions": [
+      "Incense burned during religious rituals to purify the surroundings and create a sacred atmosphere."
+    ],
+    "examples": "मन्दिरमा धूप बालेर पूजा आरम्भ गरियो।",
+    "examplesRomanized": "mandirma dhup balera puja aarambh gariyo.",
+    "exampleEnglish": "Worship began at the temple with incense burning.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "घण्टी",
+    "romanization": "ghanti",
+    "pos": "noun",
+    "definitions": [
+      "A bell used in temples during worship to invoke divine presence."
+    ],
+    "examples": "भक्तले मन्दिरमा पूजा गर्दा घण्टी बजाए।",
+    "examplesRomanized": "bhaktale mandirma puja garda ghanti bajaye.",
+    "exampleEnglish": "Devotees rang the bell while performing worship at the temple.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "सप्तमी",
+    "romanization": "saptami",
+    "pos": "noun",
+    "definitions": [
+      "The seventh day of the lunar fortnight, often observed for religious significance."
+    ],
+    "examples": "सप्तमीका दिन विशेष पूजा गरिन्छ।",
+    "examplesRomanized": "saptami ka din vishesh puja garinchha.",
+    "exampleEnglish": "Special worship is performed on the seventh day of the lunar cycle.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "कुंड",
+    "romanization": "kund",
+    "pos": "noun",
+    "definitions": [
+      "A sacred water tank or pond used in Hindu rituals for purification and offerings."
+    ],
+    "examples": "मन्दिरको कुंडमा भक्तजनले स्नान गरे।",
+    "examplesRomanized": "mandir ko kund ma bhaktajan le snaan gare.",
+    "exampleEnglish": "Devotees bathed in the temple's sacred water tank.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "शिवलिंग",
+    "romanization": "shivaling",
+    "pos": "noun",
+    "definitions": [
+      "A symbolic representation of Lord Shiva used for worship in Hindu temples."
+    ],
+    "examples": "भक्तजनले शिवलिंगमा जल चढाए।",
+    "examplesRomanized": "bhaktajan le shivaling ma jal chadhae.",
+    "exampleEnglish": "Devotees offered water to the Shiva lingam.",
+    "frequency": "high",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "अर्घ्य",
+    "romanization": "arghya",
+    "pos": "noun",
+    "definitions": [
+      "A ritual offering, usually of water, milk, or flowers, to a deity or sacred river."
+    ],
+    "examples": "भक्तजनले विष्णुलाई अर्घ्य अर्पण गरे।",
+    "examplesRomanized": "bhaktajan le Vishnu lai arghya arpan gare.",
+    "exampleEnglish": "Devotees offered water and flowers to Lord Vishnu.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "धनुरास्नान",
+    "romanization": "dhanurasnan",
+    "pos": "noun",
+    "definitions": [
+      "A ritual bath or cleansing performed for purification during auspicious festivals."
+    ],
+    "examples": "स्नानगृहमा धनुरास्नान गरियो।",
+    "examplesRomanized": "snanagriha ma dhanurasnan gariyo.",
+    "exampleEnglish": "A ritual cleansing bath was performed in the bathing area.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "अष्टक",
+    "romanization": "ashtak",
+    "pos": "noun",
+    "definitions": [
+      "A set of eight hymns or verses chanted during religious rituals."
+    ],
+    "examples": "भक्तजनले हरेक बिहान अष्टकको पाठ गरे।",
+    "examplesRomanized": "bhaktajan le harek bihan ashtak ko path gare.",
+    "exampleEnglish": "Devotees recited eight verses every morning.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "प्रार्थना मञ्च",
+    "romanization": "prarthana manch",
+    "pos": "noun",
+    "definitions": [
+      "A platform or stage in temples where prayers, chants, or sermons are conducted."
+    ],
+    "examples": "मन्दिरमा प्रार्थना मञ्च तयार पारियो।",
+    "examplesRomanized": "mandir ma prarthana manch tayar pariyo.",
+    "exampleEnglish": "A prayer stage was prepared in the temple.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "सप्ताहिक पूजा",
+    "romanization": "saptahik puja",
+    "pos": "noun",
+    "definitions": [
+      "A regular weekly worship ceremony performed by devotees."
+    ],
+    "examples": "हरेक शुक्रबार मन्दिरमा साप्ताहिक पूजा हुन्छ।",
+    "examplesRomanized": "harek shukrabar mandir ma saptahik puja hunchha.",
+    "exampleEnglish": "Weekly worship is held at the temple every Friday.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "कपालको पिण्ड",
+    "romanization": "kapalko pind",
+    "pos": "noun",
+    "definitions": [
+      "A ritual offering made with rice or other items shaped like a small mound, often used in ancestral rites."
+    ],
+    "examples": "पिताजीले पूजामा कपालको पिण्ड अर्पण गर्नुभयो।",
+    "examplesRomanized": "pitaji le puja ma kapalko pind arpan garnubhayo.",
+    "exampleEnglish": "Father offered a small rice mound as part of the ritual.",
+    "frequency": "low",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "स्नानमूर्ति",
+    "romanization": "snanmurti",
+    "pos": "noun",
+    "definitions": [
+      "A sacred image or idol used during ritual bathing ceremonies."
+    ],
+    "examples": "स्नानमूर्तिलाई पवित्र जलले स्नान गराइयो।",
+    "examplesRomanized": "snanmurti lai pavitra jal le snan garaiyo.",
+    "exampleEnglish": "The sacred idol was bathed with holy water.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "धूपधानी",
+    "romanization": "dhupdhani",
+    "pos": "noun",
+    "definitions": [
+      "A container or holder used for burning incense during religious rituals."
+    ],
+    "examples": "मन्दिरमा धूपधानीमा धूप बालियो।",
+    "examplesRomanized": "mandir ma dhupdhani ma dhup balio.",
+    "exampleEnglish": "Incense was burned in the holder at the temple.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "अभिषेक",
+    "romanization": "abhishek",
+    "pos": "noun",
+    "definitions": [
+      "A ritual bathing of a deity’s idol with water, milk, honey, or other sacred substances."
+    ],
+    "examples": "शिवलिंगमा अभिषेक गरियो।",
+    "examplesRomanized": "shivaling ma abhishek gariyo.",
+    "exampleEnglish": "The Shiva lingam was bathed in a ritual ceremony.",
+    "frequency": "high",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "दीप प्रज्वलन",
+    "romanization": "deep prajwalan",
+    "pos": "noun",
+    "definitions": [
+      "The lighting of lamps during worship to signify divine presence and enlightenment."
+    ],
+    "examples": "मन्दिरमा दीप प्रज्वलन गरेर पूजा सुरु गरियो।",
+    "examplesRomanized": "mandir ma deep prajwalan gare ra puja suru gariyo.",
+    "exampleEnglish": "Worship began by lighting lamps in the temple.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "ध्वज",
+    "romanization": "dhwaj",
+    "pos": "noun",
+    "definitions": [
+      "A religious flag or banner used in temples or during festivals to signify sanctity."
+    ],
+    "examples": "मन्दिरको छतमा रंगीन ध्वज फहराइयो।",
+    "examplesRomanized": "mandir ko chhatma rangeen dhwaj phaharaiyo.",
+    "exampleEnglish": "A colorful flag was hoisted on the temple roof.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "हवन कुंड",
+    "romanization": "havan kund",
+    "pos": "noun",
+    "definitions": [
+      "A sacred fire pit used to perform Vedic fire rituals (havan) with offerings."
+    ],
+    "examples": "विवाह समारोहमा हवन कुंडमा अग्नि पूजा गरियो।",
+    "examplesRomanized": "vivah samaroha ma havan kund ma agni puja gariyo.",
+    "exampleEnglish": "A fire ritual was performed in the sacred fire pit during the wedding ceremony.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "तर्पण",
+    "romanization": "tarpan",
+    "pos": "noun",
+    "definitions": [
+      "A ritual of offering water or food to ancestors to honor them."
+    ],
+    "examples": "पितृ पक्षको दिन हामीले तर्पण गर्यौं।",
+    "examplesRomanized": "pitru paksha ko din hamile tarpan garyau.",
+    "exampleEnglish": "We performed offerings to ancestors on the day of Pitru Paksha.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "मूल्यवान सामग्री",
+    "romanization": "mulyawan samagri",
+    "pos": "noun",
+    "definitions": [
+      "Precious items like flowers, fruits, or coins used in religious offerings."
+    ],
+    "examples": "पूजामा मूल्यवान सामग्री चढाइयो।",
+    "examplesRomanized": "puja ma mulyawan samagri chadhaio.",
+    "exampleEnglish": "Precious items were offered during the worship.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "सप्तपदी",
+    "romanization": "saptapadi",
+    "pos": "noun",
+    "definitions": [
+      "The seven sacred steps taken by a couple around the holy fire during Hindu weddings."
+    ],
+    "examples": "विवाहमा दुलही-दुलहाले सप्तपदी पूरा गरे।",
+    "examplesRomanized": "vivah ma dulahi-dulhale saptapadi pura gare.",
+    "exampleEnglish": "The bride and groom completed the seven sacred steps in the wedding ceremony.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "आरती दीप",
+    "romanization": "aarti deep",
+    "pos": "noun",
+    "definitions": [
+      "A lamp used specifically for performing aarti, a ritual of waving light before a deity."
+    ],
+    "examples": "पंडितजीले आरती दीप घुमाएर पूजा गर्यौं।",
+    "examplesRomanized": "panditji le aarti deep ghumayera puja garyau.",
+    "exampleEnglish": "The priest performed worship by waving the lamp before the deity.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "धनतेरस",
+    "romanization": "dhanteras",
+    "pos": "noun",
+    "definitions": [
+      "A Hindu festival marking the beginning of Diwali, associated with wealth and prosperity."
+    ],
+    "examples": "धनतेरसमा सबैले मन्दिरमा पूजा गर्न गयौँ।",
+    "examplesRomanized": "dhanteras ma sabai le mandirma puja garna gayaun.",
+    "exampleEnglish": "On Dhanteras, everyone went to the temple to offer prayers.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "विष्णुपद",
+    "romanization": "vishnupad",
+    "pos": "noun",
+    "definitions": [
+      "A sacred site or footprint associated with Lord Vishnu, often a place of pilgrimage."
+    ],
+    "examples": "हजारौं भक्तजन विष्णुपदको दर्शन गर्न आउँछन्।",
+    "examplesRomanized": "hajaraun bhaktajan vishnupad ko darshan garna aunchhan.",
+    "exampleEnglish": "Thousands of devotees come to see the sacred Vishnu footprint.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "ध्वनि यंत्र",
+    "romanization": "dhwani yantra",
+    "pos": "noun",
+    "definitions": [
+      "A sound instrument, such as a bell or gong, used in temples to accompany rituals."
+    ],
+    "examples": "भक्तजनले पूजा आरम्भ गर्न ध्वनि यंत्र बजाए।",
+    "examplesRomanized": "bhaktajan le puja aarambh garna dhwani yantra bajaye.",
+    "exampleEnglish": "Devotees rang the sound instrument to begin the worship.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "शाकाहारी भोग",
+    "romanization": "shakahari bhog",
+    "pos": "noun",
+    "definitions": [
+      "Vegetarian food offered to deities during religious rituals."
+    ],
+    "examples": "पूजामा शाकाहारी भोग चढाइयो।",
+    "examplesRomanized": "puja ma shakahari bhog chadhaio.",
+    "exampleEnglish": "Vegetarian offerings were presented during the worship.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "सर्प पूजाः",
+    "romanization": "sarp puja",
+    "pos": "noun",
+    "definitions": [
+      "A ritual worship of snakes, especially during Nag Panchami festival."
+    ],
+    "examples": "भक्तजनले नाग पञ्चमीमा सर्प पूजा गरे।",
+    "examplesRomanized": "bhaktajan le nag panchami ma sarp puja gare.",
+    "exampleEnglish": "Devotees performed snake worship during Nag Panchami.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "चतुर्दशी",
+    "romanization": "chaturdashi",
+    "pos": "noun",
+    "definitions": [
+      "The fourteenth day of the lunar fortnight, observed with religious significance in Hindu rituals."
+    ],
+    "examples": "चतुर्दशीमा विशेष रात्रि पूजा गरिन्छ।",
+    "examplesRomanized": "chaturdashi ma vishesh raatri puja garinchha.",
+    "exampleEnglish": "Special night worship is performed on Chaturdashi.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "गुरु वाणी",
+    "romanization": "guru vani",
+    "pos": "noun",
+    "definitions": [
+      "Teachings or sayings of a spiritual teacher imparted to disciples."
+    ],
+    "examples": "शिष्यले गुरु वाणी सुन्दै ध्यान गर्नुभयो।",
+    "examplesRomanized": "shishya le guru vani sundai dhyan garnubhayo.",
+    "exampleEnglish": "The disciple meditated while listening to the guru’s teachings.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "अष्टाध्यायी पाठ",
+    "romanization": "ashtadhyayi path",
+    "pos": "noun",
+    "definitions": [
+      "Recitation of eight chapters of a sacred text as part of ritual practice."
+    ],
+    "examples": "भक्तजनले अष्टाध्यायी पाठ गरेर पूजा आरम्भ गरे।",
+    "examplesRomanized": "bhaktajan le ashtadhyayi path gare ra puja aarambh gare.",
+    "exampleEnglish": "Devotees began the worship by reciting eight chapters.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "दशहरा रथयात्रा",
+    "romanization": "dashahara rathyatra",
+    "pos": "noun",
+    "definitions": [
+      "A chariot procession conducted during Dashain/Dussehra festival for deity worship."
+    ],
+    "examples": "गाउँमा दशहरा रथयात्रा आयोजना भयो।",
+    "examplesRomanized": "gaun ma dashahara rathyatra aayojana bhayo.",
+    "exampleEnglish": "A chariot procession was organized in the village during Dashain.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "वेद पाठ",
+    "romanization": "ved path",
+    "pos": "noun",
+    "definitions": [
+      "The chanting or recitation of verses from the Vedas as part of rituals."
+    ],
+    "examples": "पुरोहितले मन्दिरमा वेद पाठ गर्नुभयो।",
+    "examplesRomanized": "purohit le mandir ma ved path garnubhayo.",
+    "exampleEnglish": "The priest recited Vedic verses in the temple.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "पितृ पक्ष",
+    "romanization": "pitru paksha",
+    "pos": "noun",
+    "definitions": [
+      "A fortnight in the Hindu lunar calendar dedicated to honoring ancestors with offerings."
+    ],
+    "examples": "पितृ पक्षको समयमा हामीले पूजामा तर्पण गर्यौं।",
+    "examplesRomanized": "pitru paksha ko samaya ma hamile puja ma tarpan garyau.",
+    "exampleEnglish": "During Pitru Paksha, we offered rituals to honor our ancestors.",
+    "frequency": "medium",
+    "category": "religion"
+  },
+  {
+    "DevanagriWord": "प्रतीकात्मक मूर्ति",
+    "romanization": "pratikatmak murti",
+    "pos": "noun",
+    "definitions": [
+      "A symbolic idol or figure representing a deity, used in worship."
+    ],
+    "examples": "मन्दिरमा प्रतीकात्मक मूर्ति राखिएको छ।",
+    "examplesRomanized": "mandir ma pratikatmak murti rakhieko chha.",
+    "exampleEnglish": "A symbolic idol is placed in the temple for worship.",
+    "frequency": "medium",
+    "category": "religion"
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "DevanagriWord": "नदी",
+    "romanization": "nadi",
+    "pos": "noun",
+    "definitions": [
+      "river"
+    ],
+    "examples": "नदी बगिरहेकी छ।",
+    "examplesRomanized": "nadi bagiraheki chha.",
+    "exampleEnglish": "The river is flowing.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "पहाड",
+    "romanization": "pahad",
+    "pos": "noun",
+    "definitions": [
+      "hill; mountain (mid-hills)"
+    ],
+    "examples": "पहाड हरिया छन्।",
+    "examplesRomanized": "pahad hariya chhan.",
+    "exampleEnglish": "The hills are green.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "वन",
+    "romanization": "ban",
+    "pos": "noun",
+    "definitions": [
+      "forest"
+    ],
+    "examples": "यो वन घना छ।",
+    "examplesRomanized": "yo ban ghana chha.",
+    "exampleEnglish": "This forest is dense.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "हिमाल",
+    "romanization": "himal",
+    "pos": "proper_noun",
+    "definitions": [
+      "Himalayas; snowy mountain"
+    ],
+    "examples": "हिमालले देश सुन्दर बनाउँछ।",
+    "examplesRomanized": "himalle desh sundar banaunchha.",
+    "exampleEnglish": "The Himalayas make the country beautiful.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "तराई",
+    "romanization": "tarai",
+    "pos": "noun",
+    "definitions": [
+      "Terai plains"
+    ],
+    "examples": "तराईमा उब्जाउ जमिन हुन्छ।",
+    "examplesRomanized": "taraima ubjau jamin hunchha.",
+    "exampleEnglish": "There is fertile land in the Terai.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "घाटी",
+    "romanization": "ghati",
+    "pos": "noun",
+    "definitions": [
+      "valley; gorge"
+    ],
+    "examples": "यो घाटी साँघुरो छ।",
+    "examplesRomanized": "yo ghati sanghuro chha.",
+    "exampleEnglish": "This gorge is narrow.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "जंगल",
+    "romanization": "jangal",
+    "pos": "noun",
+    "definitions": [
+      "jungle; forest"
+    ],
+    "examples": "जंगलमा धेरै जनावर भेटिन्छन्।",
+    "examplesRomanized": "jangalma dherai janawar bhetinchhan.",
+    "exampleEnglish": "Many animals are found in the jungle.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "खोला",
+    "romanization": "khola",
+    "pos": "noun",
+    "definitions": [
+      "stream; small river"
+    ],
+    "examples": "खोलामा डुंगा चलाइयो।",
+    "examplesRomanized": "kholama dunga chalaiyo.",
+    "exampleEnglish": "A boat was rowed in the stream.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "झरना",
+    "romanization": "jharana",
+    "pos": "noun",
+    "definitions": [
+      "waterfall"
+    ],
+    "examples": "झरना मनमोहक छ।",
+    "examplesRomanized": "jharana manmohak chha.",
+    "exampleEnglish": "The waterfall is enchanting.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "डुंगा",
+    "romanization": "dunga",
+    "pos": "noun",
+    "definitions": [
+      "boat"
+    ],
+    "examples": "डुंगामा यात्रा गरियो।",
+    "examplesRomanized": "dungama yatra gario.",
+    "exampleEnglish": "A journey was made by boat.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "नौका",
+    "romanization": "nauka",
+    "pos": "noun",
+    "definitions": [
+      "boat; ship (formal)"
+    ],
+    "examples": "नौकाबाट नदी पार गरियो।",
+    "examplesRomanized": "naukabata nadi par gario.",
+    "exampleEnglish": "The river was crossed by boat.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "समुद्र",
+    "romanization": "samudra",
+    "pos": "noun",
+    "definitions": [
+      "sea; ocean"
+    ],
+    "examples": "समुद्र धेरै विशाल छ।",
+    "examplesRomanized": "samudra dherai vishal chha.",
+    "exampleEnglish": "The sea is very vast.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "महासागर",
+    "romanization": "mahasagar",
+    "pos": "noun",
+    "definitions": [
+      "ocean"
+    ],
+    "examples": "महासागर पृथ्वीको ठूलो भाग ओगट्छ।",
+    "examplesRomanized": "mahasagar prithviko thulo bhag ogatchha.",
+    "exampleEnglish": "Oceans cover a large part of the Earth.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "उपत्यका",
+    "romanization": "upatyaka",
+    "pos": "noun",
+    "definitions": [
+      "valley (broad basin)"
+    ],
+    "examples": "काठमाडौँ उपत्यका ऐतिहासिक छ।",
+    "examplesRomanized": "kathmandu upatyaka aithasik chha.",
+    "exampleEnglish": "The Kathmandu Valley is historic.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "खोँच",
+    "romanization": "khonch",
+    "pos": "noun",
+    "definitions": [
+      "gorge; ravine"
+    ],
+    "examples": "खोँचमा बाटो साँघुरो छ।",
+    "examplesRomanized": "khonchma bato sanghuro chha.",
+    "exampleEnglish": "The path is narrow in the gorge.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "द्वीप",
+    "romanization": "dweep",
+    "pos": "noun",
+    "definitions": [
+      "island"
+    ],
+    "examples": "द्वीप वरिपरि समुद्र हुन्छ।",
+    "examplesRomanized": "dweep waripari samudra hunchha.",
+    "exampleEnglish": "There is sea around an island.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "रेगिस्तान",
+    "romanization": "registan",
+    "pos": "noun",
+    "definitions": [
+      "desert"
+    ],
+    "examples": "रेगिस्तानमा पानी कम हुन्छ।",
+    "examplesRomanized": "registanma pani kam hunchha.",
+    "exampleEnglish": "There is little water in the desert.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "उपमहाद्वीप",
+    "romanization": "upamahadweep",
+    "pos": "noun",
+    "definitions": [
+      "subcontinent"
+    ],
+    "examples": "दक्षिण एशियाई उपमहाद्वीप विविधतायुक्त छ।",
+    "examplesRomanized": "dakshin eshiai upamahadweep vividatayukta chha.",
+    "exampleEnglish": "The South Asian subcontinent is diverse.",
+    "frequency": "low",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "प्रायद्वीप",
+    "romanization": "prayadweep",
+    "pos": "noun",
+    "definitions": [
+      "peninsula"
+    ],
+    "examples": "प्रायद्वीप तीनतिर समुद्रले घेरिएको हुन्छ।",
+    "examplesRomanized": "prayadweep tin tira samudrale gherieko hunchha.",
+    "exampleEnglish": "A peninsula is surrounded by sea on three sides.",
+    "frequency": "low",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "डेल्टा",
+    "romanization": "delta",
+    "pos": "noun",
+    "definitions": [
+      "delta (river mouth landform)"
+    ],
+    "examples": "डेल्टामा उर्वर माटो पाइन्छ।",
+    "examplesRomanized": "deltama urbar mato painchha.",
+    "exampleEnglish": "Fertile soil is found in deltas.",
+    "frequency": "low",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "पहाड श्रेणी",
+    "romanization": "pahad shreni",
+    "pos": "noun",
+    "definitions": [
+      "mountain range"
+    ],
+    "examples": "हिमालय पहाड श्रेणी विश्व प्रसिद्ध छ।",
+    "examplesRomanized": "Himalaya pahad shreni vishwa prasiddha chha.",
+    "exampleEnglish": "The Himalayan mountain range is world-famous.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "पहाड/टिला",
+    "romanization": "tilla",
+    "pos": "noun",
+    "definitions": [
+      "small hill; mound"
+    ],
+    "examples": "तपाईंको घर टिलाको वरिपरि छ।",
+    "examplesRomanized": "Tapaiko ghar tillako varipari chha.",
+    "exampleEnglish": "Your house is around a small hill.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "जङ्गल",
+    "romanization": "jangal",
+    "pos": "noun",
+    "definitions": [
+      "forest; dense area with trees"
+    ],
+    "examples": "जङ्गलमा बाघ पाइन्छ।",
+    "examplesRomanized": "Jangalma bagh painchha.",
+    "exampleEnglish": "Tigers are found in the forest.",
+    "frequency": "high",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "जलाशय",
+    "romanization": "jalashaya",
+    "pos": "noun",
+    "definitions": [
+      "reservoir; man-made water storage"
+    ],
+    "examples": "यो जलाशय सिँचाइका लागि बनाइएको छ।",
+    "examplesRomanized": "Yo jalashaya sinchaika lagi banayeko chha.",
+    "exampleEnglish": "This reservoir was built for irrigation.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "पहाडी क्षेत्र",
+    "romanization": "pahadi kshetra",
+    "pos": "noun",
+    "definitions": [
+      "hilly region; area of hills"
+    ],
+    "examples": "नेपालको पश्चिमी भाग पहाडी क्षेत्र हो।",
+    "examplesRomanized": "Nepalko paschimi bhag pahadi kshetra ho.",
+    "exampleEnglish": "The western part of Nepal is hilly.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "मैदान",
+    "romanization": "maidan",
+    "pos": "noun",
+    "definitions": [
+      "plain; flat land area"
+    ],
+    "examples": "तराई क्षेत्रमा विशाल मैदानहरू छन्।",
+    "examplesRomanized": "Tarai kshetrama vishal maidan haru chhan.",
+    "exampleEnglish": "There are vast plains in the Terai region.",
+    "frequency": "high",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "सागर",
+    "romanization": "sagar",
+    "pos": "noun",
+    "definitions": [
+      "sea; large body of salt water"
+    ],
+    "examples": "सागरमा ठूलो लहर छ।",
+    "examplesRomanized": "Sagarma thulo lahar chha.",
+    "exampleEnglish": "There are big waves in the sea.",
+    "frequency": "high",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "टापु",
+    "romanization": "tapoo",
+    "pos": "noun",
+    "definitions": [
+      "island; land completely surrounded by water"
+    ],
+    "examples": "सागरमा धेरै टापुहरू छन्।",
+    "examplesRomanized": "Sagarma dherai tapuharu chhan.",
+    "exampleEnglish": "There are many islands in the sea.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "मध्यभूमि",
+    "romanization": "madhyabhumi",
+    "pos": "noun",
+    "definitions": [
+      "plateau; elevated flat land"
+    ],
+    "examples": "मध्यभूमि क्षेत्र उर्वर छ।",
+    "examplesRomanized": "Madhyabhumi kshetra urvar chha.",
+    "exampleEnglish": "The plateau area is fertile.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "गुफा",
+    "romanization": "gufa",
+    "pos": "noun",
+    "definitions": [
+      "cave; natural underground hollow"
+    ],
+    "examples": "गुफामा धेरै stalactite पाइन्छ।",
+    "examplesRomanized": "Gufama dherai stalactite painchha.",
+    "exampleEnglish": "Many stalactites are found in the cave.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "ज्वालामुखी",
+    "romanization": "jwalamukhi",
+    "pos": "noun",
+    "definitions": [
+      "volcano; mountain that can erupt lava"
+    ],
+    "examples": "ज्वालामुखीले आसपासको क्षेत्र नष्ट गर्यो।",
+    "examplesRomanized": "Jwalamukhile aaspasako kshetra nasht garyo.",
+    "exampleEnglish": "The volcano destroyed the surrounding area.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "हिमनदी",
+    "romanization": "himnadi",
+    "pos": "noun",
+    "definitions": [
+      "glacier; large slow-moving ice mass"
+    ],
+    "examples": "हिमनदीले तलको नदीलाई पानी दिन्छ।",
+    "examplesRomanized": "Himnadile talako nadilai pani dinchha.",
+    "exampleEnglish": "The glacier provides water to the river below.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "खोप्री",
+    "romanization": "khopri",
+    "pos": "noun",
+    "definitions": [
+      "hillock; small natural elevation of land"
+    ],
+    "examples": "खोप्रीमा हरियो घाँस फैलिएको छ।",
+    "examplesRomanized": "Khoprima hariyo ghaans phailiyeko chha.",
+    "exampleEnglish": "Green grass spreads over the hillock.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "नाला",
+    "romanization": "nala",
+    "pos": "noun",
+    "definitions": [
+      "stream; small flowing water channel"
+    ],
+    "examples": "नालामा पानी सफा छ।",
+    "examplesRomanized": "Nalama pani safa chha.",
+    "exampleEnglish": "The stream has clean water.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "मगर",
+    "romanization": "magar",
+    "pos": "noun",
+    "definitions": [
+      "marsh; wetland area"
+    ],
+    "examples": "मगर क्षेत्रमा चराहरू बस्छन्।",
+    "examplesRomanized": "Magar kshetrama charaharu baschhan.",
+    "exampleEnglish": "Birds live in the marsh area.",
+    "frequency": "low",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "पर्वतश्रेणी",
+    "romanization": "parvatshreni",
+    "pos": "noun",
+    "definitions": [
+      "mountain range; continuous line of mountains"
+    ],
+    "examples": "हिमालय पर्वतश्रेणी विश्वप्रसिद्ध छ।",
+    "examplesRomanized": "Himalaya parvatshreni vishwaprasiddha chha.",
+    "exampleEnglish": "The Himalayan mountain range is world-famous.",
+    "frequency": "high",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "उपत्यकायुक्त क्षेत्र",
+    "romanization": "upatyakayukt kshetra",
+    "pos": "noun",
+    "definitions": [
+      "valley region; area comprising a valley and surroundings"
+    ],
+    "examples": "उपत्यकायुक्त क्षेत्र बाढीको जोखिममा छ।",
+    "examplesRomanized": "Upatyakayukt kshetra badhiko jokhimma chha.",
+    "exampleEnglish": "The valley region is at risk of flooding.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "ढुङ्गा पहाड",
+    "romanization": "dhunga pahad",
+    "pos": "noun",
+    "definitions": [
+      "rocky hill; hill primarily made of rocks"
+    ],
+    "examples": "त्यो ठाउँ ढुङ्गा पहाडले भरिएको छ।",
+    "examplesRomanized": "Tyo thau dhunga pahadle bhariyeko chha.",
+    "exampleEnglish": "That area is filled with rocky hills.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "पर्वतीय क्षेत्र",
+    "romanization": "parvatīya kshetra",
+    "pos": "noun",
+    "definitions": [
+      "mountainous region; area with mountains"
+    ],
+    "examples": "पर्वतीय क्षेत्र यात्रुहरूको लागि आकर्षक छ।",
+    "examplesRomanized": "Parvatiya kshetra yatruko lagi aakarshak chha.",
+    "exampleEnglish": "The mountainous region is attractive for tourists.",
+    "frequency": "high",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "उपत्यका तल",
+    "romanization": "upatyaka tal",
+    "pos": "noun",
+    "definitions": [
+      "valley floor; flat lowland area in a valley"
+    ],
+    "examples": "उपत्यका तलमा धेरै घरहरू छन्।",
+    "examplesRomanized": "Upatyaka talma dherai gharharu chhan.",
+    "exampleEnglish": "There are many houses on the valley floor.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "सरोवर",
+    "romanization": "sarovar",
+    "pos": "noun",
+    "definitions": [
+      "lake; large natural water body"
+    ],
+    "examples": "फेवाताल प्रसिद्ध सरोवर हो।",
+    "examplesRomanized": "Phewa taal prasiddha sarovar ho.",
+    "exampleEnglish": "Phewa Lake is a famous lake.",
+    "frequency": "high",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "पुर्वत",
+    "romanization": "purvat",
+    "pos": "noun",
+    "definitions": [
+      "foothill; lower slope of a mountain"
+    ],
+    "examples": "पुर्वतमा बसोबास गर्न सजिलो छ।",
+    "examplesRomanized": "Purvatma basobas garn sajilo chha.",
+    "exampleEnglish": "Living on the foothills is easier.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "कुवा",
+    "romanization": "kuwa",
+    "pos": "noun",
+    "definitions": [
+      "well; man-made water source"
+    ],
+    "examples": "कुवाबाट पानी खनियो।",
+    "examplesRomanized": "Kuwabata pani khaniyo.",
+    "exampleEnglish": "Water was drawn from the well.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "उच्चभूमि",
+    "romanization": "ucchabhumi",
+    "pos": "noun",
+    "definitions": [
+      "highland; elevated land area"
+    ],
+    "examples": "उच्चभूमिमा मौसम शीतल हुन्छ।",
+    "examplesRomanized": "Ucchabhumima mausam sheetal hunchha.",
+    "exampleEnglish": "The weather is cool in the highlands.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "खोलानाला",
+    "romanization": "kholanala",
+    "pos": "noun",
+    "definitions": [
+      "stream; small river or brook"
+    ],
+    "examples": "खोलानालाबाट पानी आउँछ।",
+    "examplesRomanized": "Kholanala bata pani aunchha.",
+    "exampleEnglish": "Water flows from the stream.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "मैलो",
+    "romanization": "mailo",
+    "pos": "noun",
+    "definitions": [
+      "lowland; flat fertile land"
+    ],
+    "examples": "मैलो भूमिमा खेती सजिलो हुन्छ।",
+    "examplesRomanized": "Mailo bhumima kheti sajilo chha.",
+    "exampleEnglish": "Farming is easier on the lowlands.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "पहाडटाकुर",
+    "romanization": "pahadtakur",
+    "pos": "noun",
+    "definitions": [
+      "ridge; long narrow hilltop"
+    ],
+    "examples": "पहाडटाकुरबाट दृश्य अद्भुत देखिन्छ।",
+    "examplesRomanized": "Pahadtakur bata drishya adbhut dekhinchha.",
+    "exampleEnglish": "The view from the ridge is amazing.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "टुंगो",
+    "romanization": "tungo",
+    "pos": "noun",
+    "definitions": [
+      "peak; mountain summit"
+    ],
+    "examples": "हामी टुंगोमा पुग्न सफल भयौं।",
+    "examplesRomanized": "Hami tungo ma pugna safal bhayau.",
+    "exampleEnglish": "We successfully reached the mountain peak.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "ग्लेसियर",
+    "romanization": "glacier",
+    "pos": "noun",
+    "definitions": [
+      "glacier; slow-moving mass of ice"
+    ],
+    "examples": "सगरमाथाको तल ग्लेसियर देखिन्छ।",
+    "examplesRomanized": "Sagarmathako tal glacier dekhinchha.",
+    "exampleEnglish": "A glacier can be seen at the base of Mount Everest.",
+    "frequency": "medium",
+    "category": "geography"
+  },
+  {
+    "DevanagriWord": "वनजङ्गल",
+    "romanization": "banjangal",
+    "pos": "noun",
+    "definitions": [
+      "dense forest; woodland"
+    ],
+    "examples": "वनजङ्गलमा वन्यजन्तु धेरै पाइन्छ।",
+    "examplesRomanized": "Banjangal ma vanyajantu dherai painchha.",
+    "exampleEnglish": "Many wild animals are found in dense forests.",
+    "frequency": "high",
+    "category": "geography"
+  }
+]

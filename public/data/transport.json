@@ -1,0 +1,1224 @@
+[
+  {
+    "DevanagriWord": "सडक",
+    "romanization": "sadak",
+    "pos": "noun",
+    "definitions": [
+      "road"
+    ],
+    "examples": "सडक साँघुरो छ।",
+    "examplesRomanized": "sadak sanghuro chha.",
+    "exampleEnglish": "The road is narrow.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "विमान",
+    "romanization": "viman",
+    "pos": "noun",
+    "definitions": [
+      "airplane"
+    ],
+    "examples": "विमान समयमै उड्यो।",
+    "examplesRomanized": "viman samaymai udyo.",
+    "exampleEnglish": "The airplane took off on time.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "मोटरसाइकल",
+    "romanization": "motorcycle",
+    "pos": "noun",
+    "definitions": [
+      "motorcycle"
+    ],
+    "examples": "मोटरसाइकल हरेक दिन चलाउँछु।",
+    "examplesRomanized": "motorcycle harek din chalauchhu.",
+    "exampleEnglish": "I ride a motorcycle every day.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "ट्रक",
+    "romanization": "truck",
+    "pos": "noun",
+    "definitions": [
+      "truck"
+    ],
+    "examples": "ट्रकले सामान बोक्यो।",
+    "examplesRomanized": "truckle saman bokyo.",
+    "exampleEnglish": "The truck carried goods.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "साइकल",
+    "romanization": "cycle",
+    "pos": "noun",
+    "definitions": [
+      "bicycle"
+    ],
+    "examples": "साइकल चलाउँदा हेलमेट लगाउनुहोस्।",
+    "examplesRomanized": "cycle chalauda helmet lagaunuhos.",
+    "exampleEnglish": "Wear a helmet when riding a bicycle.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "पुल",
+    "romanization": "pul",
+    "pos": "noun",
+    "definitions": [
+      "bridge"
+    ],
+    "examples": "पुल मर्मत कार्य भइरहेछ।",
+    "examplesRomanized": "pul marmat karya hairahechha.",
+    "exampleEnglish": "Bridge maintenance is ongoing.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "सुरुङ",
+    "romanization": "surung",
+    "pos": "noun",
+    "definitions": [
+      "tunnel"
+    ],
+    "examples": "सुरुङमार्ग विस्तार हुँदैछ।",
+    "examplesRomanized": "surungmarg vistar hudaichha.",
+    "exampleEnglish": "The tunnel route is being expanded.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "ट्याक्सी",
+    "romanization": "taxi",
+    "pos": "noun",
+    "definitions": [
+      "taxi; cab"
+    ],
+    "examples": "ट्याक्सी लिएर होटल गयौँ।",
+    "examplesRomanized": "taxi liera hotel gayaun.",
+    "exampleEnglish": "We took a taxi to the hotel.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "इन्धन",
+    "romanization": "indhan",
+    "pos": "noun",
+    "definitions": [
+      "fuel"
+    ],
+    "examples": "इन्धन बचत गर्नु आवश्यक छ।",
+    "examplesRomanized": "indhan bachat garnu aawashyak chha.",
+    "exampleEnglish": "It is necessary to save fuel.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "माइक्रोबस",
+    "romanization": "microbus",
+    "pos": "noun",
+    "definitions": [
+      "microbus; minibus"
+    ],
+    "examples": "माइक्रोबस शहरभित्र चल्छ।",
+    "examplesRomanized": "microbus saharbhitra chalchha.",
+    "exampleEnglish": "Microbuses operate within the city.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "भ्यान",
+    "romanization": "van",
+    "pos": "noun",
+    "definitions": [
+      "van"
+    ],
+    "examples": "भ्यानले सामान डेलिभरी गर्‍यो।",
+    "examplesRomanized": "vanle saman delivery garyo.",
+    "exampleEnglish": "The van delivered goods.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "टेम्पो",
+    "romanization": "tempo",
+    "pos": "noun",
+    "definitions": [
+      "three-wheeler tempo"
+    ],
+    "examples": "टेम्पोमा छोटो दूरी यात्रा भयो।",
+    "examplesRomanized": "tempoma choto duri yatra bhayo.",
+    "exampleEnglish": "We traveled a short distance by tempo.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "ई-रिक्सा",
+    "romanization": "e-riksa",
+    "pos": "noun",
+    "definitions": [
+      "electric rickshaw"
+    ],
+    "examples": "ई-रिक्सा पर्यावरणमैत्री हुन्छ।",
+    "examplesRomanized": "e-riksa paryawaranmaitri hunchha.",
+    "exampleEnglish": "E-rickshaws are eco-friendly.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "रिक्सा",
+    "romanization": "riksa",
+    "pos": "noun",
+    "definitions": [
+      "rickshaw"
+    ],
+    "examples": "रिक्साले गल्लीमा यातायात सजिलो बनायो।",
+    "examplesRomanized": "riksale gallima yatayat sajilo banayo.",
+    "exampleEnglish": "Rickshaws ease transport in alleys.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "ट्राम",
+    "romanization": "tram",
+    "pos": "noun",
+    "definitions": [
+      "tram"
+    ],
+    "examples": "ट्राम विद्युतबाट चल्छ।",
+    "examplesRomanized": "tram vidyutbata chalchha.",
+    "exampleEnglish": "Trams run on electricity.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "मेट्रो",
+    "romanization": "metro",
+    "pos": "noun",
+    "definitions": [
+      "metro; subway"
+    ],
+    "examples": "मेट्रो भूमिगत रेल सेवा हो।",
+    "examplesRomanized": "metro bhumigat rel sewa ho.",
+    "exampleEnglish": "The metro is an underground rail service.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "क्याब",
+    "romanization": "cab",
+    "pos": "noun",
+    "definitions": [
+      "cab; taxi"
+    ],
+    "examples": "क्याब बुक गरी एयरपोर्ट गयौँ।",
+    "examplesRomanized": "cab buk gari airport gayaun.",
+    "exampleEnglish": "We booked a cab to the airport.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "ओला/उबर",
+    "romanization": "ola/uber",
+    "pos": "noun",
+    "definitions": [
+      "ride-hailing service"
+    ],
+    "examples": "ओलाबाट घरसम्म आयो।",
+    "examplesRomanized": "olabata gharsamma aayo.",
+    "exampleEnglish": "Came home by Ola.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "उडान",
+    "romanization": "udaan",
+    "pos": "noun",
+    "definitions": [
+      "flight"
+    ],
+    "examples": "उडान ढिला भयो।",
+    "examplesRomanized": "udaan dhila bhayo.",
+    "exampleEnglish": "The flight was delayed.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "विमानस्थल",
+    "romanization": "vimanasthal",
+    "pos": "noun",
+    "definitions": [
+      "airport"
+    ],
+    "examples": "विमानस्थलमा सुरक्षा जाँच कडा छ।",
+    "examplesRomanized": "vimanasthalma suraksha janch kada chha.",
+    "exampleEnglish": "Security checks are strict at the airport.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "स्टेसन",
+    "romanization": "station",
+    "pos": "noun",
+    "definitions": [
+      "station"
+    ],
+    "examples": "रेल स्टेसन भीडले भरिएको थियो।",
+    "examplesRomanized": "rel station bhidle bharieko thiyo.",
+    "exampleEnglish": "The railway station was crowded.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "प्लाटफर्म",
+    "romanization": "platform",
+    "pos": "noun",
+    "definitions": [
+      "platform"
+    ],
+    "examples": "प्लाटफर्म नम्बर दुईबाट रेल छुट्छ।",
+    "examplesRomanized": "platform nambar dui bata rel chhutchha.",
+    "exampleEnglish": "The train departs from platform number two.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "बसपार्क",
+    "romanization": "baspark",
+    "pos": "noun",
+    "definitions": [
+      "bus park; bus terminal"
+    ],
+    "examples": "बसपार्कबाट लामो दूरीका बस छुट्छन्।",
+    "examplesRomanized": "basparkbata lamo durika bas chhutchhan.",
+    "exampleEnglish": "Long-distance buses depart from the bus park.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "बस स्टप",
+    "romanization": "bas stop",
+    "pos": "noun",
+    "definitions": [
+      "bus stop"
+    ],
+    "examples": "बस स्टपमा पाँच मिनेट पर्खियौँ।",
+    "examplesRomanized": "bas stopma panch minute parkhiyaun.",
+    "exampleEnglish": "We waited five minutes at the bus stop.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "टिकट",
+    "romanization": "tikat",
+    "pos": "noun",
+    "definitions": [
+      "ticket"
+    ],
+    "examples": "टिकट अनलाइन किनेँ।",
+    "examplesRomanized": "tikat online kineu.",
+    "exampleEnglish": "I bought the ticket online.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "भाडा",
+    "romanization": "bhada",
+    "pos": "noun",
+    "definitions": [
+      "fare; rental fee"
+    ],
+    "examples": "आज भाडा बढ्यो।",
+    "examplesRomanized": "aaj bhada badhyo.",
+    "exampleEnglish": "The fare increased today.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "पास",
+    "romanization": "pas",
+    "pos": "noun",
+    "definitions": [
+      "pass (permit)"
+    ],
+    "examples": "मासिक पास देखाउनुस्।",
+    "examplesRomanized": "masik pas dekhaunus.",
+    "exampleEnglish": "Please show the monthly pass.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "चेक–इन",
+    "romanization": "check-in",
+    "pos": "noun",
+    "definitions": [
+      "check-in"
+    ],
+    "examples": "चेक–इन काउन्टर उता छ।",
+    "examplesRomanized": "check-in kauntar uta chha.",
+    "exampleEnglish": "The check-in counter is over there.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "प्रस्थान",
+    "romanization": "prasthan",
+    "pos": "noun",
+    "definitions": [
+      "departure"
+    ],
+    "examples": "प्रस्थान समय पाँच बजे हो।",
+    "examplesRomanized": "prasthan samay panch baje ho.",
+    "exampleEnglish": "Departure time is five o'clock.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "आगमन",
+    "romanization": "aagaman",
+    "pos": "noun",
+    "definitions": [
+      "arrival"
+    ],
+    "examples": "आगमन गेट नम्बर ३ मा छ।",
+    "examplesRomanized": "aagaman get nambar 3 ma chha.",
+    "exampleEnglish": "Arrivals are at gate number 3.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "टर्मिनल",
+    "romanization": "terminal",
+    "pos": "noun",
+    "definitions": [
+      "terminal"
+    ],
+    "examples": "टर्मिनल–२ अन्तर्राष्ट्रिय उडानका लागि हो।",
+    "examplesRomanized": "terminal-2 antarrashtriya udanka lagi ho.",
+    "exampleEnglish": "Terminal 2 is for international flights.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "पहिरा मार्ग",
+    "romanization": "pahira marg",
+    "pos": "noun",
+    "definitions": [
+      "footpath; sidewalk"
+    ],
+    "examples": "पहिरा मार्गबाट हिंड्नुहोस्।",
+    "examplesRomanized": "pahira margbata hindnuhos.",
+    "exampleEnglish": "Please walk on the sidewalk.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "जेब्रा क्रसिङ",
+    "romanization": "zebra crossing",
+    "pos": "noun",
+    "definitions": [
+      "zebra crossing; crosswalk"
+    ],
+    "examples": "जेब्रा क्रसिङबाट सडक काट्नुहोस्।",
+    "examplesRomanized": "zebra crossingbata sadak katnuhos.",
+    "exampleEnglish": "Use the zebra crossing to cross the road.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "ट्राफिक बत्ती",
+    "romanization": "traffic batti",
+    "pos": "noun",
+    "definitions": [
+      "traffic light"
+    ],
+    "examples": "ट्राफिक बत्ती रातो छ, रोक्नुहोस्।",
+    "examplesRomanized": "traffic batti rato chha, roknuhos.",
+    "exampleEnglish": "The traffic light is red, please stop.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "महामार्ग",
+    "romanization": "mahamarg",
+    "pos": "noun",
+    "definitions": [
+      "highway"
+    ],
+    "examples": "महामार्गमा ओभरटेक सावधानीपूर्वक।",
+    "examplesRomanized": "mahamargma overtake savadhanipurvak.",
+    "exampleEnglish": "Overtake on the highway with caution.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "द्रुतमार्ग",
+    "romanization": "drutmarg",
+    "pos": "noun",
+    "definitions": [
+      "expressway"
+    ],
+    "examples": "द्रुतमार्गमा गतिसीमा सीमितता हुन्छ।",
+    "examplesRomanized": "drutmargma gatisima simitta hunchha.",
+    "exampleEnglish": "Expressways have speed limits.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "टोल प्लाजा",
+    "romanization": "toll plaza",
+    "pos": "noun",
+    "definitions": [
+      "toll plaza"
+    ],
+    "examples": "टोल प्लाजामा भुक्तानी गर्नुहोस्।",
+    "examplesRomanized": "toll plazama bhuktani garnuhos.",
+    "exampleEnglish": "Please pay at the toll plaza.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "पार्किङ",
+    "romanization": "parking",
+    "pos": "noun",
+    "definitions": [
+      "parking"
+    ],
+    "examples": "पार्किङ निषेध गरिएको छ।",
+    "examplesRomanized": "parking nished gariyeko chha.",
+    "exampleEnglish": "Parking is prohibited.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "पार्किङ स्थल",
+    "romanization": "parking sthal",
+    "pos": "noun",
+    "definitions": [
+      "parking lot"
+    ],
+    "examples": "यो पार्किङ स्थल २४ घण्टा खुला छ।",
+    "examplesRomanized": "yo parking sthal 24 ghanta khula chha.",
+    "exampleEnglish": "This parking lot is open 24 hours.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "हेलमेट",
+    "romanization": "helmet",
+    "pos": "noun",
+    "definitions": [
+      "helmet"
+    ],
+    "examples": "मोटरसाइकलमा हेलमेट अनिवार्य छ।",
+    "examplesRomanized": "motorcyclema helmet aniwarya chha.",
+    "exampleEnglish": "Helmets are mandatory on motorcycles.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "सिट बेल्ट",
+    "romanization": "seat belt",
+    "pos": "noun",
+    "definitions": [
+      "seat belt"
+    ],
+    "examples": "गाडीमा सिट बेल्ट बाध्नुस्।",
+    "examplesRomanized": "gadima seat belt badhnus.",
+    "exampleEnglish": "Please fasten your seat belt in the car.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "एयरब्याग",
+    "romanization": "airbag",
+    "pos": "noun",
+    "definitions": [
+      "airbag"
+    ],
+    "examples": "एयरब्यागले दुर्घटनामा सुरक्षा दिन्छ।",
+    "examplesRomanized": "airbagle durghatanama suraksha dinchha.",
+    "exampleEnglish": "Airbags provide safety in accidents.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "जीप",
+    "romanization": "jeep",
+    "pos": "noun",
+    "definitions": [
+      "jeep"
+    ],
+    "examples": "जीप अफ–रोडमा उपयुक्त हुन्छ।",
+    "examplesRomanized": "jeep off-roadma upayukt hunchha.",
+    "exampleEnglish": "Jeeps are suitable for off-road driving.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "एसयूभी",
+    "romanization": "SUV",
+    "pos": "noun",
+    "definitions": [
+      "SUV"
+    ],
+    "examples": "एसयूभी पहाडी बाटोसँग अनुकूल हुन्छ।",
+    "examplesRomanized": "SUV pahadi batosanga anukul hunchha.",
+    "exampleEnglish": "SUVs suit hilly roads.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "स्कूटर",
+    "romanization": "scooter",
+    "pos": "noun",
+    "definitions": [
+      "scooter"
+    ],
+    "examples": "स्कूटर शहरी यातायातमा लोकप्रिय छ।",
+    "examplesRomanized": "scooter sharbi yatayatma lokpriya chha.",
+    "exampleEnglish": "Scooters are popular for urban transport.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "इलेक्ट्रिक स्कूटर",
+    "romanization": "electric scooter",
+    "pos": "noun",
+    "definitions": [
+      "electric scooter"
+    ],
+    "examples": "इलेक्ट्रिक स्कूटर चार्ज गर्न पर्छ।",
+    "examplesRomanized": "electric scooter charge garna parchha.",
+    "exampleEnglish": "Electric scooters need charging.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "साइकल लेन",
+    "romanization": "cycle lane",
+    "pos": "noun",
+    "definitions": [
+      "bicycle lane"
+    ],
+    "examples": "साइकल लेनमा मात्र साइकल चलाउनुहोस्।",
+    "examplesRomanized": "cycle lenma matra cycle chalaunuhos.",
+    "exampleEnglish": "Ride bicycles only in the cycle lane.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "फुटपाथ",
+    "romanization": "footpath",
+    "pos": "noun",
+    "definitions": [
+      "footpath; pavement"
+    ],
+    "examples": "फुटपाथमा पसल नराख्नुहोस्।",
+    "examplesRomanized": "footpathma pasal narakhnuhos.",
+    "exampleEnglish": "Do not place stalls on the footpath.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "रिङरोड",
+    "romanization": "ring road",
+    "pos": "noun",
+    "definitions": [
+      "ring road"
+    ],
+    "examples": "रिङरोडले शहर घुमाउरो जोड्छ।",
+    "examplesRomanized": "ring roadle sahar ghumauro jodchha.",
+    "exampleEnglish": "The ring road encircles the city.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "डिटुर",
+    "romanization": "detour",
+    "pos": "noun",
+    "definitions": [
+      "detour"
+    ],
+    "examples": "निर्माणका कारण डिटुर लिनुपर्‍यो।",
+    "examplesRomanized": "nirman ka karan detour linuparyo.",
+    "exampleEnglish": "We had to take a detour due to construction.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "लेन",
+    "romanization": "lane",
+    "pos": "noun",
+    "definitions": [
+      "lane"
+    ],
+    "examples": "लेन अनुशासन पालन गर्नुहोस्।",
+    "examplesRomanized": "len anushasan palan garnuhos.",
+    "exampleEnglish": "Maintain lane discipline.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "हार्ड शोल्डर",
+    "romanization": "hard shoulder",
+    "pos": "noun",
+    "definitions": [
+      "hard shoulder"
+    ],
+    "examples": "आपतकालमा हार्ड शोल्डर प्रयोग गर्नुस्।",
+    "examplesRomanized": "apatkalma hard shoulder prayog garnus.",
+    "exampleEnglish": "Use the hard shoulder in emergencies.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "डिभाइडर",
+    "romanization": "divider",
+    "pos": "noun",
+    "definitions": [
+      "median divider"
+    ],
+    "examples": "डिभाइडर नाघ्न सख्त मनाही छ।",
+    "examplesRomanized": "divider naghna sakhta manahi chha.",
+    "exampleEnglish": "Crossing the divider is strictly prohibited.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "स्पिड बम्प",
+    "romanization": "speed bump",
+    "pos": "noun",
+    "definitions": [
+      "speed bump"
+    ],
+    "examples": "स्पिड बम्प अघि गति घटाउनुहोस्।",
+    "examplesRomanized": "speed bump aghi gati ghataunuhos.",
+    "exampleEnglish": "Reduce speed before the speed bump.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "क्यानो",
+    "romanization": "canoe",
+    "pos": "noun",
+    "definitions": [
+      "canoe"
+    ],
+    "examples": "क्यानो पैडलले चलाइन्छ।",
+    "examplesRomanized": "canoe pedal le chalainchha.",
+    "exampleEnglish": "A canoe is paddled.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "कायक",
+    "romanization": "kayak",
+    "pos": "noun",
+    "definitions": [
+      "kayak"
+    ],
+    "examples": "कायक र्र्यापिड्समा रमाइलो हुन्छ।",
+    "examplesRomanized": "kayak rapids panima ramailo hunchha.",
+    "exampleEnglish": "Kayaking in rapids is fun.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "बेगाहा",
+    "romanization": "begaha",
+    "pos": "noun",
+    "definitions": [
+      "ferry"
+    ],
+    "examples": "बेगाहाले यात्रुहरू पार गर्‍यो।",
+    "examplesRomanized": "begahale yatruharu par garyo.",
+    "exampleEnglish": "The ferry carried passengers across.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "बेढु",
+    "romanization": "bedhu",
+    "pos": "noun",
+    "definitions": [
+      "raft"
+    ],
+    "examples": "बेढु बगैंचामा बनाइएको थियो।",
+    "examplesRomanized": "bedhu bagaichama banaiyeko thiyo.",
+    "exampleEnglish": "A raft was built in the garden pond.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "बार्ज",
+    "romanization": "barge",
+    "pos": "noun",
+    "definitions": [
+      "barge"
+    ],
+    "examples": "बार्जले ढुवानी सामान बोक्छ।",
+    "examplesRomanized": "barjle dhuvani saman bokchha.",
+    "exampleEnglish": "Barges carry freight.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "बन्दरगाह",
+    "romanization": "bandargah",
+    "pos": "noun",
+    "definitions": [
+      "port; harbor"
+    ],
+    "examples": "बन्दरगाहमा जहाज डुङ्ग्याइयो।",
+    "examplesRomanized": "bandargahma jahaj dungyaiyo.",
+    "exampleEnglish": "Ships were docked at the port.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "घाट",
+    "romanization": "ghat",
+    "pos": "noun",
+    "definitions": [
+      "pier; dock"
+    ],
+    "examples": "घाटबाट डुंगा छुट्यो।",
+    "examplesRomanized": "ghatbata dunga chhutyo.",
+    "exampleEnglish": "The boat departed from the dock.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "जेट्टी",
+    "romanization": "jetty",
+    "pos": "noun",
+    "definitions": [
+      "jetty"
+    ],
+    "examples": "जेट्टीमा यात्रुहरू कुर्थे।",
+    "examplesRomanized": "jettyma yatruharu kurthe.",
+    "exampleEnglish": "Passengers waited at the jetty.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "नङ्गर",
+    "romanization": "nanggar",
+    "pos": "noun",
+    "definitions": [
+      "anchor"
+    ],
+    "examples": "नङ्गर फ्याँकेर डुंगा रोकियो।",
+    "examplesRomanized": "nanggar fyaaker dunga rokiyo.",
+    "exampleEnglish": "The boat stopped by casting anchor.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "लाईफ ज्याकेट",
+    "romanization": "life jacket",
+    "pos": "noun",
+    "definitions": [
+      "life jacket"
+    ],
+    "examples": "जलयात्रामा लाईफ ज्याकेट लगाउनुहोस्।",
+    "examplesRomanized": "jal yatrama life jacket lagaunuhos.",
+    "exampleEnglish": "Wear a life jacket during water travel.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "लाइटहाउस",
+    "romanization": "lighthouse",
+    "pos": "noun",
+    "definitions": [
+      "lighthouse"
+    ],
+    "examples": "लाइटहाउस जहाजलाई दिशा दिन्छ।",
+    "examplesRomanized": "lighthouse jahajlai disha dinchha.",
+    "exampleEnglish": "Lighthouses guide ships.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "बोया",
+    "romanization": "buoy",
+    "pos": "noun",
+    "definitions": [
+      "buoy"
+    ],
+    "examples": "बोयाले मार्ग चिनाउँछ।",
+    "examplesRomanized": "boyale marg chinaunchha.",
+    "exampleEnglish": "Buoys mark the route.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "नहर",
+    "romanization": "nahar",
+    "pos": "noun",
+    "definitions": [
+      "canal"
+    ],
+    "examples": "नहरबाट डुङ्गा चलाइन्छ।",
+    "examplesRomanized": "naharbata dunga chalainchha.",
+    "exampleEnglish": "Boats are navigated through canals.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "जलयान",
+    "romanization": "jalyan",
+    "pos": "noun",
+    "definitions": [
+      "watercraft; vessel"
+    ],
+    "examples": "जलयान बन्दरगाहतिर लाग्यो।",
+    "examplesRomanized": "jalyan bandargahrtir lagyo.",
+    "exampleEnglish": "The vessel headed toward the harbor.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "रनवे",
+    "romanization": "runway",
+    "pos": "noun",
+    "definitions": [
+      "runway"
+    ],
+    "examples": "विमान रनवेतिर ट्याक्सी गर्‍यो।",
+    "examplesRomanized": "viman runwaytir taxi garyo.",
+    "exampleEnglish": "The plane taxied toward the runway.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "ट्याक्सीवे",
+    "romanization": "taxiway",
+    "pos": "noun",
+    "definitions": [
+      "taxiway"
+    ],
+    "examples": "ट्याक्सीवे हुँदै विमान पार्किङमा पुग्यो।",
+    "examplesRomanized": "taxiway hundai viman parkingma pugyo.",
+    "exampleEnglish": "Via the taxiway, the plane reached parking.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "ह्याङ्गर",
+    "romanization": "hangar",
+    "pos": "noun",
+    "definitions": [
+      "hangar"
+    ],
+    "examples": "ह्याङ्गरमा विमान मर्मत गरिन्छ।",
+    "examplesRomanized": "hangarma viman marmat garinchha.",
+    "exampleEnglish": "Planes are maintained in hangars.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "नियन्त्रण टावर",
+    "romanization": "niyantran tower",
+    "pos": "noun",
+    "definitions": [
+      "control tower"
+    ],
+    "examples": "नियन्त्रण टावरले उडान समन्वय गर्छ।",
+    "examplesRomanized": "niyantran towerle udaan samanway garchha.",
+    "exampleEnglish": "The control tower coordinates flights.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "एयर ट्राफिक कन्ट्रोल",
+    "romanization": "air traffic control",
+    "pos": "noun",
+    "definitions": [
+      "air traffic control"
+    ],
+    "examples": "एटीसीले आकाश मार्गको ट्राफिक व्यवस्थापन गर्छ।",
+    "examplesRomanized": "ATC le akash margko traffic byabasthapan garchha.",
+    "exampleEnglish": "ATC manages air traffic routes.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "बोर्डिङ पास",
+    "romanization": "boarding pass",
+    "pos": "noun",
+    "definitions": [
+      "boarding pass"
+    ],
+    "examples": "बोर्डिङ पास देखाएर गेटमा जानुस्।",
+    "examplesRomanized": "boarding pass dekhaera getma janus.",
+    "exampleEnglish": "Show your boarding pass and proceed to the gate.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "एरोब्रिज",
+    "romanization": "aerobridge",
+    "pos": "noun",
+    "definitions": [
+      "aerobridge; jet bridge"
+    ],
+    "examples": "एरोब्रिजबाट विमानमा चढियो।",
+    "examplesRomanized": "aerobridgebata vimanma chadhiyo.",
+    "exampleEnglish": "Boarded the plane via the aerobridge.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "ब्यागेज क्लेम",
+    "romanization": "baggage claim",
+    "pos": "noun",
+    "definitions": [
+      "baggage claim"
+    ],
+    "examples": "ब्यागेज क्लेममा सामान लिएर निस्कियो।",
+    "examplesRomanized": "baggage claimma saman liera niskyo.",
+    "exampleEnglish": "Collected luggage at baggage claim and exited.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "आप्रवासन",
+    "romanization": "apravashan",
+    "pos": "noun",
+    "definitions": [
+      "immigration"
+    ],
+    "examples": "आप्रवासनमा कागज जाँच गरियो।",
+    "examplesRomanized": "apravashanma kagaj janch gario.",
+    "exampleEnglish": "Documents were checked at immigration.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "पेट्रोल पम्प",
+    "romanization": "petrol pump",
+    "pos": "noun",
+    "definitions": [
+      "petrol station"
+    ],
+    "examples": "पेट्रोल पम्पमा लाइन थियो।",
+    "examplesRomanized": "petrol pumpma line thiyo.",
+    "exampleEnglish": "There was a queue at the petrol station.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "डिजेल",
+    "romanization": "dizel",
+    "pos": "noun",
+    "definitions": [
+      "diesel"
+    ],
+    "examples": "डिजेलको मूल्य बढ्यो।",
+    "examplesRomanized": "dizelko mulya badhyo.",
+    "exampleEnglish": "Diesel price increased.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "इभी चार्जर",
+    "romanization": "EV charger",
+    "pos": "noun",
+    "definitions": [
+      "EV charger"
+    ],
+    "examples": "इभी चार्जरमा गाडी जोडियो।",
+    "examplesRomanized": "EV chargerma gadi jodio.",
+    "exampleEnglish": "The car was connected to an EV charger.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "चार्जिङ स्टेशन",
+    "romanization": "charging station",
+    "pos": "noun",
+    "definitions": [
+      "charging station"
+    ],
+    "examples": "चार्जिङ स्टेशन नजिकै छ।",
+    "examplesRomanized": "charging station najikai chha.",
+    "exampleEnglish": "The charging station is nearby.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "गियर बक्स",
+    "romanization": "gear box",
+    "pos": "noun",
+    "definitions": [
+      "gearbox"
+    ],
+    "examples": "गियर बक्स मर्मत चाहिन्छ।",
+    "examplesRomanized": "gear box marmat chahinchha.",
+    "exampleEnglish": "The gearbox needs maintenance.",
+    "frequency": "low",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "क्लच",
+    "romanization": "clutch",
+    "pos": "noun",
+    "definitions": [
+      "clutch"
+    ],
+    "examples": "क्लच आधा छोड्नुहोस्।",
+    "examplesRomanized": "clutch aadha chhodnuhos.",
+    "exampleEnglish": "Release the clutch halfway.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "ब्रेक",
+    "romanization": "brake",
+    "pos": "noun",
+    "definitions": [
+      "brake"
+    ],
+    "examples": "ब्रेक बलियो थिच्नु भयो।",
+    "examplesRomanized": "brake baliyo thichnu bhayo.",
+    "exampleEnglish": "You pressed the brake hard.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "एक्सिलरेटर",
+    "romanization": "accelerator",
+    "pos": "noun",
+    "definitions": [
+      "accelerator; gas pedal"
+    ],
+    "examples": "एक्सिलरेटर बिस्तारै थिच्नुहोस्।",
+    "examplesRomanized": "accelerator bistarai thichnuhos.",
+    "exampleEnglish": "Press the accelerator gently.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "ड्यासबोर्ड",
+    "romanization": "dashboard",
+    "pos": "noun",
+    "definitions": [
+      "dashboard"
+    ],
+    "examples": "ड्यासबोर्डमा चेतावनी बत्ती बल्यो।",
+    "examplesRomanized": "dashboardma chetawani batti balyo.",
+    "exampleEnglish": "A warning light lit up on the dashboard.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "स्पिडोमिटर",
+    "romanization": "speedometer",
+    "pos": "noun",
+    "definitions": [
+      "speedometer"
+    ],
+    "examples": "स्पिडोमिटरले गति देखाउँछ।",
+    "examplesRomanized": "speedometerle gati dekhaunchha.",
+    "exampleEnglish": "The speedometer shows speed.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "ओडोमिटर",
+    "romanization": "odometer",
+    "pos": "noun",
+    "definitions": [
+      "odometer"
+    ],
+    "examples": "ओडोमिटरले कुल दूरी देखायो।",
+    "examplesRomanized": "odometerle kul duri dekayo.",
+    "exampleEnglish": "The odometer displayed total distance.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "हेडल्याम्प",
+    "romanization": "headlamp",
+    "pos": "noun",
+    "definitions": [
+      "headlight"
+    ],
+    "examples": "हेडल्याम्प अन गर्नुहोस्।",
+    "examplesRomanized": "headlamp on garnuhos.",
+    "exampleEnglish": "Turn on the headlight.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "टेललाइट",
+    "romanization": "taillight",
+    "pos": "noun",
+    "definitions": [
+      "tail light"
+    ],
+    "examples": "टेललाइट बिग्रिएको छ।",
+    "examplesRomanized": "taillight bigrieko chha.",
+    "exampleEnglish": "The tail light is faulty.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "इन्डिकेटर",
+    "romanization": "indicator",
+    "pos": "noun",
+    "definitions": [
+      "turn signal"
+    ],
+    "examples": "इन्डिकेटर बायाँ हल्लाउनुहोस्।",
+    "examplesRomanized": "indicator baya hallaunuhos.",
+    "exampleEnglish": "Indicate left.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "हर्न",
+    "romanization": "horn",
+    "pos": "noun",
+    "definitions": [
+      "horn"
+    ],
+    "examples": "हर्न कम बजाउनुहोस्।",
+    "examplesRomanized": "horn kam bajaaunuhos.",
+    "exampleEnglish": "Use the horn sparingly.",
+    "frequency": "high",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "वाइपर",
+    "romanization": "wiper",
+    "pos": "noun",
+    "definitions": [
+      "wiper"
+    ],
+    "examples": "वाइपर सञ्चालन गर्नुहोस्।",
+    "examplesRomanized": "wiper sancharan garnuhos.",
+    "exampleEnglish": "Operate the wipers.",
+    "frequency": "medium",
+    "category": "transport"
+  },
+  {
+    "DevanagriWord": "विन्डस्क्रिन",
+    "romanization": "windscreen",
+    "pos": "noun",
+    "definitions": [
+      "windshield"
+    ],
+    "examples": "विन्डस्क्रिन सफा छ।",
+    "examplesRomanized": "windscreen safa chha.",
+    "exampleEnglish": "The windshield is clean.",
+    "frequency": "medium",
+    "category": "transport"
+  }
+]

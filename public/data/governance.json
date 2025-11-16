@@ -1,0 +1,808 @@
+[
+  {
+    "DevanagriWord": "सरकार",
+    "romanization": "sarkar",
+    "pos": "noun",
+    "definitions": [
+      "government"
+    ],
+    "examples": "सरकारले नयाँ नीति ल्यायो।",
+    "examplesRomanized": "sarkarle naya niti lyayo.",
+    "exampleEnglish": "The government introduced a new policy.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "संविधान",
+    "romanization": "samvidhan",
+    "pos": "noun",
+    "definitions": [
+      "constitution"
+    ],
+    "examples": "संविधानले मौलिक अधिकार सुनिश्चित गर्छ।",
+    "examplesRomanized": "samvidhanle maulik adhikar sunishchit garchha.",
+    "exampleEnglish": "The constitution ensures fundamental rights.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "संसद",
+    "romanization": "sansad",
+    "pos": "noun",
+    "definitions": [
+      "parliament"
+    ],
+    "examples": "संसदको बैठक बस्यो।",
+    "examplesRomanized": "sansadko baithak basyo.",
+    "exampleEnglish": "Parliament held a session.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "लोकतन्त्र",
+    "romanization": "loktantra",
+    "pos": "noun",
+    "definitions": [
+      "democracy"
+    ],
+    "examples": "लोकतन्त्रमा स्वतन्त्र चुनाव आवश्यक छ।",
+    "examplesRomanized": "loktantrama swatantra chunaav aawashyak chha.",
+    "exampleEnglish": "Free elections are essential in a democracy.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "गणतन्त्र",
+    "romanization": "ganatantra",
+    "pos": "noun",
+    "definitions": [
+      "republic"
+    ],
+    "examples": "नेपाल गणतान्त्रिक देश हो।",
+    "examplesRomanized": "nepal ganatantrik desh ho.",
+    "exampleEnglish": "Nepal is a republic.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "अदालत",
+    "romanization": "adalat",
+    "pos": "noun",
+    "definitions": [
+      "court"
+    ],
+    "examples": "अदालतले फैसला सुनायो।",
+    "examplesRomanized": "adalatle faisala sunayo.",
+    "exampleEnglish": "The court delivered a verdict.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "न्याय",
+    "romanization": "nyaya",
+    "pos": "noun",
+    "definitions": [
+      "justice"
+    ],
+    "examples": "सबैलाई समान न्याय चाहिन्छ।",
+    "examplesRomanized": "sabalai saman nyaya chahincha.",
+    "exampleEnglish": "Equal justice is needed for all.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "कानुन",
+    "romanization": "kanun",
+    "pos": "noun",
+    "definitions": [
+      "law"
+    ],
+    "examples": "कानुनको शासन कायम हुनुपर्छ।",
+    "examplesRomanized": "kanunko shasan kayam hunuparchha.",
+    "exampleEnglish": "Rule of law must be upheld.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "दलीय",
+    "romanization": "daliya",
+    "pos": "adjective",
+    "definitions": [
+      "party-based; partisan"
+    ],
+    "examples": "दलीय राजनीति सक्रिय छ।",
+    "examplesRomanized": "daliya rajniti sakriya chha.",
+    "exampleEnglish": "Party politics is active.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "प्रतिनिधि",
+    "romanization": "pratinidhi",
+    "pos": "noun",
+    "definitions": [
+      "representative"
+    ],
+    "examples": "प्रतिनिधिले क्षेत्रीय बैठकमा सहभागिता जनाए।",
+    "examplesRomanized": "pratinidhile kshetriya baithakma sahabhagita janae.",
+    "exampleEnglish": "The representative participated in the regional meeting.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "सभा",
+    "romanization": "sabha",
+    "pos": "noun",
+    "definitions": [
+      "assembly; meeting"
+    ],
+    "examples": "सभामा प्रस्ताव पारित भयो।",
+    "examplesRomanized": "sabha ma prastav parit bhayo.",
+    "exampleEnglish": "The proposal passed in the assembly.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "विधान",
+    "romanization": "vidhan",
+    "pos": "noun",
+    "definitions": [
+      "statute; bylaws"
+    ],
+    "examples": "संस्थाको विधान संशोधन गरियो।",
+    "examplesRomanized": "sansthako vidhan sanshodhan gario.",
+    "exampleEnglish": "The organization's statute was amended.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "मतदाता",
+    "romanization": "matadata",
+    "pos": "noun",
+    "definitions": [
+      "voter"
+    ],
+    "examples": "मतदाताले मतदान केन्द्रमा लाइन लगाए।",
+    "examplesRomanized": "matadatalle matadan kendrama line lagaye.",
+    "exampleEnglish": "Voters lined up at polling centers.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "मतपत्र",
+    "romanization": "matpatra",
+    "pos": "noun",
+    "definitions": [
+      "ballot paper"
+    ],
+    "examples": "मतपत्रमा छाप हान्नुहोस्।",
+    "examplesRomanized": "matpatrama chhap haannuhos.",
+    "exampleEnglish": "Please stamp the ballot paper.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "सन्धि",
+    "romanization": "sandhi",
+    "pos": "noun",
+    "definitions": [
+      "treaty; pact"
+    ],
+    "examples": "दुबै देशबीच सन्धि भयो।",
+    "examplesRomanized": "dubai deshbich sandhi bhayo.",
+    "exampleEnglish": "A treaty was signed between the two countries.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "सम्झौता",
+    "romanization": "samjhauta",
+    "pos": "noun",
+    "definitions": [
+      "agreement; settlement"
+    ],
+    "examples": "सम्झौताअनुसार काम अघि बढाइयो।",
+    "examplesRomanized": "samjhauta anusar kam aghi badaiyo.",
+    "exampleEnglish": "Work proceeded according to the agreement.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "अदालती",
+    "romanization": "adalati",
+    "pos": "adjective",
+    "definitions": [
+      "judicial; court-related"
+    ],
+    "examples": "अदालती प्रक्रियामा ढिलाइ भयो।",
+    "examplesRomanized": "adalati prakriyama dhilai bhayo.",
+    "exampleEnglish": "There was a delay in the judicial process.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "नीति",
+    "romanization": "niti",
+    "pos": "noun",
+    "definitions": [
+      "policy"
+    ],
+    "examples": "नीति कार्यान्वयन चरणमा छ।",
+    "examplesRomanized": "niti karyanwayan charanma chha.",
+    "exampleEnglish": "The policy is in the implementation phase.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "आदेश",
+    "romanization": "adesh",
+    "pos": "noun",
+    "definitions": [
+      "order; directive"
+    ],
+    "examples": "अदालतको आदेश पालना गर्नुहोस्।",
+    "examplesRomanized": "adalatko adesh palana garnuhos.",
+    "exampleEnglish": "Follow the court's order.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "विधेयक",
+    "romanization": "vidheyak",
+    "pos": "noun",
+    "definitions": [
+      "bill (proposed law)"
+    ],
+    "examples": "विधेयक संसद्‍मा दर्ता भयो।",
+    "examplesRomanized": "vidheyak sansadma darta bhayo.",
+    "exampleEnglish": "The bill was registered in parliament.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "राज्य",
+    "romanization": "rajya",
+    "pos": "noun",
+    "definitions": [
+      "state; a political entity or territory"
+    ],
+    "examples": "राज्यले जनताको सुरक्षामा ध्यान दिनुपर्छ।",
+    "examplesRomanized": "Rajya le janatako surakshya ma dhyan dinuparchha.",
+    "exampleEnglish": "The state must focus on the safety of its people.",
+    "frequency": "high",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "मन्त्रालय",
+    "romanization": "mantralaya",
+    "pos": "noun",
+    "definitions": [
+      "ministry; government department"
+    ],
+    "examples": "शिक्षा मन्त्रालयले नयाँ कार्यक्रम घोषणा गर्‍यो।",
+    "examplesRomanized": "Shiksha mantralaya le naya karyakram ghoshana garyo.",
+    "exampleEnglish": "The Ministry of Education announced a new program.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "प्रधानमन्त्री",
+    "romanization": "pradhanmantri",
+    "pos": "noun",
+    "definitions": [
+      "prime minister; head of the government"
+    ],
+    "examples": "प्रधानमन्त्रीले राष्ट्रको नाममा भाषण दिए।",
+    "examplesRomanized": "Pradhanmantri le rashtrako nama ma bhashan diye.",
+    "exampleEnglish": "The Prime Minister gave a speech on behalf of the nation.",
+    "frequency": "high",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "अध्यक्ष",
+    "romanization": "adhyaksh",
+    "pos": "noun",
+    "definitions": [
+      "chairperson; head of an organization or committee"
+    ],
+    "examples": "अध्यक्षले बैठक सुरु गरे।",
+    "examplesRomanized": "Adhyaksh le baithak suru gare.",
+    "exampleEnglish": "The chairperson started the meeting.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "न्यायालय",
+    "romanization": "nyayalaya",
+    "pos": "noun",
+    "definitions": [
+      "court; institution for justice administration"
+    ],
+    "examples": "न्यायालयले मुद्दा सुन्यो।",
+    "examplesRomanized": "Nyayalaya le mudda sunyo.",
+    "exampleEnglish": "The court heard the case.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "मन्त्री",
+    "romanization": "mantri",
+    "pos": "noun",
+    "definitions": [
+      "minister; member of the government heading a department"
+    ],
+    "examples": "शिक्षा मन्त्रीले नयाँ योजना घोषणा गर्‍यो।",
+    "examplesRomanized": "Shiksha mantri le naya yojana ghoshana garyo.",
+    "exampleEnglish": "The Education Minister announced a new plan.",
+    "frequency": "high",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "महासचिव",
+    "romanization": "mahasachiv",
+    "pos": "noun",
+    "definitions": [
+      "secretary general; highest-ranking civil servant in a ministry"
+    ],
+    "examples": "महासचिवले सबै कागजात तयार गरे।",
+    "examplesRomanized": "Mahasachiv le sabai kagajat tayar gare.",
+    "exampleEnglish": "The Secretary General prepared all the documents.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "सत्तारूढ",
+    "romanization": "sattarudh",
+    "pos": "adjective",
+    "definitions": [
+      "ruling; in power (government/party)"
+    ],
+    "examples": "सत्तारूढ पार्टीले नयाँ बजेट प्रस्तुत गर्‍यो।",
+    "examplesRomanized": "Sattarudh party le naya bajet prastut garyo.",
+    "exampleEnglish": "The ruling party presented a new budget.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "विधायिका",
+    "romanization": "vidhayika",
+    "pos": "noun",
+    "definitions": [
+      "legislature; law-making body"
+    ],
+    "examples": "विधायिकाले नयाँ कानून पारित गर्‍यो।",
+    "examplesRomanized": "Vidhayika le naya kanoon parit garyo.",
+    "exampleEnglish": "The legislature passed a new law.",
+    "frequency": "high",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "कार्यपालिका",
+    "romanization": "karyapalika",
+    "pos": "noun",
+    "definitions": [
+      "executive branch; branch responsible for implementing laws"
+    ],
+    "examples": "कार्यपालिकाले योजना कार्यान्वयन गर्‍यो।",
+    "examplesRomanized": "Karyapalika le yojana karyanwayan garyo.",
+    "exampleEnglish": "The executive implemented the plan.",
+    "frequency": "high",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "न्यायपालिका",
+    "romanization": "nyayapalika",
+    "pos": "noun",
+    "definitions": [
+      "judiciary; system of courts"
+    ],
+    "examples": "न्यायपालिकाले संवैधानिक मुद्दा सुन्यो।",
+    "examplesRomanized": "Nyayapalika le samvaidhanik mudda sunyo.",
+    "exampleEnglish": "The judiciary heard a constitutional case.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "सांसद",
+    "romanization": "sansad",
+    "pos": "noun",
+    "definitions": [
+      "member of parliament; legislator"
+    ],
+    "examples": "सांसदले जनताको समस्या उठाए।",
+    "examplesRomanized": "Sansad le janatako samasya uthaaye.",
+    "exampleEnglish": "The parliament member raised the people's issues.",
+    "frequency": "high",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "स्थानीय सरकार",
+    "romanization": "sthaniya sarkar",
+    "pos": "noun",
+    "definitions": [
+      "local government; administrative body at municipal/village level"
+    ],
+    "examples": "स्थानीय सरकारले सडक मर्मत गर्‍यो।",
+    "examplesRomanized": "Sthaniya sarkar le sadak marmat garyo.",
+    "exampleEnglish": "The local government repaired the road.",
+    "frequency": "high",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "आयोग",
+    "romanization": "aayog",
+    "pos": "noun",
+    "definitions": [
+      "commission; official committee or body"
+    ],
+    "examples": "निर्वाचन आयोगले मतगणना प्रक्रिया सुरु गर्‍यो।",
+    "examplesRomanized": "Nirvachan aayog le matganna prakriya suru garyo.",
+    "exampleEnglish": "The Election Commission started the vote counting process.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "सभापति",
+    "romanization": "sabhaapati",
+    "pos": "noun",
+    "definitions": [
+      "chairperson; head of an assembly or council"
+    ],
+    "examples": "सभापतिले बैठक सुरु गरे।",
+    "examplesRomanized": "Sabhaapati le baithak suru gare.",
+    "exampleEnglish": "The chairperson started the meeting.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "राष्ट्रपति",
+    "romanization": "rashtrapati",
+    "pos": "noun",
+    "definitions": [
+      "president; ceremonial head of state"
+    ],
+    "examples": "राष्ट्रपतिले संविधानको रक्षा गर्ने प्रतिज्ञा गरे।",
+    "examplesRomanized": "Rashtrapati le samvidhanko raksha garne pratigya gare.",
+    "exampleEnglish": "The President pledged to protect the constitution.",
+    "frequency": "high",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "संसद् भवन",
+    "romanization": "sansad bhawan",
+    "pos": "noun",
+    "definitions": [
+      "parliament building; place where legislative sessions are held"
+    ],
+    "examples": "संसद् भवनमा नयाँ अधिवेशन सुरु भयो।",
+    "examplesRomanized": "Sansad bhawan ma naya adhiveshan suru bhayo.",
+    "exampleEnglish": "A new session started in the parliament building.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "सहमति",
+    "romanization": "sahamati",
+    "pos": "noun",
+    "definitions": [
+      "consensus; agreement"
+    ],
+    "examples": "सबै सदस्यले सहमति जनाए।",
+    "examplesRomanized": "Sabai sadasya le sahamati janaaye.",
+    "exampleEnglish": "All members expressed agreement.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "सिफारिस",
+    "romanization": "sifarish",
+    "pos": "noun",
+    "definitions": [
+      "recommendation; official suggestion"
+    ],
+    "examples": "अध्यक्षले सिफारिस पेश गरे।",
+    "examplesRomanized": "Adhyaksh le sifarish pesh gare.",
+    "exampleEnglish": "The chairperson submitted a recommendation.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "कार्यसमिति",
+    "romanization": "karyasamiti",
+    "pos": "noun",
+    "definitions": [
+      "working committee; task force within an organization"
+    ],
+    "examples": "कार्यसमितिले परियोजना योजना बनाए।",
+    "examplesRomanized": "Karyasamiti le pariyojana yojana banaye.",
+    "exampleEnglish": "The working committee drafted the project plan.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "संचालन",
+    "romanization": "sanchalan",
+    "pos": "noun",
+    "definitions": [
+      "administration; management of government or organization"
+    ],
+    "examples": "कमेले विद्यालयको संचालन हेरे।",
+    "examplesRomanized": "Kame le vidyalay ko sanchalan here.",
+    "exampleEnglish": "The committee oversaw the school's administration.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "सर्वेक्षण",
+    "romanization": "sarvekshan",
+    "pos": "noun",
+    "definitions": [
+      "survey; official assessment or investigation"
+    ],
+    "examples": "सरकारले जनमत सर्वेक्षण गर्‍यो।",
+    "examplesRomanized": "Sarkar le janamat sarvekshan garyo.",
+    "exampleEnglish": "The government conducted a public opinion survey.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "मतदान",
+    "romanization": "matdan",
+    "pos": "noun",
+    "definitions": [
+      "voting; casting a vote"
+    ],
+    "examples": "जनताले मतदानमा भाग लिए।",
+    "examplesRomanized": "Janata le matdan ma bhag liye.",
+    "exampleEnglish": "The public participated in the voting.",
+    "frequency": "high",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "मतगणना",
+    "romanization": "matganna",
+    "pos": "noun",
+    "definitions": [
+      "vote counting; process of tallying votes"
+    ],
+    "examples": "मतगणना तुरुन्त सुरु भयो।",
+    "examplesRomanized": "Matganna turunt suru bhayo.",
+    "exampleEnglish": "Vote counting started immediately.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "प्रशासन",
+    "romanization": "prashasan",
+    "pos": "noun",
+    "definitions": [
+      "administration; running of government affairs"
+    ],
+    "examples": "प्रशासनले योजना कार्यान्वयन गर्‍यो।",
+    "examplesRomanized": "Prashasan le yojana karyanwayan garyo.",
+    "exampleEnglish": "The administration implemented the plan.",
+    "frequency": "high",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "समिती",
+    "romanization": "samiti",
+    "pos": "noun",
+    "definitions": [
+      "committee; formal group for decision-making"
+    ],
+    "examples": "समितीले बैठकमा निर्णय गर्‍यो।",
+    "examplesRomanized": "Samiti le baithak ma nirnaya garyo.",
+    "exampleEnglish": "The committee made a decision in the meeting.",
+    "frequency": "high",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "सचिव",
+    "romanization": "sachiv",
+    "pos": "noun",
+    "definitions": [
+      "Secretary; administrative officer"
+    ],
+    "examples": "सचिवले बैठकको एजेन्डा तयार पारे।",
+    "examplesRomanized": "Sachiv le baithakko agenda tayar paare.",
+    "exampleEnglish": "The Secretary prepared the meeting agenda.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "गाउँपालिका",
+    "romanization": "gaunpalika",
+    "pos": "noun",
+    "definitions": [
+      "Rural municipality; village-level local government"
+    ],
+    "examples": "गाउँपालिकाले स्वास्थ्य शिविर सञ्चालन गर्‍यो।",
+    "examplesRomanized": "Gaunpalika le swasthya shivir saanchalan garyo.",
+    "exampleEnglish": "The rural municipality conducted a health camp.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "निर्वाचन आयोग",
+    "romanization": "nirvachan aayog",
+    "pos": "noun",
+    "definitions": [
+      "Election Commission; body conducting elections"
+    ],
+    "examples": "निर्वाचन आयोगले मतगणना सुरु गर्‍यो।",
+    "examplesRomanized": "Nirvachan aayog le matganna suru garyo.",
+    "exampleEnglish": "The Election Commission started counting votes.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "राज्यसभा",
+    "romanization": "rajyasabha",
+    "pos": "noun",
+    "definitions": [
+      "Upper house of parliament"
+    ],
+    "examples": "राज्यसभामा नयाँ सांसद थपिए।",
+    "examplesRomanized": "Rajyasabha ma naya sansad thapie.",
+    "exampleEnglish": "New members were added to the upper house.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "प्रतिनिधिसभा",
+    "romanization": "pratinidhisabha",
+    "pos": "noun",
+    "definitions": [
+      "House of Representatives; lower house of parliament"
+    ],
+    "examples": "प्रतिनिधिसभाले कानून पारित गर्‍यो।",
+    "examplesRomanized": "Pratinidhisabha le kanoon parit garyo.",
+    "exampleEnglish": "The House of Representatives passed a law.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "राज्यपाल",
+    "romanization": "rajyapal",
+    "pos": "noun",
+    "definitions": [
+      "Governor; head of a state/province"
+    ],
+    "examples": "राज्यपालले समारोह उद्घाटन गरे।",
+    "examplesRomanized": "Rajyapal le samaroha udghatan gare.",
+    "exampleEnglish": "The governor inaugurated the ceremony.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "उपसभापति",
+    "romanization": "upsabhaapati",
+    "pos": "noun",
+    "definitions": [
+      "Deputy Speaker; assists the Speaker"
+    ],
+    "examples": "उपसभापतिले प्रस्ताव पेस गरे।",
+    "examplesRomanized": "Upsabhaapati le prastaav pes gare.",
+    "exampleEnglish": "The Deputy Speaker presented the proposal.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "नागरिक",
+    "romanization": "nagarik",
+    "pos": "noun",
+    "definitions": [
+      "Citizen; member of a state"
+    ],
+    "examples": "नागरिकले मतदान गरे।",
+    "examplesRomanized": "Nagarik le matdaan gare.",
+    "exampleEnglish": "The citizen voted.",
+    "frequency": "high",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "कानून",
+    "romanization": "kanoon",
+    "pos": "noun",
+    "definitions": [
+      "Law; legal statute"
+    ],
+    "examples": "कानूनले सबैलाई समान अधिकार दिन्छ।",
+    "examplesRomanized": "Kanoon le sabailai samaan adhikar dinchha.",
+    "exampleEnglish": "The law gives equal rights to all.",
+    "frequency": "high",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "संकल्प",
+    "romanization": "sankalp",
+    "pos": "noun",
+    "definitions": [
+      "Resolution; formal decision by a governing body"
+    ],
+    "examples": "संसदले नयाँ संकल्प पारित गर्‍यो।",
+    "examplesRomanized": "Sansad le naya sankalp parit garyo.",
+    "exampleEnglish": "The parliament passed a new resolution.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "प्रवक्ता",
+    "romanization": "pravakta",
+    "pos": "noun",
+    "definitions": [
+      "Spokesperson; official representative"
+    ],
+    "examples": "सरकारका प्रवक्ताले जानकारी दिए।",
+    "examplesRomanized": "Sarkarka pravakta le jankari diye.",
+    "exampleEnglish": "The government spokesperson provided information.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "भ्रष्टाचार",
+    "romanization": "bhrastachar",
+    "pos": "noun",
+    "definitions": [
+      "Corruption; misuse of power"
+    ],
+    "examples": "भ्रष्टाचार कम गर्न उपायहरू आवश्यक छन्।",
+    "examplesRomanized": "Bhrastachar kam garnu upayharu aawashyak chhan.",
+    "exampleEnglish": "Measures are necessary to reduce corruption.",
+    "frequency": "high",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "न्यायाधीश",
+    "romanization": "nyayadhish",
+    "pos": "noun",
+    "definitions": [
+      "Judge; judicial authority"
+    ],
+    "examples": "न्यायाधीशले फैसला सुनाए।",
+    "examplesRomanized": "Nyayadhish le faisla sunaye.",
+    "exampleEnglish": "The judge delivered the verdict.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "विधायक",
+    "romanization": "vidhayak",
+    "pos": "noun",
+    "definitions": [
+      "Legislator; member of legislative assembly"
+    ],
+    "examples": "विधायकले नयाँ प्रस्ताव पेश गरे।",
+    "examplesRomanized": "Vidhayak le naya prastaav pesh gare.",
+    "exampleEnglish": "The legislator presented a new proposal.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "मुद्दा",
+    "romanization": "mudda",
+    "pos": "noun",
+    "definitions": [
+      "Case; legal or political issue"
+    ],
+    "examples": "संसदमा महत्वपूर्ण मुद्दा उठ्यो।",
+    "examplesRomanized": "Sansad ma mahatwapurna mudda uthyo.",
+    "exampleEnglish": "An important issue was raised in the parliament.",
+    "frequency": "medium",
+    "category": "governance"
+  },
+  {
+    "DevanagriWord": "सभामुख",
+    "romanization": "sabhamukh",
+    "pos": "noun",
+    "definitions": [
+      "Presiding officer of an assembly"
+    ],
+    "examples": "सभामुखले बैठक सञ्चालन गरे।",
+    "examplesRomanized": "Sabhamukh le baithak saanchalan gare.",
+    "exampleEnglish": "The presiding officer conducted the meeting.",
+    "frequency": "medium",
+    "category": "governance"
+  }
+]

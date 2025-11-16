@@ -1,0 +1,405 @@
+[
+  {
+    "DevanagriWord": "इन्टरनेट",
+    "romanization": "internet",
+    "pos": "noun",
+    "definitions": [
+      "internet"
+    ],
+    "examples": "इन्टरनेटको गति बढाइएको छ।",
+    "examplesRomanized": "internetko gati badhaieko chha.",
+    "exampleEnglish": "Internet speed has been increased.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "कम्प्युटर",
+    "romanization": "computer",
+    "pos": "noun",
+    "definitions": [
+      "computer"
+    ],
+    "examples": "कम्प्युटरमा नयाँ सफ्टवेयर इन्स्टल गरियो।",
+    "examplesRomanized": "computarma naya software install gario.",
+    "exampleEnglish": "New software was installed on the computer.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "मोबाइल",
+    "romanization": "mobile",
+    "pos": "noun",
+    "definitions": [
+      "mobile phone"
+    ],
+    "examples": "मोबाइल चार्ज गर्नुपर्छ।",
+    "examplesRomanized": "mobile charge garnuparchha.",
+    "exampleEnglish": "The mobile phone needs to be charged.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "एप्लिकेशन",
+    "romanization": "application",
+    "pos": "noun",
+    "definitions": [
+      "software application"
+    ],
+    "examples": "एप्लिकेशन अपडेट उपलब्ध छ।",
+    "examplesRomanized": "application update upalabdha chha.",
+    "exampleEnglish": "An application update is available.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "ऊर्जा",
+    "romanization": "urja",
+    "pos": "noun",
+    "definitions": [
+      "energy"
+    ],
+    "examples": "नवीकरणीय ऊर्जाको प्रयोग बढ्दैछ।",
+    "examplesRomanized": "navikaraneya urjako prayog badhdaichha.",
+    "exampleEnglish": "The use of renewable energy is increasing.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "विद्युत",
+    "romanization": "bidyut",
+    "pos": "noun",
+    "definitions": [
+      "electricity"
+    ],
+    "examples": "विद्युत आपूर्ति सामान्य छ।",
+    "examplesRomanized": "bidyut aapurti samanya chha.",
+    "exampleEnglish": "Electricity supply is normal.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "जलविद्युत",
+    "romanization": "jalbidyut",
+    "pos": "noun",
+    "definitions": [
+      "hydropower"
+    ],
+    "examples": "जलविद्युत परियोजना सञ्चालनमा आयो।",
+    "examplesRomanized": "jalbidyut pariyojana sanchaalanma ayo.",
+    "exampleEnglish": "The hydropower project became operational.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "सौर्य",
+    "romanization": "saurya",
+    "pos": "adjective",
+    "definitions": [
+      "solar (related to the sun)"
+    ],
+    "examples": "सौर्य प्यानल छानामा जडान गरियो।",
+    "examplesRomanized": "saurya panel chhanama jadan gario.",
+    "exampleEnglish": "Solar panels were installed on the roof.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "खानेपानी",
+    "romanization": "khane pani",
+    "pos": "noun",
+    "definitions": [
+      "drinking water"
+    ],
+    "examples": "खानेपानीको फिल्टर जाँच गरियो।",
+    "examplesRomanized": "khane paniko filter janch gario.",
+    "exampleEnglish": "The drinking water filter was checked.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "सरसफाइ",
+    "romanization": "sarasafai",
+    "pos": "noun",
+    "definitions": [
+      "sanitation; cleanliness"
+    ],
+    "examples": "सरसफाइका उपाय कडाइका साथ लागू भए।",
+    "examplesRomanized": "sarasafaika upaya kadaika sath lagu bhae.",
+    "exampleEnglish": "Sanitation measures were strictly implemented.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "ढल",
+    "romanization": "dhal",
+    "pos": "noun",
+    "definitions": [
+      "sewer; drainage"
+    ],
+    "examples": "ढल प्रणाली मर्मत गरियो।",
+    "examplesRomanized": "dhal pranali marmat gario.",
+    "exampleEnglish": "The sewer system was repaired.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "वातावरण",
+    "romanization": "batawaran",
+    "pos": "noun",
+    "definitions": [
+      "environment"
+    ],
+    "examples": "वातावरण संरक्षण जरुरी छ।",
+    "examplesRomanized": "batawaran sanrakshan jaruri chha.",
+    "exampleEnglish": "Environmental protection is essential.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "प्रदूषण",
+    "romanization": "pradushan",
+    "pos": "noun",
+    "definitions": [
+      "pollution"
+    ],
+    "examples": "प्रदूषण घटाउन नीतिहरू आवश्यक छन्।",
+    "examplesRomanized": "pradushan ghatauna nitiharu aawashyak chhan.",
+    "exampleEnglish": "Policies are needed to reduce pollution.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "संरक्षण",
+    "romanization": "sanrakshan",
+    "pos": "noun",
+    "definitions": [
+      "conservation; protection"
+    ],
+    "examples": "वन्यजन्तु संरक्षणमा ध्यान दिइनु पर्छ।",
+    "examplesRomanized": "vanyajantu sanrakshanma dhyan diinupardchha.",
+    "exampleEnglish": "Attention must be given to wildlife conservation.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "कम्पाइलर",
+    "romanization": "compiler",
+    "pos": "noun",
+    "definitions": [
+      "compiler"
+    ],
+    "examples": "कम्पाइलरले सोर्स कोडलाई मेसिन कोडमा रूपान्तरण गर्छ।",
+    "examplesRomanized": "compilerle source kodlai mesin kodma rupantaran garcha.",
+    "exampleEnglish": "A compiler converts source code to machine code.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "अल्गोरिदम",
+    "romanization": "algorithm",
+    "pos": "noun",
+    "definitions": [
+      "algorithm"
+    ],
+    "examples": "कार्यक्षमता बढाउन राम्रो अल्गोरिदम आवश्यक छ।",
+    "examplesRomanized": "karyakshamata badauna ramro algorithm aawashyak chha.",
+    "exampleEnglish": "A good algorithm is necessary to improve performance.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "डेटाबेस",
+    "romanization": "database",
+    "pos": "noun",
+    "definitions": [
+      "database"
+    ],
+    "examples": "डेटाबेस ब्याकअप नियमित रूपमा लिनुपर्छ।",
+    "examplesRomanized": "database backup niyamit rupa ma linupardchha.",
+    "exampleEnglish": "Database backups should be taken regularly.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "सर्भर",
+    "romanization": "server",
+    "pos": "noun",
+    "definitions": [
+      "server"
+    ],
+    "examples": "सर्भर डाउन भयो।",
+    "examplesRomanized": "server down bhayo.",
+    "exampleEnglish": "The server went down.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "क्लाउड",
+    "romanization": "cloud",
+    "pos": "noun",
+    "definitions": [
+      "cloud (computing)"
+    ],
+    "examples": "क्लाउडमा फाइलहरू स्टोर गरियो।",
+    "examplesRomanized": "cloudma fileharu store gario.",
+    "exampleEnglish": "Files were stored in the cloud.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "नेटवर्क",
+    "romanization": "network",
+    "pos": "noun",
+    "definitions": [
+      "network"
+    ],
+    "examples": "नेटवर्क कनेक्सन ठीक छ।",
+    "examplesRomanized": "network connection thik chha.",
+    "exampleEnglish": "The network connection is fine.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "फायरवाल",
+    "romanization": "firewall",
+    "pos": "noun",
+    "definitions": [
+      "firewall"
+    ],
+    "examples": "फायरवालले ट्राफिक फिल्टर गर्छ।",
+    "examplesRomanized": "firewall le traffic filter garcha.",
+    "exampleEnglish": "A firewall filters traffic.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "एन्क्रिप्सन",
+    "romanization": "encryption",
+    "pos": "noun",
+    "definitions": [
+      "encryption"
+    ],
+    "examples": "एन्क्रिप्सनले डाटा सुरक्षित हुन्छ।",
+    "examplesRomanized": "encryption le data surakshit hunchha.",
+    "exampleEnglish": "Encryption secures data.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "आईटी",
+    "romanization": "IT",
+    "pos": "noun",
+    "definitions": [
+      "information technology"
+    ],
+    "examples": "आईटी सेवाहरू आवश्यक छन्।",
+    "examplesRomanized": "IT sewa haru aawashyak chhan.",
+    "exampleEnglish": "IT services are necessary.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "सूचना",
+    "romanization": "suchana",
+    "pos": "noun",
+    "definitions": [
+      "information"
+    ],
+    "examples": "सूचना व्यवस्थापन महत्त्वपूर्ण छ।",
+    "examplesRomanized": "suchana byawasthapan mahatvapurna chha.",
+    "exampleEnglish": "Information management is important.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "प्रविधि",
+    "romanization": "prabidhi",
+    "pos": "noun",
+    "definitions": [
+      "technology"
+    ],
+    "examples": "प्रविधिको विकास तीव्र छ।",
+    "examplesRomanized": "prabidhiko bikas tivra chha.",
+    "exampleEnglish": "Technology is advancing rapidly.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "राउटर",
+    "romanization": "router",
+    "pos": "noun",
+    "definitions": [
+      "router"
+    ],
+    "examples": "राउटर पुनःसञ्चालन गरियो।",
+    "examplesRomanized": "router punahsanchalan gario.",
+    "exampleEnglish": "The router was restarted.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "स्विच",
+    "romanization": "switch",
+    "pos": "noun",
+    "definitions": [
+      "switch"
+    ],
+    "examples": "स्विच अन गर्नुहोस्।",
+    "examplesRomanized": "switch on garnuhos.",
+    "exampleEnglish": "Please turn on the switch.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "मोडेम",
+    "romanization": "modem",
+    "pos": "noun",
+    "definitions": [
+      "modem"
+    ],
+    "examples": "मोडेमको सिग्नल घट्यो।",
+    "examplesRomanized": "modemko signal ghathyo.",
+    "exampleEnglish": "The modem's signal dropped.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "कृत्रिम बुद्धिमत्ता",
+    "romanization": "kritrim buddhimatta",
+    "pos": "noun",
+    "definitions": [
+      "artificial intelligence (AI)"
+    ],
+    "examples": "कृत्रिम बुद्धिमत्ताले उद्योग स्वचालित बनाउँदैछ।",
+    "examplesRomanized": "kritrim buddhimattale udyog swachalit banaudai chha.",
+    "exampleEnglish": "Artificial intelligence is automating industries.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "रोबोट",
+    "romanization": "robot",
+    "pos": "noun",
+    "definitions": [
+      "robot"
+    ],
+    "examples": "रोबोटले गोदाममा सामान छानेर राख्छ।",
+    "examplesRomanized": "robotle godamma saman chhanera rakhchha.",
+    "exampleEnglish": "Robots sort and store items in warehouses.",
+    "frequency": "medium",
+    "category": "technology"
+  },
+  {
+    "DevanagriWord": "ब्लकचेइन",
+    "romanization": "blockchain",
+    "pos": "noun",
+    "definitions": [
+      "blockchain"
+    ],
+    "examples": "ब्लकचेइनले लेनदेन सुरक्षित रूपमा दर्ता गर्छ।",
+    "examplesRomanized": "blockchain le len-den surakshit rupa ma darta garcha.",
+    "exampleEnglish": "Blockchain records transactions securely.",
+    "frequency": "low",
+    "category": "technology"
+  }
+]

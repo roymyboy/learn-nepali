@@ -1,0 +1,444 @@
+[
+  {
+    "DevanagriWord": "दक्षिण",
+    "romanization": "dakshin",
+    "pos": "noun",
+    "definitions": [
+      "south"
+    ],
+    "examples": "दक्षिणतिर जानुहोस्।",
+    "examplesRomanized": "dakshin tira januhos.",
+    "exampleEnglish": "Please go towards the south.",
+    "frequency": "high",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "उत्तर",
+    "romanization": "uttar",
+    "pos": "noun",
+    "definitions": [
+      "north"
+    ],
+    "examples": "उत्तरतिर जानुहोस्।",
+    "examplesRomanized": "uttar tira januhos.",
+    "exampleEnglish": "Please go towards the north.",
+    "frequency": "high",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "पूर्व",
+    "romanization": "purba",
+    "pos": "noun",
+    "definitions": [
+      "east"
+    ],
+    "examples": "पूर्वतिर जानुहोस्।",
+    "examplesRomanized": "purba tira januhos.",
+    "exampleEnglish": "Please go towards the east.",
+    "frequency": "high",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "पश्चिम",
+    "romanization": "pashchim",
+    "pos": "noun",
+    "definitions": [
+      "west"
+    ],
+    "examples": "पश्चिमतिर जानुहोस्।",
+    "examplesRomanized": "pashchim tira januhos.",
+    "exampleEnglish": "Please go towards the west.",
+    "frequency": "high",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "दायाँ",
+    "romanization": "daya",
+    "pos": "adverb",
+    "definitions": [
+      "to the right"
+    ],
+    "examples": "दायाँतिर मोड्नुहोस्।",
+    "examplesRomanized": "daya tira modnuhos.",
+    "exampleEnglish": "Turn right.",
+    "frequency": "high",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "बायाँ",
+    "romanization": "baya",
+    "pos": "adverb",
+    "definitions": [
+      "to the left"
+    ],
+    "examples": "बायाँतिर मोड्नुहोस्।",
+    "examplesRomanized": "baya tira modnuhos.",
+    "exampleEnglish": "Turn left.",
+    "frequency": "high",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "सिधा",
+    "romanization": "sidha",
+    "pos": "adverb",
+    "definitions": [
+      "straight"
+    ],
+    "examples": "सिधै जानुहोस्।",
+    "examplesRomanized": "sidhai januhos.",
+    "exampleEnglish": "Go straight.",
+    "frequency": "high",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "उतारो",
+    "romanization": "utaro",
+    "pos": "noun",
+    "definitions": [
+      "downward slope; decline"
+    ],
+    "examples": "उतारोतिर बाटो छ।",
+    "examplesRomanized": "utaro tira bato chha.",
+    "exampleEnglish": "The path goes downhill.",
+    "frequency": "high",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "उकालो",
+    "romanization": "ukalo",
+    "pos": "noun",
+    "definitions": [
+      "uphill; ascent"
+    ],
+    "examples": "उकालोतिर बाटो छ।",
+    "examplesRomanized": "ukalo tira bato chha.",
+    "exampleEnglish": "The path goes uphill.",
+    "frequency": "high",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "ओरालो",
+    "romanization": "oralo",
+    "pos": "noun",
+    "definitions": [
+      "downhill; downward direction"
+    ],
+    "examples": "ओरालोतिर बिस्तारै जानुहोस्।",
+    "examplesRomanized": "oralo tira bistarai januhos.",
+    "exampleEnglish": "Go slowly downhill.",
+    "frequency": "high",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "उत्तरपूर्व",
+    "romanization": "uttar purba",
+    "pos": "noun",
+    "definitions": [
+      "northeast"
+    ],
+    "examples": "उत्तरपूर्वतिर अघि बढ्नुहोस्।",
+    "examplesRomanized": "uttar purbatira aghi badnuhos.",
+    "exampleEnglish": "Proceed toward the northeast.",
+    "frequency": "medium",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "उत्तरपश्चिम",
+    "romanization": "uttar pashchim",
+    "pos": "noun",
+    "definitions": [
+      "northwest"
+    ],
+    "examples": "गाउँ उत्तरपश्चिमतिर छ।",
+    "examplesRomanized": "gaun uttar pashchimtira chha.",
+    "exampleEnglish": "The village is to the northwest.",
+    "frequency": "medium",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "दक्षिणपूर्व",
+    "romanization": "dakshin purba",
+    "pos": "noun",
+    "definitions": [
+      "southeast"
+    ],
+    "examples": "नदी दक्षिणपूर्वतिर बग्छ।",
+    "examplesRomanized": "nadi dakshin purbatira bagchha.",
+    "exampleEnglish": "The river flows to the southeast.",
+    "frequency": "medium",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "दक्षिणपश्चिम",
+    "romanization": "dakshin pashchim",
+    "pos": "noun",
+    "definitions": [
+      "southwest"
+    ],
+    "examples": "डाँडो दक्षिणपश्चिमतिर पर्दछ।",
+    "examplesRomanized": "dando dakshin pashchimtira pardachha.",
+    "exampleEnglish": "The hill lies to the southwest.",
+    "frequency": "medium",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "नजिक",
+    "romanization": "najik",
+    "pos": "adverb",
+    "definitions": [
+      "near; nearby"
+    ],
+    "examples": "नजिकको चोकबाट दायाँ मोड्नुहोस्।",
+    "examplesRomanized": "najikko chok bata dayaa modnuhos.",
+    "exampleEnglish": "At the nearby junction, turn right.",
+    "frequency": "high",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "टाढा",
+    "romanization": "tadha",
+    "pos": "adverb",
+    "definitions": [
+      "far; distant"
+    ],
+    "examples": "टाढातिर करिब दुई किलोमिटर छ।",
+    "examplesRomanized": "tadhatira karib dui kilomitar chha.",
+    "exampleEnglish": "It is about two kilometers farther.",
+    "frequency": "medium",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "वरिपरि",
+    "romanization": "varipari",
+    "pos": "adverb",
+    "definitions": [
+      "around; surrounding"
+    ],
+    "examples": "वरिपरि एक फन्को लगाउनुहोस्।",
+    "examplesRomanized": "varipari ek phanko lagau n uh o s.",
+    "exampleEnglish": "Go around once.",
+    "frequency": "medium",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "बीचमा",
+    "romanization": "bichma",
+    "pos": "adverb",
+    "definitions": [
+      "in the middle; between"
+    ],
+    "examples": "दुई घरबीचमा छ।",
+    "examplesRomanized": "dui ghar bichma chha.",
+    "exampleEnglish": "It is between two houses.",
+    "frequency": "medium",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "छेउमा",
+    "romanization": "chheuma",
+    "pos": "adverb",
+    "definitions": [
+      "beside; next to"
+    ],
+    "examples": "पुलको छेउमा रोक्नुहोस्।",
+    "examplesRomanized": "pulko chheuma roknuhos.",
+    "exampleEnglish": "Stop next to the bridge.",
+    "frequency": "high",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "सामुन्ने",
+    "romanization": "samunne",
+    "pos": "adverb",
+    "definitions": [
+      "opposite; across from"
+    ],
+    "examples": "सामुन्नेतिर देखिएको घर।",
+    "examplesRomanized": "samunnetira dekhiye ko ghar.",
+    "exampleEnglish": "The house across from us.",
+    "frequency": "medium",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "पारि",
+    "romanization": "pari",
+    "pos": "adverb",
+    "definitions": [
+      "across; on the other side"
+    ],
+    "examples": "नदीको पारितिर छ।",
+    "examplesRomanized": "nadiko paritira chha.",
+    "exampleEnglish": "It is across the river.",
+    "frequency": "medium",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "घडीको दिशामा",
+    "romanization": "ghadiko dishama",
+    "pos": "adverb",
+    "definitions": [
+      "clockwise"
+    ],
+    "examples": "घडीको दिशामा घुम्नुहोस्।",
+    "examplesRomanized": "ghadiko dishama ghumnuhos.",
+    "exampleEnglish": "Rotate clockwise.",
+    "frequency": "low",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "घडीको विपरीत",
+    "romanization": "ghadiko biparit",
+    "pos": "adverb",
+    "definitions": [
+      "counterclockwise"
+    ],
+    "examples": "घडीको विपरीत दिशामा घुम्नुहोस्।",
+    "examplesRomanized": "ghadiko biparit dishama ghumnuhos.",
+    "exampleEnglish": "Rotate counterclockwise.",
+    "frequency": "low",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "यु–टर्न",
+    "romanization": "u-turn",
+    "pos": "noun",
+    "definitions": [
+      "U-turn"
+    ],
+    "examples": "यहाँ यु–टर्न गर्नुहोस्।",
+    "examplesRomanized": "yahaa u-turn garnuhos.",
+    "exampleEnglish": "Make a U-turn here.",
+    "frequency": "medium",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "चौराहा",
+    "romanization": "chauraha",
+    "pos": "noun",
+    "definitions": [
+      "intersection; crossroads"
+    ],
+    "examples": "चौराहामा बायाँ मोड्नुहोस्।",
+    "examplesRomanized": "chaurahama bayaa modnuhos.",
+    "exampleEnglish": "Turn left at the intersection.",
+    "frequency": "high",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "गल्ली",
+    "romanization": "galli",
+    "pos": "noun",
+    "definitions": [
+      "alley; lane"
+    ],
+    "examples": "गल्लीभित्र पस्नुहोस्।",
+    "examplesRomanized": "galli bhitra pasnuhos.",
+    "exampleEnglish": "Enter the alley.",
+    "frequency": "high",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "मोड",
+    "romanization": "mod",
+    "pos": "noun",
+    "definitions": [
+      "turn; bend"
+    ],
+    "examples": "अर्को मोडपछि दायाँ।",
+    "examplesRomanized": "arko modpachi dayaa.",
+    "exampleEnglish": "Right after the next bend.",
+    "frequency": "high",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "रिंग रोड",
+    "romanization": "ring road",
+    "pos": "noun",
+    "definitions": [
+      "ring road"
+    ],
+    "examples": "रिंग रोडबाट बाहिरी परिक्रमा गर्नुहोस्।",
+    "examplesRomanized": "ring road bata bahiri parikrama garnuhos.",
+    "exampleEnglish": "Take the ring road around the city.",
+    "frequency": "medium",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "बाइपास",
+    "romanization": "bypass",
+    "pos": "noun",
+    "definitions": [
+      "bypass"
+    ],
+    "examples": "जाम छ भने बाइपास मार्ग समात्नुहोस्।",
+    "examplesRomanized": "jam chha bhane bypass marg samatnuhos.",
+    "exampleEnglish": "If it's jammed, take the bypass route.",
+    "frequency": "medium",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "डाइभर्सन",
+    "romanization": "diversion",
+    "pos": "noun",
+    "definitions": [
+      "diversion; detour"
+    ],
+    "examples": "अगाडि सडक डाइभर्सन छ।",
+    "examplesRomanized": "agadi sadak diversion chha.",
+    "exampleEnglish": "There is a road diversion ahead.",
+    "frequency": "medium",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "युटर्न–बिन्दु",
+    "romanization": "u-turn bindu",
+    "pos": "noun",
+    "definitions": [
+      "U-turn point"
+    ],
+    "examples": "युटर्न–बिन्दु ५० मिटर अगाडि छ।",
+    "examplesRomanized": "u-turn bindu 50 mitar agadi chha.",
+    "exampleEnglish": "The U-turn point is 50 meters ahead.",
+    "frequency": "low",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "राउन्डअबाउट",
+    "romanization": "roundabout",
+    "pos": "noun",
+    "definitions": [
+      "roundabout"
+    ],
+    "examples": "राउन्डअबाउटमा दोस्रो एक्जिट लिनुहोस्।",
+    "examplesRomanized": "roundabout ma dosro exit linuhos.",
+    "exampleEnglish": "Take the second exit at the roundabout.",
+    "frequency": "medium",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "ओभरपास",
+    "romanization": "overpass",
+    "pos": "noun",
+    "definitions": [
+      "overpass; flyover"
+    ],
+    "examples": "ओभरपास पारेर दायाँ मोड्नुहोस्।",
+    "examplesRomanized": "overpass parera dayaa modnuhos.",
+    "exampleEnglish": "After the overpass, turn right.",
+    "frequency": "low",
+    "category": "directions"
+  },
+  {
+    "DevanagriWord": "अन्डरपास",
+    "romanization": "underpass",
+    "pos": "noun",
+    "definitions": [
+      "underpass"
+    ],
+    "examples": "अन्डरपास हुँदै सिधै जानुहोस्।",
+    "examplesRomanized": "underpass hundai sidhai januhos.",
+    "exampleEnglish": "Go straight through the underpass.",
+    "frequency": "low",
+    "category": "directions"
+  }
+]

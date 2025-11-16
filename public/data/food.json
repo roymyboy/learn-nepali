@@ -1,0 +1,3681 @@
+[
+  {
+    "DevanagriWord": "करेला",
+    "romanization": "karela",
+    "pos": "noun",
+    "definitions": [
+      "bitter gourd"
+    ],
+    "examples": "आज करेलाको तरकारी बनाइयो।",
+    "examplesRomanized": "aaj karelako tarakari banaiyo.",
+    "exampleEnglish": "Bitter gourd curry was made today.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "मुला",
+    "romanization": "mula",
+    "pos": "noun",
+    "definitions": [
+      "radish"
+    ],
+    "examples": "मुलाको अचार धेरै मनपर्छ।",
+    "examplesRomanized": "mulako achar dherai manparchha.",
+    "exampleEnglish": "I really like radish pickle.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "दालभात",
+    "romanization": "dal bhat",
+    "pos": "noun",
+    "definitions": [
+      "lentils and rice (staple Nepali meal)"
+    ],
+    "examples": "हामीले दालभात खायौं।",
+    "examplesRomanized": "hamile dal bhat khayau.",
+    "exampleEnglish": "We ate dal bhat.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "तरकारी",
+    "romanization": "tarkari",
+    "pos": "noun",
+    "definitions": [
+      "vegetable curry"
+    ],
+    "examples": "ताजा तरकारी पकाइयो।",
+    "examplesRomanized": "taja tarkari pakaiyo.",
+    "exampleEnglish": "Fresh vegetable curry was cooked.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "अचार",
+    "romanization": "achar",
+    "pos": "noun",
+    "definitions": [
+      "pickle; chutney"
+    ],
+    "examples": "टमाटरको अचार बनाइयो।",
+    "examplesRomanized": "tamatar ko achar banaiyo.",
+    "exampleEnglish": "Tomato pickle was made.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "मोमो",
+    "romanization": "momo",
+    "pos": "noun",
+    "definitions": [
+      "dumplings"
+    ],
+    "examples": "मोलासँग मोमो खायौं।",
+    "examplesRomanized": "molasanga momo khayau.",
+    "exampleEnglish": "We ate momos with sauce.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "गुन्द्रुक",
+    "romanization": "gundruk",
+    "pos": "noun",
+    "definitions": [
+      "fermented leafy greens"
+    ],
+    "examples": "गुन्द्रुकको झोल बनाइयो।",
+    "examplesRomanized": "gundrukko jhol banaiyo.",
+    "exampleEnglish": "Gundruk soup was prepared.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "ढिँडो",
+    "romanization": "dhindo",
+    "pos": "noun",
+    "definitions": [
+      "thick porridge (traditional staple)"
+    ],
+    "examples": "ढिँडो घ्युसँग खाइयो।",
+    "examplesRomanized": "dhindo ghyu sanga khaiyo.",
+    "exampleEnglish": "Dhindo was eaten with ghee.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सेलरोटी",
+    "romanization": "sel roti",
+    "pos": "noun",
+    "definitions": [
+      "sweet ring-shaped rice bread"
+    ],
+    "examples": "तिहारमा सेलरोटी बनाइन्छ।",
+    "examplesRomanized": "tiharma sel roti banainchha.",
+    "exampleEnglish": "Sel roti is made during Tihar.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "फलफूल",
+    "romanization": "phalful",
+    "pos": "noun",
+    "definitions": [
+      "fruits"
+    ],
+    "examples": "ताजा फलफूल स्वस्थ हुन्छ।",
+    "examplesRomanized": "taja phalful swastha hunchha.",
+    "exampleEnglish": "Fresh fruits are healthy.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "प्याज",
+    "romanization": "pyaj",
+    "pos": "noun",
+    "definitions": [
+      "onion"
+    ],
+    "examples": "तरकारीमा प्याज राखियो।",
+    "examplesRomanized": "tarkarima pyaj rakhiyo.",
+    "exampleEnglish": "Onion was added to the curry.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "लसुन",
+    "romanization": "lasun",
+    "pos": "noun",
+    "definitions": [
+      "garlic"
+    ],
+    "examples": "लसुनले स्वाद बढाउँछ।",
+    "examplesRomanized": "lasunle swad badaunchha.",
+    "exampleEnglish": "Garlic enhances flavor.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "अदुवा",
+    "romanization": "aduwa",
+    "pos": "noun",
+    "definitions": [
+      "ginger"
+    ],
+    "examples": "अदुवाको चिया बनाइयो।",
+    "examplesRomanized": "aduwako chiya banaiyo.",
+    "exampleEnglish": "Ginger tea was prepared.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "बन्दगोभी",
+    "romanization": "bandagobhi",
+    "pos": "noun",
+    "definitions": [
+      "cabbage"
+    ],
+    "examples": "बन्दगोभीको तरकारी बनाइयो।",
+    "examplesRomanized": "bandagobhiko tarkari banaiyo.",
+    "exampleEnglish": "Cabbage curry was made.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "काउली",
+    "romanization": "kauli",
+    "pos": "noun",
+    "definitions": [
+      "cauliflower"
+    ],
+    "examples": "काउली आलु बनाएर खायौं।",
+    "examplesRomanized": "kauli alu banaera khayau.",
+    "exampleEnglish": "We ate cauliflower and potatoes.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "फर्सी",
+    "romanization": "pharsi",
+    "pos": "noun",
+    "definitions": [
+      "pumpkin"
+    ],
+    "examples": "फर्सीको तरकारी स्वादिलो भयो।",
+    "examplesRomanized": "pharsiko tarkari swadilo bhayo.",
+    "exampleEnglish": "The pumpkin curry was tasty.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "तोरी",
+    "romanization": "tori",
+    "pos": "noun",
+    "definitions": [
+      "mustard greens"
+    ],
+    "examples": "तोरीको साग पकाइयो।",
+    "examplesRomanized": "toriko saag pakaiyo.",
+    "exampleEnglish": "Mustard greens were cooked.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भिन्डी",
+    "romanization": "bhindi",
+    "pos": "noun",
+    "definitions": [
+      "okra"
+    ],
+    "examples": "भिन्डी फ्राइ गरियो।",
+    "examplesRomanized": "bhindi phrai gariyo.",
+    "exampleEnglish": "Okra was stir-fried.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "तरुल",
+    "romanization": "tarul",
+    "pos": "noun",
+    "definitions": [
+      "yam (taro root)"
+    ],
+    "examples": "तरुल उमालेर खाइयो।",
+    "examplesRomanized": "tarul umalera khaiyo.",
+    "exampleEnglish": "Taro was boiled and eaten.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "मटर",
+    "romanization": "matar",
+    "pos": "noun",
+    "definitions": [
+      "peas"
+    ],
+    "examples": "मटर पनीर बनाइयो।",
+    "examplesRomanized": "matar paneer banaiyo.",
+    "exampleEnglish": "Matar paneer was prepared.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सिमी",
+    "romanization": "simi",
+    "pos": "noun",
+    "definitions": [
+      "beans"
+    ],
+    "examples": "सिमी आलु पकाइयो।",
+    "examplesRomanized": "simi alu pakaiyo.",
+    "exampleEnglish": "Beans and potatoes were cooked.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "काँक्रो",
+    "romanization": "kankro",
+    "pos": "noun",
+    "definitions": [
+      "cucumber"
+    ],
+    "examples": "सलादमा काँक्रो राखियो।",
+    "examplesRomanized": "saladma kankro rakhiyo.",
+    "exampleEnglish": "Cucumber was added to the salad.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "धनियाँ",
+    "romanization": "dhaniya",
+    "pos": "noun",
+    "definitions": [
+      "coriander; cilantro"
+    ],
+    "examples": "धनियाँले सुगन्ध बढाउँछ।",
+    "examplesRomanized": "dhaniyale sugandh badaunchha.",
+    "exampleEnglish": "Coriander adds aroma.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "मेथी",
+    "romanization": "methi",
+    "pos": "noun",
+    "definitions": [
+      "fenugreek"
+    ],
+    "examples": "मेथीको झोल बनाइयो।",
+    "examplesRomanized": "methiko jhol banaiyo.",
+    "exampleEnglish": "Fenugreek soup was made.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भन्टा",
+    "romanization": "bhanta",
+    "pos": "noun",
+    "definitions": [
+      "eggplant; brinjal"
+    ],
+    "examples": "भन्टा तरकारी स्वादिलो भयो।",
+    "examplesRomanized": "bhanta tarkari swadilo bhayo.",
+    "exampleEnglish": "The eggplant curry turned out tasty.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "केराउ",
+    "romanization": "kerau",
+    "pos": "noun",
+    "definitions": [
+      "green peas"
+    ],
+    "examples": "केराउको सूप बनाइयो।",
+    "examplesRomanized": "kerauko sup banaiyo.",
+    "exampleEnglish": "Pea soup was prepared.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "लौका",
+    "romanization": "lauka",
+    "pos": "noun",
+    "definitions": [
+      "bottle gourd"
+    ],
+    "examples": "लौकाको तरकारी हल्का हुन्छ।",
+    "examplesRomanized": "laukako tarkari halka hunchha.",
+    "exampleEnglish": "Bottle gourd curry is light.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "थुक्पा",
+    "romanization": "thukpa",
+    "pos": "noun",
+    "definitions": [
+      "Tibetan-style noodle soup"
+    ],
+    "examples": "थुक्पा जाडोमा तात्तातो खान मनपर्छ।",
+    "examplesRomanized": "thukpa jado ma tattato khana manparchha.",
+    "exampleEnglish": "Hot thukpa is enjoyable in winter.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "छेउमिन",
+    "romanization": "chaumin",
+    "pos": "noun",
+    "definitions": [
+      "chow mein; stir-fried noodles"
+    ],
+    "examples": "छेउमिनमा तरकारी र अण्डा राखियो।",
+    "examplesRomanized": "chauminma tarkari ra anda rakhiyo.",
+    "exampleEnglish": "Vegetables and egg were added to the chow mein.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "छ्याउला",
+    "romanization": "chhyaula",
+    "pos": "noun",
+    "definitions": [
+      "spiced minced meat (Nepali dish)"
+    ],
+    "examples": "छ्याउला आज विशेष परिकार थियो।",
+    "examplesRomanized": "chhyaula aaj vishesh parikar thiyo.",
+    "exampleEnglish": "Chhyaula was today's special dish.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "चामल",
+    "romanization": "chamal",
+    "pos": "noun",
+    "definitions": [
+      "rice (uncooked)"
+    ],
+    "examples": "आज चामल पकाएर भात बनाइयो।",
+    "examplesRomanized": "aaj chamal pakayera bhat banaiyo.",
+    "exampleEnglish": "Rice was cooked to make bhat.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भात",
+    "romanization": "bhat",
+    "pos": "noun",
+    "definitions": [
+      "cooked rice"
+    ],
+    "examples": "दालसँग भात खाइयो।",
+    "examplesRomanized": "dal sanga bhat khaiyo.",
+    "exampleEnglish": "Rice was eaten with dal.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "दाल",
+    "romanization": "dal",
+    "pos": "noun",
+    "definitions": [
+      "lentils"
+    ],
+    "examples": "दाल उमालेर बनाइयो।",
+    "examplesRomanized": "dal umalera banaiyo.",
+    "exampleEnglish": "Lentil soup was prepared.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "चिउरा",
+    "romanization": "chiura",
+    "pos": "noun",
+    "definitions": [
+      "beaten rice"
+    ],
+    "examples": "चिउरा र दही खाइयो।",
+    "examplesRomanized": "chiura ra dahi khaiyo.",
+    "exampleEnglish": "Beaten rice and yogurt were eaten.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "दही",
+    "romanization": "dahi",
+    "pos": "noun",
+    "definitions": [
+      "yogurt"
+    ],
+    "examples": "दही ताजा थियो।",
+    "examplesRomanized": "dahi taja thiyo.",
+    "exampleEnglish": "The yogurt was fresh.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "दूध",
+    "romanization": "dudh",
+    "pos": "noun",
+    "definitions": [
+      "milk"
+    ],
+    "examples": "दूध नास्तामा पिइयो।",
+    "examplesRomanized": "dudh nastama piiyo.",
+    "exampleEnglish": "Milk was drunk at breakfast.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "घ्यू",
+    "romanization": "ghyu",
+    "pos": "noun",
+    "definitions": [
+      "ghee"
+    ],
+    "examples": "घ्यूले स्वाद बढायो।",
+    "examplesRomanized": "ghyule swad badayo.",
+    "exampleEnglish": "Ghee enhanced the flavor.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "माछा",
+    "romanization": "machha",
+    "pos": "noun",
+    "definitions": [
+      "fish"
+    ],
+    "examples": "आज ताजा माछा पकाइयो।",
+    "examplesRomanized": "aaj taja machha pakaiyo.",
+    "exampleEnglish": "Fresh fish was cooked today.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "कुखुराको मासु",
+    "romanization": "khukhurako masu",
+    "pos": "noun",
+    "definitions": [
+      "chicken meat"
+    ],
+    "examples": "कुखुराको मासु फ्राइ गरियो।",
+    "examplesRomanized": "khukhurako masu phrai gariyo.",
+    "exampleEnglish": "The chicken was stir-fried.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "खसीको मासु",
+    "romanization": "khasi ko masu",
+    "pos": "noun",
+    "definitions": [
+      "goat meat"
+    ],
+    "examples": "खसीको मासु झोल बनाइयो।",
+    "examplesRomanized": "khasi ko masu jhol banaiyo.",
+    "exampleEnglish": "Goat meat curry was prepared.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "अण्डा",
+    "romanization": "anda",
+    "pos": "noun",
+    "definitions": [
+      "egg"
+    ],
+    "examples": "अण्डा उबालियो।",
+    "examplesRomanized": "anda ubaliyo.",
+    "exampleEnglish": "Eggs were boiled.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "आलु",
+    "romanization": "alu",
+    "pos": "noun",
+    "definitions": [
+      "potato"
+    ],
+    "examples": "आलुको तरकारी बनाइयो।",
+    "examplesRomanized": "aluko tarkari banaiyo.",
+    "exampleEnglish": "Potato curry was prepared.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "टमाटर",
+    "romanization": "tamatar",
+    "pos": "noun",
+    "definitions": [
+      "tomato"
+    ],
+    "examples": "टमाटर सलादमा राखियो।",
+    "examplesRomanized": "tamatar saladma rakhiyo.",
+    "exampleEnglish": "Tomato was added to the salad.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "च्याउ",
+    "romanization": "chyau",
+    "pos": "noun",
+    "definitions": [
+      "mushroom"
+    ],
+    "examples": "च्याउको झोल पकाइयो।",
+    "examplesRomanized": "chyaauko jhol pakaiyo.",
+    "exampleEnglish": "Mushroom soup was cooked.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "खिर",
+    "romanization": "khir",
+    "pos": "noun",
+    "definitions": [
+      "rice pudding"
+    ],
+    "examples": "आज खिर बनाइयो।",
+    "examplesRomanized": "aaj khir banaiyo.",
+    "exampleEnglish": "Rice pudding was prepared today.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "समोसा",
+    "romanization": "samosa",
+    "pos": "noun",
+    "definitions": [
+      "samosa"
+    ],
+    "examples": "समोसा चिया पसलमा खाइयो।",
+    "examplesRomanized": "samosa chiya pasalma khaiyo.",
+    "exampleEnglish": "Samosa was eaten at the tea shop.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "पकौडा",
+    "romanization": "pakoda",
+    "pos": "noun",
+    "definitions": [
+      "fritters"
+    ],
+    "examples": "पकौडा तात्तातो खाइयो।",
+    "examplesRomanized": "pakoda tattato khaiyo.",
+    "exampleEnglish": "Hot fritters were eaten.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "चिया",
+    "romanization": "chiya",
+    "pos": "noun",
+    "definitions": [
+      "tea"
+    ],
+    "examples": "चिया बिहान पिइयो।",
+    "examplesRomanized": "chiya bihan piiyo.",
+    "exampleEnglish": "Tea was drunk in the morning.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "कफी",
+    "romanization": "kafi",
+    "pos": "noun",
+    "definitions": [
+      "coffee"
+    ],
+    "examples": "कफी साँझ पिइयो।",
+    "examplesRomanized": "kafi sanjh piiyo.",
+    "exampleEnglish": "Coffee was drunk in the evening.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "लस्सी",
+    "romanization": "lassi",
+    "pos": "noun",
+    "definitions": [
+      "yogurt drink"
+    ],
+    "examples": "लस्सी मिठो लाग्यो।",
+    "examplesRomanized": "lassi mitho lagyo.",
+    "exampleEnglish": "The lassi tasted good.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "बेसार",
+    "romanization": "besar",
+    "pos": "noun",
+    "definitions": [
+      "turmeric"
+    ],
+    "examples": "बेसारले रङ र स्वाद थप्यो।",
+    "examplesRomanized": "besar le rang ra swad thapyo.",
+    "exampleEnglish": "Turmeric added color and flavor.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "जिरा",
+    "romanization": "jira",
+    "pos": "noun",
+    "definitions": [
+      "cumin"
+    ],
+    "examples": "जिराले सुगन्ध थप्यो।",
+    "examplesRomanized": "jirale sugandh thapyo.",
+    "exampleEnglish": "Cumin added aroma.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "मरिच",
+    "romanization": "marich",
+    "pos": "noun",
+    "definitions": [
+      "black pepper"
+    ],
+    "examples": "मरिच पिसेर राखियो।",
+    "examplesRomanized": "marich pisera rakhiyo.",
+    "exampleEnglish": "Black pepper was ground and added.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "नुन",
+    "romanization": "nun",
+    "pos": "noun",
+    "definitions": [
+      "salt"
+    ],
+    "examples": "नुन स्वादअनुसार राखियो।",
+    "examplesRomanized": "nun swadanusar rakhiyo.",
+    "exampleEnglish": "Salt was added to taste.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "चिनी",
+    "romanization": "chini",
+    "pos": "noun",
+    "definitions": [
+      "sugar"
+    ],
+    "examples": "चिनी कम राखियो।",
+    "examplesRomanized": "chini kam rakhiyo.",
+    "exampleEnglish": "Less sugar was added.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "रोटी",
+    "romanization": "roti",
+    "pos": "noun",
+    "definitions": [
+      "flatbread"
+    ],
+    "examples": "आज रोटी पकाइयो।",
+    "examplesRomanized": "aaj roti pakaiyo.",
+    "exampleEnglish": "Roti was cooked today.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "चपाती",
+    "romanization": "chapati",
+    "pos": "noun",
+    "definitions": [
+      "chapati"
+    ],
+    "examples": "चपाती घ्यूसँग खाइयो।",
+    "examplesRomanized": "chapati ghyu sanga khaiyo.",
+    "exampleEnglish": "Chapati was eaten with ghee.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "पराठा",
+    "romanization": "paratha",
+    "pos": "noun",
+    "definitions": [
+      "layered flatbread"
+    ],
+    "examples": "पराठा घ्यूमा सेकेको थियो।",
+    "examplesRomanized": "paratha ghyuma sekeko thiyo.",
+    "exampleEnglish": "Paratha was roasted in ghee.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "पुरी",
+    "romanization": "puri",
+    "pos": "noun",
+    "definitions": [
+      "deep-fried bread"
+    ],
+    "examples": "पुरी तारेको खाइयो।",
+    "examplesRomanized": "puri tareko khaiyo.",
+    "exampleEnglish": "Fried puri was eaten.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "नान",
+    "romanization": "naan",
+    "pos": "noun",
+    "definitions": [
+      "naan"
+    ],
+    "examples": "नान तन्दुरीमा पकाइयो।",
+    "examplesRomanized": "naan tandurima pakaiyo.",
+    "exampleEnglish": "Naan was cooked in the tandoor.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भटमास",
+    "romanization": "bhatmas",
+    "pos": "noun",
+    "definitions": [
+      "soybean"
+    ],
+    "examples": "भटमास भुटेर खाइयो।",
+    "examplesRomanized": "bhatmas bhutera khaiyo.",
+    "exampleEnglish": "Soybeans were roasted and eaten.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "राजमा",
+    "romanization": "rajma",
+    "pos": "noun",
+    "definitions": [
+      "kidney beans"
+    ],
+    "examples": "राजमाको झोल बनाइयो।",
+    "examplesRomanized": "rajmako jhol banaiyo.",
+    "exampleEnglish": "Kidney bean curry was prepared.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "चना",
+    "romanization": "chana",
+    "pos": "noun",
+    "definitions": [
+      "chickpeas"
+    ],
+    "examples": "चना उसिनेर बनाइयो।",
+    "examplesRomanized": "chana usinera banaiyo.",
+    "exampleEnglish": "Chickpeas were boiled and prepared.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "मकै",
+    "romanization": "makai",
+    "pos": "noun",
+    "definitions": [
+      "maize; corn"
+    ],
+    "examples": "मकै भुटेर खाइयो।",
+    "examplesRomanized": "makai bhutera khaiyo.",
+    "exampleEnglish": "Corn was roasted and eaten.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "गहुँ",
+    "romanization": "gahu",
+    "pos": "noun",
+    "definitions": [
+      "wheat"
+    ],
+    "examples": "गहुँको पिठो बनाइयो।",
+    "examplesRomanized": "gahuko pitho banaiyo.",
+    "exampleEnglish": "Wheat flour was prepared.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "जौ",
+    "romanization": "jau",
+    "pos": "noun",
+    "definitions": [
+      "barley"
+    ],
+    "examples": "जौको सत्तु बनाइयो।",
+    "examplesRomanized": "jauko sattu banaiyo.",
+    "exampleEnglish": "Barley sattu was prepared.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "कोदो",
+    "romanization": "kodo",
+    "pos": "noun",
+    "definitions": [
+      "finger millet"
+    ],
+    "examples": "कोदोको ढिँडो पकाइयो।",
+    "examplesRomanized": "kodoko dhindo pakaiyo.",
+    "exampleEnglish": "Dhindo from millet was cooked.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "फापर",
+    "romanization": "phapar",
+    "pos": "noun",
+    "definitions": [
+      "buckwheat"
+    ],
+    "examples": "फापरको रोटी बनाइयो।",
+    "examplesRomanized": "phaparko roti banaiyo.",
+    "exampleEnglish": "Buckwheat roti was prepared.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "तिल",
+    "romanization": "til",
+    "pos": "noun",
+    "definitions": [
+      "sesame"
+    ],
+    "examples": "तिलको लड्डु बनाइयो।",
+    "examplesRomanized": "tilko laddu banaiyo.",
+    "exampleEnglish": "Sesame laddus were prepared.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सत्तु",
+    "romanization": "sattu",
+    "pos": "noun",
+    "definitions": [
+      "roasted flour mix"
+    ],
+    "examples": "सत्तु पानीमा घोलियो।",
+    "examplesRomanized": "sattu panima gholiyo.",
+    "exampleEnglish": "Sattu was mixed in water.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "पनीर",
+    "romanization": "paneer",
+    "pos": "noun",
+    "definitions": [
+      "cottage cheese"
+    ],
+    "examples": "पनीरको तरकारी बनाइयो।",
+    "examplesRomanized": "paneerko tarkari banaiyo.",
+    "exampleEnglish": "Paneer curry was prepared.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "मोही",
+    "romanization": "mohi",
+    "pos": "noun",
+    "definitions": [
+      "buttermilk"
+    ],
+    "examples": "मोही ताजा थियो।",
+    "examplesRomanized": "mohi taja thiyo.",
+    "exampleEnglish": "The buttermilk was fresh.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सिरका",
+    "romanization": "sirca",
+    "pos": "noun",
+    "definitions": [
+      "vinegar"
+    ],
+    "examples": "सिरकाले अचारमा स्वाद थप्यो।",
+    "examplesRomanized": "sircale acharma swad thapyo.",
+    "exampleEnglish": "Vinegar added flavor to the pickle.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सोया सस",
+    "romanization": "soya sas",
+    "pos": "noun",
+    "definitions": [
+      "soy sauce"
+    ],
+    "examples": "सोया ससले स्वाद बढायो।",
+    "examplesRomanized": "soya sasle swad badayo.",
+    "exampleEnglish": "Soy sauce enhanced the taste.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "केचप",
+    "romanization": "ketchup",
+    "pos": "noun",
+    "definitions": [
+      "ketchup"
+    ],
+    "examples": "केचप चिप्ससँग खाइयो।",
+    "examplesRomanized": "ketchup chips sanga khaiyo.",
+    "exampleEnglish": "Ketchup was eaten with chips.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "तेल",
+    "romanization": "tel",
+    "pos": "noun",
+    "definitions": [
+      "oil"
+    ],
+    "examples": "तेल तताइयो।",
+    "examplesRomanized": "tel tataiyo.",
+    "exampleEnglish": "Oil was heated.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "तोरीको तेल",
+    "romanization": "toriko tel",
+    "pos": "noun",
+    "definitions": [
+      "mustard oil"
+    ],
+    "examples": "तोरीको तेल प्रयोग गरियो।",
+    "examplesRomanized": "toriko tel prayog gariyo.",
+    "exampleEnglish": "Mustard oil was used.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "हिङ",
+    "romanization": "hing",
+    "pos": "noun",
+    "definitions": [
+      "asafoetida"
+    ],
+    "examples": "हिङले झोलमा स्वाद थप्यो।",
+    "examplesRomanized": "hingle jholma swad thapyo.",
+    "exampleEnglish": "Asafoetida added flavor to the soup.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "ज्वानो",
+    "romanization": "jwano",
+    "pos": "noun",
+    "definitions": [
+      "carom seeds; ajwain"
+    ],
+    "examples": "ज्वानो हालियो।",
+    "examplesRomanized": "jwano haliyo.",
+    "exampleEnglish": "Ajwain was added.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "दालचिनी",
+    "romanization": "dalchini",
+    "pos": "noun",
+    "definitions": [
+      "cinnamon"
+    ],
+    "examples": "दालचिनीले सुगन्ध आयो।",
+    "examplesRomanized": "dalchinile sugandh ayo.",
+    "exampleEnglish": "Cinnamon gave aroma.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "इलाइची",
+    "romanization": "ilaichi",
+    "pos": "noun",
+    "definitions": [
+      "cardamom"
+    ],
+    "examples": "इलाइची चियामा राखियो।",
+    "examplesRomanized": "ilaichi chiyama rakhiyo.",
+    "exampleEnglish": "Cardamom was added to tea.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "ल्वाङ",
+    "romanization": "lwang",
+    "pos": "noun",
+    "definitions": [
+      "clove"
+    ],
+    "examples": "ल्वाङ राखियो।",
+    "examplesRomanized": "lwang rakhiyo.",
+    "exampleEnglish": "Cloves were added.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "तेजपात",
+    "romanization": "tejpat",
+    "pos": "noun",
+    "definitions": [
+      "bay leaf"
+    ],
+    "examples": "तेजपात झोलमा राखियो।",
+    "examplesRomanized": "tejpat jholma rakhiyo.",
+    "exampleEnglish": "Bay leaf was added to the soup.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सुकुटी",
+    "romanization": "sukuti",
+    "pos": "noun",
+    "definitions": [
+      "dried meat"
+    ],
+    "examples": "सुकुटी भुटेर खाइयो।",
+    "examplesRomanized": "sukuti bhutera khaiyo.",
+    "exampleEnglish": "Dried meat was roasted and eaten.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सेकुवा",
+    "romanization": "sekuwa",
+    "pos": "noun",
+    "definitions": [
+      "grilled meat (Nepali)"
+    ],
+    "examples": "सेकुवा तताएर खाइयो।",
+    "examplesRomanized": "sekuwa tataera khaiyo.",
+    "exampleEnglish": "Sekuwa was heated and eaten.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "चटामरी",
+    "romanization": "chatamari",
+    "pos": "noun",
+    "definitions": [
+      "Newari rice crepe"
+    ],
+    "examples": "चटामरी आज बनाइयो।",
+    "examplesRomanized": "chatamari aaj banaiyo.",
+    "exampleEnglish": "Chatamari was made today.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "बारा",
+    "romanization": "bara",
+    "pos": "noun",
+    "definitions": [
+      "Newari lentil pancake"
+    ],
+    "examples": "बारा ताजै तारेको थियो।",
+    "examplesRomanized": "bara tajai tareko thiyo.",
+    "exampleEnglish": "Bara was freshly fried.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "यमरी",
+    "romanization": "yamari",
+    "pos": "noun",
+    "definitions": [
+      "Newari steamed dumpling (sweet)"
+    ],
+    "examples": "यमरीमा चाकु भरियो।",
+    "examplesRomanized": "yamari ma chaku bhariyo.",
+    "exampleEnglish": "Yomari was filled with chaku.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "चाकु",
+    "romanization": "chaku",
+    "pos": "noun",
+    "definitions": [
+      "hardened jaggery"
+    ],
+    "examples": "चाकु पगालेर राखियो।",
+    "examplesRomanized": "chaku pagalera rakhiyo.",
+    "exampleEnglish": "Chaku was melted and set aside.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "गुड",
+    "romanization": "gud",
+    "pos": "noun",
+    "definitions": [
+      "jaggery"
+    ],
+    "examples": "गुड चियामा राखियो।",
+    "examplesRomanized": "gud chiyama rakhiyo.",
+    "exampleEnglish": "Jaggery was added to tea.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भुजा",
+    "romanization": "bhuja",
+    "pos": "noun",
+    "definitions": [
+      "puffed rice"
+    ],
+    "examples": "भुजा चटपटेसँग खाइयो।",
+    "examplesRomanized": "bhuja chatpate sanga khaiyo.",
+    "exampleEnglish": "Puffed rice was eaten with chaat mix.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "चटपटे",
+    "romanization": "chatpate",
+    "pos": "noun",
+    "definitions": [
+      "Nepali street chaat mix"
+    ],
+    "examples": "चटपटे तिखो बनाइयो।",
+    "examplesRomanized": "chatpate tikho banaiyo.",
+    "exampleEnglish": "Chatpate was made spicy.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "चाउचाउ",
+    "romanization": "chauchau",
+    "pos": "noun",
+    "definitions": [
+      "instant noodles"
+    ],
+    "examples": "चाउचाउ उमालेर खाइयो।",
+    "examplesRomanized": "chauchau umalera khaiyo.",
+    "exampleEnglish": "Instant noodles were boiled and eaten.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "तामा",
+    "romanization": "tama",
+    "pos": "noun",
+    "definitions": [
+      "bamboo shoots"
+    ],
+    "examples": "तामा अचार बनाइयो।",
+    "examplesRomanized": "tama achar banaiyo.",
+    "exampleEnglish": "Bamboo shoot pickle was prepared.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "आलुतामा",
+    "romanization": "alutama",
+    "pos": "noun",
+    "definitions": [
+      "potato and bamboo shoot curry/soup"
+    ],
+    "examples": "आलुतामा तात्तातो झोल खाइयो।",
+    "examplesRomanized": "alutama tattato jhol khaiyo.",
+    "exampleEnglish": "Hot alutama soup was eaten.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "किनेमा",
+    "romanization": "kinema",
+    "pos": "noun",
+    "definitions": [
+      "fermented soybean (Limbu dish)"
+    ],
+    "examples": "किनेमाको झोल बनाइयो।",
+    "examplesRomanized": "kinemako jhol banaiyo.",
+    "exampleEnglish": "Kinema curry was prepared.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "ढिक्री",
+    "romanization": "dhikri",
+    "pos": "noun",
+    "definitions": [
+      "steamed rice finger bread (Tharu)"
+    ],
+    "examples": "ढिक्री तरकारीसँग खाइयो।",
+    "examplesRomanized": "dhikri tarkari sanga khaiyo.",
+    "exampleEnglish": "Dhikri was eaten with curry.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "घुँगी",
+    "romanization": "ghungi",
+    "pos": "noun",
+    "definitions": [
+      "river snails (Tharu delicacy)"
+    ],
+    "examples": "घुँगी मसला हालेर पकाइयो।",
+    "examplesRomanized": "ghungi masala halera pakaiyo.",
+    "exampleEnglish": "Snails were cooked with spices.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "स्याक्पा",
+    "romanization": "syakpa",
+    "pos": "noun",
+    "definitions": [
+      "Sherpa noodle stew"
+    ],
+    "examples": "स्याक्पा जाडोमा मनपर्छ।",
+    "examplesRomanized": "syakpa jado ma manparchha.",
+    "exampleEnglish": "Syakpa is liked in winter.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "टिङमो",
+    "romanization": "tingmo",
+    "pos": "noun",
+    "definitions": [
+      "steamed Tibetan bread"
+    ],
+    "examples": "टिङमो झोलसँग खाइयो।",
+    "examplesRomanized": "tingmo jhol sanga khaiyo.",
+    "exampleEnglish": "Tingmo was eaten with stew.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "क्वाँटी",
+    "romanization": "kwaati",
+    "pos": "noun",
+    "definitions": [
+      "sprouted mixed-bean soup (Newari)"
+    ],
+    "examples": "जनै पूर्णिमामा क्वाँटी पकाइयो।",
+    "examplesRomanized": "janai purnima ma kwaati pakaiyo.",
+    "exampleEnglish": "Kwaati was cooked on Janai Purnima.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "समयबाजी",
+    "romanization": "samay baji",
+    "pos": "noun",
+    "definitions": [
+      "Newari ceremonial platter"
+    ],
+    "examples": "समयबाजी पर्वमा राखिन्छ।",
+    "examplesRomanized": "samay baji parvama rakhinchha.",
+    "exampleEnglish": "Samay baji is served during festivals.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "चुकाउनी",
+    "romanization": "chukauni",
+    "pos": "noun",
+    "definitions": [
+      "yogurt potato salad (western Nepal)"
+    ],
+    "examples": "चुकाउनी नास्तामा खाइयो।",
+    "examplesRomanized": "chukauni nastama khaiyo.",
+    "exampleEnglish": "Chukauni was eaten for breakfast.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "छुर्पी",
+    "romanization": "chhurpi",
+    "pos": "noun",
+    "definitions": [
+      "hard Himalayan cheese"
+    ],
+    "examples": "छुर्पी चपाइयो।",
+    "examplesRomanized": "chhurpi chapaiyo.",
+    "exampleEnglish": "Chhurpi was chewed.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "टिमुर",
+    "romanization": "timur",
+    "pos": "noun",
+    "definitions": [
+      "Sichuan pepper (Nepali spice)"
+    ],
+    "examples": "टिमुरले अचारमा झनक्क गन्ध आयो।",
+    "examplesRomanized": "timurle acharma jhanakka gandh ayo.",
+    "exampleEnglish": "Timur added a pungent aroma to the pickle.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सिस्नु",
+    "romanization": "sisnu",
+    "pos": "noun",
+    "definitions": [
+      "nettle greens"
+    ],
+    "examples": "सिस्नुको झोल पकाइयो।",
+    "examplesRomanized": "sisnuko jhol pakaiyo.",
+    "exampleEnglish": "Nettle soup was cooked.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सिद्रा",
+    "romanization": "sidra",
+    "pos": "noun",
+    "definitions": [
+      "sun-dried small fish (Terai)"
+    ],
+    "examples": "सिद्रा भुटेर खाइयो।",
+    "examplesRomanized": "sidra bhutera khaiyo.",
+    "exampleEnglish": "Sun-dried fish was roasted and eaten.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "छ्याङ",
+    "romanization": "chhyang",
+    "pos": "noun",
+    "definitions": [
+      "traditional fermented millet/rice drink"
+    ],
+    "examples": "छ्याङ पर्वमा पिइयो।",
+    "examplesRomanized": "chhyang parvama piiyo.",
+    "exampleEnglish": "Chhyang was drunk during festivals.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "तुङ्बा",
+    "romanization": "tungba",
+    "pos": "noun",
+    "definitions": [
+      "hot fermented millet drink"
+    ],
+    "examples": "तुङ्बा जाडोमा पिइयो।",
+    "examplesRomanized": "tungba jado ma piiyo.",
+    "exampleEnglish": "Tungba was drunk in winter.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "थकाली खाना",
+    "romanization": "thakali khana",
+    "pos": "noun",
+    "definitions": [
+      "Thakali meal set"
+    ],
+    "examples": "थकाली खाना सेट मन पर्‍यो।",
+    "examplesRomanized": "thakali khana set man paryo.",
+    "exampleEnglish": "I liked the Thakali meal set.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "जिम्बु",
+    "romanization": "jimbu",
+    "pos": "noun",
+    "definitions": [
+      "Himalayan herb"
+    ],
+    "examples": "जिम्बुले सूपमा सुगन्ध थप्यो।",
+    "examplesRomanized": "jimbule supma sugandh thapyo.",
+    "exampleEnglish": "Jimbu added aroma to the soup.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "च्याङ्ग्राको मासु",
+    "romanization": "chyanggra ko masu",
+    "pos": "noun",
+    "definitions": [
+      "mountain goat meat"
+    ],
+    "examples": "च्याङ्ग्राको मासु झोल बनाइयो।",
+    "examplesRomanized": "chyanggra ko masu jhol banaiyo.",
+    "exampleEnglish": "Mountain goat curry was prepared.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "याकको मासु",
+    "romanization": "yakko masu",
+    "pos": "noun",
+    "definitions": [
+      "yak meat"
+    ],
+    "examples": "याकको मासु सेकियो।",
+    "examplesRomanized": "yakko masu sekio.",
+    "exampleEnglish": "Yak meat was grilled.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "वाचिपा",
+    "romanization": "wachipa",
+    "pos": "noun",
+    "definitions": [
+      "Rai chicken dish with burnt feather powder"
+    ],
+    "examples": "वाचिपा पर्वमा बनाइयो।",
+    "examplesRomanized": "wachipa parvama banaiyo.",
+    "exampleEnglish": "Wachipa was made during a festival.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "कचिला",
+    "romanization": "kachila",
+    "pos": "noun",
+    "definitions": [
+      "Newari spiced raw minced meat"
+    ],
+    "examples": "कचिला ताजा तयार गरियो।",
+    "examplesRomanized": "kachila taja tayar gariyo.",
+    "exampleEnglish": "Kachila was freshly prepared.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भुटुवा",
+    "romanization": "bhutuwa",
+    "pos": "noun",
+    "definitions": [
+      "spiced stir-fried meat (Newari)"
+    ],
+    "examples": "भुटुवा मसालेदार थियो।",
+    "examplesRomanized": "bhutuwa masaledar thiyo.",
+    "exampleEnglish": "Bhutuwa was spicy.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "लिट्टी",
+    "romanization": "litti",
+    "pos": "noun",
+    "definitions": [
+      "roasted stuffed dough balls (Madhes/Bhojpuri)"
+    ],
+    "examples": "लिट्टी अङ्गारामा पोलियो।",
+    "examplesRomanized": "litti angarama poliyo.",
+    "exampleEnglish": "Litti was roasted over embers.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "चोखा",
+    "romanization": "chokha",
+    "pos": "noun",
+    "definitions": [
+      "spiced mashed vegetables (Madhes)"
+    ],
+    "examples": "आलु चोखा बनाइयो।",
+    "examplesRomanized": "alu chokha banaiyo.",
+    "exampleEnglish": "Potato chokha was prepared.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "घुग्नी",
+    "romanization": "ghugni",
+    "pos": "noun",
+    "definitions": [
+      "spiced yellow pea curry (Terai)"
+    ],
+    "examples": "घुग्नी नास्तामा खाइयो।",
+    "examplesRomanized": "ghugni nastama khaiyo.",
+    "exampleEnglish": "Ghugni was eaten for breakfast.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "ठेकुवा",
+    "romanization": "thekuwa",
+    "pos": "noun",
+    "definitions": [
+      "festival biscuit (Maithil/Terai)"
+    ],
+    "examples": "छठमा ठेकुवा बनाइयो।",
+    "examplesRomanized": "chhathma thekuwa banaiyo.",
+    "exampleEnglish": "Thekuwa was made during Chhath.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "पिठा",
+    "romanization": "pitha",
+    "pos": "noun",
+    "definitions": [
+      "rice cake (Maithil/Terai)"
+    ],
+    "examples": "पिठा उसिनेर खाइयो।",
+    "examplesRomanized": "pitha usinera khaiyo.",
+    "exampleEnglish": "Pitha was steamed and eaten.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "ग्याथुक",
+    "romanization": "gyathuk",
+    "pos": "noun",
+    "definitions": [
+      "Tibetan-style noodle soup"
+    ],
+    "examples": "ग्याथुक तात्तातो खाइयो।",
+    "examplesRomanized": "gyathuk tattato khaiyo.",
+    "exampleEnglish": "Hot gyathuk was eaten.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भटमासको अचार",
+    "romanization": "bhatmas ko achar",
+    "pos": "noun",
+    "definitions": [
+      "soybean pickle"
+    ],
+    "examples": "भटमासको अचार राखियो।",
+    "examplesRomanized": "bhatmas ko achar rakhiyo.",
+    "exampleEnglish": "Soybean pickle was served.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सेवईँ",
+    "romanization": "sewai",
+    "pos": "noun",
+    "definitions": [
+      "vermicelli dessert"
+    ],
+    "examples": "सेवईँ दूधमा पकाइयो।",
+    "examplesRomanized": "sewai dudhma pakaiyo.",
+    "exampleEnglish": "Vermicelli was cooked in milk.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "कन्छेम्बा",
+    "romanization": "kanchemba",
+    "pos": "noun",
+    "definitions": [
+      "buckwheat snack sticks (Thakali)"
+    ],
+    "examples": "कन्छेम्बा अचारसँग खाइयो।",
+    "examplesRomanized": "kanchemba achar sanga khaiyo.",
+    "exampleEnglish": "Kanchemba was eaten with pickle.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भक्का",
+    "romanization": "bhakka",
+    "pos": "noun",
+    "definitions": [
+      "steamed rice cake (Tharu/Terai)"
+    ],
+    "examples": "भक्का नास्तामा खाइयो।",
+    "examplesRomanized": "bhakka nastama khaiyo.",
+    "exampleEnglish": "Bhakka was eaten for breakfast.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "बगिया",
+    "romanization": "bagiya",
+    "pos": "noun",
+    "definitions": [
+      "steamed rice dumplings (Tharu)"
+    ],
+    "examples": "बगिया दालसँग खाइयो।",
+    "examplesRomanized": "bagiya dal sanga khaiyo.",
+    "exampleEnglish": "Bagiya was eaten with dal.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "याङ्बेन",
+    "romanization": "yangben",
+    "pos": "noun",
+    "definitions": [
+      "wild edible lichen (Rai/Limbu dish)"
+    ],
+    "examples": "याङ्बेन मासुसँग पकाइयो।",
+    "examplesRomanized": "yangben masu sanga pakaiyo.",
+    "exampleEnglish": "Yangben was cooked with meat.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सर्गेम्बा",
+    "romanization": "sargemba",
+    "pos": "noun",
+    "definitions": [
+      "blood sausage (Limbu)"
+    ],
+    "examples": "सर्गेम्बा विशेष परिकार हो।",
+    "examplesRomanized": "sargemba vishesh parikar ho.",
+    "exampleEnglish": "Sargemba is a special delicacy.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "थेनथुक",
+    "romanization": "thenthuk",
+    "pos": "noun",
+    "definitions": [
+      "Tibetan hand-pulled noodle soup"
+    ],
+    "examples": "थेनथुक तात्तातो परोस्।",
+    "examplesRomanized": "thenthuk tattato paros.",
+    "exampleEnglish": "Serve the thenthuk hot.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "खाप्से",
+    "romanization": "khapse",
+    "pos": "noun",
+    "definitions": [
+      "festive fried pastry (Tibetan/Himalayan)"
+    ],
+    "examples": "लोसारमा खाप्से बनाइयो।",
+    "examplesRomanized": "losarma khapse banaiyo.",
+    "exampleEnglish": "Khapse was made during Losar.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "शाबले",
+    "romanization": "shabaley",
+    "pos": "noun",
+    "definitions": [
+      "fried meat pie (Tibetan)"
+    ],
+    "examples": "शाबले झोलसँग खाइयो।",
+    "examplesRomanized": "shabaley jhol sanga khaiyo.",
+    "exampleEnglish": "Shabaley was eaten with stew.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "लाफिङ",
+    "romanization": "laphing",
+    "pos": "noun",
+    "definitions": [
+      "spicy cold mung starch noodles"
+    ],
+    "examples": "लाफिङ तिखो बनाइयो।",
+    "examplesRomanized": "laphing tikho banaiyo.",
+    "exampleEnglish": "The laphing was made spicy.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "जाँड",
+    "romanization": "jaand",
+    "pos": "noun",
+    "definitions": [
+      "traditional millet/rice beer"
+    ],
+    "examples": "जाँड परम्परागत पेय हो।",
+    "examplesRomanized": "jaand paramparagat pey ho.",
+    "exampleEnglish": "Jaand is a traditional beverage.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "आलु-तामा-बोडी",
+    "romanization": "alu tama bodi",
+    "pos": "noun",
+    "definitions": [
+      "potato, bamboo shoot and bean curry"
+    ],
+    "examples": "आलु-तामा-बोडी स्वादिलो भयो।",
+    "examplesRomanized": "alu tama bodi swadilo bhayo.",
+    "exampleEnglish": "Alu tama bodi turned out tasty.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "निङ्रो",
+    "romanization": "ningro",
+    "pos": "noun",
+    "definitions": [
+      "fiddlehead fern"
+    ],
+    "examples": "निङ्रोको अचार बनाइयो।",
+    "examplesRomanized": "ningroko achar banaiyo.",
+    "exampleEnglish": "Fiddlehead fern pickle was prepared.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "खिचडी",
+    "romanization": "khichadi",
+    "pos": "noun",
+    "definitions": [
+      "rice and lentil porridge (Terai)"
+    ],
+    "examples": "खिचडी ज्वरोमा खाइयो।",
+    "examplesRomanized": "khichadi jworoma khaiyo.",
+    "exampleEnglish": "Khichadi was eaten during fever.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "तरुवा",
+    "romanization": "taruwa",
+    "pos": "noun",
+    "definitions": [
+      "batter-fried vegetables (Terai)"
+    ],
+    "examples": "परवल तरुवा बनाइयो।",
+    "examplesRomanized": "parwal taruwa banaiyo.",
+    "exampleEnglish": "Parval taruwa was prepared.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "कचौरी",
+    "romanization": "kachauri",
+    "pos": "noun",
+    "definitions": [
+      "stuffed fried bread (Terai)"
+    ],
+    "examples": "दाल कचौरी तारेको थियो।",
+    "examplesRomanized": "dal kachauri tareko thiyo.",
+    "exampleEnglish": "Dal kachauri was fried.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "थकाली अचार",
+    "romanization": "thakali achar",
+    "pos": "noun",
+    "definitions": [
+      "Thakali-style pickle"
+    ],
+    "examples": "थकाली अचार थालमा राखियो।",
+    "examplesRomanized": "thakali achar thalma rakhiyo.",
+    "exampleEnglish": "Thakali pickle was served on the plate.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "गुन्द्रुक सडेको",
+    "romanization": "gundruk sadeko",
+    "pos": "noun",
+    "definitions": [
+      "fermented greens salad"
+    ],
+    "examples": "गुन्द्रुक सडेको तिखो थियो।",
+    "examplesRomanized": "gundruk sadeko tikho thiyo.",
+    "exampleEnglish": "Gundruk sadeko was spicy.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "चोइला",
+    "romanization": "choila",
+    "pos": "noun",
+    "definitions": [
+      "spiced grilled meat (Newari)"
+    ],
+    "examples": "मासुको चोइला बनाइयो।",
+    "examplesRomanized": "masuko choila banaiyo.",
+    "exampleEnglish": "Meat choila was prepared.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सापु मिचा",
+    "romanization": "sapu michha",
+    "pos": "noun",
+    "definitions": [
+      "leaf tripe stuffed delicacy (Newari)"
+    ],
+    "examples": "सापु मिचा विशेष परिकार हो।",
+    "examplesRomanized": "sapu michha vishesh parikar ho.",
+    "exampleEnglish": "Sapu michha is a special delicacy.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "जुजु धौ",
+    "romanization": "juju dhau",
+    "pos": "noun",
+    "definitions": [
+      "king curd from Bhaktapur"
+    ],
+    "examples": "जुजु धौ मीठो थियो।",
+    "examplesRomanized": "juju dhau mitho thiyo.",
+    "exampleEnglish": "The juju dhau was delicious.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "ऐला",
+    "romanization": "aila",
+    "pos": "noun",
+    "definitions": [
+      "Newari distilled liquor"
+    ],
+    "examples": "ऐला प्रसङ्गमा पिइयो।",
+    "examplesRomanized": "aila prasangma piiyo.",
+    "exampleEnglish": "Aila was drunk on the occasion.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सिँकी",
+    "romanization": "sinki",
+    "pos": "noun",
+    "definitions": [
+      "fermented radish strips"
+    ],
+    "examples": "सिँकीको झोल बनाइयो।",
+    "examplesRomanized": "sinkiko jhol banaiyo.",
+    "exampleEnglish": "Sinki soup was prepared.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "कर्कलोको साग",
+    "romanization": "karkaloko saag",
+    "pos": "noun",
+    "definitions": [
+      "taro leaf curry"
+    ],
+    "examples": "कर्कलोको साग पकाइयो।",
+    "examplesRomanized": "karkaloko saag pakaiyo.",
+    "exampleEnglish": "Taro leaf curry was cooked.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "मस्यौरा",
+    "romanization": "masyaura",
+    "pos": "noun",
+    "definitions": [
+      "dried lentil and vegetable nuggets"
+    ],
+    "examples": "मस्यौराको तरकारी बनाइयो।",
+    "examplesRomanized": "masyaurako tarkari banaiyo.",
+    "exampleEnglish": "Masyaura curry was prepared.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "निम्की",
+    "romanization": "nimki",
+    "pos": "noun",
+    "definitions": [
+      "savory fried crackers (Terai)"
+    ],
+    "examples": "निम्की नास्तामा राखियो।",
+    "examplesRomanized": "nimki nastama rakhiyo.",
+    "exampleEnglish": "Nimki was served for breakfast.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "अनर्सा",
+    "romanization": "anarsa",
+    "pos": "noun",
+    "definitions": [
+      "sweet rice fritter (Mithila/Terai)"
+    ],
+    "examples": "अनर्सा पर्वमा बनाइयो।",
+    "examplesRomanized": "anarsa parvama banaiyo.",
+    "exampleEnglish": "Anarsa was made during the festival.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "ग्युमा",
+    "romanization": "gyuma",
+    "pos": "noun",
+    "definitions": [
+      "Tibetan blood sausage"
+    ],
+    "examples": "ग्युमा तारेको खाइयो।",
+    "examplesRomanized": "gyuma tareko khaiyo.",
+    "exampleEnglish": "Gyuma was fried and eaten.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "गुडपाक",
+    "romanization": "gudpak",
+    "pos": "noun",
+    "definitions": [
+      "milk fudge sweet (Kathmandu Valley)"
+    ],
+    "examples": "गुडपाक मिठो थियो।",
+    "examplesRomanized": "gudpak mitho thiyo.",
+    "exampleEnglish": "The gudpak was delicious.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "लाखामरी",
+    "romanization": "lakhamari",
+    "pos": "noun",
+    "definitions": [
+      "Newari festive sweet bread"
+    ],
+    "examples": "लाखामरी विवाहमा राखिन्छ।",
+    "examplesRomanized": "lakhamari bibahama rakhinchha.",
+    "exampleEnglish": "Lakhamari is served at weddings.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सन्याक्खुना",
+    "romanization": "sanyakhuna",
+    "pos": "noun",
+    "definitions": [
+      "Newari jellied fish delicacy"
+    ],
+    "examples": "सन्याक्खुना आज बनाइयो।",
+    "examplesRomanized": "sanyakhuna aaj banaiyo.",
+    "exampleEnglish": "Sanyakhuna was made today.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "त्साम्पा",
+    "romanization": "tsampa",
+    "pos": "noun",
+    "definitions": [
+      "roasted barley flour (Himalayan)"
+    ],
+    "examples": "त्साम्पा चियासँग खाइयो।",
+    "examplesRomanized": "tsampa chiya sanga khaiyo.",
+    "exampleEnglish": "Tsampa was eaten with tea.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "रिल्दुक",
+    "romanization": "rildok",
+    "pos": "noun",
+    "definitions": [
+      "Sherpa mashed potato stew"
+    ],
+    "examples": "रिल्दुक आलुको झोल मन पर्‍यो।",
+    "examplesRomanized": "rildok aluko jhol man paryo.",
+    "exampleEnglish": "I liked the rildok potato stew.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "फुलौरा",
+    "romanization": "phulaura",
+    "pos": "noun",
+    "definitions": [
+      "lentil fritters (Mithila/Terai)"
+    ],
+    "examples": "फुलौरा झोलसँग खाइयो।",
+    "examplesRomanized": "phulaura jhol sanga khaiyo.",
+    "exampleEnglish": "Phulaura was eaten with curry.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "दाल पिठा",
+    "romanization": "dal pitha",
+    "pos": "noun",
+    "definitions": [
+      "stuffed rice dumpling with lentils (Mithila)"
+    ],
+    "examples": "दाल पिठा उसिनेर बनाइयो।",
+    "examplesRomanized": "dal pitha usinera banaiyo.",
+    "exampleEnglish": "Dal pitha was steamed and prepared.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "झोल मोमो",
+    "romanization": "jhol momo",
+    "pos": "noun",
+    "definitions": [
+      "momos in spicy broth (Kathmandu style)"
+    ],
+    "examples": "झोल मोमो तिखो थियो।",
+    "examplesRomanized": "jhol momo tikho thiyo.",
+    "exampleEnglish": "The jhol momo was spicy.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "आलुको अचार",
+    "romanization": "aluko achar",
+    "pos": "noun",
+    "definitions": [
+      "potato pickle"
+    ],
+    "examples": "आलुको अचार खट्टा-तिखो थियो।",
+    "examplesRomanized": "aluko achar khatta-tikho thiyo.",
+    "exampleEnglish": "The potato pickle was tangy and spicy.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भटमास सडेको",
+    "romanization": "bhatmas sadeko",
+    "pos": "noun",
+    "definitions": [
+      "marinated roasted soybeans"
+    ],
+    "examples": "भटमास सडेकोमा खुर्सानी र टिमुर हालियो।",
+    "examplesRomanized": "bhatmas sadekoma khursani ra timur haliyo.",
+    "exampleEnglish": "Chili and timur were added to the soybean sadeko.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "याकको चिज",
+    "romanization": "yakko chij",
+    "pos": "noun",
+    "definitions": [
+      "yak cheese"
+    ],
+    "examples": "याकको चिज सुक्खा थियो।",
+    "examplesRomanized": "yakko chij sukhkha thiyo.",
+    "exampleEnglish": "The yak cheese was dry.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "खुवा",
+    "romanization": "khua",
+    "pos": "noun",
+    "definitions": [
+      "condensed milk solids"
+    ],
+    "examples": "खुवाबाट मिष्ठान्न बनाइयो।",
+    "examplesRomanized": "khuabata misthann banaiyo.",
+    "exampleEnglish": "Sweets were prepared from khua.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "फापरको रोटी",
+    "romanization": "phaparko roti",
+    "pos": "noun",
+    "definitions": [
+      "buckwheat flatbread"
+    ],
+    "examples": "फापरको रोटी थकाली घरमा बनाइयो।",
+    "examplesRomanized": "phaparko roti thakali gharma banaiyo.",
+    "exampleEnglish": "Buckwheat roti was made at a Thakali home.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "तास",
+    "romanization": "taas",
+    "pos": "noun",
+    "definitions": [
+      "grilled spiced meat cubes (Chitwan/Hetauda)"
+    ],
+    "examples": "तास तताएर सर्भ गरियो।",
+    "examplesRomanized": "taas tataera sarbh gariyo.",
+    "exampleEnglish": "Taas was served hot.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भुटुन",
+    "romanization": "bhutun",
+    "pos": "noun",
+    "definitions": [
+      "stir-fried offal"
+    ],
+    "examples": "भुटुन मसालेदार बनाइयो।",
+    "examplesRomanized": "bhutun masaledar banaiyo.",
+    "exampleEnglish": "Bhutun was made spicy.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "गहत",
+    "romanization": "gahat",
+    "pos": "noun",
+    "definitions": [
+      "horse gram"
+    ],
+    "examples": "गहत रातभरि भिजाइयो।",
+    "examplesRomanized": "gahat ratbhari bhijaiyo.",
+    "exampleEnglish": "Horse gram was soaked overnight.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "गहतको झोल",
+    "romanization": "gahatko jhol",
+    "pos": "noun",
+    "definitions": [
+      "horse gram soup"
+    ],
+    "examples": "गहतको झोल जाडोमा खाइयो।",
+    "examplesRomanized": "gahatko jhol jado ma khaiyo.",
+    "exampleEnglish": "Gahat soup was eaten in winter.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "दही-चिउरा",
+    "romanization": "dahi chiura",
+    "pos": "noun",
+    "definitions": [
+      "yogurt with beaten rice"
+    ],
+    "examples": "दही-चिउरा नास्तामा खाइयो।",
+    "examplesRomanized": "dahi-chiura nastama khaiyo.",
+    "exampleEnglish": "Dahi-chiura was eaten for breakfast.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "फर्रा",
+    "romanization": "farra",
+    "pos": "noun",
+    "definitions": [
+      "steamed rice rolls (Tharu)"
+    ],
+    "examples": "फर्रा अचारसँग खाइयो।",
+    "examplesRomanized": "farra achar sanga khaiyo.",
+    "exampleEnglish": "Farra was eaten with pickle.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "गुन्द्रुक भटमास",
+    "romanization": "gundruk bhatmas",
+    "pos": "noun",
+    "definitions": [
+      "fermented greens with soybeans"
+    ],
+    "examples": "गुन्द्रुक भटमासको अचार बनाइयो।",
+    "examplesRomanized": "gundruk bhatmasko achar banaiyo.",
+    "exampleEnglish": "Gundruk-bhatmas pickle was made.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "टिमुरको अचार",
+    "romanization": "timurko achar",
+    "pos": "noun",
+    "definitions": [
+      "Sichuan pepper pickle"
+    ],
+    "examples": "टिमुरको अचार झनक्क गन्धिलो थियो।",
+    "examplesRomanized": "timurko achar jhanakka gandhilo thiyo.",
+    "exampleEnglish": "The timur pickle was pungent and aromatic.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "आकाबरे खुर्सानी",
+    "romanization": "akabare khursani",
+    "pos": "noun",
+    "definitions": [
+      "round bird's eye chili"
+    ],
+    "examples": "आकाबरे खुर्सानी पिसेर राखियो।",
+    "examplesRomanized": "akabare khursani pisera rakhiyo.",
+    "exampleEnglish": "Akabare chili was ground and added.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "चोलाई",
+    "romanization": "cholai",
+    "pos": "noun",
+    "definitions": [
+      "amaranth greens"
+    ],
+    "examples": "चोलाईको साग पकाइयो।",
+    "examplesRomanized": "cholaiko saag pakaiyo.",
+    "exampleEnglish": "Amaranth greens curry was cooked.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "बफ मोमो",
+    "romanization": "buff momo",
+    "pos": "noun",
+    "definitions": [
+      "buffalo meat momos"
+    ],
+    "examples": "बफ मोमो अर्डर गरियो।",
+    "examplesRomanized": "buff momo order gariyo.",
+    "exampleEnglish": "Buff momo was ordered.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सुकुटी सडेको",
+    "romanization": "sukuti sadeko",
+    "pos": "noun",
+    "definitions": [
+      "marinated dried meat salad"
+    ],
+    "examples": "सुकुटी सडेकोमा लेमन र टिमुर हालियो।",
+    "examplesRomanized": "sukuti sadekoma leman ra timur haliyo.",
+    "exampleEnglish": "Lemon and timur were added to the sukuti sadeko.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "दही बडा",
+    "romanization": "dahi bada",
+    "pos": "noun",
+    "definitions": [
+      "lentil dumplings in yogurt (Terai)"
+    ],
+    "examples": "दही बडा छठमा खाइयो।",
+    "examplesRomanized": "dahi bada chhathma khaiyo.",
+    "exampleEnglish": "Dahi bada was eaten during Chhath.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भाक्री",
+    "romanization": "bhakri",
+    "pos": "noun",
+    "definitions": [
+      "millet or maize flatbread (hills)"
+    ],
+    "examples": "भाक्री घ्यूसँग खाइयो।",
+    "examplesRomanized": "bhakri ghyu sanga khaiyo.",
+    "exampleEnglish": "Bhakri was eaten with ghee.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "कनिका",
+    "romanization": "kanika",
+    "pos": "noun",
+    "definitions": [
+      "sweet ghee rice (Maithili)"
+    ],
+    "examples": "कनिका पर्वमा पकाइयो।",
+    "examplesRomanized": "kanika parvama pakaiyo.",
+    "exampleEnglish": "Kanika was cooked during the festival.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "मलपुवा",
+    "romanization": "malpuwa",
+    "pos": "noun",
+    "definitions": [
+      "sweet fried pancakes (Terai/Mithila)"
+    ],
+    "examples": "मलपुवा पर्वमा बनाइयो।",
+    "examplesRomanized": "malpuwa parvama banaiyo.",
+    "exampleEnglish": "Malpuwa was made during the festival.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "ढोकरी",
+    "romanization": "dhokri",
+    "pos": "noun",
+    "definitions": [
+      "steamed rice flour dumplings (Newari)"
+    ],
+    "examples": "ढोकरी अचारसँग खाइयो।",
+    "examplesRomanized": "dhokri achar sanga khaiyo.",
+    "exampleEnglish": "Dhokri was eaten with pickle.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "तिलौरी",
+    "romanization": "tilaori",
+    "pos": "noun",
+    "definitions": [
+      "sesame and jaggery sweet (Terai)"
+    ],
+    "examples": "तिलौरी टीकामा बाँडियो।",
+    "examplesRomanized": "tilaori tikama badiyo.",
+    "exampleEnglish": "Tilaori was distributed during Tika.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "माछा तरुवा",
+    "romanization": "machha taruwa",
+    "pos": "noun",
+    "definitions": [
+      "batter-fried fish (Terai)"
+    ],
+    "examples": "माछा तरुवा तारेको थियो।",
+    "examplesRomanized": "machha taruwa tareko thiyo.",
+    "exampleEnglish": "The fish taruwa was deep-fried.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "परवल",
+    "romanization": "parwal",
+    "pos": "noun",
+    "definitions": [
+      "pointed gourd (Terai vegetable)"
+    ],
+    "examples": "परवलको तरकारी बनाइयो।",
+    "examplesRomanized": "parwalko tarkari banaiyo.",
+    "exampleEnglish": "Parwal curry was prepared.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भटमास तरकारी",
+    "romanization": "bhatmas tarkari",
+    "pos": "noun",
+    "definitions": [
+      "soybean curry"
+    ],
+    "examples": "भटमास तरकारी ज्वानो हालेर पकाइयो।",
+    "examplesRomanized": "bhatmas tarkari jwano halera pakaiyo.",
+    "exampleEnglish": "Soybean curry was cooked with ajwain.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "खुर्सानीको अचार",
+    "romanization": "khursani ko achar",
+    "pos": "noun",
+    "definitions": [
+      "chili pickle"
+    ],
+    "examples": "खुर्सानीको अचार तिखो थियो।",
+    "examplesRomanized": "khursani ko achar tikho thiyo.",
+    "exampleEnglish": "The chili pickle was spicy.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "तरुलको अचार",
+    "romanization": "tarulko achar",
+    "pos": "noun",
+    "definitions": [
+      "taro root pickle"
+    ],
+    "examples": "तरुलको अचार आइतबार बनाइयो।",
+    "examplesRomanized": "tarulko achar aaitabar banaiyo.",
+    "exampleEnglish": "Taro pickle was made on Sunday.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "पुकला",
+    "romanization": "pukala",
+    "pos": "noun",
+    "definitions": [
+      "fried buffalo tripe (Newari)"
+    ],
+    "examples": "पुकला समयबाजीमा राखिन्छ।",
+    "examplesRomanized": "pukala samay bajima rakhinchha.",
+    "exampleEnglish": "Pukala is served in samay baji.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "थ्वोन",
+    "romanization": "thwon",
+    "pos": "noun",
+    "definitions": [
+      "Newari rice beer"
+    ],
+    "examples": "थ्वोन भोजमा पिइयो।",
+    "examplesRomanized": "thwon bhojma piiyo.",
+    "exampleEnglish": "Thwon was drunk at the feast.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "रक्सी",
+    "romanization": "raksi",
+    "pos": "noun",
+    "definitions": [
+      "traditional distilled liquor"
+    ],
+    "examples": "रक्सी चिसो ठाउँमा पिइयो।",
+    "examplesRomanized": "raksi chiso thauma piiyo.",
+    "exampleEnglish": "Raksi was drunk in a cold place.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "घ्यू चिया",
+    "romanization": "ghyu chiya",
+    "pos": "noun",
+    "definitions": [
+      "butter tea (Himalayan)"
+    ],
+    "examples": "घ्यू चिया जाडोमा पिइयो।",
+    "examplesRomanized": "ghyu chiya jado ma piiyo.",
+    "exampleEnglish": "Butter tea was drunk in winter.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "कोथे मोमो",
+    "romanization": "kothe momo",
+    "pos": "noun",
+    "definitions": [
+      "pan-fried momos"
+    ],
+    "examples": "कोथे मोमो तारेको थियो।",
+    "examplesRomanized": "kothe momo tareko thiyo.",
+    "exampleEnglish": "The kothey momo was pan-fried.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "माछाको अचार",
+    "romanization": "machhako achar",
+    "pos": "noun",
+    "definitions": [
+      "fish pickle"
+    ],
+    "examples": "माछाको अचार झोलासँग खाइयो।",
+    "examplesRomanized": "machhako achar jholasanga khaiyo.",
+    "exampleEnglish": "Fish pickle was eaten with gravy.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "कागुनो",
+    "romanization": "kaguno",
+    "pos": "noun",
+    "definitions": [
+      "foxtail millet"
+    ],
+    "examples": "कागुनो धुलो पिसियो।",
+    "examplesRomanized": "kaguno dhulo pisiyo.",
+    "exampleEnglish": "Foxtail millet was ground into flour.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "कागुनोको खीर",
+    "romanization": "kagunoko khir",
+    "pos": "noun",
+    "definitions": [
+      "foxtail millet pudding"
+    ],
+    "examples": "कागुनोको खीर बनाइयो।",
+    "examplesRomanized": "kagunoko khir banaiyo.",
+    "exampleEnglish": "Kaguno pudding was prepared.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "गुन्द्रुकको अचार",
+    "romanization": "gundrukko achar",
+    "pos": "noun",
+    "definitions": [
+      "gundruk pickle"
+    ],
+    "examples": "गुन्द्रुकको अचारमा टिमुर राखियो।",
+    "examplesRomanized": "gundrukko acharma timur rakhiyo.",
+    "exampleEnglish": "Timur was added to the gundruk pickle.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सुकुटीको झोल",
+    "romanization": "sukutiko jhol",
+    "pos": "noun",
+    "definitions": [
+      "dried meat stew"
+    ],
+    "examples": "सुकुटीको झोल तात्तातो परोस्।",
+    "examplesRomanized": "sukutiko jhol tattato paros.",
+    "exampleEnglish": "Serve the sukuti stew hot.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "मकैको ढिँडो",
+    "romanization": "makaiko dhindo",
+    "pos": "noun",
+    "definitions": [
+      "corn porridge staple"
+    ],
+    "examples": "मकैको ढिँडो घ्यूसँग खाइयो।",
+    "examplesRomanized": "makaiko dhindo ghyu sanga khaiyo.",
+    "exampleEnglish": "Corn dhindo was eaten with ghee.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सिलाम",
+    "romanization": "silam",
+    "pos": "noun",
+    "definitions": [
+      "perilla seeds"
+    ],
+    "examples": "सिलाम भुटेर पिसियो।",
+    "examplesRomanized": "silam bhutera pisiyo.",
+    "exampleEnglish": "Perilla seeds were roasted and ground.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सिलामको चटनी",
+    "romanization": "silamko chatni",
+    "pos": "noun",
+    "definitions": [
+      "perilla seed chutney"
+    ],
+    "examples": "सिलामको चटनी भातसँग खाइयो।",
+    "examplesRomanized": "silamko chatni bhat sanga khaiyo.",
+    "exampleEnglish": "Silam chutney was eaten with rice.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "चिउरा सडेको",
+    "romanization": "chiura sadeko",
+    "pos": "noun",
+    "definitions": [
+      "marinated beaten rice salad"
+    ],
+    "examples": "चिउरा सडेकोमा निनग्रोलाई मिसाइयो।",
+    "examplesRomanized": "chiura sadekoma ningrolaai misaiyo.",
+    "exampleEnglish": "Fiddleheads were mixed into chiura sadeko.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भुटेको मकै",
+    "romanization": "bhuteko makai",
+    "pos": "noun",
+    "definitions": [
+      "roasted corn"
+    ],
+    "examples": "भुटेको मकै नुन र खुर्सानीसँग खाइयो।",
+    "examplesRomanized": "bhuteko makai nun ra khursani sanga khaiyo.",
+    "exampleEnglish": "Roasted corn was eaten with salt and chili.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "गोलभेंडाको अचार",
+    "romanization": "golbhendako achar",
+    "pos": "noun",
+    "definitions": [
+      "tomato pickle"
+    ],
+    "examples": "गोलभेंडाको अचार थालीमा राखियो।",
+    "examplesRomanized": "golbhendako achar thalima rakhiyo.",
+    "exampleEnglish": "Tomato pickle was served on the plate.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "मुलाको अचार",
+    "romanization": "mulako achar",
+    "pos": "noun",
+    "definitions": [
+      "radish pickle"
+    ],
+    "examples": "मुलाको अचार कुटेर बनाइयो।",
+    "examplesRomanized": "mulako achar kutera banaiyo.",
+    "exampleEnglish": "Radish pickle was made by pounding.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "अण्डा तरकारी",
+    "romanization": "anda tarkari",
+    "pos": "noun",
+    "definitions": [
+      "egg curry"
+    ],
+    "examples": "अण्डा तरकारी भातसँग खाइयो।",
+    "examplesRomanized": "anda tarkari bhat sanga khaiyo.",
+    "exampleEnglish": "Egg curry was eaten with rice.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "माछा फ्राइ",
+    "romanization": "machha phrai",
+    "pos": "noun",
+    "definitions": [
+      "fish fry"
+    ],
+    "examples": "माछा फ्राइ लेमनसँग सर्भ गरियो।",
+    "examplesRomanized": "machha phrai leman sanga sarbh gariyo.",
+    "exampleEnglish": "Fish fry was served with lemon.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सत्तु पानी",
+    "romanization": "sattu pani",
+    "pos": "noun",
+    "definitions": [
+      "sattu drink"
+    ],
+    "examples": "सत्तु पानी चिसो पिइयो।",
+    "examplesRomanized": "sattu pani chiso piiyo.",
+    "exampleEnglish": "Sattu drink was consumed cold.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "कोदोको रक्सी",
+    "romanization": "kodoko raksi",
+    "pos": "noun",
+    "definitions": [
+      "millet liquor"
+    ],
+    "examples": "कोदोको रक्सी परम्परागत तरिकाले उतारियो।",
+    "examplesRomanized": "kodoko raksi paramparagat tarikale utariyo.",
+    "exampleEnglish": "Millet liquor was distilled traditionally.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "लुची",
+    "romanization": "luchi",
+    "pos": "noun",
+    "definitions": [
+      "deep-fried flatbread"
+    ],
+    "examples": "लुची तरकारीसँग खाइयो।",
+    "examplesRomanized": "luchi tarkari sanga khaiyo.",
+    "exampleEnglish": "Luchi was eaten with curry.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भुजिया",
+    "romanization": "bhujiya",
+    "pos": "noun",
+    "definitions": [
+      "fried gram flour snack"
+    ],
+    "examples": "भुजिया नास्तामा राखियो।",
+    "examplesRomanized": "bhujiya nastama rakhiyo.",
+    "exampleEnglish": "Bhujia was served for breakfast.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भुटेको भटमास",
+    "romanization": "bhuteko bhatmas",
+    "pos": "noun",
+    "definitions": [
+      "roasted soybeans"
+    ],
+    "examples": "भुटेको भटमास चटनीसँग खाइयो।",
+    "examplesRomanized": "bhuteko bhatmas chatni sanga khaiyo.",
+    "exampleEnglish": "Roasted soybeans were eaten with chutney.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "आलु पराठा",
+    "romanization": "alu paratha",
+    "pos": "noun",
+    "definitions": [
+      "stuffed potato flatbread"
+    ],
+    "examples": "आलु पराठा दहीसँग खाइयो।",
+    "examplesRomanized": "alu paratha dahi sanga khaiyo.",
+    "exampleEnglish": "Aloo paratha was eaten with yogurt.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "तारेको मोमो",
+    "romanization": "tareko momo",
+    "pos": "noun",
+    "definitions": [
+      "fried momos"
+    ],
+    "examples": "तारेको मोमो चट्नीसँग खाइयो।",
+    "examplesRomanized": "tareko momo chatnisaṅga khaiyo.",
+    "exampleEnglish": "Fried momos were eaten with chutney.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "चिल्ली मोमो",
+    "romanization": "chilli momo",
+    "pos": "noun",
+    "definitions": [
+      "stir-fried spicy momos"
+    ],
+    "examples": "चिल्ली मोमो तिखो बनाइयो।",
+    "examplesRomanized": "chilli momo tikho banaiyo.",
+    "exampleEnglish": "Chilli momos were made spicy.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "लिट्टी-चोखा",
+    "romanization": "litti-chokha",
+    "pos": "noun",
+    "definitions": [
+      "litti with mashed spiced vegetables"
+    ],
+    "examples": "लिट्टी-चोखा तात्तातो सर्भ गरियो।",
+    "examplesRomanized": "litti-chokha tattato sarbh gariyo.",
+    "exampleEnglish": "Litti-chokha was served hot.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "थकाली दाल",
+    "romanization": "thakali dal",
+    "pos": "noun",
+    "definitions": [
+      "Thakali-style lentils"
+    ],
+    "examples": "थकाली दाल घिउसँग परियो।",
+    "examplesRomanized": "thakali dal ghiu sanga pariyo.",
+    "exampleEnglish": "Thakali dal was served with ghee.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "थकाली तरकारी",
+    "romanization": "thakali tarkari",
+    "pos": "noun",
+    "definitions": [
+      "Thakali-style vegetable curry"
+    ],
+    "examples": "थकाली तरकारी परिकारमा थियो।",
+    "examplesRomanized": "thakali tarkari parikarma thiyo.",
+    "exampleEnglish": "Thakali-style curry was on the menu.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "फापरको ढिँडो",
+    "romanization": "phaparko dhindo",
+    "pos": "noun",
+    "definitions": [
+      "buckwheat porridge staple"
+    ],
+    "examples": "फापरको ढिँडो घ्यूसँग खाइयो।",
+    "examplesRomanized": "phaparko dhindo ghyu sanga khaiyo.",
+    "exampleEnglish": "Buckwheat dhindo was eaten with ghee.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "मकैको रोटी",
+    "romanization": "makaiko roti",
+    "pos": "noun",
+    "definitions": [
+      "corn flatbread"
+    ],
+    "examples": "मकैको रोटी सेकियो।",
+    "examplesRomanized": "makaiko roti sekio.",
+    "exampleEnglish": "Corn roti was roasted.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "गहुँको ढिँडो",
+    "romanization": "gahuko dhindo",
+    "pos": "noun",
+    "definitions": [
+      "wheat porridge staple"
+    ],
+    "examples": "गहुँको ढिँडो नुन र घ्यूसँग खाइयो।",
+    "examplesRomanized": "gahuko dhindo nun ra ghyu sanga khaiyo.",
+    "exampleEnglish": "Wheat dhindo was eaten with salt and ghee.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "कोदोको रोटी",
+    "romanization": "kodoko roti",
+    "pos": "noun",
+    "definitions": [
+      "finger millet flatbread"
+    ],
+    "examples": "कोदोको रोटी घरमै पकाइयो।",
+    "examplesRomanized": "kodoko roti gharmai pakaiyo.",
+    "exampleEnglish": "Millet roti was cooked at home.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भुटेको चना",
+    "romanization": "bhuteko chana",
+    "pos": "noun",
+    "definitions": [
+      "roasted chickpeas"
+    ],
+    "examples": "भुटेको चना नास्तामा खाइयो।",
+    "examplesRomanized": "bhuteko chana nastama khaiyo.",
+    "exampleEnglish": "Roasted chickpeas were eaten for breakfast.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "चुकन्दरको अचार",
+    "romanization": "chukandarko achar",
+    "pos": "noun",
+    "definitions": [
+      "beetroot pickle"
+    ],
+    "examples": "चुकन्दरको अचार तिखो बनाइयो।",
+    "examplesRomanized": "chukandarko achar tikho banaiyo.",
+    "exampleEnglish": "Beet pickle was made spicy.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "तामाको अचार",
+    "romanization": "tamako achar",
+    "pos": "noun",
+    "definitions": [
+      "bamboo shoot pickle"
+    ],
+    "examples": "तामाको अचारमा टिमुर राखियो।",
+    "examplesRomanized": "tamako acharma timur rakhiyo.",
+    "exampleEnglish": "Timur was added to bamboo shoot pickle.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "बन्देलको मासु",
+    "romanization": "bandelko masu",
+    "pos": "noun",
+    "definitions": [
+      "wild boar meat"
+    ],
+    "examples": "बन्देलको मासु झोल बनाइयो।",
+    "examplesRomanized": "bandelko masu jhol banaiyo.",
+    "exampleEnglish": "Wild boar curry was prepared.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सुंगुरको मासु",
+    "romanization": "sungurko masu",
+    "pos": "noun",
+    "definitions": [
+      "pork"
+    ],
+    "examples": "सुंगुरको मासु भुटेर खाइयो।",
+    "examplesRomanized": "sungurko masu bhutera khaiyo.",
+    "exampleEnglish": "Pork was roasted and eaten.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भैँसीको मासु",
+    "romanization": "bhainsiko masu",
+    "pos": "noun",
+    "definitions": [
+      "buffalo meat"
+    ],
+    "examples": "भैँसीको मासु सेकुवा बनाइयो।",
+    "examplesRomanized": "bhainsiko masu sekuwa banaiyo.",
+    "exampleEnglish": "Buffalo meat was grilled as sekuwa.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "मासको दाल",
+    "romanization": "mas ko dal",
+    "pos": "noun",
+    "definitions": [
+      "black gram lentil soup"
+    ],
+    "examples": "मासको दाल तताएर परियो।",
+    "examplesRomanized": "mas ko dal tataera pariyo.",
+    "exampleEnglish": "Mas ko dal was served hot.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "पालुङ्गोको साग",
+    "romanization": "palungoko saag",
+    "pos": "noun",
+    "definitions": [
+      "spinach greens curry"
+    ],
+    "examples": "पालुङ्गोको साग बनाइयो।",
+    "examplesRomanized": "palungoko saag banaiyo.",
+    "exampleEnglish": "Spinach curry was prepared.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सख्खरखण्ड",
+    "romanization": "sakkharkhand",
+    "pos": "noun",
+    "definitions": [
+      "sweet potato"
+    ],
+    "examples": "सख्खरखण्ड उमालेर खाइयो।",
+    "examplesRomanized": "sakkharkhand umalera khaiyo.",
+    "exampleEnglish": "Sweet potatoes were boiled and eaten.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "आलु चोप",
+    "romanization": "alu chop",
+    "pos": "noun",
+    "definitions": [
+      "potato fritter (street snack)"
+    ],
+    "examples": "आलु चोप नास्तामा खाइयो।",
+    "examplesRomanized": "alu chop nastama khaiyo.",
+    "exampleEnglish": "Aloo chop was eaten for breakfast.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "प्याज पकौडा",
+    "romanization": "pyaj pakoda",
+    "pos": "noun",
+    "definitions": [
+      "onion fritters"
+    ],
+    "examples": "प्याज पकौडा तारेको थियो।",
+    "examplesRomanized": "pyaj pakoda tareko thiyo.",
+    "exampleEnglish": "Onion pakoras were deep-fried.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "काँक्रोको अचार",
+    "romanization": "kankroko achar",
+    "pos": "noun",
+    "definitions": [
+      "cucumber pickle"
+    ],
+    "examples": "काँक्रोको अचार ताजा बनाइयो।",
+    "examplesRomanized": "kankroko achar taja banaiyo.",
+    "exampleEnglish": "Fresh cucumber pickle was prepared.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "डल्ले खुर्सानी",
+    "romanization": "dalle khursani",
+    "pos": "noun",
+    "definitions": [
+      "round red hill chili"
+    ],
+    "examples": "डल्ले खुर्सानी चटनी बनाइयो।",
+    "examplesRomanized": "dalle khursani chatni banaiyo.",
+    "exampleEnglish": "Dalle chili chutney was prepared.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "झिँगा माछा",
+    "romanization": "jhiga machha",
+    "pos": "noun",
+    "definitions": [
+      "prawns; shrimp"
+    ],
+    "examples": "झिँगा माछा फ्राइ गरियो।",
+    "examplesRomanized": "jhiga machha phrai gariyo.",
+    "exampleEnglish": "Prawns were fried.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "हाँसको मासु",
+    "romanization": "hansko masu",
+    "pos": "noun",
+    "definitions": [
+      "duck meat"
+    ],
+    "examples": "हाँसको मासु झोल बनाइयो।",
+    "examplesRomanized": "hansko masu jhol banaiyo.",
+    "exampleEnglish": "Duck curry was prepared.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "च्याउको अचार",
+    "romanization": "chyaauko achar",
+    "pos": "noun",
+    "definitions": [
+      "mushroom pickle"
+    ],
+    "examples": "च्याउको अचारमा जिरा हालियो।",
+    "examplesRomanized": "chyaauko acharma jira haliyo.",
+    "exampleEnglish": "Cumin was added to mushroom pickle.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "टिमुरको चटनी",
+    "romanization": "timurko chatni",
+    "pos": "noun",
+    "definitions": [
+      "Sichuan pepper chutney"
+    ],
+    "examples": "टिमुरको चटनीले स्वाद बढायो।",
+    "examplesRomanized": "timurko chatnile swad badayo.",
+    "exampleEnglish": "Timur chutney enhanced the flavor.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भाङ्गको चटनी",
+    "romanization": "bhang ko chatni",
+    "pos": "noun",
+    "definitions": [
+      "hemp seed chutney"
+    ],
+    "examples": "भाङ्गको चटनी खाजा सेटमा थियो।",
+    "examplesRomanized": "bhang ko chatni khaja setma thiyo.",
+    "exampleEnglish": "Hemp seed chutney was in the khaja set.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "बाटुक",
+    "romanization": "batuk",
+    "pos": "noun",
+    "definitions": [
+      "Tharu black lentil fritter"
+    ],
+    "examples": "बाटुक अचारसँग खाइयो।",
+    "examplesRomanized": "batuk achar sanga khaiyo.",
+    "exampleEnglish": "Batuk was eaten with pickle.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "रायोको साग",
+    "romanization": "raayo ko saag",
+    "pos": "noun",
+    "definitions": [
+      "mustard greens curry"
+    ],
+    "examples": "रायोको साग घ्यूमा छोपेर बनाइयो।",
+    "examplesRomanized": "raayo ko saag ghyuma chhoper banaiyo.",
+    "exampleEnglish": "Mustard greens were finished with ghee.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "गुन्द्रुक भुटेको",
+    "romanization": "gundruk bhuteko",
+    "pos": "noun",
+    "definitions": [
+      "stir-fried fermented greens"
+    ],
+    "examples": "गुन्द्रुक भुटेकोमा ज्वानो हालियो।",
+    "examplesRomanized": "gundruk bhutekoma jwano haliyo.",
+    "exampleEnglish": "Ajwain was added to stir-fried gundruk.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "करैलाको अचार",
+    "romanization": "karelako achar",
+    "pos": "noun",
+    "definitions": [
+      "bitter gourd pickle"
+    ],
+    "examples": "करैलाको अचार खट्टा-तिखो बनाइयो।",
+    "examplesRomanized": "karelako achar khatta-tikho banaiyo.",
+    "exampleEnglish": "Bitter gourd pickle was made tangy and spicy.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "काउलीको अचार",
+    "romanization": "kauliko achar",
+    "pos": "noun",
+    "definitions": [
+      "cauliflower pickle"
+    ],
+    "examples": "काउलीको अचारमा मेथी र जिरा राखियो।",
+    "examplesRomanized": "kauliko acharma methi ra jira rakhiyo.",
+    "exampleEnglish": "Fenugreek and cumin were added to the cauliflower pickle.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "बन्दगोभीको अचार",
+    "romanization": "bandagobhiko achar",
+    "pos": "noun",
+    "definitions": [
+      "cabbage pickle"
+    ],
+    "examples": "बन्दगोभीको अचार चाँडै तयार भयो।",
+    "examplesRomanized": "bandagobhiko achar chadai tayar bhayo.",
+    "exampleEnglish": "The cabbage pickle was ready quickly.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "बोडीको तरकारी",
+    "romanization": "bodi ko tarkari",
+    "pos": "noun",
+    "definitions": [
+      "yardlong bean curry"
+    ],
+    "examples": "बोडीको तरकारी आलुसँग पकाइयो।",
+    "examplesRomanized": "bodi ko tarkari alusanga pakaiyo.",
+    "exampleEnglish": "Yardlong bean curry was cooked with potatoes.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "तरुलको तरकारी",
+    "romanization": "tarulko tarkari",
+    "pos": "noun",
+    "definitions": [
+      "taro root curry"
+    ],
+    "examples": "तरुलको तरकारी तोरीको तेलमा बनाइयो।",
+    "examplesRomanized": "tarulko tarkari toriko telma banaiyo.",
+    "exampleEnglish": "Taro curry was made in mustard oil.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "मासको वडा",
+    "romanization": "mas ko wada",
+    "pos": "noun",
+    "definitions": [
+      "black gram fritter"
+    ],
+    "examples": "मासको वडा तातेको तेलमा तारेको थियो।",
+    "examplesRomanized": "mas ko wada tateko telma tareko thiyo.",
+    "exampleEnglish": "Mas ko wada was deep-fried in hot oil.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "माछाको झोल",
+    "romanization": "machhako jhol",
+    "pos": "noun",
+    "definitions": [
+      "fish curry"
+    ],
+    "examples": "माछाको झोल भातसँग खाइयो।",
+    "examplesRomanized": "machhako jhol bhat sanga khaiyo.",
+    "exampleEnglish": "Fish curry was eaten with rice.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "खुर्सानी पकौडा",
+    "romanization": "khursani pakoda",
+    "pos": "noun",
+    "definitions": [
+      "chili fritters"
+    ],
+    "examples": "खुर्सानी पकौडा तिखो थियो।",
+    "examplesRomanized": "khursani pakoda tikho thiyo.",
+    "exampleEnglish": "The chili fritters were spicy.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "गोलभेंडाको झोल",
+    "romanization": "golbhendako jhol",
+    "pos": "noun",
+    "definitions": [
+      "tomato curry"
+    ],
+    "examples": "गोलभेंडाको झोल साधारण तर स्वादिलो थियो।",
+    "examplesRomanized": "golbhendako jhol sadharan tara swadilo thiyo.",
+    "exampleEnglish": "The tomato curry was simple yet tasty.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "रायोको अचार",
+    "romanization": "raayo ko achar",
+    "pos": "noun",
+    "definitions": [
+      "mustard greens pickle"
+    ],
+    "examples": "रायोको अचार छिट्टै खट्टा हुन्छ।",
+    "examplesRomanized": "raayo ko achar chittai khatta hunchha.",
+    "exampleEnglish": "Mustard greens pickle turns tangy quickly.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भुटेको चिउरा",
+    "romanization": "bhuteko chiura",
+    "pos": "noun",
+    "definitions": [
+      "toasted beaten rice"
+    ],
+    "examples": "भुटेको चिउरा चिया संग खाइयो।",
+    "examplesRomanized": "bhuteko chiura chiya sanga khaiyo.",
+    "exampleEnglish": "Toasted chiura was eaten with tea.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भेल",
+    "romanization": "bhel",
+    "pos": "noun",
+    "definitions": [
+      "puffed rice snack mix"
+    ],
+    "examples": "भेलमा चटनी मिसाइयो।",
+    "examplesRomanized": "bhelma chatni misaiyo.",
+    "exampleEnglish": "Chutney was mixed into the bhel.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सेव",
+    "romanization": "sev",
+    "pos": "noun",
+    "definitions": [
+      "gram flour fried noodles"
+    ],
+    "examples": "सेव दालमोठमा राखियो।",
+    "examplesRomanized": "sev dalmothma rakhiyo.",
+    "exampleEnglish": "Sev was added to the dalmoth.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "चना-भूजा",
+    "romanization": "chana-bhuja",
+    "pos": "noun",
+    "definitions": [
+      "roasted chickpeas with puffed rice"
+    ],
+    "examples": "चना-भूजा खाजा सेटमा थियो।",
+    "examplesRomanized": "chana-bhuja khaja setma thiyo.",
+    "exampleEnglish": "Chana-bhuja was in the snack set.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "कर्पुरेल",
+    "romanization": "karpurel",
+    "pos": "noun",
+    "definitions": [
+      "Maithili sweet puffed bread"
+    ],
+    "examples": "कर्पुरेल पर्वमा बनाइयो।",
+    "examplesRomanized": "karpurel parvama banaiyo.",
+    "exampleEnglish": "Karpurel was made during the festival.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "ठेकुवा-सेवई",
+    "romanization": "thekuwa-sewai",
+    "pos": "noun",
+    "definitions": [
+      "thekuwa with vermicelli dessert"
+    ],
+    "examples": "ठेकुवा-सेवई छठपछि खाइयो।",
+    "examplesRomanized": "thekuwa-sewai chhathpachi khaiyo.",
+    "exampleEnglish": "Thekuwa with sewai was eaten after Chhath.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "थालि सेट",
+    "romanization": "thali set",
+    "pos": "noun",
+    "definitions": [
+      "set meal platter"
+    ],
+    "examples": "थालि सेटमा दाल, भात, तरकारी र अचार थियो।",
+    "examplesRomanized": "thali setma dal, bhat, tarkari ra achar thiyo.",
+    "exampleEnglish": "The thali set had dal, rice, curry and pickle.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "खाजा सेट",
+    "romanization": "khaja set",
+    "pos": "noun",
+    "definitions": [
+      "snack set"
+    ],
+    "examples": "खाजा सेटमा चाउचाउ, अन्डा र चटनी थियो।",
+    "examplesRomanized": "khaja setma chauchau, anda ra chatni thiyo.",
+    "exampleEnglish": "The snack set had noodles, egg and chutney.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "गोलभेंडाको भुर्ता",
+    "romanization": "golbhendako bhurta",
+    "pos": "noun",
+    "definitions": [
+      "mashed spiced tomato"
+    ],
+    "examples": "गोलभेंडाको भुर्ता दालभातसँग खाइयो।",
+    "examplesRomanized": "golbhendako bhurta dalbhat sanga khaiyo.",
+    "exampleEnglish": "Tomato bhurta was eaten with dal-bhat.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "कुँदो",
+    "romanization": "kundo",
+    "pos": "noun",
+    "definitions": [
+      "boiled maize kernels"
+    ],
+    "examples": "कुँदो नुन र खुर्सानीसँग खाइयो।",
+    "examplesRomanized": "kundo nun ra khursani sanga khaiyo.",
+    "exampleEnglish": "Boiled maize kernels were eaten with salt and chili.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "मकैको धुलो",
+    "romanization": "makaiko dhulo",
+    "pos": "noun",
+    "definitions": [
+      "cornmeal"
+    ],
+    "examples": "मकैको धुलोबाट ढिँडो बनाइयो।",
+    "examplesRomanized": "makaiko dhulobata dhindo banaiyo.",
+    "exampleEnglish": "Dhindo was made from cornmeal.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "भटमास भुजिया",
+    "romanization": "bhatmas bhujiya",
+    "pos": "noun",
+    "definitions": [
+      "crispy soybean snack"
+    ],
+    "examples": "भटमास भुजिया खाजा सेटमा राखियो।",
+    "examplesRomanized": "bhatmas bhujiya khaja setma rakhiyo.",
+    "exampleEnglish": "Soybean bhujia was included in the snack set.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "दाल-भुजा",
+    "romanization": "dal-bhuja",
+    "pos": "noun",
+    "definitions": [
+      "roasted lentils with puffed rice"
+    ],
+    "examples": "दाल-भुजा चटपटेमा मिसाइयो।",
+    "examplesRomanized": "dal-bhuja chatpatema misaiyo.",
+    "exampleEnglish": "Dal-bhuja was mixed into chatpate.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "आलु-भुजिया",
+    "romanization": "alu-bhujiya",
+    "pos": "noun",
+    "definitions": [
+      "thin fried potato snack"
+    ],
+    "examples": "आलु-भुजिया नास्तामा राखियो।",
+    "examplesRomanized": "alu-bhujiya nastama rakhiyo.",
+    "exampleEnglish": "Aloo bhujia was served for breakfast.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "डाल भात तरकारी",
+    "romanization": "dal bhat tarkari",
+    "pos": "noun",
+    "definitions": [
+      "dal, rice and vegetable curry set"
+    ],
+    "examples": "डाल भात तरकारी नेवारी खाजा भन्दा फरक छ।",
+    "examplesRomanized": "dal bhat tarkari newari khaja bhanda farak chha.",
+    "exampleEnglish": "Dal bhat tarkari is different from Newari khaja.",
+    "frequency": "high",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "खुर्शानी-टिमुरको अचार",
+    "romanization": "khursani-timurko achar",
+    "pos": "noun",
+    "definitions": [
+      "chili and timur pickle"
+    ],
+    "examples": "खुर्शानी-टिमुरको अचार तीखो र सुगन्धित हुन्छ।",
+    "examplesRomanized": "khursani-timurko achar tikho ra sugandhit hunchha.",
+    "exampleEnglish": "Chili-timur pickle is spicy and aromatic.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "मुठिया",
+    "romanization": "muthiya",
+    "pos": "noun",
+    "definitions": [
+      "steamed dumpling rolls (Terai/Tharu)"
+    ],
+    "examples": "मुठिया झोलसँग खाइयो।",
+    "examplesRomanized": "muthiya jhol sanga khaiyo.",
+    "exampleEnglish": "Muthiya was eaten with gravy.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "आलु-तामा-गोलभेंडा",
+    "romanization": "alu-tama-golbhenda",
+    "pos": "noun",
+    "definitions": [
+      "potato, bamboo shoot and tomato curry"
+    ],
+    "examples": "आलु-तामा-गोलभेंडा घरमै पकाइयो।",
+    "examplesRomanized": "alu-tama-golbhenda gharmai pakaiyo.",
+    "exampleEnglish": "Alu-tama-golbheda was cooked at home.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "आलु-भेडो",
+    "romanization": "alu-bhedo",
+    "pos": "noun",
+    "definitions": [
+      "potato and lamb curry"
+    ],
+    "examples": "आलु-भेडो मसलेदार बनाइयो।",
+    "examplesRomanized": "alu-bhedo masaledar banaiyo.",
+    "exampleEnglish": "Potato-lamb curry was made spicy.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "काजु-किसमिस पाक",
+    "romanization": "kaju-kismis pak",
+    "pos": "noun",
+    "definitions": [
+      "cashew raisin milk fudge"
+    ],
+    "examples": "काजु-किसमिस पाक चिठ्ठीमा बाँडियो।",
+    "examplesRomanized": "kaju-kismis pak chithima badiyo.",
+    "exampleEnglish": "Cashew-raisin fudge was distributed.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "डोम",
+    "romanization": "dom",
+    "pos": "noun",
+    "definitions": [
+      "fermented millet bread (Himalayan)"
+    ],
+    "examples": "डोम चिउरा र अचारसँग खाइयो।",
+    "examplesRomanized": "dom chiura ra achar sanga khaiyo.",
+    "exampleEnglish": "Dom was eaten with chiura and pickle.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "छेउमिन सडेको",
+    "romanization": "chaumin sadeko",
+    "pos": "noun",
+    "definitions": [
+      "marinated chow mein salad"
+    ],
+    "examples": "छेउमिन सडेकोमा खुर्सानी र टिमुर हालियो।",
+    "examplesRomanized": "chaumin sadekoma khursani ra timur haliyo.",
+    "exampleEnglish": "Chili and timur were added to chow mein sadeko.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "चोलाईको अचार",
+    "romanization": "cholaaiko achar",
+    "pos": "noun",
+    "definitions": [
+      "amaranth greens pickle"
+    ],
+    "examples": "चोलाईको अचार छिट्टै तयार हुन्छ।",
+    "examplesRomanized": "cholaaiko achar chittai tayar hunchha.",
+    "exampleEnglish": "Amaranth greens pickle gets ready quickly.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "ज्वानोको झोल",
+    "romanization": "jwanoko jhol",
+    "pos": "noun",
+    "definitions": [
+      "ajwain-flavored soup"
+    ],
+    "examples": "ज्वानोको झोल जाडोमा तात्तातो खाइयो।",
+    "examplesRomanized": "jwanoko jhol jado ma tattato khaiyo.",
+    "exampleEnglish": "Ajwain soup was eaten hot in winter.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "ढिंडो-गुन्द्रुक",
+    "romanization": "dhindo-gundruk",
+    "pos": "noun",
+    "definitions": [
+      "dhindo with gundruk set"
+    ],
+    "examples": "ढिंडो-गुन्द्रुक परिकार मन पर्‍यो।",
+    "examplesRomanized": "dhindo-gundruk parikar man paryo.",
+    "exampleEnglish": "I liked the dhindo-gundruk set.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "सेकुवा सेट",
+    "romanization": "sekuwa set",
+    "pos": "noun",
+    "definitions": [
+      "sekuwa platter"
+    ],
+    "examples": "सेकुवा सेटमा सलाद र चटनी थियो।",
+    "examplesRomanized": "sekuwa setma salad ra chatni thiyo.",
+    "exampleEnglish": "The sekuwa set had salad and chutney.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "मस्यौरा-गुन्द्रुकको झोल",
+    "romanization": "masyaura-gundrukko jhol",
+    "pos": "noun",
+    "definitions": [
+      "soup with dried nuggets and fermented greens"
+    ],
+    "examples": "मस्यौरा-गुन्द्रुकको झोल तात्तातो परोस्।",
+    "examplesRomanized": "masyaura-gundrukko jhol tattato paros.",
+    "exampleEnglish": "Serve the masyaura-gundruk soup hot.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "मकै-भटमास सडेको",
+    "romanization": "makai-bhatmas sadeko",
+    "pos": "noun",
+    "definitions": [
+      "marinated corn and soybean mix"
+    ],
+    "examples": "मकै-भटमास सडेकोमा टिमुर हालियो।",
+    "examplesRomanized": "makai-bhatmas sadekoma timur haliyo.",
+    "exampleEnglish": "Timur was added to the corn-soybean sadeko.",
+    "frequency": "low",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "धानको चिउरा",
+    "romanization": "dhan ko chiura",
+    "pos": "noun",
+    "definitions": [
+      "flattened rice from paddy"
+    ],
+    "examples": "धानको चिउरा दहीसँग खाइयो।",
+    "examplesRomanized": "dhan ko chiura dahi sanga khaiyo.",
+    "exampleEnglish": "Flattened rice was eaten with yogurt.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "तिलको लड्डु",
+    "romanization": "tilko laddu",
+    "pos": "noun",
+    "definitions": [
+      "sesame sweet balls"
+    ],
+    "examples": "तिलको लड्डु माघे संक्रान्तिमा बनाइयो।",
+    "examplesRomanized": "tilko laddu maghe sankrantima banaiyo.",
+    "exampleEnglish": "Sesame laddus were made on Maghe Sankranti.",
+    "frequency": "medium",
+    "category": "food"
+  },
+  {
+    "DevanagriWord": "जिम्बुको झोल",
+    "romanization": "jimbuko jhol",
+    "pos": "noun",
+    "definitions": [
+      "jimbu-flavored soup"
+    ],
+    "examples": "जिम्बुको झोल जाडोमा मन पर्‍यो।",
+    "examplesRomanized": "jimbuko jhol jado ma man paryo.",
+    "exampleEnglish": "Jimbu soup was liked in winter.",
+    "frequency": "low",
+    "category": "food"
+  }
+]

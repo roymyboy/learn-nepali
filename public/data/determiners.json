@@ -1,0 +1,470 @@
+[
+  {
+    "DevanagriWord": "केही",
+    "romanization": "kehi",
+    "pos": "determiner/pronoun",
+    "definitions": [
+      "some; a few (used for an unspecified quantity of countable or uncountable nouns)"
+    ],
+    "examples": "केही मानिसहरू यहाँ बस्छन्।",
+    "examplesRomanized": "kehi manisharu yaha baschhan.",
+    "exampleEnglish": "Some people live here.",
+    "frequency": "high",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "सबै",
+    "romanization": "sabai",
+    "pos": "determiner/pronoun",
+    "definitions": [
+      "all; every (used to refer to the entire group or entirety of things)"
+    ],
+    "examples": "सबै विद्यार्थी कक्षामा छन्।",
+    "examplesRomanized": "sabai vidyarthi kakshama chhan.",
+    "exampleEnglish": "All students are in the class.",
+    "frequency": "high",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "हरेक",
+    "romanization": "harek",
+    "pos": "determiner/pronoun",
+    "definitions": [
+      "each; every (used to refer to individual members of a group separately)"
+    ],
+    "examples": "हरेक दिन उसले अभ्यास गर्छ।",
+    "examplesRomanized": "harek din usle abhyas garchha.",
+    "exampleEnglish": "He practices every day.",
+    "frequency": "high",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "कुनै",
+    "romanization": "kunai",
+    "pos": "determiner/pronoun",
+    "definitions": [
+      "any; some (used for an unspecified item, person, or reason)"
+    ],
+    "examples": "कुनै कारणवश कार्यक्रम रोकियो।",
+    "examplesRomanized": "kunai karanwash karyakram rokiyo.",
+    "exampleEnglish": "The event was stopped for some reason.",
+    "frequency": "high",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "अझै केही",
+    "romanization": "ajhai kehi",
+    "pos": "determiner",
+    "definitions": [
+      "still some; a little more (used to indicate a small additional quantity)"
+    ],
+    "examples": "अझै केही खाना बाँकी छ।",
+    "examplesRomanized": "ajhai kehi khana baanki chha.",
+    "exampleEnglish": "There is still some food left.",
+    "frequency": "medium",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "के",
+    "romanization": "ke",
+    "pos": "determiner/pronoun",
+    "definitions": [
+      "what; which (used to ask about something or identify it)"
+    ],
+    "examples": "के पुस्तक चाहिन्छ?",
+    "examplesRomanized": "ke pustak chahinchha?",
+    "exampleEnglish": "Which book do you want?",
+    "frequency": "high",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "त्यो",
+    "romanization": "tyo",
+    "pos": "determiner/pronoun",
+    "definitions": [
+      "that (used to point to something far from the speaker)"
+    ],
+    "examples": "त्यो घर ठूलो छ।",
+    "examplesRomanized": "tyo ghar thulo chha.",
+    "exampleEnglish": "That house is big.",
+    "frequency": "high",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "यो",
+    "romanization": "yo",
+    "pos": "determiner/pronoun",
+    "definitions": [
+      "this (used to indicate something near the speaker)"
+    ],
+    "examples": "यो किताब राम्रो छ।",
+    "examplesRomanized": "yo kitab ramro chha.",
+    "exampleEnglish": "This book is good.",
+    "frequency": "high",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "त्यहाँको",
+    "romanization": "tyahanko",
+    "pos": "determiner",
+    "definitions": [
+      "of that place; belonging to there (possessive determiner)"
+    ],
+    "examples": "त्यहाँको विद्यालय ठूलो छ।",
+    "examplesRomanized": "tyahanko vidyalaya thulo chha.",
+    "exampleEnglish": "The school over there is big.",
+    "frequency": "medium",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "मेरो",
+    "romanization": "mero",
+    "pos": "determiner",
+    "definitions": [
+      "my; mine (possessive determiner)"
+    ],
+    "examples": "मेरो कलम हरायो।",
+    "examplesRomanized": "mero kalam haraayo.",
+    "exampleEnglish": "My pen is lost.",
+    "frequency": "high",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "तिम्रो",
+    "romanization": "timro",
+    "pos": "determiner",
+    "definitions": [
+      "your (singular) (possessive determiner)"
+    ],
+    "examples": "तिम्रो घर ठूलो छ।",
+    "examplesRomanized": "timro ghar thulo chha.",
+    "exampleEnglish": "Your house is big.",
+    "frequency": "high",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "हाम्रो",
+    "romanization": "haamro",
+    "pos": "determiner",
+    "definitions": [
+      "our (possessive determiner)"
+    ],
+    "examples": "हाम्रो गाउँ सुन्दर छ।",
+    "examplesRomanized": "haamro gaaun sundar chha.",
+    "exampleEnglish": "Our village is beautiful.",
+    "frequency": "high",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "तिनीहरूको",
+    "romanization": "tiniharuko",
+    "pos": "determiner",
+    "definitions": [
+      "their (plural possessive determiner)"
+    ],
+    "examples": "तिनीहरूको कार नयाँ छ।",
+    "examplesRomanized": "tiniharuko car naya chha.",
+    "exampleEnglish": "Their car is new.",
+    "frequency": "medium",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "कसैको",
+    "romanization": "kasai ko",
+    "pos": "determiner",
+    "definitions": [
+      "someone's; belonging to someone (unspecified)"
+    ],
+    "examples": "कसैको किताब यहाँ छ।",
+    "examplesRomanized": "kasai ko kitab yaha chha.",
+    "exampleEnglish": "Someone's book is here.",
+    "frequency": "medium",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "कसैले",
+    "romanization": "kasale",
+    "pos": "determiner/pronoun",
+    "definitions": [
+      "someone; anybody (used for an unspecified person)"
+    ],
+    "examples": "कसैले ढोका बन्द गर्यो।",
+    "examplesRomanized": "kasale dhoka band garyo.",
+    "exampleEnglish": "Someone closed the door.",
+    "frequency": "medium",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "सबैले",
+    "romanization": "sabaile",
+    "pos": "determiner/pronoun",
+    "definitions": [
+      "everyone; all people (used for the entire group)"
+    ],
+    "examples": "सबैले काम गरे।",
+    "examplesRomanized": "sabaile kaam gare.",
+    "exampleEnglish": "Everyone did the work.",
+    "frequency": "high",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "यी",
+    "romanization": "yi",
+    "pos": "determiner",
+    "definitions": [
+      "these (used to indicate plural objects near the speaker)"
+    ],
+    "examples": "यी फूलहरू सुन्दर छन्।",
+    "examplesRomanized": "yi phoolharu sundar chhan.",
+    "exampleEnglish": "These flowers are beautiful.",
+    "frequency": "high",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "तिनीहरू",
+    "romanization": "tiniharu",
+    "pos": "determiner/pronoun",
+    "definitions": [
+      "those people; they (used for plural entities far from the speaker)"
+    ],
+    "examples": "तिनीहरूले काम सके।",
+    "examplesRomanized": "tiniharule kaam sake.",
+    "exampleEnglish": "They finished the work.",
+    "frequency": "medium",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "कसै",
+    "romanization": "kasai",
+    "pos": "determiner/pronoun",
+    "definitions": [
+      "someone; anyone (used for an unspecified individual)"
+    ],
+    "examples": "कसैलाई मद्दत चाहिन्छ।",
+    "examplesRomanized": "kasailai maddat chahinchha.",
+    "exampleEnglish": "Someone needs help.",
+    "frequency": "medium",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "केहीपटक",
+    "romanization": "kehipatak",
+    "pos": "determiner",
+    "definitions": [
+      "sometimes; a few times (used to indicate occasional instances)"
+    ],
+    "examples": "केहीपटक हामी सँगै घुम्न जाँछौं।",
+    "examplesRomanized": "kehipatak haami sangaai ghumn janchhau.",
+    "exampleEnglish": "Sometimes we go for trips together.",
+    "frequency": "medium",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "अनेक",
+    "romanization": "anek",
+    "pos": "determiner",
+    "definitions": [
+      "many; numerous (used for large countable numbers)"
+    ],
+    "examples": "अनेक मानिसहरूले कार्यक्रममा भाग लिए।",
+    "examplesRomanized": "anek manisharle karyakramma bhaag liye.",
+    "exampleEnglish": "Many people participated in the event.",
+    "frequency": "medium",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "विभिन्न",
+    "romanization": "vibhinn",
+    "pos": "determiner",
+    "definitions": [
+      "various; different (used to indicate diversity)"
+    ],
+    "examples": "विभिन्न रंगका फूलहरू बगैंचामा छन्।",
+    "examplesRomanized": "vibhinn rangka phoolharu bagainchama chhan.",
+    "exampleEnglish": "There are flowers of various colors in the garden.",
+    "frequency": "medium",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "आफ्नै",
+    "romanization": "aafnai",
+    "pos": "determiner",
+    "definitions": [
+      "own; belonging to oneself (possessive determiner)"
+    ],
+    "examples": "उहाँको आफ्नै विचार छ।",
+    "examplesRomanized": "uhanko aafnai bichaar chha.",
+    "exampleEnglish": "He/She has his/her own opinion.",
+    "frequency": "high",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "अल्प",
+    "romanization": "alp",
+    "pos": "determiner",
+    "definitions": [
+      "few; little (used to indicate small quantity)"
+    ],
+    "examples": "अल्प मान्छेले मात्र यो कुरा बुझ्छन्।",
+    "examplesRomanized": "alp manishle matra yo kura bujhchhan.",
+    "exampleEnglish": "Only a few people understand this.",
+    "frequency": "medium",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "प्रत्येक",
+    "romanization": "pratyek",
+    "pos": "determiner",
+    "definitions": [
+      "each; every (used for individuals in a group separately)"
+    ],
+    "examples": "प्रत्येक कर्मचारीले रिपोर्ट बुझाउनु पर्छ।",
+    "examplesRomanized": "pratyek karmachaarile report bujhaunu parcha.",
+    "exampleEnglish": "Each employee must submit the report.",
+    "frequency": "high",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "समान",
+    "romanization": "samaan",
+    "pos": "determiner",
+    "definitions": [
+      "same; equal (used for indicating identical items or equality)"
+    ],
+    "examples": "सबै विद्यार्थी समान अवसर पाउँछन्।",
+    "examplesRomanized": "sabai vidyarthi samaan awasar paunchhan.",
+    "exampleEnglish": "All students get the same opportunity.",
+    "frequency": "medium",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "प्रचुर",
+    "romanization": "prachur",
+    "pos": "determiner",
+    "definitions": [
+      "abundant; plentiful (used to indicate large quantity)"
+    ],
+    "examples": "बगैंचामा प्रचुर फूलहरू फुलेका छन्।",
+    "examplesRomanized": "bagainchama prachur phoolharu phuleka chhan.",
+    "exampleEnglish": "The garden has an abundance of flowers.",
+    "frequency": "medium",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "अत्यल्प",
+    "romanization": "atyalp",
+    "pos": "determiner",
+    "definitions": [
+      "very few; extremely small quantity"
+    ],
+    "examples": "अत्यल्प मानिसहरूले मात्र यो अवसर पाउँछन्।",
+    "examplesRomanized": "atyalp manishle matra yo awasar paunchhan.",
+    "exampleEnglish": "Very few people get this opportunity.",
+    "frequency": "low",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "अन्य",
+    "romanization": "anya",
+    "pos": "determiner",
+    "definitions": [
+      "other; another (used for alternatives or additional items)"
+    ],
+    "examples": "अन्य पुस्तकहरू पनि पढ्नुहोस्।",
+    "examplesRomanized": "anya pustakharu pani padhnuhos.",
+    "exampleEnglish": "Read other books as well.",
+    "frequency": "medium",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "कुनैपनि",
+    "romanization": "kunaipani",
+    "pos": "determiner",
+    "definitions": [
+      "any; whichever (used for choice without restriction)"
+    ],
+    "examples": "कुनैपनि विकल्प ठीक छ।",
+    "examplesRomanized": "kunaipani vikalp thik chha.",
+    "exampleEnglish": "Any option is fine.",
+    "frequency": "medium",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "कुनैकुनै",
+    "romanization": "kunai kunai",
+    "pos": "determiner",
+    "definitions": [
+      "some; a few (used to indicate scattered or selective items)"
+    ],
+    "examples": "कुनैकुनै ठाउँमा वर्षा भएको छ।",
+    "examplesRomanized": "kunai kunai thau ma barsha bhayeko chha.",
+    "exampleEnglish": "It has rained in some places.",
+    "frequency": "medium",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "आफ्नो",
+    "romanization": "aaphno",
+    "pos": "determiner",
+    "definitions": [
+      "own; belonging to oneself"
+    ],
+    "examples": "उसले आफ्नो घर सफा गर्यो।",
+    "examplesRomanized": "usle aaphno ghar safa garyo.",
+    "exampleEnglish": "He cleaned his own house.",
+    "frequency": "high",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "उसको",
+    "romanization": "usko",
+    "pos": "determiner",
+    "definitions": [
+      "his/her; belonging to him/her"
+    ],
+    "examples": "उसको कलम हरायो।",
+    "examplesRomanized": "usko kalam haraayo.",
+    "exampleEnglish": "His/Her pen is lost.",
+    "frequency": "high",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "यस्तो",
+    "romanization": "yasto",
+    "pos": "determiner",
+    "definitions": [
+      "such; like this"
+    ],
+    "examples": "यस्तो अवसर बारम्बार आउँदैन।",
+    "examplesRomanized": "yasto awasar barambaar aaundaina.",
+    "exampleEnglish": "Such an opportunity doesn’t come often.",
+    "frequency": "high",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "त्यस्तो",
+    "romanization": "tyasto",
+    "pos": "determiner",
+    "definitions": [
+      "that kind; like that"
+    ],
+    "examples": "त्यस्तो व्यवहार स्वीकार्य छैन।",
+    "examplesRomanized": "tyasto byavahar swikarya chhaina.",
+    "exampleEnglish": "That kind of behavior is unacceptable.",
+    "frequency": "medium",
+    "category": "determiners"
+  },
+  {
+    "DevanagriWord": "उही",
+    "romanization": "uhi",
+    "pos": "determiner",
+    "definitions": [
+      "the same; that very one"
+    ],
+    "examples": "उही किताब म खोज्दैछु।",
+    "examplesRomanized": "uhi kitaab ma khojdai chhu.",
+    "exampleEnglish": "I am looking for the same book.",
+    "frequency": "medium",
+    "category": "determiners"
+  }
+]

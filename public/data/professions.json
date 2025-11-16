@@ -1,0 +1,327 @@
+[
+  {
+    "DevanagriWord": "कवि",
+    "romanization": "kavi",
+    "pos": "noun",
+    "definitions": [
+      "poet"
+    ],
+    "examples": "कविले नयाँ कविता लेखे।",
+    "examplesRomanized": "kavile naya kavita lekhe.",
+    "exampleEnglish": "The poet wrote a new poem.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "लेखक",
+    "romanization": "lekhak",
+    "pos": "noun",
+    "definitions": [
+      "writer; author"
+    ],
+    "examples": "लेखकले उपन्यास प्रकाशन गरे।",
+    "examplesRomanized": "lekhakle upanyas prakashan gare.",
+    "exampleEnglish": "The author published a novel.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "सिपाही",
+    "romanization": "sipahi",
+    "pos": "noun",
+    "definitions": [
+      "soldier"
+    ],
+    "examples": "सिपाहीले देशको रक्षा गर्छ।",
+    "examplesRomanized": "sipahile deshko raksha garchha.",
+    "exampleEnglish": "A soldier defends the country.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "पत्रकार",
+    "romanization": "patrakar",
+    "pos": "noun",
+    "definitions": [
+      "journalist"
+    ],
+    "examples": "पत्रकारले रिपोर्ट तयार गरे।",
+    "examplesRomanized": "patrakarle report tayar gare.",
+    "exampleEnglish": "The journalist prepared a report.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "इन्जिनियर",
+    "romanization": "engineer",
+    "pos": "noun",
+    "definitions": [
+      "engineer"
+    ],
+    "examples": "इन्जिनियरले पुल डिजाइन गरे।",
+    "examplesRomanized": "engineerle pul design gare.",
+    "exampleEnglish": "The engineer designed a bridge.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "वकिल",
+    "romanization": "wakil",
+    "pos": "noun",
+    "definitions": [
+      "lawyer"
+    ],
+    "examples": "वकिलले मुद्दा लड्छन्।",
+    "examplesRomanized": "wakille mudda ladchhan.",
+    "exampleEnglish": "A lawyer fights cases.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "प्राध्यापक",
+    "romanization": "pradhyapak",
+    "pos": "noun",
+    "definitions": [
+      "professor"
+    ],
+    "examples": "प्राध्यापकले व्याख्यान दिए।",
+    "examplesRomanized": "pradhyapakle vyakhyan diye.",
+    "exampleEnglish": "The professor gave a lecture.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "कर्मचारी",
+    "romanization": "karmachari",
+    "pos": "noun",
+    "definitions": [
+      "employee; staff"
+    ],
+    "examples": "कर्मचारीले फाइल दर्ता गरे।",
+    "examplesRomanized": "karmacharile file darta gare.",
+    "exampleEnglish": "The staff filed the documents.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "ड्राइभर",
+    "romanization": "driver",
+    "pos": "noun",
+    "definitions": [
+      "driver"
+    ],
+    "examples": "ड्राइभरले बस चलाए।",
+    "examplesRomanized": "driverle bas chalaye.",
+    "exampleEnglish": "The driver drove the bus.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "पाइलट",
+    "romanization": "pilot",
+    "pos": "noun",
+    "definitions": [
+      "pilot"
+    ],
+    "examples": "पाइलटले विमान उडाए।",
+    "examplesRomanized": "pilotle wiman udaye.",
+    "exampleEnglish": "The pilot flew the airplane.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "व्यवसायी",
+    "romanization": "byabasayi",
+    "pos": "noun",
+    "definitions": [
+      "businessperson"
+    ],
+    "examples": "व्यवसायीले नयाँ योजना सुरु गरे।",
+    "examplesRomanized": "byabasayile naya yojana suru gare.",
+    "exampleEnglish": "The businessperson started a new plan.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "उद्यमी",
+    "romanization": "udyami",
+    "pos": "noun",
+    "definitions": [
+      "entrepreneur"
+    ],
+    "examples": "उद्यमीले नयाँ स्टार्टअप खोले।",
+    "examplesRomanized": "udyamile naya startup khole.",
+    "exampleEnglish": "The entrepreneur launched a new startup.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "कृषक",
+    "romanization": "krishak",
+    "pos": "noun",
+    "definitions": [
+      "farmer"
+    ],
+    "examples": "कृषकले धान रोपे।",
+    "examplesRomanized": "krishakle dhan rope.",
+    "exampleEnglish": "The farmer planted rice.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "राजमिस्त्री",
+    "romanization": "rajamistri",
+    "pos": "noun",
+    "definitions": [
+      "mason"
+    ],
+    "examples": "राजमिस्त्रीले इटा चिनाए।",
+    "examplesRomanized": "rajamistrile ita chinae.",
+    "exampleEnglish": "The mason laid bricks.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "सुतार",
+    "romanization": "sutar",
+    "pos": "noun",
+    "definitions": [
+      "carpenter"
+    ],
+    "examples": "सुतारले ढोका बनाए।",
+    "examplesRomanized": "sutarle dhoka banae.",
+    "exampleEnglish": "The carpenter made a door.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "इलेक्ट्रीसियन",
+    "romanization": "electrician",
+    "pos": "noun",
+    "definitions": [
+      "electrician"
+    ],
+    "examples": "इलेक्ट्रीसियनले तार जाँच गरे।",
+    "examplesRomanized": "electricianle tar janch gare.",
+    "exampleEnglish": "The electrician checked the wiring.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "प्लम्बर",
+    "romanization": "plumber",
+    "pos": "noun",
+    "definitions": [
+      "plumber"
+    ],
+    "examples": "प्लम्बरले पाइप मर्मत गरे।",
+    "examplesRomanized": "plumberle pipe marmat gare.",
+    "exampleEnglish": "The plumber repaired the pipe.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "दर्जी",
+    "romanization": "darji",
+    "pos": "noun",
+    "definitions": [
+      "tailor"
+    ],
+    "examples": "दर्जीलाइ नाप दिएँ।",
+    "examplesRomanized": "darjilai nap diem.",
+    "exampleEnglish": "I gave measurements to the tailor.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "नाइ",
+    "romanization": "nai",
+    "pos": "noun",
+    "definitions": [
+      "barber"
+    ],
+    "examples": "नाइले कपाल काटे।",
+    "examplesRomanized": "naile kapal kate.",
+    "exampleEnglish": "The barber cut hair.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "नापीत",
+    "romanization": "napit",
+    "pos": "noun",
+    "definitions": [
+      "barber (formal)"
+    ],
+    "examples": "नापीतले दाह्री बनाइदिए।",
+    "examplesRomanized": "napitle dahri banaidie.",
+    "exampleEnglish": "The barber trimmed the beard.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "मेकानिक",
+    "romanization": "mechanic",
+    "pos": "noun",
+    "definitions": [
+      "mechanic"
+    ],
+    "examples": "मेकानिकले गाडी मर्मत गरे।",
+    "examplesRomanized": "mechanikle gadi marmat gare.",
+    "exampleEnglish": "The mechanic repaired the car.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "लेखापाल",
+    "romanization": "lekhapal",
+    "pos": "noun",
+    "definitions": [
+      "accountant"
+    ],
+    "examples": "लेखापाले हिसाब मिलाए।",
+    "examplesRomanized": "lekhapale hisab milae.",
+    "exampleEnglish": "The accountant reconciled the accounts.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "बैंकर",
+    "romanization": "banker",
+    "pos": "noun",
+    "definitions": [
+      "banker"
+    ],
+    "examples": "बैंकरले ऋण स्वीकृत गरे।",
+    "examplesRomanized": "bankerle rin swikrit gare.",
+    "exampleEnglish": "The banker approved the loan.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "अडिटर",
+    "romanization": "auditor",
+    "pos": "noun",
+    "definitions": [
+      "auditor"
+    ],
+    "examples": "अडिटरले प्रतिवेदन तयार गरे।",
+    "examplesRomanized": "auditorle prativedan tayar gare.",
+    "exampleEnglish": "The auditor prepared the report.",
+    "frequency": "medium",
+    "category": "professions"
+  },
+  {
+    "DevanagriWord": "अनुवादक",
+    "romanization": "anuvadak",
+    "pos": "noun",
+    "definitions": [
+      "translator"
+    ],
+    "examples": "अनुवादकले पुस्तक अनुवाद गरे।",
+    "examplesRomanized": "anuvadakle pustak anuvaad gare.",
+    "exampleEnglish": "The translator translated the book.",
+    "frequency": "medium",
+    "category": "professions"
+  }
+]

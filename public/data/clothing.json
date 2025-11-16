@@ -1,0 +1,1497 @@
+[
+  {
+    "DevanagriWord": "चप्पल",
+    "romanization": "chappal",
+    "pos": "noun",
+    "definitions": [
+      "slippers; sandals"
+    ],
+    "examples": "उसले घरभित्र चप्पल लगायो।",
+    "examplesRomanized": "usle gharbhitra chappal lagayo.",
+    "exampleEnglish": "They wore slippers indoors.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "टोपी",
+    "romanization": "topi",
+    "pos": "noun",
+    "definitions": [
+      "hat; cap"
+    ],
+    "examples": "उसले ढाकाको टोपी लगायो।",
+    "examplesRomanized": "usle dhakako topi lagayo.",
+    "exampleEnglish": "They wore a Dhaka cap.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "लुगा",
+    "romanization": "luga",
+    "pos": "noun",
+    "definitions": [
+      "clothes; clothing"
+    ],
+    "examples": "उसले सफा लुगा लगायो।",
+    "examplesRomanized": "usle safa luga lagayo.",
+    "exampleEnglish": "They put on clean clothes.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "सर्ट",
+    "romanization": "sart",
+    "pos": "noun",
+    "definitions": [
+      "shirt"
+    ],
+    "examples": "उसले सेतो सर्ट लगायो।",
+    "examplesRomanized": "usle seto sart lagayo.",
+    "exampleEnglish": "They wore a white shirt.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "कुर्ता",
+    "romanization": "kurta",
+    "pos": "noun",
+    "definitions": [
+      "kurta (long shirt)"
+    ],
+    "examples": "उसले नयाँ कुर्ता किन्यो।",
+    "examplesRomanized": "usle naya kurta kinyo.",
+    "exampleEnglish": "They bought a new kurta.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "पाइन्ट",
+    "romanization": "paint",
+    "pos": "noun",
+    "definitions": [
+      "pants; trousers"
+    ],
+    "examples": "उसले कालो पाइन्ट लगायो।",
+    "examplesRomanized": "usle kalo paint lagayo.",
+    "exampleEnglish": "They wore black pants.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "कोट",
+    "romanization": "kot",
+    "pos": "noun",
+    "definitions": [
+      "coat; jacket"
+    ],
+    "examples": "उसले तातो कोट लगायो।",
+    "examplesRomanized": "usle tato kot lagayo.",
+    "exampleEnglish": "They wore a warm coat.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "टाई",
+    "romanization": "tai",
+    "pos": "noun",
+    "definitions": [
+      "necktie"
+    ],
+    "examples": "उसले टाई बाँध्यो।",
+    "examplesRomanized": "usle tai bandhyo.",
+    "exampleEnglish": "They tied a tie.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "जूता",
+    "romanization": "juta",
+    "pos": "noun",
+    "definitions": [
+      "shoes"
+    ],
+    "examples": "उसले नयाँ जूता किन्यो।",
+    "examplesRomanized": "usle naya juta kinyo.",
+    "exampleEnglish": "They bought new shoes.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "मोजा",
+    "romanization": "moja",
+    "pos": "noun",
+    "definitions": [
+      "socks"
+    ],
+    "examples": "उसले मोजा धोयो।",
+    "examplesRomanized": "usle moja dhoyo.",
+    "exampleEnglish": "They washed their socks.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "दौरा",
+    "romanization": "daura",
+    "pos": "noun",
+    "definitions": [
+      "daura (traditional Nepali men's shirt)"
+    ],
+    "examples": "उसले दौरा लगायो।",
+    "examplesRomanized": "usle daura lagayo.",
+    "exampleEnglish": "They wore a daura.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "सुरुवाल",
+    "romanization": "suruwal",
+    "pos": "noun",
+    "definitions": [
+      "suruwal (traditional Nepali trousers)"
+    ],
+    "examples": "उसले सुरुवाल लगायो।",
+    "examplesRomanized": "usle suruwal lagayo.",
+    "exampleEnglish": "They wore suruwal.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "ढाका",
+    "romanization": "dhaka",
+    "pos": "noun",
+    "definitions": [
+      "dhaka (traditional handwoven fabric)"
+    ],
+    "examples": "ढाकाको कपडाले सुन्दर टोपी बनाइन्छ।",
+    "examplesRomanized": "dhakako kapadale sundar topi banainchha.",
+    "exampleEnglish": "Dhaka fabric is used to make beautiful caps.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "साडी",
+    "romanization": "sadi",
+    "pos": "noun",
+    "definitions": [
+      "sari (women's draped garment)"
+    ],
+    "examples": "उसले निलो साडी लगाइन्।",
+    "examplesRomanized": "usle nilo sadi lagain.",
+    "exampleEnglish": "She wore a blue sari.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "ब्लाउज",
+    "romanization": "blauj",
+    "pos": "noun",
+    "definitions": [
+      "blouse"
+    ],
+    "examples": "साडीसँग मेल खाने ब्लाउज लगाइन्।",
+    "examplesRomanized": "sadi sanga mel khane blauj lagain.",
+    "exampleEnglish": "She wore a matching blouse with the sari.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "स्वेटर",
+    "romanization": "swetar",
+    "pos": "noun",
+    "definitions": [
+      "sweater; knitted warm top"
+    ],
+    "examples": "उसले स्वेटर लगायो।",
+    "examplesRomanized": "usle swetar lagayo.",
+    "exampleEnglish": "They wore a sweater.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "ज्याकेट",
+    "romanization": "jyaket",
+    "pos": "noun",
+    "definitions": [
+      "jacket"
+    ],
+    "examples": "उसले ज्याकेट लगायो।",
+    "examplesRomanized": "usle jyaket lagayo.",
+    "exampleEnglish": "They wore a jacket.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "रेनकोट",
+    "romanization": "renkot",
+    "pos": "noun",
+    "definitions": [
+      "raincoat"
+    ],
+    "examples": "पानी परेकोले उसले रेनकोट लगायो।",
+    "examplesRomanized": "pani parekole usle renkot lagayo.",
+    "exampleEnglish": "Because it rained, they wore a raincoat.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "पञ्जा",
+    "romanization": "panja",
+    "pos": "noun",
+    "definitions": [
+      "gloves"
+    ],
+    "examples": "चिसो भएर उसले पञ्जा लगायो।",
+    "examplesRomanized": "chiso bhayera usle panja lagayo.",
+    "exampleEnglish": "It was cold, so they wore gloves.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "स्कार्फ",
+    "romanization": "skarf",
+    "pos": "noun",
+    "definitions": [
+      "scarf"
+    ],
+    "examples": "उसले गर्दनमा स्कार्फ बाँध्यो।",
+    "examplesRomanized": "usle gardanma skarf bandhyo.",
+    "exampleEnglish": "They tied a scarf around the neck.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "मफलर",
+    "romanization": "mafalar",
+    "pos": "noun",
+    "definitions": [
+      "muffler; warm scarf"
+    ],
+    "examples": "हावाले चलेपछि मफलर उपयोगी भयो।",
+    "examplesRomanized": "hawale chalepachi mafalar upayogi bhayo.",
+    "exampleEnglish": "The muffler was useful once the wind picked up.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "पगडी",
+    "romanization": "pagdi",
+    "pos": "noun",
+    "definitions": [
+      "turban"
+    ],
+    "examples": "उनीले परम्परागत पगडी लगाए।",
+    "examplesRomanized": "unile paramparagat pagdi lagaye.",
+    "exampleEnglish": "They wore a traditional turban.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "पटुकी",
+    "romanization": "patuki",
+    "pos": "noun",
+    "definitions": [
+      "waist sash"
+    ],
+    "examples": "उसले कमरमा पटुकी बाँध्यो।",
+    "examplesRomanized": "usle kamarma patuki bandhyo.",
+    "exampleEnglish": "They tied a sash around the waist.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "पछ्यौरी",
+    "romanization": "pachhyauri",
+    "pos": "noun",
+    "definitions": [
+      "shawl (Nepali wrap)"
+    ],
+    "examples": "उनले पछ्यौरी ओढिन्।",
+    "examplesRomanized": "unle pachhyauri odhin.",
+    "exampleEnglish": "She draped a pachhyauri shawl.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "गुन्यु",
+    "romanization": "gunyu",
+    "pos": "noun",
+    "definitions": [
+      "gunyu (traditional women's wrap skirt)"
+    ],
+    "examples": "उनले गुन्यु लगाइन्।",
+    "examplesRomanized": "unle gunyu lagain.",
+    "exampleEnglish": "She wore a gunyu.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "चोली",
+    "romanization": "choli",
+    "pos": "noun",
+    "definitions": [
+      "choli (traditional women's blouse)"
+    ],
+    "examples": "गुन्यूसँग मिल्ने चोली लगाइन्।",
+    "examplesRomanized": "gunyusanga milne choli lagain.",
+    "exampleEnglish": "She wore a choli matching the gunyu.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "दुपट्टा",
+    "romanization": "dupatta",
+    "pos": "noun",
+    "definitions": [
+      "dupatta; long scarf"
+    ],
+    "examples": "दुपट्टाले काँध ढाकिन्।",
+    "examplesRomanized": "dupattale kandh dhakin.",
+    "exampleEnglish": "She covered her shoulders with a dupatta.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "लेहेंगा",
+    "romanization": "lehenga",
+    "pos": "noun",
+    "definitions": [
+      "lehenga (skirt ensemble)"
+    ],
+    "examples": "उसले विवाहमा लेहेंगा लगाइन्।",
+    "examplesRomanized": "usle bibahama lehenga lagain.",
+    "exampleEnglish": "She wore a lehenga at the wedding.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "शेरवानी",
+    "romanization": "sherwani",
+    "pos": "noun",
+    "definitions": [
+      "sherwani (long formal coat)"
+    ],
+    "examples": "वरले शेरवानी लगायो।",
+    "examplesRomanized": "warle sherwani lagayo.",
+    "exampleEnglish": "The groom wore a sherwani.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "ब्लेजर",
+    "romanization": "blejar",
+    "pos": "noun",
+    "definitions": [
+      "blazer"
+    ],
+    "examples": "इण्टरभ्यूका लागि ब्लेजर लगायो।",
+    "examplesRomanized": "interbhyuka lagi blejar lagayo.",
+    "exampleEnglish": "They wore a blazer for the interview.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "भेस्ट",
+    "romanization": "bhest",
+    "pos": "noun",
+    "definitions": [
+      "vest; waistcoat"
+    ],
+    "examples": "उसले कमिजमाथि भेस्ट लगायो।",
+    "examplesRomanized": "usle kamij mathi bhest lagayo.",
+    "exampleEnglish": "They wore a vest over the shirt.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "निकार",
+    "romanization": "nikar",
+    "pos": "noun",
+    "definitions": [
+      "shorts"
+    ],
+    "examples": "उसले निकार लगाएर दौडियो।",
+    "examplesRomanized": "usle nikar lagayera daudiyo.",
+    "exampleEnglish": "They ran wearing shorts.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "बरमुडा",
+    "romanization": "barmuda",
+    "pos": "noun",
+    "definitions": [
+      "Bermuda shorts"
+    ],
+    "examples": "समुद्र तटमा उनले बरमुडा लगाए।",
+    "examplesRomanized": "samudra tatma unle barmuda lagaye.",
+    "exampleEnglish": "They wore Bermuda shorts at the beach.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "ट्र्याकसुट",
+    "romanization": "traksut",
+    "pos": "noun",
+    "definitions": [
+      "tracksuit"
+    ],
+    "examples": "व्यायामका लागि उसले ट्र्याकसुट लगायो।",
+    "examplesRomanized": "vyayamka lagi usle traksut lagayo.",
+    "exampleEnglish": "They wore a tracksuit for exercise.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "पजामा",
+    "romanization": "pajama",
+    "pos": "noun",
+    "definitions": [
+      "pajamas; nightwear"
+    ],
+    "examples": "उसले राति पजामा लगायो।",
+    "examplesRomanized": "usle rati pajama lagayo.",
+    "exampleEnglish": "They wore pajamas at night.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "नाइटी",
+    "romanization": "naiti",
+    "pos": "noun",
+    "definitions": [
+      "nightie; nightdress"
+    ],
+    "examples": "उनीले आरामदायक नाइटी लगाइन्।",
+    "examplesRomanized": "unile aramdayak naiti lagain.",
+    "exampleEnglish": "She wore a comfortable nightie.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "स्विमसूट",
+    "romanization": "swimsut",
+    "pos": "noun",
+    "definitions": [
+      "swimsuit"
+    ],
+    "examples": "स्विमिङका लागि स्विमसूट चाहिन्छ।",
+    "examplesRomanized": "swimingka lagi swimsut chahinchha.",
+    "exampleEnglish": "A swimsuit is needed for swimming.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "हिल जुत्ता",
+    "romanization": "hil juta",
+    "pos": "noun",
+    "definitions": [
+      "high-heeled shoes"
+    ],
+    "examples": "उनीले रात्री भोजमा हिल जुत्ता लगाइन्।",
+    "examplesRomanized": "unile ratri bhojama hil juta lagain.",
+    "exampleEnglish": "She wore high heels to the evening party.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "बुट",
+    "romanization": "but",
+    "pos": "noun",
+    "definitions": [
+      "boots"
+    ],
+    "examples": "हिउँमा हिँड्न बुट उपयोगी हुन्छ।",
+    "examplesRomanized": "hiunma hindna but upayogi hunchha.",
+    "exampleEnglish": "Boots are useful for walking in snow.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "रेनबुट",
+    "romanization": "renbut",
+    "pos": "noun",
+    "definitions": [
+      "rain boots; gumboots"
+    ],
+    "examples": "वर्षामा रेनबुट लगाएको राम्रो हुन्छ।",
+    "examplesRomanized": "barshama renbut lagaeko ramro hunchha.",
+    "exampleEnglish": "It is good to wear rain boots in the monsoon.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "क्याप",
+    "romanization": "kyap",
+    "pos": "noun",
+    "definitions": [
+      "cap (baseball cap)"
+    ],
+    "examples": "उसले घाममा क्याप लगायो।",
+    "examplesRomanized": "usle ghamma kyap lagayo.",
+    "exampleEnglish": "They wore a cap in the sun.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "बेल्ट",
+    "romanization": "belt",
+    "pos": "noun",
+    "definitions": [
+      "belt"
+    ],
+    "examples": "उसले बेल्ट कस्यो।",
+    "examplesRomanized": "usle belt kasyo.",
+    "exampleEnglish": "They tightened the belt.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "चश्मा",
+    "romanization": "chashma",
+    "pos": "noun",
+    "definitions": [
+      "glasses; spectacles"
+    ],
+    "examples": "उनीले पढ्न चश्मा लगाउँछन्।",
+    "examplesRomanized": "unile padhna chashma lagaunchhan.",
+    "exampleEnglish": "They wear glasses to read.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "स्कार्ट",
+    "romanization": "skart",
+    "pos": "noun",
+    "definitions": [
+      "skirt"
+    ],
+    "examples": "उसले स्कार्ट लगाइन्।",
+    "examplesRomanized": "usle skart lagain.",
+    "exampleEnglish": "She wore a skirt.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "सुट",
+    "romanization": "sut",
+    "pos": "noun",
+    "definitions": [
+      "suit"
+    ],
+    "examples": "उसले कार्यालयमा सुट लगायो।",
+    "examplesRomanized": "usle karyalayama sut lagayo.",
+    "exampleEnglish": "They wore a suit to the office.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "कमीज",
+    "romanization": "kamij",
+    "pos": "noun",
+    "definitions": [
+      "shirt (kurta-style or collared)"
+    ],
+    "examples": "कमीजलाई इस्त्री गर।",
+    "examplesRomanized": "kamijlai istri gara.",
+    "exampleEnglish": "Iron the shirt.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "लेगिङ",
+    "romanization": "legins",
+    "pos": "noun",
+    "definitions": [
+      "leggings"
+    ],
+    "examples": "उसले लेगिङ र टप लगाइन्।",
+    "examplesRomanized": "usle legins ra tap lagain.",
+    "exampleEnglish": "She wore leggings and a top.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "टप",
+    "romanization": "tap",
+    "pos": "noun",
+    "definitions": [
+      "top (upper garment)"
+    ],
+    "examples": "टप मिलाएर उसले स्कार्फ पनि लगाइन्।",
+    "examplesRomanized": "tap milaera usle skarf pani lagain.",
+    "exampleEnglish": "She matched the top with a scarf as well.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "कार्डिगन",
+    "romanization": "kardigan",
+    "pos": "noun",
+    "definitions": [
+      "cardigan"
+    ],
+    "examples": "माइतीघर जाँदा उनले कार्डिगन लगाइन्।",
+    "examplesRomanized": "maitighar jada unle kardigan lagain.",
+    "exampleEnglish": "She wore a cardigan when going to her parents' home.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "ओभरकोट",
+    "romanization": "obarkot",
+    "pos": "noun",
+    "definitions": [
+      "overcoat"
+    ],
+    "examples": "जाडोमा ओभरकोट आवश्यक हुन्छ।",
+    "examplesRomanized": "jado ma obarkot aawasyak hunchha.",
+    "exampleEnglish": "An overcoat is necessary in winter.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "शल",
+    "romanization": "shal",
+    "pos": "noun",
+    "definitions": [
+      "shawl"
+    ],
+    "examples": "आमाले शल ओढ्नुभयो।",
+    "examplesRomanized": "amale shal odhnubhayo.",
+    "exampleEnglish": "Mother wrapped a shawl.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "धोती",
+    "romanization": "dhoti",
+    "pos": "noun",
+    "definitions": [
+      "dhoti (men's draped garment)"
+    ],
+    "examples": "बाबुले धोती लगाउनुभयो।",
+    "examplesRomanized": "babule dhoti lagaunubhayo.",
+    "exampleEnglish": "Father wore a dhoti.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "लुंगी",
+    "romanization": "lungi",
+    "pos": "noun",
+    "definitions": [
+      "lungi (wraparound garment)"
+    ],
+    "examples": "उसले घरमा लुंगी लगायो।",
+    "examplesRomanized": "usle gharma lungi lagayo.",
+    "exampleEnglish": "They wore a lungi at home.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "फेटा",
+    "romanization": "pheta",
+    "pos": "noun",
+    "definitions": [
+      "headwrap; headcloth"
+    ],
+    "examples": "उनले फेटा कसे।",
+    "examplesRomanized": "unle pheta kase.",
+    "exampleEnglish": "They tightened the headwrap.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "बेरेट",
+    "romanization": "beret",
+    "pos": "noun",
+    "definitions": [
+      "beret"
+    ],
+    "examples": "उसले बेरेट लगायो।",
+    "examplesRomanized": "usle beret lagayo.",
+    "exampleEnglish": "They wore a beret.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "टिसर्ट",
+    "romanization": "tisert",
+    "pos": "noun",
+    "definitions": [
+      "T-shirt"
+    ],
+    "examples": "उसले टिसर्ट लगायो।",
+    "examplesRomanized": "usle tisert lagayo.",
+    "exampleEnglish": "They wore a T-shirt.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "हुडी",
+    "romanization": "hudi",
+    "pos": "noun",
+    "definitions": [
+      "hoodie"
+    ],
+    "examples": "चिसोमा हुडी उपयोगी हुन्छ।",
+    "examplesRomanized": "chisoma hudi upayogi hunchha.",
+    "exampleEnglish": "A hoodie is useful in the cold.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "स्वेटशर्ट",
+    "romanization": "swetshart",
+    "pos": "noun",
+    "definitions": [
+      "sweatshirt"
+    ],
+    "examples": "उसले स्वेटशर्ट लगायो।",
+    "examplesRomanized": "usle swetshart lagayo.",
+    "exampleEnglish": "They wore a sweatshirt.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "जिन्स",
+    "romanization": "jins",
+    "pos": "noun",
+    "definitions": [
+      "jeans"
+    ],
+    "examples": "जिन्स दिगो हुन्छ।",
+    "examplesRomanized": "jins digo hunchha.",
+    "exampleEnglish": "Jeans are durable.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "ट्राउजर",
+    "romanization": "traujar",
+    "pos": "noun",
+    "definitions": [
+      "trousers"
+    ],
+    "examples": "उसले ट्राउजर लगायो।",
+    "examplesRomanized": "usle traujar lagayo.",
+    "exampleEnglish": "They wore trousers.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "जोगर्स",
+    "romanization": "jogars",
+    "pos": "noun",
+    "definitions": [
+      "joggers (pants)"
+    ],
+    "examples": "उसले जोगर्स लगाएर जिम गयो।",
+    "examplesRomanized": "usle jogars lagayera jim gayo.",
+    "exampleEnglish": "They wore joggers and went to the gym.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "ट्र्याक प्यान्ट",
+    "romanization": "trak pyant",
+    "pos": "noun",
+    "definitions": [
+      "track pants"
+    ],
+    "examples": "ट्र्याक प्यान्ट प्रशिक्षणका लागि उपयुक्त हुन्छ।",
+    "examplesRomanized": "trak pyant prashikshanka lagi upayukt hunchha.",
+    "exampleEnglish": "Track pants are suitable for training.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "ओभरअल",
+    "romanization": "obharal",
+    "pos": "noun",
+    "definitions": [
+      "overalls"
+    ],
+    "examples": "उसले ओभरअल लगायो।",
+    "examplesRomanized": "usle obharal lagayo.",
+    "exampleEnglish": "They wore overalls.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "एप्रोन",
+    "romanization": "epron",
+    "pos": "noun",
+    "definitions": [
+      "apron"
+    ],
+    "examples": "खाना पकाउँदा एप्रोन लगाउनुस्।",
+    "examplesRomanized": "khana pakauda epron lagaunus.",
+    "exampleEnglish": "Wear an apron while cooking.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "बनियान",
+    "romanization": "banian",
+    "pos": "noun",
+    "definitions": [
+      "undershirt; vest"
+    ],
+    "examples": "उसले बनियान भित्र लगायो।",
+    "examplesRomanized": "usle banian bhitra lagayo.",
+    "exampleEnglish": "They wore an undershirt inside.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "थर्मल",
+    "romanization": "thermal",
+    "pos": "noun",
+    "definitions": [
+      "thermal innerwear"
+    ],
+    "examples": "जाडोमा थर्मल लगाउँदा तातो हुन्छ।",
+    "examplesRomanized": "jadoma thermal lagauda tato hunchha.",
+    "exampleEnglish": "Wearing thermals in winter keeps you warm.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "कुर्ती",
+    "romanization": "kurti",
+    "pos": "noun",
+    "definitions": [
+      "kurti (women's tunic)"
+    ],
+    "examples": "उसले कुर्ती लगाइन्।",
+    "examplesRomanized": "usle kurti lagain.",
+    "exampleEnglish": "She wore a kurti.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "सलवार",
+    "romanization": "salwar",
+    "pos": "noun",
+    "definitions": [
+      "salwar (loose trousers)"
+    ],
+    "examples": "सलवार कमीज लोकप्रिय पोशाक हो।",
+    "examplesRomanized": "salwar kamij lokpriya poshak ho.",
+    "exampleEnglish": "Salwar kameez is a popular outfit.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "चुन्नी",
+    "romanization": "chunni",
+    "pos": "noun",
+    "definitions": [
+      "chunni; long scarf"
+    ],
+    "examples": "चुन्नीले काँध ढाकिन्।",
+    "examplesRomanized": "chunnile kandh dhakin.",
+    "exampleEnglish": "She covered her shoulders with a chunni.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "घाघरा",
+    "romanization": "ghaghara",
+    "pos": "noun",
+    "definitions": [
+      "ghaghra (long skirt)"
+    ],
+    "examples": "उसले घाघरा लगाइन्।",
+    "examplesRomanized": "usle ghaghara lagain.",
+    "exampleEnglish": "She wore a ghaghra.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "ओढनी",
+    "romanization": "odhani",
+    "pos": "noun",
+    "definitions": [
+      "veil; odhni"
+    ],
+    "examples": "ओढनीले टाउको ढाकिन्।",
+    "examplesRomanized": "odhanile tauko dhakin.",
+    "exampleEnglish": "She covered her head with an odhni.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "गाउन",
+    "romanization": "gaun",
+    "pos": "noun",
+    "definitions": [
+      "gown"
+    ],
+    "examples": "उसले पार्टीमा गाउन लगाइन्।",
+    "examplesRomanized": "usle partima gaun lagain.",
+    "exampleEnglish": "She wore a gown to the party.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "स्टोल",
+    "romanization": "stol",
+    "pos": "noun",
+    "definitions": [
+      "stole; narrow shawl"
+    ],
+    "examples": "स्टोलले काँध ढाकिन्।",
+    "examplesRomanized": "stolle kandh dhakin.",
+    "exampleEnglish": "She covered her shoulders with a stole.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "पोन्चो",
+    "romanization": "poncho",
+    "pos": "noun",
+    "definitions": [
+      "poncho"
+    ],
+    "examples": "वर्षामा पोन्चो उपयोगी हुन्छ।",
+    "examplesRomanized": "barshama poncho upayogi hunchha.",
+    "exampleEnglish": "A poncho is useful in the monsoon.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "बिनी टोपी",
+    "romanization": "bini topi",
+    "pos": "noun",
+    "definitions": [
+      "beanie cap"
+    ],
+    "examples": "उसले बिनी टोपी लगायो।",
+    "examplesRomanized": "usle bini topi lagayo.",
+    "exampleEnglish": "They wore a beanie.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "हेल्मेट",
+    "romanization": "helmet",
+    "pos": "noun",
+    "definitions": [
+      "helmet"
+    ],
+    "examples": "सुरक्षाका लागि हेल्मेट लगाउनुपर्छ।",
+    "examplesRomanized": "surakshaka lagi helmet lagaunu parchha.",
+    "exampleEnglish": "One must wear a helmet for safety.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "हेडब्यान्ड",
+    "romanization": "headband",
+    "pos": "noun",
+    "definitions": [
+      "headband"
+    ],
+    "examples": "कपाल सम्हाल्न हेडब्यान्ड लगायो।",
+    "examplesRomanized": "kapal samhalna headband lagayo.",
+    "exampleEnglish": "They wore a headband to hold hair in place.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "मिटेन",
+    "romanization": "miten",
+    "pos": "noun",
+    "definitions": [
+      "mittens"
+    ],
+    "examples": "चिसोमा मिटेन तातो हुन्छ।",
+    "examplesRomanized": "chisoma miten tato hunchha.",
+    "exampleEnglish": "Mittens are warm in the cold.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "लोफर",
+    "romanization": "lofar",
+    "pos": "noun",
+    "definitions": [
+      "loafers"
+    ],
+    "examples": "उसले लोफर लगायो।",
+    "examplesRomanized": "usle lofar lagayo.",
+    "exampleEnglish": "They wore loafers.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "स्निकर्स",
+    "romanization": "snikers",
+    "pos": "noun",
+    "definitions": [
+      "sneakers"
+    ],
+    "examples": "स्निकर्स आरामदायक हुन्छ।",
+    "examplesRomanized": "snikers aramdayak hunchha.",
+    "exampleEnglish": "Sneakers are comfortable.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "स्पोर्ट्स जुत्ता",
+    "romanization": "sports juta",
+    "pos": "noun",
+    "definitions": [
+      "sports shoes"
+    ],
+    "examples": "प्रशिक्षणका लागि स्पोर्ट्स जुत्ता राम्रो हुन्छ।",
+    "examplesRomanized": "prashikshanka lagi sports juta ramro hunchha.",
+    "exampleEnglish": "Sports shoes are good for training.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "फर्मल जुत्ता",
+    "romanization": "formal juta",
+    "pos": "noun",
+    "definitions": [
+      "formal shoes"
+    ],
+    "examples": "कार्यालयमा फर्मल जुत्ता लगायो।",
+    "examplesRomanized": "karyalayama formal juta lagayo.",
+    "exampleEnglish": "They wore formal shoes to the office.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "रुमाल",
+    "romanization": "rumal",
+    "pos": "noun",
+    "definitions": [
+      "handkerchief"
+    ],
+    "examples": "उसले रुमालले घाम छेक्यो।",
+    "examplesRomanized": "usle rumalle gham chhekyo.",
+    "exampleEnglish": "They shaded the sun with a handkerchief.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "अन्तर्वस्त्र",
+    "romanization": "antarvastra",
+    "pos": "noun",
+    "definitions": [
+      "underwear"
+    ],
+    "examples": "अन्तर्वस्त्र सफा राख्नुहोस्।",
+    "examplesRomanized": "antarvastra safa rakhnu hos.",
+    "exampleEnglish": "Keep your underwear clean.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "ब्रा",
+    "romanization": "bra",
+    "pos": "noun",
+    "definitions": [
+      "bra"
+    ],
+    "examples": "उनीले ब्रा किने।",
+    "examplesRomanized": "unile bra kine.",
+    "exampleEnglish": "They bought a bra.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "घडी",
+    "romanization": "ghadi",
+    "pos": "noun",
+    "definitions": [
+      "watch; timepiece"
+    ],
+    "examples": "उसले नयाँ घडी लगायो।",
+    "examplesRomanized": "usle naya ghadi lagayo.",
+    "exampleEnglish": "They wore a new watch.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "हाते घडी",
+    "romanization": "hate ghadi",
+    "pos": "noun",
+    "definitions": [
+      "wristwatch"
+    ],
+    "examples": "उनीले हाते घडी मिलाइन्।",
+    "examplesRomanized": "unile hate ghadi milain.",
+    "exampleEnglish": "She adjusted her wristwatch.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "औँठी",
+    "romanization": "aunthi",
+    "pos": "noun",
+    "definitions": [
+      "ring"
+    ],
+    "examples": "उसले औँठी औँलामा लगाइन्।",
+    "examplesRomanized": "usle aunthi aunlama lagain.",
+    "exampleEnglish": "She wore a ring on her finger.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "बाली",
+    "romanization": "bali",
+    "pos": "noun",
+    "definitions": [
+      "earring"
+    ],
+    "examples": "उनीले सुनको बाली लगाइन्।",
+    "examplesRomanized": "unile sunko bali lagain.",
+    "exampleEnglish": "She wore gold earrings.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "नथ",
+    "romanization": "nath",
+    "pos": "noun",
+    "definitions": [
+      "nose ring"
+    ],
+    "examples": "उसले नथ लगाइन्।",
+    "examplesRomanized": "usle nath lagain.",
+    "exampleEnglish": "She wore a nose ring.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "हार",
+    "romanization": "har",
+    "pos": "noun",
+    "definitions": [
+      "necklace"
+    ],
+    "examples": "उनीले मोतीको हार लगाइन्।",
+    "examplesRomanized": "unile motiko har lagain.",
+    "exampleEnglish": "She wore a pearl necklace.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "माला",
+    "romanization": "mala",
+    "pos": "noun",
+    "definitions": [
+      "garland; necklace"
+    ],
+    "examples": "आगन्तुकलाई माला लगाइयो।",
+    "examplesRomanized": "agantuklai mala lagaiyo.",
+    "exampleEnglish": "A garland was put on the guest.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "चुरा",
+    "romanization": "chura",
+    "pos": "noun",
+    "definitions": [
+      "bangles"
+    ],
+    "examples": "उनका हातमा चुरा छन्।",
+    "examplesRomanized": "unka hatma chura chhan.",
+    "exampleEnglish": "She has bangles on her hands.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "कडा",
+    "romanization": "kada",
+    "pos": "noun",
+    "definitions": [
+      "bracelet; bangle"
+    ],
+    "examples": "उसले कडा लगायो।",
+    "examplesRomanized": "usle kada lagayo.",
+    "exampleEnglish": "They wore a bracelet.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "पायल",
+    "romanization": "payal",
+    "pos": "noun",
+    "definitions": [
+      "anklet"
+    ],
+    "examples": "उसको पायलमा घण्टी छन्।",
+    "examplesRomanized": "usko payalma ghanti chhan.",
+    "exampleEnglish": "There are bells on her anklet.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "घुँघरु",
+    "romanization": "ghunghru",
+    "pos": "noun",
+    "definitions": [
+      "ankle bells (for dance)"
+    ],
+    "examples": "नृत्यमा घुँघरु बज्छ।",
+    "examplesRomanized": "nrityama ghunghru bajchha.",
+    "exampleEnglish": "Ankle bells ring in dance.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "बकल",
+    "romanization": "bakal",
+    "pos": "noun",
+    "definitions": [
+      "buckle"
+    ],
+    "examples": "बेल्टको बकल ढिलो भयो।",
+    "examplesRomanized": "beltko bakal dhilo bhayo.",
+    "exampleEnglish": "The belt's buckle was loose.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "टर्टलनेक",
+    "romanization": "turtleneck",
+    "pos": "noun",
+    "definitions": [
+      "turtleneck sweater"
+    ],
+    "examples": "जाडोमा टर्टलनेक लगाउँछन्।",
+    "examplesRomanized": "jadoma turtleneck lagaunchhan.",
+    "exampleEnglish": "They wear a turtleneck in winter.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "पोलो सर्ट",
+    "romanization": "polo sart",
+    "pos": "noun",
+    "definitions": [
+      "polo shirt"
+    ],
+    "examples": "पोलो सर्ट कार्यालयका लागि ठीक हुन्छ।",
+    "examplesRomanized": "polo sart karyalayaka lagi thik hunchha.",
+    "exampleEnglish": "A polo shirt is fine for the office.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "विन्चिटर",
+    "romanization": "winchitar",
+    "pos": "noun",
+    "definitions": [
+      "windcheater"
+    ],
+    "examples": "हावाहुरीमा विन्चिटर लगायो।",
+    "examplesRomanized": "hawahurima winchitar lagayo.",
+    "exampleEnglish": "They wore a windcheater in the gale.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "ट्रेन्च कोट",
+    "romanization": "trench kot",
+    "pos": "noun",
+    "definitions": [
+      "trench coat"
+    ],
+    "examples": "वर्षामा ट्रेन्च कोट उपयोगी हुन्छ।",
+    "examplesRomanized": "barshama trench kot upayogi hunchha.",
+    "exampleEnglish": "A trench coat is useful in the rains.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "पार्का",
+    "romanization": "parka",
+    "pos": "noun",
+    "definitions": [
+      "parka"
+    ],
+    "examples": "हिउँदमा पार्का लगाउँछन्।",
+    "examplesRomanized": "hiundma parka lagaunchhan.",
+    "exampleEnglish": "They wear a parka in winter.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "टक्सिडो",
+    "romanization": "taksido",
+    "pos": "noun",
+    "definitions": [
+      "tuxedo"
+    ],
+    "examples": "समारोहमा टक्सिडो लगायो।",
+    "examplesRomanized": "samarohma taksido lagayo.",
+    "exampleEnglish": "They wore a tuxedo at the ceremony.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "बिकिनी",
+    "romanization": "bikini",
+    "pos": "noun",
+    "definitions": [
+      "bikini"
+    ],
+    "examples": "समुद्र किनारमा बिकिनी लगाइन्।",
+    "examplesRomanized": "samudra kinarma bikini lagain.",
+    "exampleEnglish": "She wore a bikini at the beach.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "स्विम ट्रंक",
+    "romanization": "swim trunk",
+    "pos": "noun",
+    "definitions": [
+      "swim trunks"
+    ],
+    "examples": "उनीले स्विम ट्रंक लगाए।",
+    "examplesRomanized": "unile swim trunk lagaye.",
+    "exampleEnglish": "They wore swim trunks.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "स्टकिङ",
+    "romanization": "stakin",
+    "pos": "noun",
+    "definitions": [
+      "stockings"
+    ],
+    "examples": "उसले स्टकिङ लगाइन्।",
+    "examplesRomanized": "usle stakin lagain.",
+    "exampleEnglish": "She wore stockings.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "टाइट्स",
+    "romanization": "taits",
+    "pos": "noun",
+    "definitions": [
+      "tights"
+    ],
+    "examples": "जाडोमा टाइट्स तातो हुन्छ।",
+    "examplesRomanized": "jadoma taits tato hunchha.",
+    "exampleEnglish": "Tights keep you warm in winter.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "कार्गो प्यान्ट",
+    "romanization": "cargo pyant",
+    "pos": "noun",
+    "definitions": [
+      "cargo pants"
+    ],
+    "examples": "कार्गो प्यान्टमा धेरै खल्ती हुन्छन्।",
+    "examplesRomanized": "cargo pyantma dherai khalti hunchhan.",
+    "exampleEnglish": "Cargo pants have many pockets.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "चिनो",
+    "romanization": "chino",
+    "pos": "noun",
+    "definitions": [
+      "chinos"
+    ],
+    "examples": "उसले चिनो लगायो।",
+    "examplesRomanized": "usle chino lagayo.",
+    "exampleEnglish": "They wore chinos.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "ड्रेस शर्ट",
+    "romanization": "dress shart",
+    "pos": "noun",
+    "definitions": [
+      "dress shirt"
+    ],
+    "examples": "ड्रेस शर्टले औपचारिक देखिन्छ।",
+    "examplesRomanized": "dress shartle aupcharik dekhinchha.",
+    "exampleEnglish": "A dress shirt looks formal.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "ह्यान्डब्याग",
+    "romanization": "handbag",
+    "pos": "noun",
+    "definitions": [
+      "handbag"
+    ],
+    "examples": "उनीले ह्यान्डब्याग बोकिन्।",
+    "examplesRomanized": "unile handbag bokin.",
+    "exampleEnglish": "She carried a handbag.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "ब्याकप्याक",
+    "romanization": "byakpyak",
+    "pos": "noun",
+    "definitions": [
+      "backpack"
+    ],
+    "examples": "उसले ब्याकप्याक बोक्यो।",
+    "examplesRomanized": "usle byakpyak bokyo.",
+    "exampleEnglish": "They carried a backpack.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "वालेट",
+    "romanization": "walet",
+    "pos": "noun",
+    "definitions": [
+      "wallet"
+    ],
+    "examples": "वालेट कोटको खल्तीमा राख्यो।",
+    "examplesRomanized": "walet kotko khaltima rakhyo.",
+    "exampleEnglish": "They kept the wallet in the coat pocket.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "पर्स",
+    "romanization": "pars",
+    "pos": "noun",
+    "definitions": [
+      "purse"
+    ],
+    "examples": "पर्स भित्र चाबी छ।",
+    "examplesRomanized": "pars bhitra chabi chha.",
+    "exampleEnglish": "The keys are in the purse.",
+    "frequency": "low",
+    "category": "clothing"
+  },
+  {
+    "DevanagriWord": "धुप चश्मा",
+    "romanization": "dhup chashma",
+    "pos": "noun",
+    "definitions": [
+      "sunglasses"
+    ],
+    "examples": "धुपमा धुप चश्मा लगाउनुहोस्।",
+    "examplesRomanized": "dhupma dhup chashma lagaunuhos.",
+    "exampleEnglish": "Wear sunglasses in the sun.",
+    "frequency": "low",
+    "category": "clothing"
+  }
+]

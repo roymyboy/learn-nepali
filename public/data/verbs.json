@@ -1,0 +1,4793 @@
+[
+  {
+    "DevanagriWord": "अस्ताउनु",
+    "romanization": "astaunu",
+    "pos": "verb",
+    "definitions": [
+      "to set (of the sun); to go down"
+    ],
+    "examples": "आज घाम सुन्दर तरिकाले अस्ताउँदैछ।",
+    "examplesRomanized": "aaj gham sundar tarikale astaudai chha.",
+    "exampleEnglish": "The sun is setting beautifully today.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "आँउछ",
+    "romanization": "aauchha",
+    "pos": "verb",
+    "definitions": [
+      "comes; arrives (3rd person singular)"
+    ],
+    "examples": "ऊ भोलि साँझ हाम्रो घरमा आउँछ।",
+    "examplesRomanized": "u bholi saanjh hāmro gharma aauchha.",
+    "exampleEnglish": "He/She will come to our house tomorrow evening.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "आइदिनु",
+    "romanization": "aidinu",
+    "pos": "verb",
+    "definitions": [
+      "to come politely; to drop by"
+    ],
+    "examples": "कृपया बिहानको चिया खान आइदिनु।",
+    "examplesRomanized": "kripaya bihānko chiya khān aidinu.",
+    "exampleEnglish": "Please drop by for tea in the morning.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "आउँछ",
+    "romanization": "aauchha",
+    "pos": "verb",
+    "definitions": [
+      "arrives; comes (3rd person singular)"
+    ],
+    "examples": "बस चाँडै आउँछ, तयार हुनुहोस्।",
+    "examplesRomanized": "bas chāḍai aauchha, tayār hunuhos.",
+    "exampleEnglish": "The bus will arrive soon, get ready.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "आउँछन्",
+    "romanization": "aauchhan",
+    "pos": "verb",
+    "definitions": [
+      "come; arrive (3rd person plural)"
+    ],
+    "examples": "विद्यार्थीहरू हरेक दिन समयमै आउँछन्।",
+    "examplesRomanized": "vidyarthiharu harek din samaymai aauchhan.",
+    "exampleEnglish": "Students arrive on time every day.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "आउँछु",
+    "romanization": "aauchhu",
+    "pos": "verb",
+    "definitions": [
+      "I come; I will come"
+    ],
+    "examples": "म केही मिनेटमा आउँछु।",
+    "examplesRomanized": "ma kehi minetma aauchhu.",
+    "exampleEnglish": "I will come in a few minutes.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "आउछु",
+    "romanization": "auchhu",
+    "pos": "verb",
+    "definitions": [
+      "I come; variant spelling"
+    ],
+    "examples": "म छिट्टै आउछु।",
+    "examplesRomanized": "ma chittai auchhu.",
+    "exampleEnglish": "I'll come shortly.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "आउनु",
+    "romanization": "aunu",
+    "pos": "verb",
+    "definitions": [
+      "to come; to arrive"
+    ],
+    "examples": "कृपया यहाँ आउनु।",
+    "examplesRomanized": "kripaya yahā̃ aunu.",
+    "exampleEnglish": "Please come here.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "आएका",
+    "romanization": "aeka",
+    "pos": "verb",
+    "definitions": [
+      "have come; arrived (past participle, plural/masculine)"
+    ],
+    "examples": "यहाँ आएका विद्यार्थीहरूलाई स्वागत गरियो।",
+    "examplesRomanized": "yahā̃ aeka vidyarthiharu-lai swāgat gariyo.",
+    "exampleEnglish": "The students who arrived here were welcomed.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "आएको",
+    "romanization": "aeko",
+    "pos": "verb",
+    "definitions": [
+      "have come; arrived (past participle, singular)"
+    ],
+    "examples": "ऊ हिजो साँझ यहाँ आएको हो।",
+    "examplesRomanized": "u hijo saanjh yahā̃ aeko ho.",
+    "exampleEnglish": "He/She came here yesterday evening.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "आएछु",
+    "romanization": "aechhu",
+    "pos": "verb",
+    "definitions": [
+      "apparently I came; I have apparently arrived (reportive)"
+    ],
+    "examples": "म पहिले आएछु रे, सबैले भने।",
+    "examplesRomanized": "ma pahile aechhu re, sabailai bhane.",
+    "exampleEnglish": "Apparently I came earlier, everyone says.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "आएछौँ",
+    "romanization": "aechhaun",
+    "pos": "verb",
+    "definitions": [
+      "apparently we came; we have apparently arrived (reportive)"
+    ],
+    "examples": "हामी ढिलो आएछौँ रे, शिक्षकले भन्नुभयो।",
+    "examplesRomanized": "hāmī dhilo aechhaun re, shikshakle bhannubhayo.",
+    "exampleEnglish": "Apparently we came late, the teacher said.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "आएनछ",
+    "romanization": "aaenachha",
+    "pos": "verb",
+    "definitions": [
+      "apparently did not come; has not arrived (reportive negative)"
+    ],
+    "examples": "ऊ आएनछ रे, सबैले सोचेका थिए।",
+    "examplesRomanized": "u aaenachha re, sabailai socheka thiye.",
+    "exampleEnglish": "They say he/she didn’t come, everyone thought so.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "आत्तिनु",
+    "romanization": "attinu",
+    "pos": "verb",
+    "definitions": [
+      "to panic; to become anxious or nervous"
+    ],
+    "examples": "सानो गल्तीमा आत्तिनु हुँदैन।",
+    "examplesRomanized": "sano galti-ma attinu hundaina.",
+    "exampleEnglish": "One shouldn’t panic over a small mistake.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "इनु",
+    "romanization": "inu",
+    "pos": "verb",
+    "definitions": [
+      "to take in; to absorb (rare/colloquial usage)"
+    ],
+    "examples": "हावा इनु भन्ने बोलिचाली सुन्निन्छ।",
+    "examplesRomanized": "hawa inu bhane bolichali sunnincha.",
+    "exampleEnglish": "Colloquially, people say 'to take in air'.",
+    "frequency": "low",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "उठ्छ",
+    "romanization": "uthchha",
+    "pos": "verb",
+    "definitions": [
+      "gets up; rises (3rd person singular)"
+    ],
+    "examples": "ऊ बिहान छ बजे चाँडै उठ्छ।",
+    "examplesRomanized": "u bihān chha baje chāḍai uthchha.",
+    "exampleEnglish": "He/She gets up early at six in the morning.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "उठ्छु",
+    "romanization": "uthchhu",
+    "pos": "verb",
+    "definitions": [
+      "I get up; I rise (1st person singular)"
+    ],
+    "examples": "म हरेक दिन बिहान सात बजे उठ्छु।",
+    "examplesRomanized": "ma harek din bihān sāt baje uthchhu.",
+    "exampleEnglish": "I get up at seven o’clock every morning.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "उठ्नु",
+    "romanization": "uthnu",
+    "pos": "verb",
+    "definitions": [
+      "to get up from bed or a seated position; to rise"
+    ],
+    "examples": "म बिहान छ बजे उठ्नुपर्छ।",
+    "examplesRomanized": "ma bihan chha baje uthnupardcha.",
+    "exampleEnglish": "I have to get up at six in the morning.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "उनु",
+    "romanization": "unu",
+    "pos": "verb",
+    "definitions": [
+      "to pour or release (used with liquids)"
+    ],
+    "examples": "पानी ग्लासमा उनुहोस्।",
+    "examplesRomanized": "paani glaasmaa unuhos.",
+    "exampleEnglish": "Please pour the water into the glass.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "उभिनु",
+    "romanization": "ubhinu",
+    "pos": "verb",
+    "definitions": [
+      "to stand up; to rise to a standing position"
+    ],
+    "examples": "कृपया लाइनमा उभिनुहोस्।",
+    "examplesRomanized": "kripaya line maa ubhinu hos.",
+    "exampleEnglish": "Please stand in line.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "उभिरहनु",
+    "romanization": "ubhirahanu",
+    "pos": "verb",
+    "definitions": [
+      "to keep standing; to remain standing"
+    ],
+    "examples": "विद्यालयको प्रार्थना सभा भर उभिरहनुहोस्।",
+    "examplesRomanized": "vidyalay ko prarthana sabha bhar ubhirahanu hos.",
+    "exampleEnglish": "Remain standing throughout the school assembly.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "एछ",
+    "romanization": "echh",
+    "pos": "verb",
+    "definitions": [
+      "to be present; to exist (used in third person singular with a subject)"
+    ],
+    "examples": "मेरो किताब यहाँ एछ।",
+    "examplesRomanized": "mero kitaab yahaa echh.",
+    "exampleEnglish": "My book is here.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "एछन्",
+    "romanization": "echhan",
+    "pos": "verb",
+    "definitions": [
+      "to be present; to exist (third person plural)"
+    ],
+    "examples": "विद्यार्थीहरू कक्षामा एछन्।",
+    "examplesRomanized": "vidyarthiharu kakshaa maa echhan.",
+    "exampleEnglish": "The students are in the classroom.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "एछु",
+    "romanization": "echhu",
+    "pos": "verb",
+    "definitions": [
+      "I am present; I exist (first person singular)"
+    ],
+    "examples": "म यहाँ एछु।",
+    "examplesRomanized": "ma yahaa echhu.",
+    "exampleEnglish": "I am here.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "एछौँ",
+    "romanization": "echhaun",
+    "pos": "verb",
+    "definitions": [
+      "we are present; we exist (first person plural)"
+    ],
+    "examples": "हामी यहाँ एछौँ।",
+    "examplesRomanized": "haami yahaa echhaun.",
+    "exampleEnglish": "We are here.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "एनछ",
+    "romanization": "enachh",
+    "pos": "verb",
+    "definitions": [
+      "is not present; does not exist (third person singular negative)"
+    ],
+    "examples": "ऊ यहाँ एनछ।",
+    "examplesRomanized": "u yahaa enachh.",
+    "exampleEnglish": "He/She is not here.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "एनछन्",
+    "romanization": "enachhan",
+    "pos": "verb",
+    "definitions": [
+      "are not present; do not exist (third person plural negative)"
+    ],
+    "examples": "विद्यार्थीहरू कक्षामा एनछन्।",
+    "examplesRomanized": "vidyarthiharu kakshaa maa enachhan.",
+    "exampleEnglish": "The students are not in the classroom.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "एनछु",
+    "romanization": "enachhu",
+    "pos": "verb",
+    "definitions": [
+      "I am not present; I do not exist (first person singular negative)"
+    ],
+    "examples": "म यहाँ एनछु।",
+    "examplesRomanized": "ma yahaa enachhu.",
+    "exampleEnglish": "I am not here.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "एनछौँ",
+    "romanization": "enachhaun",
+    "pos": "verb",
+    "definitions": [
+      "we are not present; we do not exist (first person plural negative)"
+    ],
+    "examples": "हामी यहाँ एनछौँ।",
+    "examplesRomanized": "haami yahaa enachhaun.",
+    "exampleEnglish": "We are not here.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "ओर्ह्लिनु",
+    "romanization": "orhlinu",
+    "pos": "verb",
+    "definitions": [
+      "to climb; to ascend"
+    ],
+    "examples": "ऊ पहाडमा ओर्ह्लिनु गर्दैछ।",
+    "examplesRomanized": "u pahaad maa orhlinu gardaichha.",
+    "exampleEnglish": "He/She is climbing the mountain.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "कट्छ",
+    "romanization": "katchh",
+    "pos": "verb",
+    "definitions": [
+      "to cut; to slice (used with objects)"
+    ],
+    "examples": "ऊ कागज काट्छ।",
+    "examplesRomanized": "u kaagaj katchh.",
+    "exampleEnglish": "He/She cuts the paper.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "कट्छु",
+    "romanization": "katchhu",
+    "pos": "verb",
+    "definitions": [
+      "I cut; I slice (used with objects like paper, vegetables, etc.)"
+    ],
+    "examples": "म आलु काट्छु।",
+    "examplesRomanized": "ma aalu katchhu.",
+    "exampleEnglish": "I am cutting the potato.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "कट्नु",
+    "romanization": "katnu",
+    "pos": "verb",
+    "definitions": [
+      "to be cut; to get sliced (passive form)"
+    ],
+    "examples": "कागज सजिलै कट्नु सक्छ।",
+    "examplesRomanized": "kaagaj sajilai katnu sakchha.",
+    "exampleEnglish": "The paper can be easily cut.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "कति छ",
+    "romanization": "kati chh",
+    "pos": "phrase",
+    "definitions": [
+      "how much is there; what is the quantity or price"
+    ],
+    "examples": "यो किताब कति छ?",
+    "examplesRomanized": "yo kitaab kati chh?",
+    "exampleEnglish": "How much is this book?",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "कमाउनुपर्छ",
+    "romanization": "kamaunuparchh",
+    "pos": "verb",
+    "definitions": [
+      "must earn; have to earn (usually money or income)"
+    ],
+    "examples": "हामी परिवारको लागि पैसा कमाउनुपर्छ।",
+    "examplesRomanized": "haami pariwarko lagi paisa kamaunuparchh.",
+    "exampleEnglish": "We must earn money for the family.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "कराउँछ",
+    "romanization": "karaunychh",
+    "pos": "verb",
+    "definitions": [
+      "makes someone do; causes an action to happen"
+    ],
+    "examples": "अध्यापकले विद्यार्थीलाई गृहकार्य कराउँछ।",
+    "examplesRomanized": "adhyapakle vidyarthilai gharkary karaunychha.",
+    "exampleEnglish": "The teacher makes the students do homework.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "कराउनु",
+    "romanization": "karaunu",
+    "pos": "verb",
+    "definitions": [
+      "to have someone do something; to arrange for an action"
+    ],
+    "examples": "म कम्प्युटर मर्मत कराउन गएँ।",
+    "examplesRomanized": "ma computer marmat karaunu gaye.",
+    "exampleEnglish": "I went to get the computer repaired.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "काट्छ",
+    "romanization": "katchh",
+    "pos": "verb",
+    "definitions": [
+      "he/she cuts; slices (used with objects)"
+    ],
+    "examples": "ऊ कागज काट्छ।",
+    "examplesRomanized": "u kaagaj katchh.",
+    "exampleEnglish": "He/She cuts the paper.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "काट्छु",
+    "romanization": "katchhu",
+    "pos": "verb",
+    "definitions": [
+      "I cut; I slice (used with objects)"
+    ],
+    "examples": "म रोटी काट्छु।",
+    "examplesRomanized": "ma roti katchhu.",
+    "exampleEnglish": "I am cutting the bread.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "काट्नु",
+    "romanization": "katnu",
+    "pos": "verb",
+    "definitions": [
+      "to be cut; to get sliced (passive)"
+    ],
+    "examples": "तरकारी सजिलै काट्नु सकिन्छ।",
+    "examplesRomanized": "tarkari sajilai katnu sakinchha.",
+    "exampleEnglish": "Vegetables can be easily cut.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "काट्नेछु",
+    "romanization": "katnechhu",
+    "pos": "verb",
+    "definitions": [
+      "I will cut; I will slice (used with objects)"
+    ],
+    "examples": "म तरकारी काट्नेछु।",
+    "examplesRomanized": "ma tarkari katnechhu.",
+    "exampleEnglish": "I will cut the vegetables.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "काढ्छ",
+    "romanization": "kadhchh",
+    "pos": "verb",
+    "definitions": [
+      "he/she pulls out; removes (used with objects)"
+    ],
+    "examples": "ऊ दाँतबाट खाना काढ्छ।",
+    "examplesRomanized": "u daantbata khana kadhchh.",
+    "exampleEnglish": "He/She removes food from the teeth.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "किन्नु",
+    "romanization": "kinnu",
+    "pos": "verb",
+    "definitions": [
+      "to buy; to purchase (needs an object)"
+    ],
+    "examples": "म नयाँ किताब किन्नु।",
+    "examplesRomanized": "ma naya kitaab kinnu.",
+    "exampleEnglish": "I am going to buy a new book.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "कुद्छ",
+    "romanization": "kudchh",
+    "pos": "verb",
+    "definitions": [
+      "he/she runs; moves quickly on foot"
+    ],
+    "examples": "ऊ पार्कमा कुद्छ।",
+    "examplesRomanized": "u parkma kudchh.",
+    "exampleEnglish": "He/She runs in the park.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "कुद्नसक्छ",
+    "romanization": "kudnasakchh",
+    "pos": "verb",
+    "definitions": [
+      "can run; is able to run"
+    ],
+    "examples": "सक्छ ऊ छिटो कुद्नसक्छ।",
+    "examplesRomanized": "sakchha u chhito kudnasakchh.",
+    "exampleEnglish": "He/She can run fast.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "कोर्नु",
+    "romanization": "kornu",
+    "pos": "verb",
+    "definitions": [
+      "to pluck; to harvest (used with fruits, crops, etc.)"
+    ],
+    "examples": "ऊ आम कोर्नु गर्दैछ।",
+    "examplesRomanized": "u aam kornu gardaichha.",
+    "exampleEnglish": "He/She is plucking mangoes.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खन्नु",
+    "romanization": "khannu",
+    "pos": "verb",
+    "definitions": [
+      "to dig; to excavate"
+    ],
+    "examples": "ऊ भुइँ खन्नु गर्दैछ।",
+    "examplesRomanized": "u bhui khannu gardaichha.",
+    "exampleEnglish": "He/She is digging the ground.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खाँदैआउनु",
+    "romanization": "khandaiaunu",
+    "pos": "verb",
+    "definitions": [
+      "to come while eating (eating while approaching)"
+    ],
+    "examples": "ऊ रोटी खाँदैआउनु गर्दैछ।",
+    "examplesRomanized": "u roti khandaiaunu gardaichha.",
+    "exampleEnglish": "He/She is coming while eating bread.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खाँदैगर्छ",
+    "romanization": "khandaigarchh",
+    "pos": "verb",
+    "definitions": [
+      "to continue eating; eats continuously"
+    ],
+    "examples": "ऊ नास्ता खाँदैगर्छ।",
+    "examplesRomanized": "u naasta khandaigarchh.",
+    "exampleEnglish": "He/She continues eating breakfast.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खाँदैगर्नु",
+    "romanization": "khandaigarnu",
+    "pos": "verb",
+    "definitions": [
+      "to perform the act of eating (emphasis on doing it)"
+    ],
+    "examples": "बच्चाले खाना खाँदैगर्नु पर्छ।",
+    "examplesRomanized": "baccale khana khandaigarnu parchha.",
+    "exampleEnglish": "The child must eat the food.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खाँदैछु",
+    "romanization": "khandaichhu",
+    "pos": "verb",
+    "definitions": [
+      "I am eating; I eat currently"
+    ],
+    "examples": "म अहिले खाना खाँदैछु।",
+    "examplesRomanized": "ma ahile khana khandaichhu.",
+    "exampleEnglish": "I am eating food now.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खाइछोड्नु",
+    "romanization": "khaichhodnu",
+    "pos": "verb",
+    "definitions": [
+      "to stop eating; to leave food unfinished"
+    ],
+    "examples": "ऊ खाना खाइछोड्नु भयो।",
+    "examplesRomanized": "u khana khaichhodnu bhayo.",
+    "exampleEnglish": "He/She stopped eating the food.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खाइदिनु",
+    "romanization": "khaidinu",
+    "pos": "verb",
+    "definitions": [
+      "to eat (polite/request); to let someone eat"
+    ],
+    "examples": "कृपया खाना खाइदिनु।",
+    "examplesRomanized": "kripaya khana khaidinu.",
+    "exampleEnglish": "Please eat the food.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खाइराख्नु",
+    "romanization": "khairakhnu",
+    "pos": "verb",
+    "definitions": [
+      "to keep eating; to maintain eating habit"
+    ],
+    "examples": "बच्चाले खाना खाइराख्नु पर्छ।",
+    "examplesRomanized": "baccale khana khairakhnu parchha.",
+    "exampleEnglish": "The child should keep eating food.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खाएछ",
+    "romanization": "khaechh",
+    "pos": "verb",
+    "definitions": [
+      "apparently ate; has eaten (reportive)"
+    ],
+    "examples": "ऊ खाना खाएछ।",
+    "examplesRomanized": "u khana khaechh.",
+    "exampleEnglish": "Apparently he/she ate the food.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खानपाउनु",
+    "romanization": "khanapaunu",
+    "pos": "verb",
+    "definitions": [
+      "to be able to eat; to get food"
+    ],
+    "examples": "बालबालिकाले खाना खानपाउनु पर्छ।",
+    "examplesRomanized": "balbalikale khana khanapaunu parchha.",
+    "exampleEnglish": "Children should be able to eat food.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खानसक्छ",
+    "romanization": "khanasakchh",
+    "pos": "verb",
+    "definitions": [
+      "can eat; able to eat (capacity/possibility)"
+    ],
+    "examples": "ऊ धेरै खाना खानसक्छ।",
+    "examplesRomanized": "u dherai khana khanasakchh.",
+    "exampleEnglish": "He/She can eat a lot of food.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खानसक्नु",
+    "romanization": "khanasaknu",
+    "pos": "verb",
+    "definitions": [
+      "to be able to eat; capable of eating"
+    ],
+    "examples": "बच्चाले खाना खानसक्नु पर्छ।",
+    "examplesRomanized": "baccale khana khanasaknu parchha.",
+    "exampleEnglish": "The child should be able to eat food.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खानु",
+    "romanization": "khanu",
+    "pos": "verb",
+    "definitions": [
+      "to eat"
+    ],
+    "examples": "ऊ खाना खानु गर्दैछ।",
+    "examplesRomanized": "u khana khanu gardaichha.",
+    "exampleEnglish": "He/She is eating food.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खानुपर्छ",
+    "romanization": "khanuparchh",
+    "pos": "verb",
+    "definitions": [
+      "must eat; required to eat"
+    ],
+    "examples": "तिमी बिहान नास्ता खानुपर्छ।",
+    "examplesRomanized": "timi bihana naasta khanuparchha.",
+    "exampleEnglish": "You must eat breakfast in the morning.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खानुपर्नु",
+    "romanization": "khanuparnu",
+    "pos": "verb",
+    "definitions": [
+      "to have to eat; necessity to eat"
+    ],
+    "examples": "बच्चाले खाना खानुपर्नु भयो।",
+    "examplesRomanized": "baccale khana khanuparnu bhayo.",
+    "exampleEnglish": "The child had to eat food.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खानुभयो",
+    "romanization": "khanubhayo",
+    "pos": "verb",
+    "definitions": [
+      "ate (polite/honorific)"
+    ],
+    "examples": "तपाईंले खाना खानुभयो।",
+    "examplesRomanized": "tapainle khana khanubhayo.",
+    "exampleEnglish": "You ate the food.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खानुराख्नु",
+    "romanization": "khanurakhnu",
+    "pos": "verb",
+    "definitions": [
+      "to keep eating; to maintain eating"
+    ],
+    "examples": "बच्चाले समयमै खाना खानुराख्नु पर्छ।",
+    "examplesRomanized": "baccale samaymai khana khanurakhnu parchha.",
+    "exampleEnglish": "The child should keep eating on time.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खानुहुन्छ",
+    "romanization": "khanuhunchh",
+    "pos": "verb",
+    "definitions": [
+      "eats (polite/honorific)"
+    ],
+    "examples": "उहाँ बिहान खाजामा के खानुहुन्छ?",
+    "examplesRomanized": "uham bihana khajama ke khanuhunchha?",
+    "exampleEnglish": "What do you eat for breakfast?",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खानेछौँ",
+    "romanization": "khanechhaun",
+    "pos": "verb",
+    "definitions": [
+      "we will eat; future tense"
+    ],
+    "examples": "हामी भात खानेछौँ।",
+    "examplesRomanized": "haami bhaat khanechhaun.",
+    "exampleEnglish": "We will eat rice.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खान्छ",
+    "romanization": "khanchh",
+    "pos": "verb",
+    "definitions": [
+      "eats; simple present"
+    ],
+    "examples": "ऊ दाल खाना खान्छ।",
+    "examplesRomanized": "u daal khana khanchh.",
+    "exampleEnglish": "He/She eats lentils.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खान्छन्",
+    "romanization": "khanchhan",
+    "pos": "verb",
+    "definitions": [
+      "they eat; plural/honorific"
+    ],
+    "examples": "उहाँहरु मिठाइ खान्छन्।",
+    "examplesRomanized": "uhamharu mithai khanchhan.",
+    "exampleEnglish": "They eat sweets.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खान्छु",
+    "romanization": "khanchhu",
+    "pos": "verb",
+    "definitions": [
+      "I eat; first person"
+    ],
+    "examples": "म खाना खान्छु।",
+    "examplesRomanized": "ma khana khanchhu.",
+    "exampleEnglish": "I eat food.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खान्छौँ",
+    "romanization": "khanchhaun",
+    "pos": "verb",
+    "definitions": [
+      "we eat; first person plural"
+    ],
+    "examples": "हामी खाजामा ब्रेड खान्छौँ।",
+    "examplesRomanized": "haami khajama bread khanchhaun.",
+    "exampleEnglish": "We eat bread for snack.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खुवाइन्छ",
+    "romanization": "khuwainchh",
+    "pos": "verb",
+    "definitions": [
+      "is fed (someone is fed by another)"
+    ],
+    "examples": "बच्चा आमा द्वारा खुवाइन्छ।",
+    "examplesRomanized": "baccaa aama dwara khuwainchh.",
+    "exampleEnglish": "The child is fed by the mother.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खुवाउनु",
+    "romanization": "khuwaunu",
+    "pos": "verb",
+    "definitions": [
+      "to feed someone; to give food"
+    ],
+    "examples": "म बच्चालाई खाना खुवाउनु।",
+    "examplesRomanized": "ma baccalai khana khuwaunu.",
+    "exampleEnglish": "I feed the child.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खेलाइनु",
+    "romanization": "khelainu",
+    "pos": "verb",
+    "definitions": [
+      "to be made to play; someone is played with (passive)"
+    ],
+    "examples": "बालबालिकालाई खेलाइनु भयो।",
+    "examplesRomanized": "balbalikalai khelainu bhayo.",
+    "exampleEnglish": "The children were made to play.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खेल्नु",
+    "romanization": "khelnu",
+    "pos": "verb",
+    "definitions": [
+      "to play"
+    ],
+    "examples": "ऊ फुटबल खेल्नु मन पराउँछ।",
+    "examplesRomanized": "u football khelnu man paraundchha.",
+    "exampleEnglish": "He/She likes to play football.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खोक्नु",
+    "romanization": "khoknu",
+    "pos": "verb",
+    "definitions": [
+      "to cough"
+    ],
+    "examples": "ऊ बलपूर्वक खोक्नु गर्दैछ।",
+    "examplesRomanized": "u balpurvak khoknu gardaichha.",
+    "exampleEnglish": "He/She is coughing forcefully.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खोज्नु",
+    "romanization": "khojnu",
+    "pos": "verb",
+    "definitions": [
+      "to search; to look for"
+    ],
+    "examples": "ऊ आफ्नो किताब खोज्नु गर्दैछ।",
+    "examplesRomanized": "u aafno kitaab khojnu gardaichha.",
+    "exampleEnglish": "He/She is looking for his/her book.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "खोल्नु",
+    "romanization": "kholnu",
+    "pos": "verb",
+    "definitions": [
+      "to open"
+    ],
+    "examples": "ऊ ढोका खोल्नु गर्दैछ।",
+    "examplesRomanized": "u dhoka kholnu gardaichha.",
+    "exampleEnglish": "He/She is opening the door.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गए",
+    "romanization": "gae",
+    "pos": "verb",
+    "definitions": [
+      "went (past simple)"
+    ],
+    "examples": "ऊ बजार गए।",
+    "examplesRomanized": "u bazaar gae.",
+    "exampleEnglish": "He/She went to the market.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गएको",
+    "romanization": "gaeko",
+    "pos": "verb",
+    "definitions": [
+      "has gone; past participle"
+    ],
+    "examples": "ऊ घर गएको छ।",
+    "examplesRomanized": "u ghar gaeko chha.",
+    "exampleEnglish": "He/She has gone home.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गएछ",
+    "romanization": "gaechh",
+    "pos": "verb",
+    "definitions": [
+      "apparently went (reportive)"
+    ],
+    "examples": "ऊ अहिले गएछ।",
+    "examplesRomanized": "u ahile gaechh.",
+    "exampleEnglish": "Apparently, he/she went just now.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गन्नसक्छ",
+    "romanization": "gannasakchh",
+    "pos": "verb",
+    "definitions": [
+      "can count; is able to count"
+    ],
+    "examples": "बच्चाले अंक गन्नसक्छ।",
+    "examplesRomanized": "baccale ank gannasakchh.",
+    "exampleEnglish": "The child can count numbers.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गरिछोड्नु",
+    "romanization": "garichhodnu",
+    "pos": "verb",
+    "definitions": [
+      "to stop doing; to leave something undone"
+    ],
+    "examples": "उसले काम गरिछोड्नु भयो।",
+    "examplesRomanized": "usle kaam garichhodnu bhayo.",
+    "exampleEnglish": "He/She stopped doing the work.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गरिहाल्नु",
+    "romanization": "garihalnu",
+    "pos": "verb",
+    "definitions": [
+      "to finish doing quickly; to just get done"
+    ],
+    "examples": "ऊ आफ्नो गृहकार्य गरिहाल्नु भयो।",
+    "examplesRomanized": "u aafno grihakarya garihalnu bhayo.",
+    "exampleEnglish": "He/She quickly finished their homework.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गरे",
+    "romanization": "gare",
+    "pos": "verb",
+    "definitions": [
+      "did; simple past of ‘do’"
+    ],
+    "examples": "उसले काम गरे।",
+    "examplesRomanized": "usle kaam gare.",
+    "exampleEnglish": "He/She did the work.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गरेको",
+    "romanization": "gareko",
+    "pos": "verb",
+    "definitions": [
+      "has done; past participle"
+    ],
+    "examples": "ऊ काम गरिसकेको छ।",
+    "examplesRomanized": "u kaam garisakeko chha.",
+    "exampleEnglish": "He/She has already done the work.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गरेछ",
+    "romanization": "garechh",
+    "pos": "verb",
+    "definitions": [
+      "apparently did (reportive)"
+    ],
+    "examples": "ऊ काम गरेछ।",
+    "examplesRomanized": "u kaam garechh.",
+    "exampleEnglish": "Apparently, he/she did the work.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गर्छु",
+    "romanization": "garchhu",
+    "pos": "verb",
+    "definitions": [
+      "I do; first person present"
+    ],
+    "examples": "म काम गर्छु।",
+    "examplesRomanized": "ma kaam garchhu.",
+    "exampleEnglish": "I do the work.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गर्छौँ",
+    "romanization": "garchhaun",
+    "pos": "verb",
+    "definitions": [
+      "we do; first person plural"
+    ],
+    "examples": "हामी सँगै काम गर्छौँ।",
+    "examplesRomanized": "haami sangai kaam garchhaun.",
+    "exampleEnglish": "We do the work together.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गर्दागर्नु",
+    "romanization": "gardagarnu",
+    "pos": "verb",
+    "definitions": [
+      "to keep doing; continuous effort"
+    ],
+    "examples": "ऊ आफ्नो काम गर्दागर्नु गर्दैछ।",
+    "examplesRomanized": "u aafno kaam gardagarnu gardaichha.",
+    "exampleEnglish": "He/She is continuously working on the task.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गर्दै",
+    "romanization": "gardai",
+    "pos": "verb",
+    "definitions": [
+      "doing; gerund form"
+    ],
+    "examples": "ऊ पढ्दै गर्दा गीत सुन्दैछ।",
+    "examplesRomanized": "u padhdai garda geet sundai chha.",
+    "exampleEnglish": "He/She is listening to music while studying.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गर्नसक्छ",
+    "romanization": "garnasakchh",
+    "pos": "verb",
+    "definitions": [
+      "can do; capable of doing"
+    ],
+    "examples": "म यो काम गर्नसक्छु।",
+    "examplesRomanized": "ma yo kaam garnasakchhu.",
+    "exampleEnglish": "I can do this work.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गर्नसक्छौँ",
+    "romanization": "garnasakchhaun",
+    "pos": "verb",
+    "definitions": [
+      "we can do; first person plural capable"
+    ],
+    "examples": "हामी सबैले यो काम गर्नसक्छौँ।",
+    "examplesRomanized": "haami sabailai yo kaam garnasakchhaun.",
+    "exampleEnglish": "We all can do this work.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गर्नु",
+    "romanization": "garnu",
+    "pos": "verb",
+    "definitions": [
+      "to do; infinitive form"
+    ],
+    "examples": "ऊ आफ्नो काम गर्न चाहन्छ।",
+    "examplesRomanized": "u aafno kaam garn chahanchha.",
+    "exampleEnglish": "He/She wants to do their work.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गर्ने",
+    "romanization": "garne",
+    "pos": "verb",
+    "definitions": [
+      "will do; future or habitual"
+    ],
+    "examples": "ऊ भोलि काम गर्नेछ।",
+    "examplesRomanized": "u bholi kaam garnechha.",
+    "exampleEnglish": "He/She will do the work tomorrow.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गर्नैपर्छ",
+    "romanization": "garnaiparchh",
+    "pos": "verb",
+    "definitions": [
+      "absolutely must do; unavoidable obligation"
+    ],
+    "examples": "यो काम आजै गर्नैपर्छ।",
+    "examplesRomanized": "yo kaam aajai garnaiparchha.",
+    "exampleEnglish": "This work absolutely must be done today.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गाइन्छ",
+    "romanization": "gainchh",
+    "pos": "verb",
+    "definitions": [
+      "is sung; passive form of singing"
+    ],
+    "examples": "यो गीत हरेक वर्ष गाइन्छ।",
+    "examplesRomanized": "yo geet harek barsa gainchha.",
+    "exampleEnglish": "This song is sung every year.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गाउनु",
+    "romanization": "gaunu",
+    "pos": "verb",
+    "definitions": [
+      "to sing"
+    ],
+    "examples": "ऊ मेला मा गीत गाउन जान्छ।",
+    "examplesRomanized": "u mela ma geet gaun jaanchha.",
+    "exampleEnglish": "He/She goes to sing a song at the fair.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "घट्नु",
+    "romanization": "ghatnu",
+    "pos": "verb",
+    "definitions": [
+      "to decrease; to reduce"
+    ],
+    "examples": "पानीको स्तर दिनदिनै घट्दैछ।",
+    "examplesRomanized": "paaniko star dindinai ghatdai chha.",
+    "exampleEnglish": "The water level is decreasing day by day.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "घिच्नु",
+    "romanization": "ghichnu",
+    "pos": "verb",
+    "definitions": [
+      "to squeeze; to press"
+    ],
+    "examples": "ऊ फल घिच्दैछ।",
+    "examplesRomanized": "u phal ghichdai chha.",
+    "exampleEnglish": "He/She is squeezing the fruit.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "घुम्छ",
+    "romanization": "ghumchh",
+    "pos": "verb",
+    "definitions": [
+      "turns; rotates; goes around"
+    ],
+    "examples": "पंखा धेरै तेजसँग घुम्छ।",
+    "examplesRomanized": "pankha dherai tejsanga ghumchha.",
+    "exampleEnglish": "The fan spins very fast.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "घुम्नु",
+    "romanization": "ghumnu",
+    "pos": "verb",
+    "definitions": [
+      "to go around; to travel; to tour"
+    ],
+    "examples": "हामी काठमाडौं घुम्न जाँदैछौं।",
+    "examplesRomanized": "haami Kathmandu ghumn jaadai chhaun.",
+    "exampleEnglish": "We are going to tour Kathmandu.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "चपाउनु",
+    "romanization": "chapaunu",
+    "pos": "verb",
+    "definitions": [
+      "to press; to mash; to flatten"
+    ],
+    "examples": "ऊ आलु चपाउँदैछ।",
+    "examplesRomanized": "u aalu chapaudai chha.",
+    "exampleEnglish": "He/She is mashing the potatoes.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "चर्छन्",
+    "romanization": "charchhan",
+    "pos": "verb",
+    "definitions": [
+      "they circulate; they spread; they move around"
+    ],
+    "examples": "समाचार चर्खन्छन्।",
+    "examplesRomanized": "samachaar charkchhan.",
+    "exampleEnglish": "The news circulates.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "चलाउनु",
+    "romanization": "chalaunu",
+    "pos": "verb",
+    "definitions": [
+      "to operate; to drive; to run"
+    ],
+    "examples": "ऊ कार चलाउँदैछ।",
+    "examplesRomanized": "u car chalaudai chha.",
+    "exampleEnglish": "He/She is driving the car.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "चाख्नु",
+    "romanization": "chakhnu",
+    "pos": "verb",
+    "definitions": [
+      "to taste; to sample"
+    ],
+    "examples": "ऊ नयाँ पकवान चाख्दैछ।",
+    "examplesRomanized": "u naya pakwaan chakhdai chha.",
+    "exampleEnglish": "He/She is tasting a new dish.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "चाट्छ",
+    "romanization": "chatchh",
+    "pos": "verb",
+    "definitions": [
+      "to lick"
+    ],
+    "examples": "कुकुर मिठाई चाट्दैछ।",
+    "examplesRomanized": "kukur mithai chatdai chha.",
+    "exampleEnglish": "The dog is licking the sweets.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "चाट्नु",
+    "romanization": "chatnu",
+    "pos": "verb",
+    "definitions": [
+      "to lick; to taste lightly"
+    ],
+    "examples": "ऊ दुध चाट्दैछ।",
+    "examplesRomanized": "u dudh chatdai chha.",
+    "exampleEnglish": "He/She is licking the milk.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "चाहनु",
+    "romanization": "chahanu",
+    "pos": "verb",
+    "definitions": [
+      "to want; to desire"
+    ],
+    "examples": "म नयाँ किताब चाहन्छु।",
+    "examplesRomanized": "ma naya kitaab chahanchhu.",
+    "exampleEnglish": "I want a new book.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "चाहन्छु",
+    "romanization": "chahanchhu",
+    "pos": "verb",
+    "definitions": [
+      "I want; expressing personal desire"
+    ],
+    "examples": "म कफी चाहन्छु।",
+    "examplesRomanized": "ma coffee chahanchhu.",
+    "exampleEnglish": "I want coffee.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "चाहिन्छ",
+    "romanization": "chahinchh",
+    "pos": "verb",
+    "definitions": [
+      "is needed; is required"
+    ],
+    "examples": "मलाई सहयोग चाहिन्छ।",
+    "examplesRomanized": "malai sahayog chahinchha.",
+    "exampleEnglish": "I need help.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "चिन्नु",
+    "romanization": "chinnu",
+    "pos": "verb",
+    "definitions": [
+      "to know; to recognize"
+    ],
+    "examples": "तिमी उसलाई चिन्नुहुन्छ? ",
+    "examplesRomanized": "timi uslai chinnuhunchha?",
+    "exampleEnglish": "Do you know/recognize him/her?",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "चिप्लनु",
+    "romanization": "chiplanu",
+    "pos": "verb",
+    "definitions": [
+      "to slip; to slide accidentally"
+    ],
+    "examples": "ऊ बाटोमा चिप्लदैछ।",
+    "examplesRomanized": "u baatoma chipladai chha.",
+    "exampleEnglish": "He/She is slipping on the road.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "चोर्नु",
+    "romanization": "chornu",
+    "pos": "verb",
+    "definitions": [
+      "to steal; to take secretly"
+    ],
+    "examples": "उसले मेरो किताब चोरे।",
+    "examplesRomanized": "usle mero kitaab chore.",
+    "exampleEnglish": "He/She stole my book.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "छनुभयो",
+    "romanization": "chhanubhayo",
+    "pos": "verb",
+    "definitions": [
+      "was selected; has been chosen"
+    ],
+    "examples": "उनी टीममा छनुभए।",
+    "examplesRomanized": "uni teamma chhanubhae.",
+    "exampleEnglish": "He/She was selected for the team.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "छल्नु",
+    "romanization": "chhalnu",
+    "pos": "verb",
+    "definitions": [
+      "to deceive; to cheat"
+    ],
+    "examples": "उसले मलाई छल्यो।",
+    "examplesRomanized": "usle malai chhallyo.",
+    "exampleEnglish": "He/She deceived me.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "छिराउनु",
+    "romanization": "chhiraunu",
+    "pos": "verb",
+    "definitions": [
+      "to insert; to push in"
+    ],
+    "examples": "ऊ पत्र छिराउँदैछ।",
+    "examplesRomanized": "u patra chhiraudai chha.",
+    "exampleEnglish": "He/She is inserting the letter.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "छिर्नु",
+    "romanization": "chhirnu",
+    "pos": "verb",
+    "definitions": [
+      "to enter; to penetrate"
+    ],
+    "examples": "कुकुर घरमा छिर्न खोज्छ।",
+    "examplesRomanized": "kukur gharma chhirna khochha.",
+    "exampleEnglish": "The dog tries to enter the house.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "छुनसक्नु",
+    "romanization": "chhunasaknu",
+    "pos": "verb",
+    "definitions": [
+      "to be able to touch"
+    ],
+    "examples": "ऊ अगाडि गएर झ्याल छुनसक्छ।",
+    "examplesRomanized": "u agadi gaera jhyal chhunasakchha.",
+    "exampleEnglish": "He/She can reach forward and touch the window.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "छुनु",
+    "romanization": "chhunu",
+    "pos": "verb",
+    "definitions": [
+      "to touch"
+    ],
+    "examples": "कृपया यो सतह नछुनुहोस्।",
+    "examplesRomanized": "kripaya yo sath nahchhunu hos.",
+    "exampleEnglish": "Please do not touch this surface.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "छोड्छु",
+    "romanization": "chhodchhu",
+    "pos": "verb",
+    "definitions": [
+      "I leave; I let go"
+    ],
+    "examples": "म अब उसको हात छोड्छु।",
+    "examplesRomanized": "ma aba usko haat chhodchhu.",
+    "exampleEnglish": "I am letting go of his/her hand now.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "छोड्नु",
+    "romanization": "chhodnu",
+    "pos": "verb",
+    "definitions": [
+      "to leave; to release"
+    ],
+    "examples": "ऊ किताब छोडेर गयो।",
+    "examplesRomanized": "u kitaab chhodera gayo.",
+    "exampleEnglish": "He/She left the book behind.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "जन्मिनु",
+    "romanization": "janminu",
+    "pos": "verb",
+    "definitions": [
+      "to be born"
+    ],
+    "examples": "संसारमा नयाँ बच्चा जन्मिन्छ।",
+    "examplesRomanized": "sansarma naya bachcha janminchha.",
+    "exampleEnglish": "A new baby is born into the world.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "जन्मिन्छौँ",
+    "romanization": "janminchhaun",
+    "pos": "verb",
+    "definitions": [
+      "we are born; we will be born"
+    ],
+    "examples": "हामी सबै एउटै ग्रहमा जन्मिन्छौँ।",
+    "examplesRomanized": "haami sabai eutai grahma janminchhaun.",
+    "exampleEnglish": "We are all born on the same planet.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "जलाउनु",
+    "romanization": "jalaunu",
+    "pos": "verb",
+    "definitions": [
+      "to burn (something) intentionally; to light"
+    ],
+    "examples": "ऊ मोमबत्ती जलाउँदैछ।",
+    "examplesRomanized": "u mombatti jalaudai chha.",
+    "exampleEnglish": "He/She is lighting the candle.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "जल्नु",
+    "romanization": "jalnu",
+    "pos": "verb",
+    "definitions": [
+      "to burn; to be on fire"
+    ],
+    "examples": "घरमा आगो बलिरहेको छ।",
+    "examplesRomanized": "gharma aago baliraheko chha.",
+    "exampleEnglish": "The house is on fire.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "जाँदैछु",
+    "romanization": "jandaichhu",
+    "pos": "verb",
+    "definitions": [
+      "I am going; currently going"
+    ],
+    "examples": "म अब बजार जाँदैछु।",
+    "examplesRomanized": "ma aba bazaar jandaichhu.",
+    "exampleEnglish": "I am going to the market now.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "जानु",
+    "romanization": "janu",
+    "pos": "verb",
+    "definitions": [
+      "to go"
+    ],
+    "examples": "ऊ विद्यालय जानु छ।",
+    "examplesRomanized": "u vidyalaya janu chha.",
+    "exampleEnglish": "He/She has to go to school.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "जानुपर्छ",
+    "romanization": "januparchh",
+    "pos": "verb",
+    "definitions": [
+      "must go; have to go"
+    ],
+    "examples": "हामीलाई समयमै जानुपर्छ।",
+    "examplesRomanized": "haamilaai samaymai januparchha.",
+    "exampleEnglish": "We must go on time.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "जानेछु",
+    "romanization": "janechhu",
+    "pos": "verb",
+    "definitions": [
+      "I will go; going in the future"
+    ],
+    "examples": "म भोलि पोखरा जानेछु।",
+    "examplesRomanized": "ma bhole Pokhara janechhu.",
+    "exampleEnglish": "I will go to Pokhara tomorrow.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "जान्छ",
+    "romanization": "janchh",
+    "pos": "verb",
+    "definitions": [
+      "he/she/it goes; is going"
+    ],
+    "examples": "ऊ स्कूल जान्छ।",
+    "examplesRomanized": "u school janchha.",
+    "exampleEnglish": "He/She goes to school.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "जान्छन्",
+    "romanization": "janchhan",
+    "pos": "verb",
+    "definitions": [
+      "they go; are going"
+    ],
+    "examples": "उनीहरू पार्क जान्छन्।",
+    "examplesRomanized": "uniharu park janchhan.",
+    "exampleEnglish": "They are going to the park.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "जान्छु",
+    "romanization": "janchhu",
+    "pos": "verb",
+    "definitions": [
+      "I go; I am going"
+    ],
+    "examples": "म कार्यालय जान्छु।",
+    "examplesRomanized": "ma karyalaya janchhu.",
+    "exampleEnglish": "I am going to the office.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "जान्छौँ",
+    "romanization": "janchhaun",
+    "pos": "verb",
+    "definitions": [
+      "we go; are going"
+    ],
+    "examples": "हामी स्कूल जान्छौँ।",
+    "examplesRomanized": "haami school janchhaun.",
+    "exampleEnglish": "We are going to school.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "जिउनु",
+    "romanization": "jiunu",
+    "pos": "verb",
+    "definitions": [
+      "to live; to exist"
+    ],
+    "examples": "मानिसहरू खुशीपूर्वक जिउनु चाहन्छन्।",
+    "examplesRomanized": "manishharu khushipurbak jiunu chahanchhan.",
+    "exampleEnglish": "People want to live happily.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "जित्छु",
+    "romanization": "jitchhu",
+    "pos": "verb",
+    "definitions": [
+      "I win; I will win"
+    ],
+    "examples": "म खेल जित्छु।",
+    "examplesRomanized": "ma khel jitchhu.",
+    "exampleEnglish": "I will win the game.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "जित्नु",
+    "romanization": "jitnu",
+    "pos": "verb",
+    "definitions": [
+      "to win; to succeed in something"
+    ],
+    "examples": "ऊ खेल जित्नु चाहन्छ।",
+    "examplesRomanized": "u khel jitnu chahanchha.",
+    "exampleEnglish": "He/She wants to win the game.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "झर्नु",
+    "romanization": "jharnu",
+    "pos": "verb",
+    "definitions": [
+      "to fall; to drop"
+    ],
+    "examples": "पात झर्नु सुरु भयो।",
+    "examplesRomanized": "paat jharnu suru bhayo.",
+    "exampleEnglish": "The leaves have started to fall.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "झार्नु",
+    "romanization": "jharnu",
+    "pos": "verb",
+    "definitions": [
+      "to clean by brushing or shaking off"
+    ],
+    "examples": "ऊ ओछ्यान झार्दैछ।",
+    "examplesRomanized": "u ochhyaan jharadai chha.",
+    "exampleEnglish": "He/She is shaking off the bed.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "टाँसिनु",
+    "romanization": "tansinu",
+    "pos": "verb",
+    "definitions": [
+      "to be pasted or attached"
+    ],
+    "examples": "पोस्टर टाँसिनु पर्यो।",
+    "examplesRomanized": "poster tansinu paryo.",
+    "exampleEnglish": "The poster needs to be pasted.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "टाँस्नु",
+    "romanization": "tansnu",
+    "pos": "verb",
+    "definitions": [
+      "to paste or attach something"
+    ],
+    "examples": "ऊ पोस्टर टाँस्दैछ।",
+    "examplesRomanized": "u poster tansdai chha.",
+    "exampleEnglish": "He/She is pasting the poster.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "टिप्छु",
+    "romanization": "tipchhu",
+    "pos": "verb",
+    "definitions": [
+      "I pinch; I press lightly"
+    ],
+    "examples": "म आलु टिप्छु।",
+    "examplesRomanized": "ma aalu tipchhu.",
+    "exampleEnglish": "I am pinching the potato.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "टिप्नु",
+    "romanization": "tipnu",
+    "pos": "verb",
+    "definitions": [
+      "to pinch; to press lightly"
+    ],
+    "examples": "ऊ टमाटर टिप्दैछ।",
+    "examplesRomanized": "u tamaatar tipdai chha.",
+    "exampleEnglish": "He/She is pinching the tomato.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "टोक्नु",
+    "romanization": "toknu",
+    "pos": "verb",
+    "definitions": [
+      "to poke; to prick"
+    ],
+    "examples": "कुकुरले खुट्टामा टोक्यो।",
+    "examplesRomanized": "kukurle khuttama tokyo.",
+    "exampleEnglish": "The dog poked/pricked the leg.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "ठान्नु",
+    "romanization": "thannu",
+    "pos": "verb",
+    "definitions": [
+      "to think; to consider"
+    ],
+    "examples": "म यसो ठान्छु।",
+    "examplesRomanized": "ma yoso thanchhu.",
+    "exampleEnglish": "I think/consider it this way.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "ठेल्नु",
+    "romanization": "thelnu",
+    "pos": "verb",
+    "definitions": [
+      "to push; to shove"
+    ],
+    "examples": "ऊ ढोकामा ठेल्दैछ।",
+    "examplesRomanized": "u dhokama theldai chha.",
+    "exampleEnglish": "He/She is pushing at the door.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "ठोक्नु",
+    "romanization": "thoknu",
+    "pos": "verb",
+    "definitions": [
+      "to hit; to knock"
+    ],
+    "examples": "ऊ ढोकामा ठोक्दैछ।",
+    "examplesRomanized": "u dhokama thokdai chha.",
+    "exampleEnglish": "He/She is knocking on the door.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "डुबाउनु",
+    "romanization": "dubaunu",
+    "pos": "verb",
+    "definitions": [
+      "to sink something; to submerge"
+    ],
+    "examples": "ऊ पानीमा डुबाउँदैछ।",
+    "examplesRomanized": "u paanima dubaudai chha.",
+    "exampleEnglish": "He/She is submerging it in water.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "डुब्नु",
+    "romanization": "dubnu",
+    "pos": "verb",
+    "definitions": [
+      "to sink; to be submerged"
+    ],
+    "examples": "काठ पानीमा डुब्यो।",
+    "examplesRomanized": "kaath paanima dubyo.",
+    "exampleEnglish": "The wood sank in the water.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "ढोग्नु",
+    "romanization": "dhognu",
+    "pos": "verb",
+    "definitions": [
+      "to thresh; to pound"
+    ],
+    "examples": "ऊ धान ढोग्दैछ।",
+    "examplesRomanized": "u dhaan dhogdai chha.",
+    "exampleEnglish": "He/She is threshing the rice.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "तान्नु",
+    "romanization": "tannu",
+    "pos": "verb",
+    "definitions": [
+      "to pull; to stretch"
+    ],
+    "examples": "ऊ रस्सी तान्दैछ।",
+    "examplesRomanized": "u rassi tandai chha.",
+    "exampleEnglish": "He/She is pulling the rope.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "थप्नु",
+    "romanization": "thapnu",
+    "pos": "verb",
+    "definitions": [
+      "to add; to increase"
+    ],
+    "examples": "ऊ चिनी थप्दैछ।",
+    "examplesRomanized": "u chini thapdai chha.",
+    "exampleEnglish": "He/She is adding sugar.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "थुक्नु",
+    "romanization": "thuknu",
+    "pos": "verb",
+    "definitions": [
+      "to spit"
+    ],
+    "examples": "ऊ भित्तामा थुक्दैछ।",
+    "examplesRomanized": "u bhittama thukdai chha.",
+    "exampleEnglish": "He/She is spitting on the wall.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "दल्नु",
+    "romanization": "dalnu",
+    "pos": "verb",
+    "definitions": [
+      "to sprinkle; to scatter"
+    ],
+    "examples": "ऊ पानी दल्दैछ।",
+    "examplesRomanized": "u paani daldai chha.",
+    "exampleEnglish": "He/She is sprinkling water.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "दिइन्छ",
+    "romanization": "diinchh",
+    "pos": "verb",
+    "definitions": [
+      "is/are given; is/are provided"
+    ],
+    "examples": "खाना दिइन्छ।",
+    "examplesRomanized": "khaana diinchha.",
+    "exampleEnglish": "Food is provided.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "दिनु",
+    "romanization": "dinu",
+    "pos": "verb",
+    "definitions": [
+      "to give"
+    ],
+    "examples": "ऊ किताब दिन्छ।",
+    "examplesRomanized": "u kitaab dinchha.",
+    "exampleEnglish": "He/She is giving the book.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "दिनुभयो",
+    "romanization": "dinubhayo",
+    "pos": "verb",
+    "definitions": [
+      "gave (honorific/polite form)"
+    ],
+    "examples": "उसले पुस्तक दिनुभयो।",
+    "examplesRomanized": "usle pustak dinubhayo.",
+    "exampleEnglish": "He/She gave the book.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "दिन्छु",
+    "romanization": "dinchhu",
+    "pos": "verb",
+    "definitions": [
+      "I give"
+    ],
+    "examples": "म किताब दिन्छु।",
+    "examplesRomanized": "ma kitaab dinchhu.",
+    "exampleEnglish": "I give the book.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "देख्नु",
+    "romanization": "dekhnu",
+    "pos": "verb",
+    "definitions": [
+      "to see; to look at"
+    ],
+    "examples": "ऊ चलचित्र देख्दैछ।",
+    "examplesRomanized": "u chalchitra dekhdai chha.",
+    "exampleEnglish": "He/She is watching a movie.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "दौडनु",
+    "romanization": "daudanu",
+    "pos": "verb",
+    "definitions": [
+      "to run"
+    ],
+    "examples": "ऊ पार्कमा दौडदैछ।",
+    "examplesRomanized": "u parkma dauddai chha.",
+    "exampleEnglish": "He/She is running in the park.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "धुनु",
+    "romanization": "dhunu",
+    "pos": "verb",
+    "definitions": [
+      "to wash; to clean"
+    ],
+    "examples": "ऊ कपडा धुन्दैछ।",
+    "examplesRomanized": "u kapda dhundai chha.",
+    "exampleEnglish": "He/She is washing clothes.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "धुम्मिनु",
+    "romanization": "dhumminu",
+    "pos": "verb",
+    "definitions": [
+      "to spin; to whirl"
+    ],
+    "examples": "ऊ बच्चा झुलामा धुम्मिदैछ।",
+    "examplesRomanized": "u baccha jhulaama dhummidai chha.",
+    "exampleEnglish": "The child is spinning on the swing.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "धेरैचर्छन्",
+    "romanization": "dheraicharchhan",
+    "pos": "verb",
+    "definitions": [
+      "to scatter a lot; to distribute widely"
+    ],
+    "examples": "बीउ धेरैचर्छन्।",
+    "examplesRomanized": "biiu dheraicharchhan.",
+    "exampleEnglish": "The seeds are scattered widely.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "नगए",
+    "romanization": "nagae",
+    "pos": "verb",
+    "definitions": [
+      "did not go"
+    ],
+    "examples": "ऊ स्कूल नगए।",
+    "examplesRomanized": "u school nagae.",
+    "exampleEnglish": "He/She did not go to school.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "नगर्नु",
+    "romanization": "nagarnu",
+    "pos": "verb",
+    "definitions": [
+      "to not do; to refrain from doing"
+    ],
+    "examples": "ऊ गल्ती नगर्नु।",
+    "examplesRomanized": "u galti nagarnu.",
+    "exampleEnglish": "He/She should not make a mistake.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "नरोक्नु",
+    "romanization": "naroknu",
+    "pos": "verb",
+    "definitions": [
+      "to not stop; to let continue"
+    ],
+    "examples": "ऊ मानिसलाई नरोक्दैछ।",
+    "examplesRomanized": "u manislaai narokdai chha.",
+    "exampleEnglish": "He/She is letting the person continue.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "नहाल्दिनु",
+    "romanization": "nahaldinu",
+    "pos": "verb",
+    "definitions": [
+      "to not allow; to refrain from putting/letting"
+    ],
+    "examples": "ऊ बच्चालाई चोकमा नहाल्दिनु।",
+    "examplesRomanized": "u bacchaalaai chokma nahaldinu.",
+    "exampleEnglish": "He/She does not allow the child in the street.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "नाच्नसक्नु",
+    "romanization": "nachnasaknu",
+    "pos": "verb",
+    "definitions": [
+      "to be able to dance"
+    ],
+    "examples": "ऊ राम्ररी नाच्नसक्छ।",
+    "examplesRomanized": "u ramrari nachnasakchha.",
+    "exampleEnglish": "He/She can dance well.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "नाच्नु",
+    "romanization": "nachnu",
+    "pos": "verb",
+    "definitions": [
+      "to dance"
+    ],
+    "examples": "ऊ विवाहमा नाच्दैछ।",
+    "examplesRomanized": "u bibahma nachdai chha.",
+    "exampleEnglish": "He/She is dancing at the wedding.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "नाप्नु",
+    "romanization": "napnu",
+    "pos": "verb",
+    "definitions": [
+      "to measure; to gauge"
+    ],
+    "examples": "ऊ कोठा नाप्दैछ।",
+    "examplesRomanized": "u kotha napdai chha.",
+    "exampleEnglish": "He/She is measuring the room.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "निकाल्नु",
+    "romanization": "nikalnu",
+    "pos": "verb",
+    "definitions": [
+      "to remove; to take out"
+    ],
+    "examples": "ऊ कपडा निकाल्दैछ।",
+    "examplesRomanized": "u kapda nikaldai chha.",
+    "exampleEnglish": "He/She is taking out the clothes.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "निक्लिनु",
+    "romanization": "niklinu",
+    "pos": "verb",
+    "definitions": [
+      "to exit; to leave"
+    ],
+    "examples": "ऊ घरबाट निक्लिइरहेको छ।",
+    "examplesRomanized": "u gharbata nikliirheko chha.",
+    "exampleEnglish": "He/She is leaving the house.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "निभ्नु",
+    "romanization": "nibhnu",
+    "pos": "verb",
+    "definitions": [
+      "to extinguish; to end (fire, light, or effort)"
+    ],
+    "examples": "आगो निभ्दैछ।",
+    "examplesRomanized": "aago nibhdai chha.",
+    "exampleEnglish": "The fire is extinguishing.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "निस्किनु",
+    "romanization": "niskinu",
+    "pos": "verb",
+    "definitions": [
+      "to go out; to emerge"
+    ],
+    "examples": "ऊ कार्यालयबाट निस्किरहेको छ।",
+    "examplesRomanized": "u karyalaybata niskiraheko chha.",
+    "exampleEnglish": "He/She is going out of the office.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "पकाउनु",
+    "romanization": "pakaunu",
+    "pos": "verb",
+    "definitions": [
+      "to cook; to boil; to prepare food"
+    ],
+    "examples": "ऊ दाल पकाउँदैछ।",
+    "examplesRomanized": "u daal pakaudai chha.",
+    "exampleEnglish": "He/She is cooking lentils.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "पठाउनु",
+    "romanization": "pathaunu",
+    "pos": "verb",
+    "definitions": [
+      "to send; to dispatch"
+    ],
+    "examples": "ऊ पत्र पठाउँदैछ।",
+    "examplesRomanized": "u patra pathaudai chha.",
+    "exampleEnglish": "He/She is sending the letter.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "पिउनु",
+    "romanization": "piunu",
+    "pos": "verb",
+    "definitions": [
+      "to drink"
+    ],
+    "examples": "ऊ पानी पिउँदैछ।",
+    "examplesRomanized": "u paani piundai chha.",
+    "exampleEnglish": "He/She is drinking water.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बचाउनु",
+    "romanization": "bachaunu",
+    "pos": "verb",
+    "definitions": [
+      "to save; to protect"
+    ],
+    "examples": "ऊ बच्चालाई बचाउँदैछ।",
+    "examplesRomanized": "u bacchalaai bachaudai chha.",
+    "exampleEnglish": "He/She is saving the child.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बनाउनु",
+    "romanization": "banaunu",
+    "pos": "verb",
+    "definitions": [
+      "to make; to create; to build"
+    ],
+    "examples": "ऊ घर बनाउँदैछ।",
+    "examplesRomanized": "u ghar banaudai chha.",
+    "exampleEnglish": "He/She is building a house.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बस्नु",
+    "romanization": "basnu",
+    "pos": "verb",
+    "definitions": [
+      "to sit; to reside"
+    ],
+    "examples": "ऊ कुर्सीमा बस्दैछ।",
+    "examplesRomanized": "u kursi ma basdai chha.",
+    "exampleEnglish": "He/She is sitting on the chair.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बाँच्नु",
+    "romanization": "banychnu",
+    "pos": "verb",
+    "definitions": [
+      "to live; to survive"
+    ],
+    "examples": "ऊ शहरमा बाँच्दैछ।",
+    "examplesRomanized": "u shaharma banchdai chha.",
+    "exampleEnglish": "He/She is living in the city.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बाँध्नु",
+    "romanization": "bandhnu",
+    "pos": "verb",
+    "definitions": [
+      "to tie; to bind; to fasten"
+    ],
+    "examples": "ऊ डोरी बाँध्दैछ।",
+    "examplesRomanized": "u dori bandhdai chha.",
+    "exampleEnglish": "He/She is tying the rope.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बाझ्नु",
+    "romanization": "bajhnu",
+    "pos": "verb",
+    "definitions": [
+      "to be barren; to be infertile; to remain empty"
+    ],
+    "examples": "यो खेत यस वर्ष बाझ्दैछ।",
+    "examplesRomanized": "yo khet yas barsha bajhdai chha.",
+    "exampleEnglish": "This field is remaining barren this year.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बजाउनु",
+    "romanization": "bajaunu",
+    "pos": "verb",
+    "definitions": [
+      "to play a musical instrument; to sound"
+    ],
+    "examples": "ऊ ड्रम बजाउँदैछ।",
+    "examplesRomanized": "u drum bajaudai chha.",
+    "exampleEnglish": "He/She is playing the drum.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बज्नु",
+    "romanization": "bajnu",
+    "pos": "verb",
+    "definitions": [
+      "to be played (instrument) or to ring (bell)"
+    ],
+    "examples": "घण्टी बज्दैछ।",
+    "examplesRomanized": "ghanti bajdai chha.",
+    "exampleEnglish": "The bell is ringing.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बढ्नु",
+    "romanization": "badhnu",
+    "pos": "verb",
+    "definitions": [
+      "to increase; to grow; to rise"
+    ],
+    "examples": "बजारको मूल्य बढ्दैछ।",
+    "examplesRomanized": "bajarko mulya badhdai chha.",
+    "exampleEnglish": "The market price is rising.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बनाउँछ",
+    "romanization": "banaunychha",
+    "pos": "verb",
+    "definitions": [
+      "he/she makes; creates; constructs"
+    ],
+    "examples": "ऊ मिठो खाना बनाउँछ।",
+    "examplesRomanized": "u mitho khana banaunychha.",
+    "exampleEnglish": "He/She makes delicious food.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बनाउँछु",
+    "romanization": "banaunychhu",
+    "pos": "verb",
+    "definitions": [
+      "I make; I create; I construct"
+    ],
+    "examples": "म नयाँ किताब बनाउँछु।",
+    "examplesRomanized": "ma naya kitab banaunychhu.",
+    "exampleEnglish": "I am making a new book.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बनाउछु",
+    "romanization": "banauchhu",
+    "pos": "verb",
+    "definitions": [
+      "I make; I create (alternative spelling)"
+    ],
+    "examples": "म यो कार्ड बनाउछु।",
+    "examplesRomanized": "ma yo card banauchhu.",
+    "exampleEnglish": "I am making this card.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बनाउनुपर्छ",
+    "romanization": "banaunuparchha",
+    "pos": "verb",
+    "definitions": [
+      "must make; should create"
+    ],
+    "examples": "हामीले खाना बनाउनुपर्छ।",
+    "examplesRomanized": "haamile khana banaunuparchha.",
+    "exampleEnglish": "We must make the food.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बनिन्छ",
+    "romanization": "baninchha",
+    "pos": "verb",
+    "definitions": [
+      "is made; gets created"
+    ],
+    "examples": "यो घर छिट्टै बनिन्छ।",
+    "examplesRomanized": "yo ghar chhittai baninchha.",
+    "exampleEnglish": "This house will be built quickly.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बन्नु",
+    "romanization": "bannu",
+    "pos": "verb",
+    "definitions": [
+      "to become; to turn into; to happen"
+    ],
+    "examples": "ऊ राम्रो मानिस बन्न चाहन्छ।",
+    "examplesRomanized": "u ramro manish bannu chahanchha.",
+    "exampleEnglish": "He/She wants to become a good person.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बसाउनु",
+    "romanization": "basaunu",
+    "pos": "verb",
+    "definitions": [
+      "to seat someone; to make someone sit"
+    ],
+    "examples": "कृपया पाहुनालाई बसाउनुहोस्।",
+    "examplesRomanized": "kripaya pahunaalai basaunu hos.",
+    "exampleEnglish": "Please seat the guest.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बसिन्छ",
+    "romanization": "basinchha",
+    "pos": "verb",
+    "definitions": [
+      "is seated; is placed; fits in a space"
+    ],
+    "examples": "यो कुर्सी दुई मानिस बस्न सक्छ।",
+    "examplesRomanized": "yo kursi dui manish basna sakchha.",
+    "exampleEnglish": "This chair can seat two people.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बसेछ",
+    "romanization": "basechha",
+    "pos": "verb",
+    "definitions": [
+      "sat; has sat (past tense)"
+    ],
+    "examples": "ऊ बस्यो र पढ्न थाल्यो।",
+    "examplesRomanized": "u basyo ra padhna thalyo.",
+    "exampleEnglish": "He/She sat down and started reading.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बस्छ",
+    "romanization": "baschha",
+    "pos": "verb",
+    "definitions": [
+      "sits; will sit; habitually sits"
+    ],
+    "examples": "ऊ बिहानमा सधैं यतै बस्छ।",
+    "examplesRomanized": "u bihana ma sadhai yatai baschha.",
+    "exampleEnglish": "He/She always sits here in the morning.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बस्छन्",
+    "romanization": "baschhan",
+    "pos": "verb",
+    "definitions": [
+      "they sit; they are seated"
+    ],
+    "examples": "सबै विद्यार्थी क्लासमा बस्छन्।",
+    "examplesRomanized": "sabai vidyarthi class ma baschhan.",
+    "exampleEnglish": "All the students sit in the classroom.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बस्छु",
+    "romanization": "baschhu",
+    "pos": "verb",
+    "definitions": [
+      "I sit; I am seated"
+    ],
+    "examples": "म चाँहि यतै बस्छु।",
+    "examplesRomanized": "ma chahi yatai baschhu.",
+    "exampleEnglish": "I will sit here.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बाँच्नसक्छु",
+    "romanization": "banchhnasakchhu",
+    "pos": "verb",
+    "definitions": [
+      "I can survive; I can live"
+    ],
+    "examples": "म कठिन परिस्थितिमा पनि बाँच्नसक्छु।",
+    "examplesRomanized": "ma kathin paristhitima pani banchhnasakchhu.",
+    "exampleEnglish": "I can survive even in tough conditions.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "भनु",
+    "romanization": "bhannu",
+    "pos": "verb",
+    "definitions": [
+      "to say; to tell; to speak"
+    ],
+    "examples": "कसैले मलाई साँचो कुरा भन्नुभयो।",
+    "examplesRomanized": "kasailai malai sancho kura bhannubhayo.",
+    "exampleEnglish": "Someone told me the truth.",
+    "frequency": "high",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "भेट्नु",
+    "romanization": "bhetnu",
+    "pos": "verb",
+    "definitions": [
+      "to meet; to encounter; to find"
+    ],
+    "examples": "म भोलि साथीलाई भेट्न जाँदैछु।",
+    "examplesRomanized": "ma bholi sathilai bhetna jandaichhu.",
+    "exampleEnglish": "I am going to meet my friend tomorrow.",
+    "frequency": "high",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "भूल्नु",
+    "romanization": "bhulnu",
+    "pos": "verb",
+    "definitions": [
+      "to forget; to lose memory of"
+    ],
+    "examples": "मैले नाम भूलें।",
+    "examplesRomanized": "maile naam bhule.",
+    "exampleEnglish": "I forgot the name.",
+    "frequency": "high",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "भिज्नु",
+    "romanization": "bhijnu",
+    "pos": "verb",
+    "definitions": [
+      "to get wet; to be soaked"
+    ],
+    "examples": "पानीमा खेल्दा म भिजें।",
+    "examplesRomanized": "pani ma khelda ma bhije.",
+    "exampleEnglish": "I got wet while playing in the water.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "भुक्तान गर्नु",
+    "romanization": "bhuktan garnu",
+    "pos": "verb",
+    "definitions": [
+      "to pay; to make a payment"
+    ],
+    "examples": "कृपया बिल भुक्तान गर्नुहोस्।",
+    "examplesRomanized": "kripaya bil bhuktan garnu hos.",
+    "exampleEnglish": "Please pay the bill.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "भाँच्नु",
+    "romanization": "bhanchhnu",
+    "pos": "verb",
+    "definitions": [
+      "to break; to smash; to shatter"
+    ],
+    "examples": "ऊ ढोका भाँच्दैछ।",
+    "examplesRomanized": "u dhoka bhanchhdaichha.",
+    "exampleEnglish": "He/She is breaking the door.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "मिल्नु",
+    "romanization": "milnu",
+    "pos": "verb",
+    "definitions": [
+      "to fit; to match; to meet (someone)"
+    ],
+    "examples": "यी कपडाहरू मेरो आकारसँग मिल्छन्।",
+    "examplesRomanized": "yi kapdaharu mero aakarsanga milchhan.",
+    "exampleEnglish": "These clothes fit my size.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "मिटाउनु",
+    "romanization": "mitaunu",
+    "pos": "verb",
+    "definitions": [
+      "to erase; to remove; to delete"
+    ],
+    "examples": "कृपया बोर्डमा लेखाइ मिटाउनुहोस्।",
+    "examplesRomanized": "kripaya board ma lekhai mitaunu hos.",
+    "exampleEnglish": "Please erase the writing on the board.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "मर्नु",
+    "romanization": "marnu",
+    "pos": "verb",
+    "definitions": [
+      "to die; to pass away"
+    ],
+    "examples": "पुरानो बिरुवा मरेको छ।",
+    "examplesRomanized": "purano biruwa mareko chha.",
+    "exampleEnglish": "The old plant has died.",
+    "frequency": "high",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "मान्नु",
+    "romanization": "mannu",
+    "pos": "verb",
+    "definitions": [
+      "to accept; to agree; to obey"
+    ],
+    "examples": "ऊ मेरो निर्णय मान्छ।",
+    "examplesRomanized": "u mero nirnaya manchha.",
+    "exampleEnglish": "He/She agrees with my decision.",
+    "frequency": "high",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "राख्नु",
+    "romanization": "rakhnu",
+    "pos": "verb",
+    "definitions": [
+      "to keep; to place; to store"
+    ],
+    "examples": "किताबलाई मेचमा राख्नुहोस्।",
+    "examplesRomanized": "kitab lai mech ma rakhnu hos.",
+    "exampleEnglish": "Keep the book on the table.",
+    "frequency": "high",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रुनु",
+    "romanization": "runu",
+    "pos": "verb",
+    "definitions": [
+      "to cry; to weep"
+    ],
+    "examples": "बच्चा दुःखले रुदैछ।",
+    "examplesRomanized": "bachcha dukhle rudai chha.",
+    "exampleEnglish": "The child is crying in sadness.",
+    "frequency": "high",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोकिनु",
+    "romanization": "rokinu",
+    "pos": "verb",
+    "definitions": [
+      "to stop; to be stopped"
+    ],
+    "examples": "बस सडकमा रोकिएको छ।",
+    "examplesRomanized": "bas sadakma rokieko chha.",
+    "exampleEnglish": "The bus has stopped on the road.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "राख्नुहोस्",
+    "romanization": "rakhnu hos",
+    "pos": "verb",
+    "definitions": [
+      "please place; please keep"
+    ],
+    "examples": "कृपया कलमलाई डब्बामा राख्नुहोस्।",
+    "examplesRomanized": "kripaya kalam lai dabba ma rakhnu hos.",
+    "exampleEnglish": "Please put the pen in the box.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "राखिन्छ",
+    "romanization": "rakhinchha",
+    "pos": "verb",
+    "definitions": [
+      "is kept; is placed; is stored"
+    ],
+    "examples": "पानी बोतल फ्रिजमा राखिन्छ।",
+    "examplesRomanized": "pani bottal fridge ma rakhinchha.",
+    "exampleEnglish": "The water bottle is kept in the fridge.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "राख्नुपर्छ",
+    "romanization": "rakhnuparchha",
+    "pos": "verb",
+    "definitions": [
+      "must keep; should store; have to place"
+    ],
+    "examples": "किताबलाई सुरक्षित ठाउँमा राख्नुपर्छ।",
+    "examplesRomanized": "kitab lai surakshit thau ma rakhnuparchha.",
+    "exampleEnglish": "The book must be kept in a safe place.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रहनुपर्छ",
+    "romanization": "rahnuparchha",
+    "pos": "verb",
+    "definitions": [
+      "must stay; should remain; have to live"
+    ],
+    "examples": "हामीले घर सफा राख्नुपर्छ।",
+    "examplesRomanized": "hamile ghar safa rakhnuparchha.",
+    "exampleEnglish": "We must keep the house clean.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "राखिनु",
+    "romanization": "rakhinu",
+    "pos": "verb",
+    "definitions": [
+      "to be placed; to be kept"
+    ],
+    "examples": "खाद्य सामग्री कोठामा राखिन्छ।",
+    "examplesRomanized": "khadya samagri kothama rakhinchha.",
+    "exampleEnglish": "The food items are kept in the room.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "राखिँदैछ",
+    "romanization": "rakhindai chha",
+    "pos": "verb",
+    "definitions": [
+      "is being kept; is being stored; is being placed"
+    ],
+    "examples": "पानीको बोतल फ्रिजमा राखिँदैछ।",
+    "examplesRomanized": "pani ko bottal fridge ma rakhindai chha.",
+    "exampleEnglish": "The water bottle is being kept in the fridge.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सिक्नु",
+    "romanization": "siknu",
+    "pos": "verb",
+    "definitions": [
+      "to learn; to acquire knowledge or skill"
+    ],
+    "examples": "म नयाँ भाषा सिक्दैछु।",
+    "examplesRomanized": "ma naya bhasha sikdai chhu.",
+    "exampleEnglish": "I am learning a new language.",
+    "frequency": "high",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सुधार्नु",
+    "romanization": "sudharnu",
+    "pos": "verb",
+    "definitions": [
+      "to improve; to correct; to fix"
+    ],
+    "examples": "उहाँले आफ्नो काम सुधार्नु पर्छ।",
+    "examplesRomanized": "uhale afno kaam sudharnu parchha.",
+    "exampleEnglish": "He/She must improve his/her work.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सोच्नु",
+    "romanization": "sochnu",
+    "pos": "verb",
+    "definitions": [
+      "to think; to consider"
+    ],
+    "examples": "म आजको विषयमा सोच्दैछु।",
+    "examplesRomanized": "ma aajko bishay ma sochdai chhu.",
+    "exampleEnglish": "I am thinking about today’s topic.",
+    "frequency": "high",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सुईनु",
+    "romanization": "suinu",
+    "pos": "verb",
+    "definitions": [
+      "to sleep; to rest"
+    ],
+    "examples": "बच्चा रातभरि सुइरहेका छन्।",
+    "examplesRomanized": "bachcha raatbhari suiraheka chhan.",
+    "exampleEnglish": "The children are sleeping throughout the night.",
+    "frequency": "high",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बिर्सनु",
+    "romanization": "birsanu",
+    "pos": "verb",
+    "definitions": [
+      "to forget something"
+    ],
+    "examples": "मैले घरको चाबी बिर्सेँ।",
+    "examplesRomanized": "Maile gharko chaabi birseṅ.",
+    "exampleEnglish": "I forgot the house key.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बुझ्नु",
+    "romanization": "bujhnu",
+    "pos": "verb",
+    "definitions": [
+      "to understand, comprehend, or grasp"
+    ],
+    "examples": "कृपया मलाई यो समस्याको समाधान बुझाउनुस्।",
+    "examplesRomanized": "Kripaya malai yo samasya ko samadhan bujhawnus.",
+    "exampleEnglish": "Please explain this problem's solution to me.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बेच्छ",
+    "romanization": "bechnu",
+    "pos": "verb",
+    "definitions": [
+      "to sell something"
+    ],
+    "examples": "उ फलफूल बजारमा बेच्छ।",
+    "examplesRomanized": "U phalphool bajar ma bechchha.",
+    "exampleEnglish": "He/She sells fruits in the market.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बेच्नु",
+    "romanization": "bechnu",
+    "pos": "verb",
+    "definitions": [
+      "to sell"
+    ],
+    "examples": "म मेरो पुरानो किताब बेच्न चाहन्छु।",
+    "examplesRomanized": "ma mero purano kitab bechnu chahanchhu.",
+    "exampleEnglish": "I want to sell my old book.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बोक्नु",
+    "romanization": "boknu",
+    "pos": "verb",
+    "definitions": [
+      "to carry or transport something"
+    ],
+    "examples": "ऊ भारी झोला बोकिरहेको छ।",
+    "examplesRomanized": "u bhari jhola bokiraheko chha.",
+    "exampleEnglish": "He/She is carrying a heavy bag.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बोल्नु",
+    "romanization": "bolnu",
+    "pos": "verb",
+    "definitions": [
+      "to speak or talk"
+    ],
+    "examples": "कृपया केही बोल्नुहोस्।",
+    "examplesRomanized": "kripaya kehi bolnu hos.",
+    "exampleEnglish": "Please say something.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "बोलाएछ",
+    "romanization": "bolaechh",
+    "pos": "verb",
+    "definitions": [
+      "has called or summoned someone"
+    ],
+    "examples": "उले मलाई बोलाएछ।",
+    "examplesRomanized": "ule malai bolaechha.",
+    "exampleEnglish": "He/She has called me.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोक्नुभएनछ",
+    "romanization": "roknubhaenachh",
+    "pos": "verb",
+    "definitions": [
+      "did not manage to stop",
+      "was unable to stop"
+    ],
+    "examples": "ऊ रोक्नुभएनछ, तर घटनालाई रोक्न सकेन।",
+    "examplesRomanized": "u roknubhaenachha, tara ghatnalaai roknu sakeina.",
+    "exampleEnglish": "He/She didn’t manage to stop it.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोक्नुभएनछन्",
+    "romanization": "roknubhaenachhan",
+    "pos": "verb",
+    "definitions": [
+      "they did not manage to stop",
+      "were unable to stop"
+    ],
+    "examples": "उनीहरू रोक्नुभएनछन्, तर समस्या बढ्यो।",
+    "examplesRomanized": "uniharu roknubhaenachhan, tara samasya badhyo.",
+    "exampleEnglish": "They didn’t manage to stop it, and the problem grew.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोक्नुभएनछौँ",
+    "romanization": "roknubhaenachhaun",
+    "pos": "verb",
+    "definitions": [
+      "we did not manage to stop",
+      "we couldn’t stop it"
+    ],
+    "examples": "हामी रोक्नुभएनछौँ, तर परिणाम बिग्रियो।",
+    "examplesRomanized": "haami roknubhaenachhaun, tara parinaam bigriyo.",
+    "exampleEnglish": "We couldn’t stop it, and the outcome worsened.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "भएछ",
+    "romanization": "bhaechh",
+    "pos": "verb",
+    "definitions": [
+      "it seems to have happened"
+    ],
+    "examples": "उ पढ्न गएछ भनेका छन्।",
+    "examplesRomanized": "u padhna gaecha bhanekaa chhan.",
+    "exampleEnglish": "It seems he/she has gone to study.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "भएनछ",
+    "romanization": "bhaenachh",
+    "pos": "verb",
+    "definitions": [
+      "has not happened"
+    ],
+    "examples": "काम भएनछ।",
+    "examplesRomanized": "kaam bhaenachha.",
+    "exampleEnglish": "The work has not been done.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "भत्कनु",
+    "romanization": "bhatkanu",
+    "pos": "verb",
+    "definitions": [
+      "to break or collapse"
+    ],
+    "examples": "भवन भत्किन थालेको छ।",
+    "examplesRomanized": "bhawan bhatkin thalekochha.",
+    "exampleEnglish": "The building has started to collapse.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "भत्काउनु",
+    "romanization": "bhatkaunu",
+    "pos": "verb",
+    "definitions": [
+      "to cause something to break or destroy"
+    ],
+    "examples": "उसले पुरानो कुर्सी भत्कायो।",
+    "examplesRomanized": "usle purano kursi bhatkayo.",
+    "exampleEnglish": "He/She destroyed the old chair.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "भत्किनु",
+    "romanization": "bhatkinu",
+    "pos": "verb",
+    "definitions": [
+      "to get broken or collapse"
+    ],
+    "examples": "ग्लास भत्कियो।",
+    "examplesRomanized": "glass bhatkyo.",
+    "exampleEnglish": "The glass broke.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "भन्छ",
+    "romanization": "bhanchh",
+    "pos": "verb",
+    "definitions": [
+      "says or tells"
+    ],
+    "examples": "उ सत्य भन्छ।",
+    "examplesRomanized": "u satya bhanchha.",
+    "exampleEnglish": "He/She speaks the truth.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "भन्नु",
+    "romanization": "bhannu",
+    "pos": "verb",
+    "definitions": [
+      "to say or tell something"
+    ],
+    "examples": "मसँग के भन्नु छ।",
+    "examplesRomanized": "ma sanga ke bhannu chha.",
+    "exampleEnglish": "I have something to say.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "भन्नुभयो",
+    "romanization": "bhannubhayo",
+    "pos": "verb",
+    "definitions": [
+      "you (formal) said"
+    ],
+    "examples": "तपाईंले सही कुरा भन्नुभयो।",
+    "examplesRomanized": "tapaiṅle sahi kura bhannubhayo.",
+    "exampleEnglish": "You said the correct thing.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "भयो",
+    "romanization": "bhayo",
+    "pos": "verb",
+    "definitions": [
+      "it became, it happened"
+    ],
+    "examples": "संध्या भईयो।",
+    "examplesRomanized": "sandhya bhaiyo.",
+    "exampleEnglish": "It has become evening.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोक्नुभयो",
+    "romanization": "roknubhayo",
+    "pos": "verb",
+    "definitions": [
+      "a common Nepali word"
+    ],
+    "examples": "ऊ रोक्नुभयो गर्दैछ।",
+    "examplesRomanized": "u roknubhayo gardaichha।.",
+    "exampleEnglish": "He/She is roknubhayo-ing.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "भुक्नु",
+    "romanization": "bhuknu",
+    "pos": "verb",
+    "definitions": [
+      "to bark (dog) or crave (hunger)"
+    ],
+    "examples": "कुकुरले भुक्यो।",
+    "examplesRomanized": "kukurle bhukyo.",
+    "exampleEnglish": "The dog barked.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "भेट्छु",
+    "romanization": "bhetchhu",
+    "pos": "verb",
+    "definitions": [
+      "I meet or will meet someone"
+    ],
+    "examples": "म भोलि साथीलाई भेट्छु।",
+    "examplesRomanized": "ma bhole saathilai bhetchhu.",
+    "exampleEnglish": "I will meet my friend tomorrow.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "भेट्टाउनुभयो",
+    "romanization": "bhettaunubhayo",
+    "pos": "verb",
+    "definitions": [
+      "you (formal) found or discovered"
+    ],
+    "examples": "तपाईंले साँचो भेट्टाउनुभयो।",
+    "examplesRomanized": "tapaiṅle sancho bhettaunubhayo.",
+    "exampleEnglish": "You found the key.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "मनपर्छ",
+    "romanization": "manaparchh",
+    "pos": "verb",
+    "definitions": [
+      "to like or enjoy something"
+    ],
+    "examples": "मलाई यो गीत मनपर्छ।",
+    "examplesRomanized": "malai yo geet manaparchha.",
+    "exampleEnglish": "I like this song.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "मानिन्छ",
+    "romanization": "maninchh",
+    "pos": "verb",
+    "definitions": [
+      "is considered or believed"
+    ],
+    "examples": "यो नियम सबैले मानिन्छ।",
+    "examplesRomanized": "yo niyam sabailai maninchha.",
+    "exampleEnglish": "This rule is considered by everyone.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "मारेनछौँ",
+    "romanization": "marenachhaun",
+    "pos": "verb",
+    "definitions": [
+      "we have not killed or hurt"
+    ],
+    "examples": "हामीले कसैलाई मारेनछौँ।",
+    "examplesRomanized": "haami le kasailai marenachhaun.",
+    "exampleEnglish": "We did not hurt anyone.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "मार्नु",
+    "romanization": "marnu",
+    "pos": "verb",
+    "definitions": [
+      "to kill or strike"
+    ],
+    "examples": "उसले सर्प मार्नुभयो।",
+    "examplesRomanized": "usle sarp marnubhayo.",
+    "exampleEnglish": "He/She killed the snake.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "मिल्छ",
+    "romanization": "milchh",
+    "pos": "verb",
+    "definitions": [
+      "fits, matches, or is suitable"
+    ],
+    "examples": "यो कपडा मलाई मिल्छ।",
+    "examplesRomanized": "yo kapda malai milchha.",
+    "exampleEnglish": "This clothes fits me.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "मेटाइनु",
+    "romanization": "metainu",
+    "pos": "verb",
+    "definitions": [
+      "to be erased or deleted"
+    ],
+    "examples": "पुरानो डेटा मेटाइनु भयो।",
+    "examplesRomanized": "purano data metainu bhayo.",
+    "exampleEnglish": "The old data was deleted.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "मेटाउनु",
+    "romanization": "metaunu",
+    "pos": "verb",
+    "definitions": [
+      "to erase or remove something"
+    ],
+    "examples": "उसले गलत टिप्पणी मेटायो।",
+    "examplesRomanized": "usle galat tippani metayo.",
+    "exampleEnglish": "He/She erased the wrong comment.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "मेटिनु",
+    "romanization": "metinu",
+    "pos": "verb",
+    "definitions": [
+      "to disappear or vanish"
+    ],
+    "examples": "धुलो हावामा मेटिन लाग्यो।",
+    "examplesRomanized": "dhulo hawama metin lagyo.",
+    "exampleEnglish": "The dust started to vanish in the air.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "मेटिन्छ",
+    "romanization": "metinchh",
+    "pos": "verb",
+    "definitions": [
+      "is being erased or removed"
+    ],
+    "examples": "सन्देश स्वतः मेटिन्छ।",
+    "examplesRomanized": "sandesh swatah metinchha.",
+    "exampleEnglish": "The message is automatically deleted.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "मेट्नु",
+    "romanization": "metnu",
+    "pos": "verb",
+    "definitions": [
+      "to erase, delete, or wipe out"
+    ],
+    "examples": "म तपाईँको नाम मेट्न सक्छु।",
+    "examplesRomanized": "ma tapaiṅko naam metna sakchhu.",
+    "exampleEnglish": "I can delete your name.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रिसाउनु",
+    "romanization": "risaunu",
+    "pos": "verb",
+    "definitions": [
+      "to make someone angry or annoyed"
+    ],
+    "examples": "उसले मलाई रिसायो।",
+    "examplesRomanized": "usle malai risaayo.",
+    "exampleEnglish": "He/She made me angry.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रुन्छ",
+    "romanization": "runchh",
+    "pos": "verb",
+    "definitions": [
+      "cries or is crying"
+    ],
+    "examples": "ऊ बच्चा हरेक दिन रुन्छ।",
+    "examplesRomanized": "u bachcha harek din runchha.",
+    "exampleEnglish": "That child cries every day.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रुवाउनु",
+    "romanization": "ruwaunu",
+    "pos": "verb",
+    "definitions": [
+      "to make someone cry"
+    ],
+    "examples": "उसको कुरा सुन्दा मलाई रुवायो।",
+    "examplesRomanized": "usko kura sunda malai ruwayo.",
+    "exampleEnglish": "Hearing his/her story made me cry.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोकिदिनु",
+    "romanization": "rokidinu",
+    "pos": "verb",
+    "definitions": [
+      "to stop or prevent (for someone)"
+    ],
+    "examples": "कृपया उसको काम रोकिदिनुहोस्।",
+    "examplesRomanized": "kripaya usko kaam rokidinu hos.",
+    "exampleEnglish": "Please stop his/her work.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोकेछ",
+    "romanization": "rokechh",
+    "pos": "verb",
+    "definitions": [
+      "he/she stopped or prevented"
+    ],
+    "examples": "उसले खेल रोकिदियो।",
+    "examplesRomanized": "usle khel rokidiyo.",
+    "exampleEnglish": "He/She stopped the game.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोकेछन्",
+    "romanization": "rokechhan",
+    "pos": "verb",
+    "definitions": [
+      "they stopped or prevented"
+    ],
+    "examples": "उहाँहरुले सडकमा गाडी रोकेछन्।",
+    "examplesRomanized": "uhanharle sadakma gadi rokechhan.",
+    "exampleEnglish": "They stopped the vehicles on the road.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोकेछु",
+    "romanization": "rokechhu",
+    "pos": "verb",
+    "definitions": [
+      "I stopped or prevented"
+    ],
+    "examples": "मैले उसको गल्ती रोकें।",
+    "examplesRomanized": "maile usko galti roken.",
+    "exampleEnglish": "I stopped his/her mistake.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोकेछौँ",
+    "romanization": "rokechhaun",
+    "pos": "verb",
+    "definitions": [
+      "we stopped or prevented"
+    ],
+    "examples": "हामीले खेल रोक्यौं।",
+    "examplesRomanized": "haamile khel rokeyaun.",
+    "exampleEnglish": "We stopped the game.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोकेनछ",
+    "romanization": "rokenachh",
+    "pos": "verb",
+    "definitions": [
+      "he/she did not stop or prevent"
+    ],
+    "examples": "उसले कुनै पनि गल्ती रोक्न सकेन।",
+    "examplesRomanized": "usle kunai pani galti rokn sakein.",
+    "exampleEnglish": "He/She couldn’t prevent any mistakes.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोकेनछन्",
+    "romanization": "rokenachhan",
+    "pos": "verb",
+    "definitions": [
+      "they did not stop or prevent"
+    ],
+    "examples": "उहाँहरुले गल्ती रोक्न सकेनन्।",
+    "examplesRomanized": "uhanharle galti rokn sakenan.",
+    "exampleEnglish": "They couldn’t prevent the mistake.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोकेनछु",
+    "romanization": "rokenachhu",
+    "pos": "verb",
+    "definitions": [
+      "I did not stop or prevent"
+    ],
+    "examples": "मैले गल्ती रोक्न सकेन।",
+    "examplesRomanized": "maile galti rokn sakein.",
+    "exampleEnglish": "I couldn’t prevent the mistake.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोकेनछौँ",
+    "romanization": "rokenachhaun",
+    "pos": "verb",
+    "definitions": [
+      "we did not stop or prevent"
+    ],
+    "examples": "हामीले खेल रोक्न सकेनौं।",
+    "examplesRomanized": "haamile khel rokn sakenau.",
+    "exampleEnglish": "We couldn’t stop the game.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोक्छ",
+    "romanization": "rokchh",
+    "pos": "verb",
+    "definitions": [
+      "stops or prevents"
+    ],
+    "examples": "ऊ आवाज रोक्छ।",
+    "examplesRomanized": "u aawaz rokchha.",
+    "exampleEnglish": "He/She stops the noise.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोक्छन्",
+    "romanization": "rokchhan",
+    "pos": "verb",
+    "definitions": [
+      "they stop or prevent"
+    ],
+    "examples": "उहाँहरु सडकमा गाडी रोक्छन्।",
+    "examplesRomanized": "uhanharu sadakma gadi rokchhan.",
+    "exampleEnglish": "They stop the vehicles on the road.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोक्छु",
+    "romanization": "rokchhu",
+    "pos": "verb",
+    "definitions": [
+      "I stop or prevent"
+    ],
+    "examples": "मैले खेल रोक्छु।",
+    "examplesRomanized": "maile khel rokchhu.",
+    "exampleEnglish": "I stop the game.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोक्छौँ",
+    "romanization": "rokchhaun",
+    "pos": "verb",
+    "definitions": [
+      "we stop or prevent"
+    ],
+    "examples": "हामीले खेल रोक्छौँ।",
+    "examplesRomanized": "haami le khel rokchhaun.",
+    "exampleEnglish": "We stop the game.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोक्दैगर्नु",
+    "romanization": "rokdaigarnu",
+    "pos": "verb",
+    "definitions": [
+      "to take action to stop something"
+    ],
+    "examples": "उहाँले विवाद रोक्दैगर्नुभयो।",
+    "examplesRomanized": "uhanle vivaad rokdaigarnubhayo.",
+    "exampleEnglish": "He/She took action to stop the argument.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोक्नसक्नु",
+    "romanization": "roknasaknu",
+    "pos": "verb",
+    "definitions": [
+      "to be able to stop or prevent"
+    ],
+    "examples": "तपाईंले गाडी रोक्नसक्नुहुन्छ।",
+    "examplesRomanized": "tapaiṅle gadi roknasaknuhunchha.",
+    "exampleEnglish": "You can stop the car.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोक्नु",
+    "romanization": "roknu",
+    "pos": "verb",
+    "definitions": [
+      "to stop or hold back"
+    ],
+    "examples": "उसले आफ्नो रुन रोक्नुभयो।",
+    "examplesRomanized": "usle aafno run rokhnubhayo.",
+    "exampleEnglish": "He/She stopped himself/herself from crying.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोक्नुभएछ",
+    "romanization": "roknubhaechh",
+    "pos": "verb",
+    "definitions": [
+      "he/she managed to stop or prevent"
+    ],
+    "examples": "उसले दुर्घटना रोक्नुभएछ।",
+    "examplesRomanized": "usle durghatna roknubhaechha.",
+    "exampleEnglish": "He/She managed to prevent the accident.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोक्नुहुनेछ",
+    "romanization": "roknuhunechh",
+    "pos": "verb",
+    "definitions": [
+      "he/she/they will stop",
+      "to halt or prevent something in the future"
+    ],
+    "examples": "उहाँले बत्ती रोक्नुहुनेछ।",
+    "examplesRomanized": "uhanle batti roknuhunechha.",
+    "exampleEnglish": "He/She will stop the light.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोक्नुहुन्छ",
+    "romanization": "roknuhunchh",
+    "pos": "verb",
+    "definitions": [
+      "he/she stops",
+      "to prevent or halt something regularly"
+    ],
+    "examples": "उहाँले समयमै रोक्नुहुन्छ।",
+    "examplesRomanized": "uhanle samaymai roknuhunchha.",
+    "exampleEnglish": "He/She stops it on time.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोक्नेछ",
+    "romanization": "roknechh",
+    "pos": "verb",
+    "definitions": [
+      "he/she will stop",
+      "intend to halt something"
+    ],
+    "examples": "ऊ अर्को दिन यात्रा रोक्नेछ।",
+    "examplesRomanized": "u arko din yatra roknechha.",
+    "exampleEnglish": "He/She will stop the trip tomorrow.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोक्नेछन्",
+    "romanization": "roknechhan",
+    "pos": "verb",
+    "definitions": [
+      "they will stop",
+      "intend to halt something in future"
+    ],
+    "examples": "उनीहरू पार्किङ रोक्नेछन्।",
+    "examplesRomanized": "uniharu parking roknechhan.",
+    "exampleEnglish": "They will stop parking.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोक्नेछु",
+    "romanization": "roknechhu",
+    "pos": "verb",
+    "definitions": [
+      "I will stop",
+      "intend to halt something"
+    ],
+    "examples": "म आजको खेल रोक्नेछु।",
+    "examplesRomanized": "ma aajko khel roknechhu.",
+    "exampleEnglish": "I will stop today’s game.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोक्नेछौँ",
+    "romanization": "roknechhaun",
+    "pos": "verb",
+    "definitions": [
+      "we will stop",
+      "intend to halt something in future"
+    ],
+    "examples": "हामी यातायात रोक्नेछौँ।",
+    "examplesRomanized": "haami yatayat roknechhaun.",
+    "exampleEnglish": "We will stop the traffic.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "रोक्नेपाउनु",
+    "romanization": "roknepaunu",
+    "pos": "verb",
+    "definitions": [
+      "to be able to stop",
+      "have the capability to halt something"
+    ],
+    "examples": "उहाँले पानी रोक्नेपाउनु भयो।",
+    "examplesRomanized": "uhanle pani roknepaunu bhayo.",
+    "exampleEnglish": "He/She was able to stop the water.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लगाउनु",
+    "romanization": "lagaunu",
+    "pos": "verb",
+    "definitions": [
+      "to apply",
+      "to attach or put on something"
+    ],
+    "examples": "उसले कालो टोपी लगाउनु भयो।",
+    "examplesRomanized": "usle kaalo topi lagaunu bhayo.",
+    "exampleEnglish": "He/She put on a black cap.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लग्नु",
+    "romanization": "lagnu",
+    "pos": "verb",
+    "definitions": [
+      "to feel",
+      "to appear, to stick or seem"
+    ],
+    "examples": "यो लुगा मलाई ठीकसँग लाग्दैन।",
+    "examplesRomanized": "yo luga malai thik sanga lagnu.",
+    "exampleEnglish": "These clothes don’t feel right to me.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लड्नु",
+    "romanization": "ladnu",
+    "pos": "verb",
+    "definitions": [
+      "to fight",
+      "to struggle in battle or conflict"
+    ],
+    "examples": "सैनिकले वीरतापूर्वक लड्नु।",
+    "examplesRomanized": "sainikle veertapoorvak ladnu.",
+    "exampleEnglish": "The soldier fought bravely.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लड्नुभयो",
+    "romanization": "ladnubhayo",
+    "pos": "verb",
+    "definitions": [
+      "he/she fought",
+      "participated in a fight"
+    ],
+    "examples": "उहाँले शत्रुका विरुद्ध लड्नुभयो।",
+    "examplesRomanized": "uhanle shatruka biruddha ladnubhayo.",
+    "exampleEnglish": "He/She fought against the enemy.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लाउनु",
+    "romanization": "launu",
+    "pos": "verb",
+    "definitions": [
+      "to bring",
+      "to carry something to a place"
+    ],
+    "examples": "ऊ किताब ल्याउनु गर्दैछ।",
+    "examplesRomanized": "u kitaab launu gardaichha.",
+    "exampleEnglish": "He/She is bringing the book.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लाग्छ",
+    "romanization": "lagchh",
+    "pos": "verb",
+    "definitions": [
+      "to seem",
+      "to feel like"
+    ],
+    "examples": "यो काम सजिलो लाग्छ।",
+    "examplesRomanized": "yo kaam sajilo lagchha.",
+    "exampleEnglish": "This task seems easy.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लाग्नु",
+    "romanization": "lagnu",
+    "pos": "verb",
+    "definitions": [
+      "to feel",
+      "to be affected by a sensation or impression"
+    ],
+    "examples": "मलाई दुख्छ लाग्छ।",
+    "examplesRomanized": "malai dukchha lagnu.",
+    "exampleEnglish": "I feel pain.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लानु",
+    "romanization": "lanu",
+    "pos": "verb",
+    "definitions": [
+      "to take",
+      "to carry or transport something from one place to another"
+    ],
+    "examples": "उसले खाना लैजानु भयो।",
+    "examplesRomanized": "usle khana laijanu bhayo.",
+    "exampleEnglish": "He/She took the food.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लिनु",
+    "romanization": "linu",
+    "pos": "verb",
+    "definitions": [
+      "to receive",
+      "to take something from someone"
+    ],
+    "examples": "मले किताब लिनु।",
+    "examplesRomanized": "male kitaab linu.",
+    "exampleEnglish": "I am taking the book.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लिन्छ",
+    "romanization": "linchh",
+    "pos": "verb",
+    "definitions": [
+      "he/she takes",
+      "to accept or take something"
+    ],
+    "examples": "ऊ पैसा लिन्छ।",
+    "examplesRomanized": "u paisa linchha.",
+    "exampleEnglish": "He/She takes the money.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लुकाउनु",
+    "romanization": "lukaunu",
+    "pos": "verb",
+    "definitions": [
+      "to hide",
+      "to conceal something"
+    ],
+    "examples": "उसले सत्य लुकाउनु भयो।",
+    "examplesRomanized": "usle satya lukaunu bhayo.",
+    "exampleEnglish": "He/She hid the truth.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लुक्नु",
+    "romanization": "luknu",
+    "pos": "verb",
+    "definitions": [
+      "to hide oneself",
+      "to avoid being seen"
+    ],
+    "examples": "ऊ कोठामा लुक्दैछ।",
+    "examplesRomanized": "u kothama lukdaichha.",
+    "exampleEnglish": "He/She is hiding in the room.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लेखाइन्छ",
+    "romanization": "lekhainchh",
+    "pos": "verb",
+    "definitions": [
+      "is written",
+      "something is being written or documented"
+    ],
+    "examples": "कथा यहाँ लेखाइन्छ।",
+    "examplesRomanized": "katha yaha lekhainchha.",
+    "exampleEnglish": "The story is written here.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लेखाउँछ",
+    "romanization": "lekhaunychh",
+    "pos": "verb",
+    "definitions": [
+      "he/she makes someone write",
+      "causes to write"
+    ],
+    "examples": "अध्यापकले विद्यार्थीलाई लेखाउँछ।",
+    "examplesRomanized": "adhyapakle vidyarthilai lekhaunychha.",
+    "exampleEnglish": "The teacher makes the student write.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लेखाउनु",
+    "romanization": "lekhaunu",
+    "pos": "verb",
+    "definitions": [
+      "to have someone write",
+      "to get something written"
+    ],
+    "examples": "उसले पत्र लेखाउनु भयो।",
+    "examplesRomanized": "usle patra lekhaunu bhayo.",
+    "exampleEnglish": "He/She got the letter written.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लेखिन्छ",
+    "romanization": "lekhinchh",
+    "pos": "verb",
+    "definitions": [
+      "is being written",
+      "something is written passively"
+    ],
+    "examples": "कविता दैनिकमा लेखिन्छ।",
+    "examplesRomanized": "kavita dainikma lekhinchha.",
+    "exampleEnglish": "The poem is written in the daily newspaper.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लेखिहाल्नु",
+    "romanization": "lekhihalnu",
+    "pos": "verb",
+    "definitions": [
+      "to quickly write something down",
+      "to jot something immediately"
+    ],
+    "examples": "उसले नाम लेखिहाल्नु भयो।",
+    "examplesRomanized": "usle naam lekhihalnu bhayo.",
+    "exampleEnglish": "He/She quickly wrote down the name.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लेख्छ",
+    "romanization": "lekhchh",
+    "pos": "verb",
+    "definitions": [
+      "he/she writes",
+      "to compose or write actively"
+    ],
+    "examples": "ऊ कथा लेख्छ।",
+    "examplesRomanized": "u katha lekhchha.",
+    "exampleEnglish": "He/She writes a story.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लेख्छु",
+    "romanization": "lekhchhu",
+    "pos": "verb",
+    "definitions": [
+      "I write",
+      "first-person singular present tense of writing"
+    ],
+    "examples": "म पत्र लेख्छु।",
+    "examplesRomanized": "ma patra lekhchhu.",
+    "exampleEnglish": "I write a letter.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लेख्नु",
+    "romanization": "lekhnu",
+    "pos": "verb",
+    "definitions": [
+      "to write",
+      "general verb for writing"
+    ],
+    "examples": "म कागजमा लेख्नु चाहन्छु।",
+    "examplesRomanized": "ma kagajma lekhnu chahanchhu.",
+    "exampleEnglish": "I want to write on the paper.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "लेख्नेछु",
+    "romanization": "lekhnechhu",
+    "pos": "verb",
+    "definitions": [
+      "I will write",
+      "future tense first-person singular of writing"
+    ],
+    "examples": "म भोलि पत्र लेख्नेछु।",
+    "examplesRomanized": "ma bholi patra lekhnechhu.",
+    "exampleEnglish": "I will write a letter tomorrow.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सकाइहाल्नु",
+    "romanization": "sakaihalnu",
+    "pos": "verb",
+    "definitions": [
+      "to complete something quickly",
+      "to manage to finish immediately"
+    ],
+    "examples": "उसले काम सकाइहाल्नु भयो।",
+    "examplesRomanized": "usle kaam sakaihalnu bhayo.",
+    "exampleEnglish": "He/She quickly completed the work.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सकाउनु",
+    "romanization": "sakaunu",
+    "pos": "verb",
+    "definitions": [
+      "to be able to do",
+      "to manage to accomplish something"
+    ],
+    "examples": "उहाँले काम सकाउनु भयो।",
+    "examplesRomanized": "uhale kaam sakaunu bhayo.",
+    "exampleEnglish": "He/She managed to complete the work.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सकिनु",
+    "romanization": "sakinu",
+    "pos": "verb",
+    "definitions": [
+      "to be possible",
+      "can be done"
+    ],
+    "examples": "यो काम सकिन सक्छ।",
+    "examplesRomanized": "yo kaam sakin sakchha.",
+    "exampleEnglish": "This work can be done.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सक्छौँ",
+    "romanization": "sakchhaun",
+    "pos": "verb",
+    "definitions": [
+      "we can",
+      "first-person plural of 'can'"
+    ],
+    "examples": "हामी यो काम सक्छौँ।",
+    "examplesRomanized": "haami yo kaam sakchhaun.",
+    "exampleEnglish": "We can do this work.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सक्नु",
+    "romanization": "saknu",
+    "pos": "verb",
+    "definitions": [
+      "to be able to do",
+      "can perform an action"
+    ],
+    "examples": "म यो गर्न सक्नु।",
+    "examplesRomanized": "ma yo garn saknu.",
+    "exampleEnglish": "I can do this.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "समाउनु",
+    "romanization": "samaunu",
+    "pos": "verb",
+    "definitions": [
+      "to hold together",
+      "to gather or collect"
+    ],
+    "examples": "उसले किताबहरू समाउनु भयो।",
+    "examplesRomanized": "usle kitabhru samaunu bhayo.",
+    "exampleEnglish": "He/She gathered the books.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "समात्नु",
+    "romanization": "samatnu",
+    "pos": "verb",
+    "definitions": [
+      "to catch",
+      "to seize hold of something"
+    ],
+    "examples": "उसले बल समात्नु भयो।",
+    "examplesRomanized": "usle bal samatnu bhayo.",
+    "exampleEnglish": "He/She caught the ball.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सम्झनु",
+    "romanization": "samjhanu",
+    "pos": "verb",
+    "definitions": [
+      "to remind",
+      "to make someone remember"
+    ],
+    "examples": "उसले मलाई भेट्न सम्झनु भयो।",
+    "examplesRomanized": "usle malai bhetn samjhanu bhayo.",
+    "exampleEnglish": "He/She reminded me to meet.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सम्झिनु",
+    "romanization": "samjhinu",
+    "pos": "verb",
+    "definitions": [
+      "to remember",
+      "to recall something"
+    ],
+    "examples": "म आफ्नो बाल्यकाल सम्झिनु।",
+    "examplesRomanized": "ma aafno baalyakaal samjhinu.",
+    "exampleEnglish": "I remember my childhood.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सरिदिनु",
+    "romanization": "saridinu",
+    "pos": "verb",
+    "definitions": [
+      "to move something for someone",
+      "to shift or transfer"
+    ],
+    "examples": "उसले कुर्सी सरिदिनु भयो।",
+    "examplesRomanized": "usle kursi saridinu bhayo.",
+    "exampleEnglish": "He/She moved the chair.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सल्कनु",
+    "romanization": "salkanu",
+    "pos": "verb",
+    "definitions": [
+      "to slide",
+      "to slip or glide"
+    ],
+    "examples": "बालक पातमा सल्कनु भयो।",
+    "examplesRomanized": "baalak paatma salkanu bhayo.",
+    "exampleEnglish": "The child slipped on the leaf.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सल्किनु",
+    "romanization": "salkinu",
+    "pos": "verb",
+    "definitions": [
+      "to be able to slide",
+      "to slip"
+    ],
+    "examples": "यो चप्पल सल्किन सक्छ।",
+    "examplesRomanized": "yo chappal salkinu sakchha.",
+    "exampleEnglish": "This slipper can slip.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सहनु",
+    "romanization": "sahanu",
+    "pos": "verb",
+    "definitions": [
+      "to endure",
+      "to tolerate"
+    ],
+    "examples": "उहाँले पीडा सहनु भयो।",
+    "examplesRomanized": "uhale peeda sahanu bhayo.",
+    "exampleEnglish": "He/She endured the pain.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सार्नु",
+    "romanization": "sarnu",
+    "pos": "verb",
+    "definitions": [
+      "to move",
+      "to transfer from one place to another"
+    ],
+    "examples": "उसले बक्स सार्नु भयो।",
+    "examplesRomanized": "usle baks sarnu bhayo.",
+    "exampleEnglish": "He/She moved the box.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सिउनु",
+    "romanization": "siunu",
+    "pos": "verb",
+    "definitions": [
+      "to sew"
+    ],
+    "examples": "उनले लुगा सिउनु भयो।",
+    "examplesRomanized": "unle luga siunu bhayo.",
+    "exampleEnglish": "He/She sewed the clothes.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सिकाउनु",
+    "romanization": "sikaunu",
+    "pos": "verb",
+    "definitions": [
+      "to teach",
+      "to instruct someone"
+    ],
+    "examples": "उसले मलाई गीत सिकाउनु भयो।",
+    "examplesRomanized": "usle malai geet sikaunu bhayo.",
+    "exampleEnglish": "He/She taught me a song.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सिक्नुपर्छ",
+    "romanization": "siknuparchh",
+    "pos": "verb",
+    "definitions": [
+      "must learn",
+      "required to learn"
+    ],
+    "examples": "हामीलाई नयाँ नियम सिक्नुपर्छ।",
+    "examplesRomanized": "haamilaai naya niyam siknuparchh.",
+    "exampleEnglish": "We must learn the new rules.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सुक्नु",
+    "romanization": "suknu",
+    "pos": "verb",
+    "definitions": [
+      "to dry",
+      "to become dry"
+    ],
+    "examples": "कपडा सुक्नु भयो।",
+    "examplesRomanized": "kapada suknu bhayo.",
+    "exampleEnglish": "The clothes dried.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सुत्छ",
+    "romanization": "sutchh",
+    "pos": "verb",
+    "definitions": [
+      "sleeps"
+    ],
+    "examples": "बच्चा सुत्छ।",
+    "examplesRomanized": "bachcha sutchh.",
+    "exampleEnglish": "The child sleeps.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सुत्छु",
+    "romanization": "sutchhu",
+    "pos": "verb",
+    "definitions": [
+      "I sleep"
+    ],
+    "examples": "म सुत्छु।",
+    "examplesRomanized": "ma sutchhu.",
+    "exampleEnglish": "I sleep.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सुत्नु",
+    "romanization": "sutnu",
+    "pos": "verb",
+    "definitions": [
+      "to sleep"
+    ],
+    "examples": "तँ राति चाँडै सुत्नु।",
+    "examplesRomanized": "ta rati chadai sutnu.",
+    "exampleEnglish": "You should sleep early at night.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सुत्नेछु",
+    "romanization": "sutnechhu",
+    "pos": "verb",
+    "definitions": [
+      "I will sleep"
+    ],
+    "examples": "आज म सुत्नेछु।",
+    "examplesRomanized": "aaj ma sutnechhu.",
+    "exampleEnglish": "I will sleep today.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सुत्नेछौँ",
+    "romanization": "sutnechhaun",
+    "pos": "verb",
+    "definitions": [
+      "we will sleep"
+    ],
+    "examples": "हामी सुत्नेछौँ।",
+    "examplesRomanized": "haami sutnechhaun.",
+    "exampleEnglish": "We will sleep.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सुनाउनु",
+    "romanization": "sunaunu",
+    "pos": "verb",
+    "definitions": [
+      "to tell",
+      "to narrate"
+    ],
+    "examples": "उसले कथा सुनाउनु भयो।",
+    "examplesRomanized": "usle katha sunaunu bhayo.",
+    "exampleEnglish": "He/She told a story.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सुन्नु",
+    "romanization": "sunnu",
+    "pos": "verb",
+    "definitions": [
+      "to listen",
+      "to hear"
+    ],
+    "examples": "म संगीत सुन्नु।",
+    "examplesRomanized": "ma sangeet sunnu.",
+    "exampleEnglish": "I listen to music.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सोध्नु",
+    "romanization": "sodhnu",
+    "pos": "verb",
+    "definitions": [
+      "to ask",
+      "to inquire"
+    ],
+    "examples": "तँ शिक्षकलाई प्रश्न सोध्नु।",
+    "examplesRomanized": "ta shikshaklai prashna sodhnu.",
+    "exampleEnglish": "You should ask the teacher a question.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हँसाउनु",
+    "romanization": "hansaunu",
+    "pos": "verb",
+    "definitions": [
+      "to make laugh",
+      "to amuse"
+    ],
+    "examples": "उसले साथीलाई हँसाउनु भयो।",
+    "examplesRomanized": "usle saathilai hansaunu bhayo.",
+    "exampleEnglish": "He/She made the friend laugh.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हराउनु",
+    "romanization": "haraunu",
+    "pos": "verb",
+    "definitions": [
+      "to lose",
+      "to misplace something"
+    ],
+    "examples": "मैले आफ्नो चाबी हराउनु भयो।",
+    "examplesRomanized": "maile aafno chaabi haraunu bhayo.",
+    "exampleEnglish": "I lost my key.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हाँक्छ",
+    "romanization": "hangkchh",
+    "pos": "verb",
+    "definitions": [
+      "to drive (a vehicle)",
+      "to steer"
+    ],
+    "examples": "उसले कार हाँक्छ।",
+    "examplesRomanized": "usle kaar hangkchh.",
+    "exampleEnglish": "He/She drives the car.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हाँस्नु",
+    "romanization": "hansnu",
+    "pos": "verb",
+    "definitions": [
+      "to laugh"
+    ],
+    "examples": "बच्चा रमाईलो देखेर हाँस्नु।",
+    "examplesRomanized": "bachcha ramailo dekhera hansnu.",
+    "exampleEnglish": "The child laughed seeing the fun.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हान्नु",
+    "romanization": "hannu",
+    "pos": "verb",
+    "definitions": [
+      "to hit",
+      "to strike"
+    ],
+    "examples": "उसले बल हान्नु भयो।",
+    "examplesRomanized": "usle bal hannu bhayo.",
+    "exampleEnglish": "He/She hit the ball.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हार्नु",
+    "romanization": "harnu",
+    "pos": "verb",
+    "definitions": [
+      "to lose (a game or contest)"
+    ],
+    "examples": "उनले खेल हार्नु भयो।",
+    "examplesRomanized": "unle khel harnu bhayo.",
+    "exampleEnglish": "He/She lost the game.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हालिदिनु",
+    "romanization": "halidinu",
+    "pos": "verb",
+    "definitions": [
+      "to put in for someone",
+      "to place"
+    ],
+    "examples": "उसले किताब हालिदिनु भयो।",
+    "examplesRomanized": "usle kitaab halidinu bhayo.",
+    "exampleEnglish": "He/She put the book in.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हाल्दिनु",
+    "romanization": "haldinu",
+    "pos": "verb",
+    "definitions": [
+      "not to put in",
+      "to refrain from placing"
+    ],
+    "examples": "तँ दिमागमा कुरा हाल्दिनु।",
+    "examplesRomanized": "ta dimagma kura haldinu.",
+    "exampleEnglish": "You did not consider the idea.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हाल्नु",
+    "romanization": "halnu",
+    "pos": "verb",
+    "definitions": [
+      "to put",
+      "to place"
+    ],
+    "examples": "उसले पानी हाल्नु भयो।",
+    "examplesRomanized": "usle paani halnu bhayo.",
+    "exampleEnglish": "He/She poured the water.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हिँडाउनु",
+    "romanization": "hindaunu",
+    "pos": "verb",
+    "definitions": [
+      "to lead",
+      "to guide someone"
+    ],
+    "examples": "उहाँले टोली हिँडाउनु भयो।",
+    "examplesRomanized": "uhale toli hindaunu bhayo.",
+    "exampleEnglish": "He/She guided the team.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हिँड्छ",
+    "romanization": "hindchh",
+    "pos": "verb",
+    "definitions": [
+      "walks"
+    ],
+    "examples": "ऊ हिँड्छ।",
+    "examplesRomanized": "u hindchh.",
+    "exampleEnglish": "He/She walks.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हिँड्छु",
+    "romanization": "hindchhu",
+    "pos": "verb",
+    "definitions": [
+      "I walk"
+    ],
+    "examples": "म हिँड्छु।",
+    "examplesRomanized": "ma hindchhu.",
+    "exampleEnglish": "I walk.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हिँड्नु",
+    "romanization": "hindnu",
+    "pos": "verb",
+    "definitions": [
+      "to walk"
+    ],
+    "examples": "तँ बगैँचामा हिँड्नु।",
+    "examplesRomanized": "ta bagainchama hindnu.",
+    "exampleEnglish": "You walk in the garden.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हिंड्नु",
+    "romanization": "hindnu",
+    "pos": "verb",
+    "definitions": [
+      "to walk (alternate spelling)"
+    ],
+    "examples": "हामी साँझ हिंड्नु।",
+    "examplesRomanized": "haami saanjh hindnu.",
+    "exampleEnglish": "We walk in the evening.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हिड्ँछ",
+    "romanization": "hidnychh",
+    "pos": "verb",
+    "definitions": [
+      "to walk"
+    ],
+    "examples": "ऊ हिड्ँछ।",
+    "examplesRomanized": "u hidnychh.",
+    "exampleEnglish": "He/She walks.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हुँदैछ",
+    "romanization": "hundaichh",
+    "pos": "verb",
+    "definitions": [
+      "is happening",
+      "is occurring"
+    ],
+    "examples": "काम हुँदैछ।",
+    "examplesRomanized": "kaam hundaichh.",
+    "exampleEnglish": "The work is happening.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हुनुभयो",
+    "romanization": "hunubhayo",
+    "pos": "verb",
+    "definitions": [
+      "happened",
+      "occurred (honorific)"
+    ],
+    "examples": "कार्यक्रम सफल भयो।",
+    "examplesRomanized": "karyakram safal bhayo.",
+    "exampleEnglish": "The event was successful.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हुनुहुँदैछ",
+    "romanization": "hunuhundaichh",
+    "pos": "verb",
+    "definitions": [
+      "is about to happen"
+    ],
+    "examples": "बैठक हुनुहुँदैछ।",
+    "examplesRomanized": "baithak hunuhundaichh.",
+    "exampleEnglish": "The meeting is about to happen.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हुनुहुनेछ",
+    "romanization": "hunuhunechh",
+    "pos": "verb",
+    "definitions": [
+      "will happen (honorific)"
+    ],
+    "examples": "उहाँको भ्रमण भोलि हुनुहुनेछ।",
+    "examplesRomanized": "uhanko bhraman bholi hunuhunechh.",
+    "exampleEnglish": "His/Her visit will happen tomorrow.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हुनुहुन्छ",
+    "romanization": "hunuhunchh",
+    "pos": "verb",
+    "definitions": [
+      "is/are (honorific)"
+    ],
+    "examples": "उहाँ यहाँ हुनुहुन्छ।",
+    "examplesRomanized": "uhā̃ yaha hunuhunchh.",
+    "exampleEnglish": "He/She is here.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हुनेछु",
+    "romanization": "hunechhu",
+    "pos": "verb",
+    "definitions": [
+      "I will be",
+      "I will happen"
+    ],
+    "examples": "म भोलि उपस्थित हुनेछु।",
+    "examplesRomanized": "ma bholi upasthit hunechhu.",
+    "exampleEnglish": "I will be present tomorrow.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हुनेछौँ",
+    "romanization": "hunechhaun",
+    "pos": "verb",
+    "definitions": [
+      "we will be",
+      "we will happen"
+    ],
+    "examples": "हामी भोलि त्यहाँ हुनेछौँ।",
+    "examplesRomanized": "haami bholi tyahā̃ hunechhaun.",
+    "exampleEnglish": "We will be there tomorrow.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हुन्छन्",
+    "romanization": "hunchhan",
+    "pos": "verb",
+    "definitions": [
+      "they are (honorific)"
+    ],
+    "examples": "उहाँहरू विद्यालयमा हुनुहुन्छन्।",
+    "examplesRomanized": "uhā̃haru vidyālaya mā hunchhan.",
+    "exampleEnglish": "They are at school.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हुन्छु",
+    "romanization": "hunchhu",
+    "pos": "verb",
+    "definitions": [
+      "I am"
+    ],
+    "examples": "म यहाँ छु।",
+    "examplesRomanized": "ma yaha chhu.",
+    "exampleEnglish": "I am here.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हुन्छौँ",
+    "romanization": "hunchhaun",
+    "pos": "verb",
+    "definitions": [
+      "we are"
+    ],
+    "examples": "हामी तयार छौँ।",
+    "examplesRomanized": "haami tayār chhaun.",
+    "exampleEnglish": "We are ready.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हेराइनु",
+    "romanization": "herainu",
+    "pos": "verb",
+    "definitions": [
+      "to be seen",
+      "to be looked at"
+    ],
+    "examples": "यो चित्र राम्रोसँग हेराइनु।",
+    "examplesRomanized": "yo chitra ramro sanga herainu.",
+    "exampleEnglish": "This picture should be looked at carefully.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "हेर्नु",
+    "romanization": "hernu",
+    "pos": "verb",
+    "definitions": [
+      "to see",
+      "to look at"
+    ],
+    "examples": "तँ त्यो फिल्म हेर्नु।",
+    "examplesRomanized": "ta tyo film hernu.",
+    "exampleEnglish": "You should watch that movie.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "चल्नु",
+    "romanization": "chalnu",
+    "pos": "verb",
+    "definitions": [
+      "to move",
+      "to operate"
+    ],
+    "examples": "कार चल्नु।",
+    "examplesRomanized": "kaar chalnu.",
+    "exampleEnglish": "The car moves.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "कुद्नु",
+    "romanization": "kudnu",
+    "pos": "verb",
+    "definitions": [
+      "to run"
+    ],
+    "examples": "ऊ खेल मैदानमा कुद्नु।",
+    "examplesRomanized": "u khel maidanma kudnu.",
+    "exampleEnglish": "He/She runs in the playground.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "चढ्नु",
+    "romanization": "chadhnu",
+    "pos": "verb",
+    "definitions": [
+      "to climb",
+      "to get on (a vehicle)"
+    ],
+    "examples": "ऊ बसमा चढ्नु।",
+    "examplesRomanized": "u basma chadhnu.",
+    "exampleEnglish": "He/She gets on the bus.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "ओहोरदोहोर गर्नु",
+    "romanization": "ohoradohora garnu",
+    "pos": "verb",
+    "definitions": [
+      "to repeat",
+      "to go back and forth"
+    ],
+    "examples": "ऊ ओहोरदोहोर गर्नु।",
+    "examplesRomanized": "u ohoradohora garnu.",
+    "exampleEnglish": "He/She repeats it.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "मिलाउनु",
+    "romanization": "milaunu",
+    "pos": "verb",
+    "definitions": [
+      "to match",
+      "to unite",
+      "to adjust"
+    ],
+    "examples": "रंग मिलाउनु।",
+    "examplesRomanized": "rang milaunu.",
+    "exampleEnglish": "Match the colors.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "तोड्नु",
+    "romanization": "todnu",
+    "pos": "verb",
+    "definitions": [
+      "to break"
+    ],
+    "examples": "ऊ सिसा तोड्नु।",
+    "examplesRomanized": "u sisa todnu.",
+    "exampleEnglish": "He/She breaks the glass.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "जोड्नु",
+    "romanization": "jodnu",
+    "pos": "verb",
+    "definitions": [
+      "to join",
+      "to connect"
+    ],
+    "examples": "टुक्रा जोड्नु।",
+    "examplesRomanized": "tukra jodnu.",
+    "exampleEnglish": "Join the pieces.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "सम्झौता गर्नु",
+    "romanization": "samjhauta garnu",
+    "pos": "verb",
+    "definitions": [
+      "to make a compromise",
+      "to agree"
+    ],
+    "examples": "दुवै पक्षले सम्झौता गर्नु।",
+    "examplesRomanized": "duvai pakshle samjhauta garnu.",
+    "exampleEnglish": "Both parties make a compromise.",
+    "frequency": "medium",
+    "category": "verbs"
+  },
+  {
+    "DevanagriWord": "गर्दैन",
+    "romanization": "gardain",
+    "pos": "verb",
+    "definitions": [
+      "does not do"
+    ],
+    "examples": "ऊ काम गर्दैन।",
+    "examplesRomanized": "u kaam gardain.",
+    "exampleEnglish": "He/She does not work.",
+    "frequency": "medium",
+    "category": "verbs"
+  }
+]

@@ -1,0 +1,977 @@
+[
+  {
+    "DevanagriWord": "अथवा",
+    "romanization": "athawa",
+    "pos": "conjunction",
+    "definitions": [
+      "or (formal)"
+    ],
+    "examples": "तिमी कफी अथवा चिया खाने?",
+    "examplesRomanized": "timi kafi athawa chiya khane?",
+    "exampleEnglish": "Will you have coffee or tea?",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "तथा",
+    "romanization": "tatha",
+    "pos": "conjunction",
+    "definitions": [
+      "and; as well as (formal)"
+    ],
+    "examples": "विद्या तथा खेल दुवैमा उनी राम्रो छ।",
+    "examplesRomanized": "vidya tatha khel duvema uni ramro chha.",
+    "exampleEnglish": "He is good in both studies and sports.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "तर",
+    "romanization": "tara",
+    "pos": "conjunction",
+    "definitions": [
+      "but; however"
+    ],
+    "examples": "म जान चाहन्थें, तर समय भएन।",
+    "examplesRomanized": "ma jan chahanthe, tara samaya bhaena.",
+    "exampleEnglish": "I wanted to go, but I didn't have time.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "यदि",
+    "romanization": "yadi",
+    "pos": "conjunction",
+    "definitions": [
+      "if (formal)"
+    ],
+    "examples": "यदि पानी पर्‍यो भने खेल स्थगित हुन्छ।",
+    "examplesRomanized": "yadi pani paryo bhane khel sthagit hunchha.",
+    "exampleEnglish": "If it rains, the match will be postponed.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "वा",
+    "romanization": "wa",
+    "pos": "conjunction",
+    "definitions": [
+      "or"
+    ],
+    "examples": "तिमी वा म मध्ये को जाने?",
+    "examplesRomanized": "timi wa ma madhye ko jane?",
+    "exampleEnglish": "Who will go, you or me?",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "र",
+    "romanization": "ra",
+    "pos": "conjunction",
+    "definitions": [
+      "and"
+    ],
+    "examples": "आमा र बुबा आउँदै हुनुहुन्छ।",
+    "examplesRomanized": "ama ra buba aundai hunuhunchha.",
+    "exampleEnglish": "Mother and father are on their way.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "किनभने",
+    "romanization": "kinabhane",
+    "pos": "conjunction",
+    "definitions": [
+      "because; since"
+    ],
+    "examples": "म घरमै छु किनभने वर्षा भइरहेको छ।",
+    "examplesRomanized": "ma gharmai chu kinabhane varsha bhairaheko chha.",
+    "exampleEnglish": "I am at home because it is raining.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जब",
+    "romanization": "jaba",
+    "pos": "conjunction",
+    "definitions": [
+      "when"
+    ],
+    "examples": "जब म सानो थिएँ, म गाउँमा बस्दथे।",
+    "examplesRomanized": "jaba ma sano thiye, ma gauma basdthe.",
+    "exampleEnglish": "When I was small, I used to live in the village.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "यद्यपि",
+    "romanization": "yadyapi",
+    "pos": "conjunction",
+    "definitions": [
+      "although; even though"
+    ],
+    "examples": "यद्यपि ऊ बिरामी छ, उसले काम गर्यो।",
+    "examplesRomanized": "yadyapi uu birami chha, usle kaam garyo.",
+    "exampleEnglish": "Although he is sick, he did the work.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "तरकि",
+    "romanization": "tarki",
+    "pos": "conjunction",
+    "definitions": [
+      "otherwise; else"
+    ],
+    "examples": "छिटो नहिँड, तरकि समयमै पुग्न सक्ने छैनौं।",
+    "examplesRomanized": "chhito nahind, tarki samaymai pugna sakne chainaun.",
+    "exampleEnglish": "Walk quickly, otherwise we won’t reach on time.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "साथै",
+    "romanization": "sathai",
+    "pos": "conjunction",
+    "definitions": [
+      "as well as; along with"
+    ],
+    "examples": "साथी तथा शिक्षकसाथै आमाबुबा पनि आए।",
+    "examplesRomanized": "saathi tatha shikshak sathai aama buba pani aaye.",
+    "exampleEnglish": "Friends as well as teachers and parents came.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "नत्र",
+    "romanization": "natra",
+    "pos": "conjunction",
+    "definitions": [
+      "otherwise; if not"
+    ],
+    "examples": "तिमी पढ्यौं नत्र परीक्षा असफल हुनेछ।",
+    "examplesRomanized": "timi padhyaun natra pariksha asafal hunechha.",
+    "exampleEnglish": "You must study, otherwise you will fail the exam.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जबकि",
+    "romanization": "jabki",
+    "pos": "conjunction",
+    "definitions": [
+      "while; whereas"
+    ],
+    "examples": "ऊ खेल्दैछ, जबकि म पढ्दैछु।",
+    "examplesRomanized": "uu kheldaichha, jabki ma padhdaichhu.",
+    "exampleEnglish": "He is playing while I am studying.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "अनि",
+    "romanization": "ani",
+    "pos": "conjunction",
+    "definitions": [
+      "and; then"
+    ],
+    "examples": "ऊ उठ्यो अनि नास्ता खायो।",
+    "examplesRomanized": "uu uthyo ani naasta khayo.",
+    "exampleEnglish": "He got up and then had breakfast.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "त्यसैले",
+    "romanization": "tyasaile",
+    "pos": "conjunction",
+    "definitions": [
+      "therefore; so"
+    ],
+    "examples": "बर्षा परिरहेको छ, त्यसैले हामी घरमै छौं।",
+    "examplesRomanized": "varsha pariraheko chha, tyasaile haami gharmai chhau.",
+    "exampleEnglish": "It is raining, therefore we are at home.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "संगै",
+    "romanization": "sangai",
+    "pos": "conjunction",
+    "definitions": [
+      "together with; along with"
+    ],
+    "examples": "उसले साथी संगै खाना खायो।",
+    "examplesRomanized": "usle saathi sangai khana khayo.",
+    "exampleEnglish": "He ate food along with his friend.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "यस्तो कि",
+    "romanization": "yasto ki",
+    "pos": "conjunction",
+    "definitions": [
+      "so that; in such a way that"
+    ],
+    "examples": "ऊ यसरी बोल्यो, यस्तो कि सबैले सुन्न सके।",
+    "examplesRomanized": "uu yasari bolyo, yasto ki sabailai sunna sake.",
+    "exampleEnglish": "He spoke in such a way that everyone could hear.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जसको कारण",
+    "romanization": "jasko karan",
+    "pos": "conjunction",
+    "definitions": [
+      "because of which; due to which"
+    ],
+    "examples": "बर्खा परेको छ, जसको कारण खेल स्थगित भयो।",
+    "examplesRomanized": "barkha pareko chha, jasko karan khel sthagit bhayo.",
+    "exampleEnglish": "It rained, because of which the match was postponed.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "यसकारण",
+    "romanization": "yaskaran",
+    "pos": "conjunction",
+    "definitions": [
+      "because of this; hence"
+    ],
+    "examples": "म बिरामी छु, यसकारण स्कूल गएन।",
+    "examplesRomanized": "ma birami chu, yaskaran school gaena.",
+    "exampleEnglish": "I am sick, hence I did not go to school.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "तर पनि",
+    "romanization": "tara pani",
+    "pos": "conjunction",
+    "definitions": [
+      "but still; yet"
+    ],
+    "examples": "वर्षा परिरहेको छ, तर पनि हामी गए।",
+    "examplesRomanized": "varsha pariraheko chha, tara pani haami gaye.",
+    "exampleEnglish": "It is raining, but still we went.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जसरी",
+    "romanization": "jasari",
+    "pos": "conjunction",
+    "definitions": [
+      "in the way that; as"
+    ],
+    "examples": "ऊ जसरी खेल्यो, त्यसरी म प्रयास गरें।",
+    "examplesRomanized": "uu jasari khelyo, tysari ma prayas gare.",
+    "exampleEnglish": "I tried the way he played.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "किनकि",
+    "romanization": "kinki",
+    "pos": "conjunction",
+    "definitions": [
+      "because"
+    ],
+    "examples": "म जान सकिन किनकि म बिरामी छु।",
+    "examplesRomanized": "ma jan sakin kinki ma birami chu.",
+    "exampleEnglish": "I couldn’t go because I am sick.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "यसैले पनि",
+    "romanization": "tyasaile pani",
+    "pos": "conjunction",
+    "definitions": [
+      "for this reason also; hence also"
+    ],
+    "examples": "म व्यस्त छु, यसैले पनि म आउँदिन।",
+    "examplesRomanized": "ma byasta chu, tyasaile pani ma aaundin.",
+    "exampleEnglish": "I am busy, hence also I will not come.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जसरी पनि",
+    "romanization": "jasari pani",
+    "pos": "conjunction",
+    "definitions": [
+      "in any case; anyway"
+    ],
+    "examples": "तिमी जसरी पनि आउँछौ।",
+    "examplesRomanized": "timi jasari pani aauchhau.",
+    "exampleEnglish": "You will come anyway.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "न त",
+    "romanization": "na ta",
+    "pos": "conjunction",
+    "definitions": [
+      "neither…nor"
+    ],
+    "examples": "ऊ न त खान्छ, न त पिउँछ।",
+    "examplesRomanized": "uu na ta khanchha, na ta piunchha.",
+    "exampleEnglish": "He neither eats nor drinks.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "साथसाथै",
+    "romanization": "sathasathai",
+    "pos": "conjunction",
+    "definitions": [
+      "simultaneously; at the same time"
+    ],
+    "examples": "ऊ हाँस्छ र साथसाथै गुनासो गर्छ।",
+    "examplesRomanized": "uu haanschha ra sathasathai gunaso garchha.",
+    "exampleEnglish": "He laughs and complains at the same time.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जसले गर्दा",
+    "romanization": "jasle garda",
+    "pos": "conjunction",
+    "definitions": [
+      "because of which; due to which"
+    ],
+    "examples": "सडक बिग्रियो, जसले गर्दा ट्राफिक जाम भयो।",
+    "examplesRomanized": "sadak bigriyo, jasle garda traffic jam bhayo.",
+    "exampleEnglish": "The road got damaged, because of which traffic jam occurred.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "विच",
+    "romanization": "vich",
+    "pos": "conjunction",
+    "definitions": [
+      "between; among"
+    ],
+    "examples": "बजार र घरको विच दूरी धेरै छ।",
+    "examplesRomanized": "bajar ra gharko vich duri dherai chha.",
+    "exampleEnglish": "The distance between the market and home is large.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जस्तै",
+    "romanization": "jastai",
+    "pos": "conjunction",
+    "definitions": [
+      "like; similar to"
+    ],
+    "examples": "ऊ आमासस्तै दयालु छ।",
+    "examplesRomanized": "uu aama jastai dayalu chha.",
+    "exampleEnglish": "He is kind like his mother.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "बिना",
+    "romanization": "bina",
+    "pos": "conjunction",
+    "definitions": [
+      "without"
+    ],
+    "examples": "बिना अनुमति नजानु।",
+    "examplesRomanized": "bina anumati najanu.",
+    "exampleEnglish": "Do not go without permission.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "चाहिँ",
+    "romanization": "chahi",
+    "pos": "conjunction",
+    "definitions": [
+      "on the other hand; whereas"
+    ],
+    "examples": "ऊ चाँडै आउँछ, राम चाहिँ ढिला।",
+    "examplesRomanized": "uu chadai aauchha, Ram chahi dhila.",
+    "exampleEnglish": "He comes early, whereas Ram is late.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "सम्म",
+    "romanization": "samma",
+    "pos": "conjunction",
+    "definitions": [
+      "up to; until"
+    ],
+    "examples": "हामी घरसम्म हिँड्यौं।",
+    "examplesRomanized": "haami ghar samma hidyau.",
+    "exampleEnglish": "We walked up to the house.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "त्यसपछि",
+    "romanization": "tyaspachi",
+    "pos": "conjunction",
+    "definitions": [
+      "after that; then"
+    ],
+    "examples": "पहिला पढ, त्यसपछि खेल।",
+    "examplesRomanized": "pahila padh, tyaspachi khel.",
+    "exampleEnglish": "Study first, then play.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "अनि पनि",
+    "romanization": "ani pani",
+    "pos": "conjunction",
+    "definitions": [
+      "and also; furthermore"
+    ],
+    "examples": "ऊ पढ्छ अनि पनि काम गर्छ।",
+    "examplesRomanized": "uu padhchha ani pani kaam garchha.",
+    "exampleEnglish": "He studies and also works.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "त्यसपछि पनि",
+    "romanization": "tyaspachi pani",
+    "pos": "conjunction",
+    "definitions": [
+      "even after that; still"
+    ],
+    "examples": "पानी पर्‍यो, त्यसपछि पनि खेल भयो।",
+    "examplesRomanized": "pani paryo, tyaspachi pani khel bhayo.",
+    "exampleEnglish": "It rained, but even after that, the game continued.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "तत्काल",
+    "romanization": "tatkaal",
+    "pos": "conjunction",
+    "definitions": [
+      "immediately; at once"
+    ],
+    "examples": "तत्काल घर फर्क।",
+    "examplesRomanized": "tatkaal ghar fark.",
+    "exampleEnglish": "Return home immediately.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "वा त",
+    "romanization": "wa ta",
+    "pos": "conjunction",
+    "definitions": [
+      "either…or"
+    ],
+    "examples": "तिमी वा त ऊ आउँछ।",
+    "examplesRomanized": "timi wa ta uu aauchha.",
+    "exampleEnglish": "Either you or he will come.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "अझै पनि",
+    "romanization": "ajhai pani",
+    "pos": "conjunction",
+    "definitions": [
+      "even now; still"
+    ],
+    "examples": "मले प्रश्न सोधेँ, अझै पनि उत्तर पाएन।",
+    "examplesRomanized": "male prashna sodhe, ajhai pani uttar paena.",
+    "exampleEnglish": "I asked the question, but even now did not get an answer.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "तसर्थ",
+    "romanization": "tasartha",
+    "pos": "conjunction",
+    "definitions": [
+      "therefore; so"
+    ],
+    "examples": "ऊ दुवै परीक्षा पास भयो, तसर्थ हामी खुशी छौं।",
+    "examplesRomanized": "uu dubai pariksha pass bhayo, tasartha haami khushi chhau.",
+    "exampleEnglish": "He passed both exams, therefore we are happy.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "न कि",
+    "romanization": "na ki",
+    "pos": "conjunction",
+    "definitions": [
+      "not that; nor"
+    ],
+    "examples": "ऊ राम्ररी सुत्यो, न कि थकित थियो।",
+    "examplesRomanized": "uu ramrari sutyo, na ki thakit thiyo.",
+    "exampleEnglish": "He slept well, not that he was tired.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "न त… न त",
+    "romanization": "na ta… na ta",
+    "pos": "conjunction",
+    "definitions": [
+      "neither…nor"
+    ],
+    "examples": "म न त खाऊँछु, न त पिउँछु।",
+    "examplesRomanized": "ma na ta khaunchhu, na ta piunchhu.",
+    "exampleEnglish": "I will neither eat nor drink.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जति",
+    "romanization": "jati",
+    "pos": "conjunction",
+    "definitions": [
+      "as much as; however much"
+    ],
+    "examples": "जति काम गरेँ, त्यति सन्तुष्ट भएँ।",
+    "examplesRomanized": "jati kaam gare, tyati santusht bhaye.",
+    "exampleEnglish": "However much work I did, I felt satisfied.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "अनि त",
+    "romanization": "ani ta",
+    "pos": "conjunction",
+    "definitions": [
+      "and then; moreover"
+    ],
+    "examples": "ऊ आए अनि त हामीले खाना खायौँ।",
+    "examplesRomanized": "uu aaye ani ta haamile khana khayaun.",
+    "exampleEnglish": "He came and then we had food.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "अझै पनि तर",
+    "romanization": "ajhai pani tara",
+    "pos": "conjunction",
+    "definitions": [
+      "yet still; nevertheless"
+    ],
+    "examples": "म थकित छु, अझै पनि तर काम गर्छु।",
+    "examplesRomanized": "ma thakit chu, ajhai pani tara kaam garchhu.",
+    "exampleEnglish": "I am tired, yet still I work.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "यति कि",
+    "romanization": "yati ki",
+    "pos": "conjunction",
+    "definitions": [
+      "so much that; to the extent that"
+    ],
+    "examples": "उसले यति काम गर्यो कि सबैले सराहना गरे।",
+    "examplesRomanized": "usle yati kaam garyo ki sabailai sarahana gare.",
+    "exampleEnglish": "He worked so much that everyone appreciated.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "यसरी कि",
+    "romanization": "yasari ki",
+    "pos": "conjunction",
+    "definitions": [
+      "in such a way that"
+    ],
+    "examples": "उसले यसरी लेख्यो कि सबैले बुझ्न सके।",
+    "examplesRomanized": "usle yasari lekhyo ki sabailai bujhna sake.",
+    "exampleEnglish": "He wrote in such a way that everyone could understand.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "यद्यपि… तर",
+    "romanization": "yadyapi… tara",
+    "pos": "conjunction",
+    "definitions": [
+      "although… yet"
+    ],
+    "examples": "यद्यपि ऊ थकित छ, तर अझै दौडिन्छ।",
+    "examplesRomanized": "yadyapi uu thakit chha, tara ajhai daudinchha.",
+    "exampleEnglish": "Although he is tired, yet he still runs.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जसरी पनि तर",
+    "romanization": "jasari pani tara",
+    "pos": "conjunction",
+    "definitions": [
+      "in any case but; nevertheless"
+    ],
+    "examples": "तिमी जसरी पनि आउँछौ तर ढिला हुनेछ।",
+    "examplesRomanized": "timi jasari pani aauchhau tara dhila hunechha.",
+    "exampleEnglish": "You will come anyway, but it will be late.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "त्यसैले कि",
+    "romanization": "tyasaile ki",
+    "pos": "conjunction",
+    "definitions": [
+      "because of that; hence"
+    ],
+    "examples": "पानी पर्‍यो, त्यसैले कि खेल स्थगित भयो।",
+    "examplesRomanized": "pani paryo, tyasaile ki khel sthagit bhayo.",
+    "exampleEnglish": "It rained, because of that the game was postponed.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जसको कारणले",
+    "romanization": "jasko kaaranle",
+    "pos": "conjunction",
+    "definitions": [
+      "because of which; due to which"
+    ],
+    "examples": "सडक बन्द भयो, जसको कारणले हामी ढिला भयौं।",
+    "examplesRomanized": "sadak band bhayo, jasko kaaranle haami dhila bhayau.",
+    "exampleEnglish": "The road was closed, due to which we were late.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जति… त्यति",
+    "romanization": "jati… tyati",
+    "pos": "conjunction",
+    "definitions": [
+      "the more… the more"
+    ],
+    "examples": "जति म पढ्छु, त्यति म बुझ्छु।",
+    "examplesRomanized": "jati ma padhchhu, tyati ma bujhchhu.",
+    "exampleEnglish": "The more I study, the more I understand.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जसरी… त्यसरी",
+    "romanization": "jasari… tysari",
+    "pos": "conjunction",
+    "definitions": [
+      "just as… so"
+    ],
+    "examples": "जसरी ऊ नाच्छ, त्यसरी म पनि नाच्छु।",
+    "examplesRomanized": "jasari uu naachchha, tysari ma pani naachchhu.",
+    "exampleEnglish": "Just as he dances, I also dance.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "तोकिएको जस्तो",
+    "romanization": "tokieko jasto",
+    "pos": "conjunction",
+    "definitions": [
+      "as if; seemingly"
+    ],
+    "examples": "ऊ ठुलो कुरा जान्दाजस्तो देखिन्छ।",
+    "examplesRomanized": "uu thulo kura jandajasto dekhchha.",
+    "exampleEnglish": "He seems to know big things, as if knowledgeable.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जति भए पनि",
+    "romanization": "jati bhae pani",
+    "pos": "conjunction",
+    "definitions": [
+      "however much; no matter how much"
+    ],
+    "examples": "जति म पढ्छु भए पनि नजिकको परीक्षा पास गर्न सक्दिन।",
+    "examplesRomanized": "jati ma padhchhu bhae pani najikko pariksha pass garn sakdina.",
+    "exampleEnglish": "However much I study, I cannot pass the nearby exam.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "त्यसपश्चात",
+    "romanization": "tyaspashchat",
+    "pos": "conjunction",
+    "definitions": [
+      "after that; thereafter"
+    ],
+    "examples": "पहिला काम गरौँ, त्यसपश्चात आराम गरौँ।",
+    "examplesRomanized": "pahila kaam garaun, tyaspashchat aaram garaun.",
+    "exampleEnglish": "First, let's work, and thereafter let's rest.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "अथवा त",
+    "romanization": "athawa ta",
+    "pos": "conjunction",
+    "definitions": [
+      "or else; otherwise"
+    ],
+    "examples": "छिटो आउ, अथवा त हामी जान्छौं।",
+    "examplesRomanized": "chhito aaun, athawa ta haami jaaunchhau.",
+    "exampleEnglish": "Come quickly, or else we will leave.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "तर खैर",
+    "romanization": "tara khair",
+    "pos": "conjunction",
+    "definitions": [
+      "but anyway; nevertheless"
+    ],
+    "examples": "समय कम छ, तर खैर हामी पूरा गर्छौं।",
+    "examplesRomanized": "samaya kam chha, tara khair haami poora garchhau.",
+    "exampleEnglish": "Time is short, but anyway we will finish.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "अहिले… त्यसपछि",
+    "romanization": "ahile… tyaspachi",
+    "pos": "conjunction",
+    "definitions": [
+      "now… then; first… then"
+    ],
+    "examples": "अहिले पढौं, त्यसपछि खेलौं।",
+    "examplesRomanized": "ahile padhau, tyaspachi khelau.",
+    "exampleEnglish": "First let's study now, then play.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "अहिले त",
+    "romanization": "ahile ta",
+    "pos": "conjunction",
+    "definitions": [
+      "at this moment; now indeed"
+    ],
+    "examples": "अहिले त म व्यस्त छु।",
+    "examplesRomanized": "ahile ta ma vyast chu.",
+    "exampleEnglish": "I am busy at this moment.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जहाँ… त्यहाँ",
+    "romanization": "jaha… tyaha",
+    "pos": "conjunction",
+    "definitions": [
+      "where… there"
+    ],
+    "examples": "जहाँ म जान्छु, त्यहाँ ऊ पनि जान्छ।",
+    "examplesRomanized": "jaha ma janchhu, tyaha uu pani janchha.",
+    "exampleEnglish": "Wherever I go, he also goes there.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जबसम्म",
+    "romanization": "jabasamma",
+    "pos": "conjunction",
+    "definitions": [
+      "until; as long as"
+    ],
+    "examples": "तपाईं बस्नुहुन्छ जबसम्म म फर्किएँ।",
+    "examplesRomanized": "tapai basnuhunchha jabasamma ma farkie.",
+    "exampleEnglish": "You stay until I return.",
+    "frequency": "high",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "यसबाहेक",
+    "romanization": "yasbahek",
+    "pos": "conjunction",
+    "definitions": [
+      "apart from this; besides"
+    ],
+    "examples": "यसबाहेक अन्य कुरा विचार गर्न सक्दैन।",
+    "examplesRomanized": "yasbahek anya kura bichar garn sakdaina.",
+    "exampleEnglish": "Apart from this, he cannot consider other matters.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जबसम्म… तबसम्म",
+    "romanization": "jabasamma… tabsamma",
+    "pos": "conjunction",
+    "definitions": [
+      "as long as… until then"
+    ],
+    "examples": "जबसम्म म आउँछु, तबसम्म पर्ख।",
+    "examplesRomanized": "jabasamma ma aauchhu, tabsamma parkh.",
+    "exampleEnglish": "Wait until I arrive.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "अझ",
+    "romanization": "ajha",
+    "pos": "conjunction",
+    "definitions": [
+      "moreover; further"
+    ],
+    "examples": "ऊ राम्रो छ, अझ दयालु पनि छ।",
+    "examplesRomanized": "uu ramro chha, ajha dayalu pani chha.",
+    "exampleEnglish": "He is good, moreover he is also kind.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "अहिलेका लागि",
+    "romanization": "ahileka lagi",
+    "pos": "conjunction",
+    "definitions": [
+      "for now; for the time being"
+    ],
+    "examples": "अहिलेका लागि योजना रोकौं।",
+    "examplesRomanized": "ahileka lagi yojana rokaun.",
+    "exampleEnglish": "Let's pause the plan for now.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जसले",
+    "romanization": "jasle",
+    "pos": "conjunction",
+    "definitions": [
+      "who; that (relative clause)"
+    ],
+    "examples": "मानिस जसले मेहेनत गर्छ, सफल हुन्छ।",
+    "examplesRomanized": "manish jasle mehenat garchha, safal hunchha.",
+    "exampleEnglish": "The person who works hard succeeds.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "वा…वा",
+    "romanization": "wa…wa",
+    "pos": "conjunction",
+    "definitions": [
+      "either…or"
+    ],
+    "examples": "तिमी वा म वा बजार जाउँ।",
+    "examplesRomanized": "timi wa ma wa bazar jaau.",
+    "exampleEnglish": "Either you or I will go to the market.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जति…उति",
+    "romanization": "jati…uti",
+    "pos": "conjunction",
+    "definitions": [
+      "the more… the more…"
+    ],
+    "examples": "जति म अभ्यास गर्छु, उति म राम्रो हुन्छ।",
+    "examplesRomanized": "jati ma abhyas garchhu, uti ma ramro hunchhu.",
+    "exampleEnglish": "The more I practice, the better I get.",
+    "frequency": "low",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "यद्यपि…तैपनि",
+    "romanization": "yadyapi…taipani",
+    "pos": "conjunction",
+    "definitions": [
+      "although…still"
+    ],
+    "examples": "यद्यपि ऊ थाकेको छ, तैपनि ऊ खेल्छ।",
+    "examplesRomanized": "yadyapi u thakeko chha, taipani u khelchha.",
+    "exampleEnglish": "Although he is tired, he still plays.",
+    "frequency": "low",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "नकि",
+    "romanization": "naki",
+    "pos": "conjunction",
+    "definitions": [
+      "nor; neither (coordinating/correlative)"
+    ],
+    "examples": "ऊ न पढ्छ नकि काम गर्छ।",
+    "examplesRomanized": "u na padhchha naki kaam garchha.",
+    "exampleEnglish": "He neither studies nor works.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "यद्यपि…तर",
+    "romanization": "yadyapi…tara",
+    "pos": "conjunction",
+    "definitions": [
+      "although…yet (correlative)"
+    ],
+    "examples": "यद्यपि ऊ थाकेको छ, तर काम गर्छ।",
+    "examplesRomanized": "yadyapi u thakeko chha, tara kaam garchha.",
+    "exampleEnglish": "Although he is tired, yet he works.",
+    "frequency": "low",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जसका कारण",
+    "romanization": "jaska karan",
+    "pos": "conjunction",
+    "definitions": [
+      "because of whom/which (causal)"
+    ],
+    "examples": "जसका कारण यात्रा ढिला भयो, उसलाई माफ गर्नुपर्छ।",
+    "examplesRomanized": "jaska karan yatra dhila bhayo, uslai maaf garnu parchha.",
+    "exampleEnglish": "The person because of whom the trip was delayed should be forgiven.",
+    "frequency": "low",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "त्यसकारण",
+    "romanization": "tyaskaran",
+    "pos": "conjunction",
+    "definitions": [
+      "for that reason; hence (causal)"
+    ],
+    "examples": "म धेरै व्यस्त छु, त्यसकारण आउन सक्दिन।",
+    "examplesRomanized": "ma dherai byast chhu, tyaskaran aaun sakdina.",
+    "exampleEnglish": "I am very busy; hence, I cannot come.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "अर्कोतिर",
+    "romanization": "arkotir",
+    "pos": "conjunction",
+    "definitions": [
+      "on the other hand (contrastive)"
+    ],
+    "examples": "म काम गर्छु, अर्कोतिर ऊ खेल्छ।",
+    "examplesRomanized": "ma kaam garchhu, arkotir u khelchha.",
+    "exampleEnglish": "I work; on the other hand, he plays.",
+    "frequency": "low",
+    "category": "conjunctions"
+  },
+  {
+    "DevanagriWord": "जबकी",
+    "romanization": "jabki",
+    "pos": "conjunction",
+    "definitions": [
+      "while; whereas (contrastive)"
+    ],
+    "examples": "ऊ खेल्छ जबकी म पढ्छु।",
+    "examplesRomanized": "u khelchha jabki ma padhchhu.",
+    "exampleEnglish": "He plays while I study.",
+    "frequency": "medium",
+    "category": "conjunctions"
+  }
+]

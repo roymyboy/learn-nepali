@@ -1,0 +1,197 @@
+[
+  {
+    "DevanagriWord": "उनी",
+    "romanization": "uni",
+    "pos": "pronoun",
+    "definitions": [
+      "he/she (honorific singular)"
+    ],
+    "examples": "उनी आज ढिलो आउनुहुन्छ।",
+    "examplesRomanized": "uni aaj dhilo aunuhunchha.",
+    "exampleEnglish": "He/She (hon.) will arrive late today.",
+    "frequency": "high",
+    "category": "pronouns"
+  },
+  {
+    "DevanagriWord": "उनीहरू",
+    "romanization": "uniharu",
+    "pos": "pronoun",
+    "definitions": [
+      "they (honorific plural)"
+    ],
+    "examples": "उनीहरू भोलि फर्किन्छन्।",
+    "examplesRomanized": "uniharu bholi pharkinchhan.",
+    "exampleEnglish": "They (hon.) will return tomorrow.",
+    "frequency": "high",
+    "category": "pronouns"
+  },
+  {
+    "DevanagriWord": "कसको",
+    "romanization": "kasako",
+    "pos": "pronoun",
+    "definitions": [
+      "whose"
+    ],
+    "examples": "यो किताब कसको हो?",
+    "examplesRomanized": "yo kitab kasako ho?",
+    "exampleEnglish": "Whose book is this?",
+    "frequency": "low",
+    "category": "pronouns"
+  },
+  {
+    "DevanagriWord": "कुन",
+    "romanization": "kun",
+    "pos": "pronoun",
+    "definitions": [
+      "which"
+    ],
+    "examples": "तिमी कुन कक्षामा पढ्छौ?",
+    "examplesRomanized": "timi kun kakshama padhchau?",
+    "exampleEnglish": "Which grade do you study in?",
+    "frequency": "low",
+    "category": "pronouns"
+  },
+  {
+    "DevanagriWord": "को",
+    "romanization": "ko",
+    "pos": "pronoun",
+    "definitions": [
+      "who (interrogative); of"
+    ],
+    "examples": "तिमी को हौ?",
+    "examplesRomanized": "timi ko hau?",
+    "exampleEnglish": "Who are you?",
+    "frequency": "high",
+    "category": "pronouns"
+  },
+  {
+    "DevanagriWord": "तँ",
+    "romanization": "ta",
+    "pos": "pronoun",
+    "definitions": [
+      "you (very informal singular)"
+    ],
+    "examples": "तँ कहाँ जाने?",
+    "examplesRomanized": "ta kaha jane?",
+    "exampleEnglish": "Where will you go?",
+    "frequency": "high",
+    "category": "pronouns"
+  },
+  {
+    "DevanagriWord": "तपाईं",
+    "romanization": "tapai",
+    "pos": "pronoun",
+    "definitions": [
+      "you (honorific singular/plural)"
+    ],
+    "examples": "तपाईंलाई कस्तो छ?",
+    "examplesRomanized": "tapailai kasto chha?",
+    "exampleEnglish": "How are you (sir/ma'am)?",
+    "frequency": "high",
+    "category": "pronouns"
+  },
+  {
+    "DevanagriWord": "तिन",
+    "romanization": "tin",
+    "pos": "pronoun",
+    "definitions": [
+      "they (distal plural)"
+    ],
+    "examples": "तिनलाई खबर गर्नुहोस्।",
+    "examplesRomanized": "tinlai khabar garnuhos.",
+    "exampleEnglish": "Please inform them.",
+    "frequency": "low",
+    "category": "pronouns"
+  },
+  {
+    "DevanagriWord": "ती",
+    "romanization": "ti",
+    "pos": "pronoun",
+    "definitions": [
+      "those (distal plural demonstrative)"
+    ],
+    "examples": "ती घरहरू पुराना छन्।",
+    "examplesRomanized": "ti gharharu purana chhan.",
+    "exampleEnglish": "Those houses are old.",
+    "frequency": "high",
+    "category": "pronouns"
+  },
+  {
+    "DevanagriWord": "त्यस",
+    "romanization": "tyas",
+    "pos": "pronoun",
+    "definitions": [
+      "that (distal genitive/oblique)"
+    ],
+    "examples": "त्यस कारणले ढिलो भयो।",
+    "examplesRomanized": "tyas karanle dhilo bhayo.",
+    "exampleEnglish": "It was delayed for that reason.",
+    "frequency": "low",
+    "category": "pronouns"
+  },
+  {
+    "DevanagriWord": "यस",
+    "romanization": "yas",
+    "pos": "pronoun",
+    "definitions": [
+      "this (proximal genitive/oblique)"
+    ],
+    "examples": "यस विषयमा छलफल गरौँ।",
+    "examplesRomanized": "yas vishayma chhalphal garaun.",
+    "exampleEnglish": "Let's discuss this matter.",
+    "frequency": "low",
+    "category": "pronouns"
+  },
+  {
+    "DevanagriWord": "हामी",
+    "romanization": "hami",
+    "pos": "pronoun",
+    "definitions": [
+      "we; us"
+    ],
+    "examples": "हामी भोलि भेटौँला।",
+    "examplesRomanized": "hami bholi bhetaula.",
+    "exampleEnglish": "We will meet tomorrow.",
+    "frequency": "high",
+    "category": "pronouns"
+  },
+  {
+    "DevanagriWord": "उ",
+    "romanization": "u",
+    "pos": "pronoun",
+    "definitions": [
+      "he/she (proximal informal)"
+    ],
+    "examples": "उ आज व्यस्त छ।",
+    "examplesRomanized": "u aaj byasta chha.",
+    "exampleEnglish": "He/She is busy today.",
+    "frequency": "high",
+    "category": "pronouns"
+  },
+  {
+    "DevanagriWord": "ऊ",
+    "romanization": "u",
+    "pos": "pronoun",
+    "definitions": [
+      "he/she (distal informal)"
+    ],
+    "examples": "ऊ कलेज जान्छ।",
+    "examplesRomanized": "u kalej janchha.",
+    "exampleEnglish": "He/She goes to college.",
+    "frequency": "high",
+    "category": "pronouns"
+  },
+  {
+    "DevanagriWord": "म",
+    "romanization": "ma",
+    "pos": "pronoun",
+    "definitions": [
+      "I; me"
+    ],
+    "examples": "म काठमाडौंमा बस्छु।",
+    "examplesRomanized": "ma kathmanduma baschhu.",
+    "exampleEnglish": "I live in Kathmandu.",
+    "frequency": "high",
+    "category": "pronouns"
+  }
+]

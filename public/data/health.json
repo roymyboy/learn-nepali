@@ -1,0 +1,3278 @@
+[
+  {
+    "DevanagriWord": "अक्सिजन",
+    "romanization": "oksijan",
+    "pos": "noun",
+    "definitions": [
+      "oxygen; a gas essential for respiration"
+    ],
+    "examples": "रोगीलाई अक्सिजन दिइयो।",
+    "examplesRomanized": "rogilai oksijan diyo.",
+    "exampleEnglish": "The patient was given oxygen.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "यौन",
+    "romanization": "yaun",
+    "pos": "noun",
+    "definitions": [
+      "Sex; sexual activity or biological distinction between male and female."
+    ],
+    "examples": "शारीरिक विकासको बारेमा यौन शिक्षा महत्वपूर्ण छ।",
+    "examplesRomanized": "sharirik bikasko barema yaun shiksha mahatvapoorn chha.",
+    "exampleEnglish": "Sex education is important for physical development.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "अस्पताल",
+    "romanization": "aspatal",
+    "pos": "noun",
+    "definitions": [
+      "a hospital; a medical facility"
+    ],
+    "examples": "अस्पतालमा उपचार हुन्छ।",
+    "examplesRomanized": "aspatalma upachar hunchha.",
+    "exampleEnglish": "Treatment is provided at the hospital.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "औषधि",
+    "romanization": "aushadhi",
+    "pos": "noun",
+    "definitions": [
+      "medicine; drug"
+    ],
+    "examples": "डाक्टरले औषधि लेखिदिए।",
+    "examplesRomanized": "daktarle aushadhi lekhidie.",
+    "exampleEnglish": "The doctor prescribed medicine.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "खोप",
+    "romanization": "khop",
+    "pos": "noun",
+    "definitions": [
+      "vaccine; immunization"
+    ],
+    "examples": "आज बालबालिकालाई खोप लगाइयो।",
+    "examplesRomanized": "aaj balbalikalai khop lagaiyo.",
+    "exampleEnglish": "Children were vaccinated today.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "चिकित्सक",
+    "romanization": "chikitsak",
+    "pos": "noun",
+    "definitions": [
+      "a physician; medical doctor"
+    ],
+    "examples": "चिकित्सकले जाँच गरे।",
+    "examplesRomanized": "chikitsakle janch gare.",
+    "exampleEnglish": "The physician examined (the patient).",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "रोग",
+    "romanization": "rog",
+    "pos": "noun",
+    "definitions": [
+      "disease; illness"
+    ],
+    "examples": "यो रोग छिटो सर्छ।",
+    "examplesRomanized": "yo rog chito sarchha.",
+    "exampleEnglish": "This disease spreads quickly.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "स्वास्थ्य",
+    "romanization": "swasthya",
+    "pos": "noun",
+    "definitions": [
+      "health; well-being"
+    ],
+    "examples": "स्वास्थ्य राम्रो राख्नुहोस्।",
+    "examplesRomanized": "swasthya ramro rakhnuhos.",
+    "exampleEnglish": "Maintain good health.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "चिकित्सा",
+    "romanization": "chikitsa",
+    "pos": "noun",
+    "definitions": [
+      "treatment; medical science"
+    ],
+    "examples": "समयमै चिकित्सा आवश्यक हुन्छ।",
+    "examplesRomanized": "samaymai chikitsa aawashyak hunchha.",
+    "exampleEnglish": "Treatment is necessary in time.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "नर्स",
+    "romanization": "nars",
+    "pos": "noun",
+    "definitions": [
+      "a nurse"
+    ],
+    "examples": "नर्सले औषधि दिए।",
+    "examplesRomanized": "narsle aushadhi die.",
+    "exampleEnglish": "The nurse gave the medicine.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "उपचार",
+    "romanization": "upachar",
+    "pos": "noun",
+    "definitions": [
+      "treatment; therapy"
+    ],
+    "examples": "उपचार सुरु भयो।",
+    "examplesRomanized": "upachar suru bhayo.",
+    "exampleEnglish": "Treatment started.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "लक्षण",
+    "romanization": "lakshn",
+    "pos": "noun",
+    "definitions": [
+      "symptom; sign"
+    ],
+    "examples": "ज्वरो र खोकी लक्षण हुन्।",
+    "examplesRomanized": "jwaro ra khoki lakshan hun.",
+    "exampleEnglish": "Fever and cough are symptoms.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "निदान",
+    "romanization": "nidan",
+    "pos": "noun",
+    "definitions": [
+      "diagnosis"
+    ],
+    "examples": "रिपोर्ट आएपछि निदान भयो।",
+    "examplesRomanized": "report aayepachi nidan bhayo.",
+    "exampleEnglish": "Diagnosis was made after the report arrived.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "दबाब",
+    "romanization": "dabab",
+    "pos": "noun",
+    "definitions": [
+      "pressure"
+    ],
+    "examples": "यसले फोक्सोमा दबाब बढाउँछ।",
+    "examplesRomanized": "yasle fokso ma dabab badhaunchha.",
+    "exampleEnglish": "This increases pressure in the lungs.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "तापक्रम",
+    "romanization": "tapakram",
+    "pos": "noun",
+    "definitions": [
+      "temperature"
+    ],
+    "examples": "तापक्रम ३८ डिग्री छ।",
+    "examplesRomanized": "tapakram 38 digri chha.",
+    "exampleEnglish": "The temperature is 38 degrees.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "रक्तचाप",
+    "romanization": "raktachap",
+    "pos": "noun",
+    "definitions": [
+      "blood pressure"
+    ],
+    "examples": "रक्तचाप उच्च छ।",
+    "examplesRomanized": "raktachap uchcha chha.",
+    "exampleEnglish": "The blood pressure is high.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "डाक्टर",
+    "romanization": "daktar",
+    "pos": "noun",
+    "definitions": [
+      "doctor; medical practitioner"
+    ],
+    "examples": "डाक्टरसँग परामर्श लिनुहोस्।",
+    "examplesRomanized": "daktar sanga paramarsh linuhos.",
+    "exampleEnglish": "Consult a doctor.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "दन्त चिकित्सक",
+    "romanization": "danta chikitsak",
+    "pos": "noun",
+    "definitions": [
+      "dentist"
+    ],
+    "examples": "दन्त चिकित्सकले दाँत जाँच गरे।",
+    "examplesRomanized": "danta chikitsakle daat janch gare.",
+    "exampleEnglish": "The dentist examined the teeth.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "फार्मेसी",
+    "romanization": "pharmesi",
+    "pos": "noun",
+    "definitions": [
+      "pharmacy; drugstore"
+    ],
+    "examples": "औषधि फार्मेसीबाट किन्नुहोस्।",
+    "examplesRomanized": "aushadhi pharmesibata kinnuhos.",
+    "exampleEnglish": "Buy medicine from the pharmacy.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "खोकी",
+    "romanization": "khoki",
+    "pos": "noun",
+    "definitions": [
+      "cough"
+    ],
+    "examples": "खोकीको कारण घाँटी दुख्छ।",
+    "examplesRomanized": "khokiko karan ghati dukhchha.",
+    "exampleEnglish": "Cough causes a sore throat.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "संक्रमण",
+    "romanization": "sankraman",
+    "pos": "noun",
+    "definitions": [
+      "infection"
+    ],
+    "examples": "घाउमा संक्रमण भयो।",
+    "examplesRomanized": "ghauma sankraman bhayo.",
+    "exampleEnglish": "The wound became infected.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एलर्जी",
+    "romanization": "allergy",
+    "pos": "noun",
+    "definitions": [
+      "allergy"
+    ],
+    "examples": "मलाई धुलोबाट एलर्जी हुन्छ।",
+    "examplesRomanized": "malai dhulobata allergy hunchha.",
+    "exampleEnglish": "I am allergic to dust.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एन्टिबायोटिक",
+    "romanization": "antibiotic",
+    "pos": "noun",
+    "definitions": [
+      "antibiotic"
+    ],
+    "examples": "डाक्टरले एन्टिबायोटिक लेखिदिए।",
+    "examplesRomanized": "daktarle antibiotic lekhidie.",
+    "exampleEnglish": "The doctor prescribed antibiotics.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "सर्जरी",
+    "romanization": "surgery",
+    "pos": "noun",
+    "definitions": [
+      "surgery; operation"
+    ],
+    "examples": "हिजो सर्जरी सफल भयो।",
+    "examplesRomanized": "hijo surgery safal bhayo.",
+    "exampleEnglish": "The surgery was successful.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "आकस्मिक कक्ष",
+    "romanization": "akasmik kaksh",
+    "pos": "noun",
+    "definitions": [
+      "emergency room"
+    ],
+    "examples": "आकस्मिक कक्षमा तुरुन्त उपचार भयो।",
+    "examplesRomanized": "akasmik kakshma turunt upachar bhayo.",
+    "exampleEnglish": "Immediate treatment was given in the emergency room.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "पोषण",
+    "romanization": "poshan",
+    "pos": "noun",
+    "definitions": [
+      "nutrition"
+    ],
+    "examples": "बालबालिकालाई राम्रो पोषण आवश्यक छ।",
+    "examplesRomanized": "balbalikalai ramro poshan aawashyak chha.",
+    "exampleEnglish": "Children need good nutrition.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "आहार",
+    "romanization": "ahar",
+    "pos": "noun",
+    "definitions": [
+      "diet"
+    ],
+    "examples": "स्वास्थ्यका लागि सन्तुलित आहार खानुहोस्।",
+    "examplesRomanized": "swasthyaka lagi santulit ahar khanuhos.",
+    "exampleEnglish": "Eat a balanced diet for health.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "व्यायाम",
+    "romanization": "vyayam",
+    "pos": "noun",
+    "definitions": [
+      "exercise"
+    ],
+    "examples": "दैनिक व्यायामले स्वास्थ्य सुधार्छ।",
+    "examplesRomanized": "dainik vyayamle swasthya sudharchha.",
+    "exampleEnglish": "Daily exercise improves health.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "मधुमेह",
+    "romanization": "madhumeh",
+    "pos": "noun",
+    "definitions": [
+      "diabetes"
+    ],
+    "examples": "मधुमेह नियन्त्रणमा राख्नुपर्छ।",
+    "examplesRomanized": "madhumeh niyantranma rakhnuparchha.",
+    "exampleEnglish": "Diabetes must be kept under control.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "रक्त परीक्षण",
+    "romanization": "rakt parikshan",
+    "pos": "noun",
+    "definitions": [
+      "blood test"
+    ],
+    "examples": "डाक्टरले रक्त परीक्षण गराए।",
+    "examplesRomanized": "daktarle rakt parikshan garae.",
+    "exampleEnglish": "The doctor ordered a blood test.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "क्यान्सर",
+    "romanization": "cancer",
+    "pos": "noun",
+    "definitions": [
+      "cancer"
+    ],
+    "examples": "समयमै पत्ता लागे क्यान्सर उपचारयोग्य हुन्छ।",
+    "examplesRomanized": "samaymai patta lage cancer upacharyogya hunchha.",
+    "exampleEnglish": "Cancer is treatable if detected early.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "पीडा",
+    "romanization": "peeda",
+    "pos": "noun",
+    "definitions": [
+      "pain"
+    ],
+    "examples": "टाउकोमा तीव्र पीडा छ।",
+    "examplesRomanized": "taukoma tivra peeda chha.",
+    "exampleEnglish": "There is severe pain in the head.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "दुखाइ",
+    "romanization": "dukhai",
+    "pos": "noun",
+    "definitions": [
+      "ache; pain"
+    ],
+    "examples": "घुँडामा दुखाइ छ।",
+    "examplesRomanized": "ghundama dukhai chha.",
+    "exampleEnglish": "There is pain in the knee.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "दुष्प्रभाव",
+    "romanization": "dushprabhav",
+    "pos": "noun",
+    "definitions": [
+      "side effect"
+    ],
+    "examples": "औषधिको केही दुष्प्रभाव हुन सक्छ।",
+    "examplesRomanized": "aushadhiko kehi dushprabhav hun sakchha.",
+    "exampleEnglish": "The medicine may have some side effects.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "प्रतिरक्षा",
+    "romanization": "pratiraksha",
+    "pos": "noun",
+    "definitions": [
+      "immunity"
+    ],
+    "examples": "प्रतिरक्षा प्रणाली बलियो बनाउनुहोस्।",
+    "examplesRomanized": "pratiraksha pranali baliyo banaunuhos.",
+    "exampleEnglish": "Strengthen the immune system.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "मात्रा",
+    "romanization": "matra",
+    "pos": "noun",
+    "definitions": [
+      "dosage"
+    ],
+    "examples": "डाक्टरले दिएको मात्रा पालना गर्नुहोस्।",
+    "examplesRomanized": "daktarle diyeko matra palana garnuhos.",
+    "exampleEnglish": "Follow the prescribed dosage.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "बालरोग",
+    "romanization": "balarog",
+    "pos": "noun",
+    "definitions": [
+      "pediatrics"
+    ],
+    "examples": "बालरोग विभागमा जाँच भयो।",
+    "examplesRomanized": "balarog bibhagma janch bhayo.",
+    "exampleEnglish": "The examination was done in pediatrics.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "स्त्रीरोग",
+    "romanization": "strirog",
+    "pos": "noun",
+    "definitions": [
+      "gynecology"
+    ],
+    "examples": "स्त्रीरोग विशेषज्ञसँग भेट भयो।",
+    "examplesRomanized": "strirog visheshagya sanga bhet bhayo.",
+    "exampleEnglish": "Met a gynecology specialist.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "अस्थिरोग",
+    "romanization": "asthirog",
+    "pos": "noun",
+    "definitions": [
+      "orthopedics"
+    ],
+    "examples": "अस्थिरोगमा हाडको उपचार गरिन्छ।",
+    "examplesRomanized": "asthirogma hadko upachar garincha.",
+    "exampleEnglish": "Bones are treated in orthopedics.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "मानसिक स्वास्थ्य",
+    "romanization": "manasik swasthya",
+    "pos": "noun",
+    "definitions": [
+      "mental health"
+    ],
+    "examples": "मानसिक स्वास्थ्यको ख्याल गर्नुहोस्।",
+    "examplesRomanized": "manasik swasthyaka khyal garnuhos.",
+    "exampleEnglish": "Take care of mental health.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एक्स–रे",
+    "romanization": "x-ray",
+    "pos": "noun",
+    "definitions": [
+      "X-ray"
+    ],
+    "examples": "एक्स–रे रिपोर्ट सामान्य छ।",
+    "examplesRomanized": "x-ray report samanya chha.",
+    "exampleEnglish": "The X-ray report is normal.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "अल्ट्रासाउन्ड",
+    "romanization": "ultrasound",
+    "pos": "noun",
+    "definitions": [
+      "ultrasound"
+    ],
+    "examples": "अल्ट्रासाउन्डले भ्रूणको विकास देखायो।",
+    "examplesRomanized": "ultrasoundle bhruunko bikas dekhayo.",
+    "exampleEnglish": "Ultrasound showed fetal development.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एमआरआई",
+    "romanization": "MRI",
+    "pos": "noun",
+    "definitions": [
+      "MRI"
+    ],
+    "examples": "एमआरआईले मस्तिष्क स्क्यान गर्‍यो।",
+    "examplesRomanized": "MRI le mastishk scan garyo.",
+    "exampleEnglish": "MRI scanned the brain.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "सीटी स्क्यान",
+    "romanization": "CT scan",
+    "pos": "noun",
+    "definitions": [
+      "CT scan"
+    ],
+    "examples": "सीटी स्क्यानले चोट पुष्टि गर्‍यो।",
+    "examplesRomanized": "CT scan le chot pushti garyo.",
+    "exampleEnglish": "CT scan confirmed the injury.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "थर्मोमिटर",
+    "romanization": "thermometer",
+    "pos": "noun",
+    "definitions": [
+      "thermometer"
+    ],
+    "examples": "थर्मोमिटरले तापक्रम नापियो।",
+    "examplesRomanized": "thermometerle tapakram napiyo.",
+    "exampleEnglish": "Temperature was measured with a thermometer.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "स्टेथोस्कोप",
+    "romanization": "stethoscope",
+    "pos": "noun",
+    "definitions": [
+      "stethoscope"
+    ],
+    "examples": "स्टेथोस्कोपले धड्कन सुन्नियो।",
+    "examplesRomanized": "stethoscopele dhadkan sunniyo.",
+    "exampleEnglish": "Heartbeat was auscultated with a stethoscope.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "उल्टी",
+    "romanization": "ulti",
+    "pos": "noun",
+    "definitions": [
+      "vomiting"
+    ],
+    "examples": "खानापछि उल्टी भयो।",
+    "examplesRomanized": "khanapachi ulti bhayo.",
+    "exampleEnglish": "There was vomiting after eating.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "दस्त",
+    "romanization": "dast",
+    "pos": "noun",
+    "definitions": [
+      "diarrhea"
+    ],
+    "examples": "दस्त हुँदा धेरै पानी पिउनुहोस्।",
+    "examplesRomanized": "dast hunda dherai pani piunuhos.",
+    "exampleEnglish": "Drink plenty of water during diarrhea.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "थकान",
+    "romanization": "thakan",
+    "pos": "noun",
+    "definitions": [
+      "fatigue"
+    ],
+    "examples": "धेरै कामपछि थकान महसुस भयो।",
+    "examplesRomanized": "dherai kampachi thakan mahasus bhayo.",
+    "exampleEnglish": "Felt fatigued after a lot of work.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "चक्कर",
+    "romanization": "chakkar",
+    "pos": "noun",
+    "definitions": [
+      "dizziness"
+    ],
+    "examples": "उठ्दा चक्कर लाग्छ।",
+    "examplesRomanized": "uthda chakkar lagchha.",
+    "exampleEnglish": "I feel dizzy upon standing.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "इन्सुलिन",
+    "romanization": "insulin",
+    "pos": "noun",
+    "definitions": [
+      "insulin"
+    ],
+    "examples": "मधुमेहका बिरामीलाई इन्सुलिन दिइन्छ।",
+    "examplesRomanized": "madhumehaka biramilai insulin diyincha.",
+    "exampleEnglish": "Diabetes patients are given insulin.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "दर्द निवारक",
+    "romanization": "dard nivarak",
+    "pos": "noun",
+    "definitions": [
+      "painkiller"
+    ],
+    "examples": "दर्द निवारक औषधि खाइयो।",
+    "examplesRomanized": "dard nivarak aushadhi khaiyo.",
+    "exampleEnglish": "A painkiller was taken.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एन्टिसेप्टिक",
+    "romanization": "antiseptic",
+    "pos": "noun",
+    "definitions": [
+      "antiseptic"
+    ],
+    "examples": "घाउमा एन्टिसेप्टिक लगाइयो।",
+    "examplesRomanized": "ghauma antiseptic lagaiyo.",
+    "exampleEnglish": "Antiseptic was applied to the wound.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "फिजियोथेरापी",
+    "romanization": "physiotherapy",
+    "pos": "noun",
+    "definitions": [
+      "physiotherapy"
+    ],
+    "examples": "चोटपछि फिजियोथेरापी लाभदायक हुन्छ।",
+    "examplesRomanized": "chot pachi physiotherapy labhdayak hunchha.",
+    "exampleEnglish": "Physiotherapy is beneficial after injury.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "रक्तसञ्चार",
+    "romanization": "raktasanchaar",
+    "pos": "noun",
+    "definitions": [
+      "blood transfusion"
+    ],
+    "examples": "रक्तसञ्चार गरियो।",
+    "examplesRomanized": "raktasanchaar gario.",
+    "exampleEnglish": "A blood transfusion was performed.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "सिरिंज",
+    "romanization": "sirinj",
+    "pos": "noun",
+    "definitions": [
+      "syringe"
+    ],
+    "examples": "सिरिंज सफा राखियो।",
+    "examplesRomanized": "sirinj safa rakhiyo.",
+    "exampleEnglish": "The syringe was kept clean.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "ब्यान्डेज",
+    "romanization": "bandage",
+    "pos": "noun",
+    "definitions": [
+      "bandage"
+    ],
+    "examples": "ब्यान्डेजले घाउ बाँधियो।",
+    "examplesRomanized": "bandajle ghau bandhiyo.",
+    "exampleEnglish": "The wound was bandaged.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "व्हीलचेयर",
+    "romanization": "wheelchair",
+    "pos": "noun",
+    "definitions": [
+      "wheelchair"
+    ],
+    "examples": "बिरामीलाई व्हीलचेयरमा सारियो।",
+    "examplesRomanized": "biramilai wheelchairma sariyo.",
+    "exampleEnglish": "The patient was moved in a wheelchair.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "हाड",
+    "romanization": "had",
+    "pos": "noun",
+    "definitions": [
+      "bone"
+    ],
+    "examples": "हाड भाँचियो।",
+    "examplesRomanized": "had bhanjhiyo.",
+    "exampleEnglish": "The bone was fractured.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "उच्च रक्तचाप",
+    "romanization": "uchcha raktachap",
+    "pos": "noun",
+    "definitions": [
+      "hypertension"
+    ],
+    "examples": "उच्च रक्तचाप नियन्त्रण गर्नुहोस्।",
+    "examplesRomanized": "uchcha raktachap niyantran garnuhos.",
+    "exampleEnglish": "Control hypertension.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "निम्न रक्तचाप",
+    "romanization": "nimna raktachap",
+    "pos": "noun",
+    "definitions": [
+      "hypotension"
+    ],
+    "examples": "निम्न रक्तचापका कारण कमजोरी हुन्छ।",
+    "examplesRomanized": "nimna raktachapka karan kamjori hunchha.",
+    "exampleEnglish": "Low blood pressure causes weakness.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "हृदयाघात",
+    "romanization": "hridaya aghat",
+    "pos": "noun",
+    "definitions": [
+      "heart attack"
+    ],
+    "examples": "उहाँलाई हृदयाघात भयो।",
+    "examplesRomanized": "uhalai hridaya aghat bhayo.",
+    "exampleEnglish": "He had a heart attack.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "स्ट्रोक",
+    "romanization": "stroke",
+    "pos": "noun",
+    "definitions": [
+      "stroke"
+    ],
+    "examples": "स्ट्रोकपछि पुनर्स्थापना आवश्यक हुन्छ।",
+    "examplesRomanized": "stroke pachi punarsthapana aawashyak hunchha.",
+    "exampleEnglish": "Rehabilitation is needed after a stroke.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "जण्डिस",
+    "romanization": "jandis",
+    "pos": "noun",
+    "definitions": [
+      "jaundice"
+    ],
+    "examples": "जण्डिस हुँदा छाला पहेंलो हुन्छ।",
+    "examplesRomanized": "jandis huda chhala pahenlo hunchha.",
+    "exampleEnglish": "The skin turns yellow in jaundice.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "चर्मरोग",
+    "romanization": "charmarog",
+    "pos": "noun",
+    "definitions": [
+      "dermatology"
+    ],
+    "examples": "चर्मरोग विभागमा उपचार भयो।",
+    "examplesRomanized": "charmarog bibhagma upachar bhayo.",
+    "exampleEnglish": "Treatment was done in dermatology.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "नेत्रविज्ञान",
+    "romanization": "netra vigyan",
+    "pos": "noun",
+    "definitions": [
+      "ophthalmology"
+    ],
+    "examples": "नेत्रविज्ञानमा आँखा जाँच गरिन्छ।",
+    "examplesRomanized": "netra vigyanma aankha janch garincha.",
+    "exampleEnglish": "Eyes are examined in ophthalmology.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "कान–नाक–घाँटी",
+    "romanization": "kaan-nak-ghanti",
+    "pos": "noun",
+    "definitions": [
+      "ENT (ear, nose and throat)"
+    ],
+    "examples": "कान–नाक–घाँटी विभागमा परामर्श भयो।",
+    "examplesRomanized": "kaan-nak-ghanti bibhagma paramarsh bhayo.",
+    "exampleEnglish": "Consultation was done in ENT.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "स्नायु विज्ञान",
+    "romanization": "snayu vigyan",
+    "pos": "noun",
+    "definitions": [
+      "neurology"
+    ],
+    "examples": "स्नायु विज्ञानका विशेषज्ञसँग भेट भयो।",
+    "examplesRomanized": "snayu vigyanka visheshagyasanga bhet bhayo.",
+    "exampleEnglish": "Met a neurology specialist.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "क्यान्सर विज्ञान",
+    "romanization": "cancer vigyan",
+    "pos": "noun",
+    "definitions": [
+      "oncology"
+    ],
+    "examples": "क्यान्सर विज्ञानमा उपचार भयो।",
+    "examplesRomanized": "cancer vigyanma upachar bhayo.",
+    "exampleEnglish": "Treatment was done in oncology.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "ईसीजी",
+    "romanization": "ECG",
+    "pos": "noun",
+    "definitions": [
+      "ECG; electrocardiogram"
+    ],
+    "examples": "ईसीजी सामान्य आयो।",
+    "examplesRomanized": "ECG samanya ayo.",
+    "exampleEnglish": "The ECG was normal.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "इकोकार्डियोग्राम",
+    "romanization": "echocardiogram",
+    "pos": "noun",
+    "definitions": [
+      "echocardiogram"
+    ],
+    "examples": "इकोकार्डियोग्रामले हृदयको कार्य देखायो।",
+    "examplesRomanized": "echocardiogramle hridayako karya dekhayo.",
+    "exampleEnglish": "The echocardiogram showed heart function.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "लिपिड प्रोफाइल",
+    "romanization": "lipid profile",
+    "pos": "noun",
+    "definitions": [
+      "lipid profile"
+    ],
+    "examples": "लिपिड प्रोफाइल रिपोर्ट आयो।",
+    "examplesRomanized": "lipid profile report ayo.",
+    "exampleEnglish": "The lipid profile report came.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "रक्त शर्करा",
+    "romanization": "rakt sharkara",
+    "pos": "noun",
+    "definitions": [
+      "blood sugar"
+    ],
+    "examples": "रक्त शर्करा नापियो।",
+    "examplesRomanized": "rakt sharkara napiyo.",
+    "exampleEnglish": "Blood sugar was measured.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "हिमोग्लोबिन",
+    "romanization": "hemoglobin",
+    "pos": "noun",
+    "definitions": [
+      "hemoglobin"
+    ],
+    "examples": "हिमोग्लोबिन स्तर कम छ।",
+    "examplesRomanized": "hemoglobin star kam chha.",
+    "exampleEnglish": "Hemoglobin level is low.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "युरिन परीक्षण",
+    "romanization": "urine parikshan",
+    "pos": "noun",
+    "definitions": [
+      "urine test"
+    ],
+    "examples": "युरिन परीक्षण गरियो।",
+    "examplesRomanized": "urine parikshan gario.",
+    "exampleEnglish": "A urine test was performed.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "लिभर फङ्क्शन टेस्ट",
+    "romanization": "liver function test",
+    "pos": "noun",
+    "definitions": [
+      "liver function test"
+    ],
+    "examples": "लिभर फङ्क्शन टेस्ट सामान्य आयो।",
+    "examplesRomanized": "liver function test samanya ayo.",
+    "exampleEnglish": "The liver function test was normal.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "किड्नी फङ्क्शन टेस्ट",
+    "romanization": "kidney function test",
+    "pos": "noun",
+    "definitions": [
+      "kidney function test"
+    ],
+    "examples": "किड्नी फङ्क्शन टेस्ट गरियो।",
+    "examplesRomanized": "kidney function test gario.",
+    "exampleEnglish": "A kidney function test was done.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "नेब्युलाइजर",
+    "romanization": "nebulizer",
+    "pos": "noun",
+    "definitions": [
+      "nebulizer"
+    ],
+    "examples": "नेब्युलाइजरबाट औषधि दिइयो।",
+    "examplesRomanized": "nebulizerbata aushadhi diyo.",
+    "exampleEnglish": "Medicine was given via nebulizer.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "पल्स अक्सिमिटर",
+    "romanization": "pulse oximeter",
+    "pos": "noun",
+    "definitions": [
+      "pulse oximeter"
+    ],
+    "examples": "पल्स अक्सिमिटरले अक्सिजन स्याचुरेसन देखायो।",
+    "examplesRomanized": "pulse oximeterle oxygen saturation dekhayo.",
+    "exampleEnglish": "The pulse oximeter showed oxygen saturation.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "ब्लड प्रेशर मोनिटर",
+    "romanization": "blood pressure monitor",
+    "pos": "noun",
+    "definitions": [
+      "blood pressure monitor"
+    ],
+    "examples": "ब्लड प्रेशर मोनिटरले रक्तचाप नाप्यो।",
+    "examplesRomanized": "blood pressure monitorle raktachap napyo.",
+    "exampleEnglish": "The blood pressure monitor measured blood pressure.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "ग्लुकोमिटर",
+    "romanization": "glucometer",
+    "pos": "noun",
+    "definitions": [
+      "glucometer"
+    ],
+    "examples": "ग्लुकोमिटरले शर्करा नाप्यो।",
+    "examplesRomanized": "glucometerle sharkara napyo.",
+    "exampleEnglish": "The glucometer measured sugar.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "टाँका",
+    "romanization": "tanka",
+    "pos": "noun",
+    "definitions": [
+      "stitches; sutures"
+    ],
+    "examples": "घाउमा टाँका लगाइयो।",
+    "examplesRomanized": "ghaumaa tanka lagaiyo.",
+    "exampleEnglish": "Stitches were applied to the wound.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "प्लास्टर",
+    "romanization": "plaster",
+    "pos": "noun",
+    "definitions": [
+      "plaster cast"
+    ],
+    "examples": "हाड भाँचिएपछि प्लास्टर लगाइयो।",
+    "examplesRomanized": "had bhanjiepachi plaster lagaiyo.",
+    "exampleEnglish": "A plaster cast was applied after the fracture.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "आईभी ड्रिप",
+    "romanization": "IV drip",
+    "pos": "noun",
+    "definitions": [
+      "IV drip"
+    ],
+    "examples": "आईभी ड्रिपबाट तरल दिइयो।",
+    "examplesRomanized": "IV dripbata taral diyo.",
+    "exampleEnglish": "Fluids were given through an IV drip.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "इन्फ्युजन",
+    "romanization": "infusion",
+    "pos": "noun",
+    "definitions": [
+      "infusion"
+    ],
+    "examples": "औषधिको इन्फ्युजन गरियो।",
+    "examplesRomanized": "aushadhiko infusion gario.",
+    "exampleEnglish": "A medicine infusion was given.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "घाउ सिलाइ",
+    "romanization": "ghau silai",
+    "pos": "noun",
+    "definitions": [
+      "wound suturing"
+    ],
+    "examples": "घाउ सिलाइ गरियो।",
+    "examplesRomanized": "ghau silai gario.",
+    "exampleEnglish": "The wound was sutured.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एन्टिहिस्टामिन",
+    "romanization": "antihistamine",
+    "pos": "noun",
+    "definitions": [
+      "antihistamine"
+    ],
+    "examples": "एलर्जीका लागि एन्टिहिस्टामिन दिइयो।",
+    "examplesRomanized": "allergyka lagi antihistamine diyo.",
+    "exampleEnglish": "An antihistamine was given for allergies.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एन्टासिड",
+    "romanization": "antacid",
+    "pos": "noun",
+    "definitions": [
+      "antacid"
+    ],
+    "examples": "पेट दुखेमा एन्टासिड खाइयो।",
+    "examplesRomanized": "pet dukhema antacid khaiyo.",
+    "exampleEnglish": "An antacid was taken for stomach pain.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एन्टिफंगल",
+    "romanization": "antifungal",
+    "pos": "noun",
+    "definitions": [
+      "antifungal"
+    ],
+    "examples": "फंगल संक्रमणमा एन्टिफंगल दिइयो।",
+    "examplesRomanized": "fungal sankramanma antifungal diyo.",
+    "exampleEnglish": "An antifungal was given for a fungal infection.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एन्टिभाइरल",
+    "romanization": "antiviral",
+    "pos": "noun",
+    "definitions": [
+      "antiviral"
+    ],
+    "examples": "भाइरल रोगमा एन्टिभाइरल दिइयो।",
+    "examplesRomanized": "viral rogma antiviral diyo.",
+    "exampleEnglish": "An antiviral was given for a viral illness.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "भिटामिन",
+    "romanization": "vitamin",
+    "pos": "noun",
+    "definitions": [
+      "vitamin"
+    ],
+    "examples": "भिटामिन सप्लिमेन्ट दिइयो।",
+    "examplesRomanized": "vitamin supplement diyo.",
+    "exampleEnglish": "A vitamin supplement was given.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "क्याल्सियम सप्लिमेन्ट",
+    "romanization": "calcium supplement",
+    "pos": "noun",
+    "definitions": [
+      "calcium supplement"
+    ],
+    "examples": "हड्डी बलियो बनाउन क्याल्सियम सप्लिमेन्ट।",
+    "examplesRomanized": "haddi baliyo banauna calcium supplement.",
+    "exampleEnglish": "Calcium supplement strengthens bones.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "प्रोबायोटिक",
+    "romanization": "probiotic",
+    "pos": "noun",
+    "definitions": [
+      "probiotic"
+    ],
+    "examples": "प्रोबायोटिकले पाचनमा मद्दत गर्छ।",
+    "examplesRomanized": "probioticle pachanma maddat garcha.",
+    "exampleEnglish": "Probiotics help with digestion.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "गर्भावस्था",
+    "romanization": "garbhawastha",
+    "pos": "noun",
+    "definitions": [
+      "pregnancy"
+    ],
+    "examples": "गर्भावस्थामा नियमित जाँच आवश्यक छ।",
+    "examplesRomanized": "garbhawasthama niyamit janch aawashyak chha.",
+    "exampleEnglish": "Regular checkups are necessary during pregnancy.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "प्रसूति",
+    "romanization": "prasuti",
+    "pos": "noun",
+    "definitions": [
+      "childbirth; delivery"
+    ],
+    "examples": "प्रसूति सुरक्षित रूपमा गरियो।",
+    "examplesRomanized": "prasuti surakshit rupma gario.",
+    "exampleEnglish": "Childbirth was conducted safely.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "सुत्केरी",
+    "romanization": "sutkeri",
+    "pos": "noun",
+    "definitions": [
+      "postpartum woman"
+    ],
+    "examples": "सुत्केरीको विशेष ख्याल राखियो।",
+    "examplesRomanized": "sutkeriko vishes khyal rakhiyo.",
+    "exampleEnglish": "Special care was taken of the postpartum woman.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "धाइ",
+    "romanization": "dhai",
+    "pos": "noun",
+    "definitions": [
+      "midwife"
+    ],
+    "examples": "धाइले प्रसूति गराइन्।",
+    "examplesRomanized": "dhaile prasuti garain.",
+    "exampleEnglish": "The midwife assisted with the delivery.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एम्बुलेन्स",
+    "romanization": "ambulance",
+    "pos": "noun",
+    "definitions": [
+      "ambulance"
+    ],
+    "examples": "एम्बुलेन्स तुरुन्त बोलाइयो।",
+    "examplesRomanized": "ambulance turun t bolaaiyo.",
+    "exampleEnglish": "An ambulance was called immediately.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "आपतकालीन",
+    "romanization": "aapatkalin",
+    "pos": "adjective",
+    "definitions": [
+      "emergency"
+    ],
+    "examples": "उहाँलाई आपतकालीन कक्षमा लगियो।",
+    "examplesRomanized": "uhalai aapatkalin kakshma lagiyo.",
+    "exampleEnglish": "He was taken to the emergency room.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "प्राथमिक उपचार",
+    "romanization": "prathamik upachar",
+    "pos": "noun",
+    "definitions": [
+      "first aid"
+    ],
+    "examples": "घाइतेलाई प्राथमिक उपचार दिइयो।",
+    "examplesRomanized": "ghaitelai prathamik upachar diyo.",
+    "exampleEnglish": "First aid was given to the injured.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "सीपीआर",
+    "romanization": "CPR",
+    "pos": "noun",
+    "definitions": [
+      "cardiopulmonary resuscitation"
+    ],
+    "examples": "सीपीआर समयमै सुरु गरियो।",
+    "examplesRomanized": "CPR samaymai suru gario.",
+    "exampleEnglish": "CPR was started on time.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "अक्सिजन सिलिन्डर",
+    "romanization": "oxygen cylinder",
+    "pos": "noun",
+    "definitions": [
+      "oxygen cylinder"
+    ],
+    "examples": "अक्सिजन सिलिन्डर तयार राखियो।",
+    "examplesRomanized": "oxygen cylinder tayar rakhiyo.",
+    "exampleEnglish": "The oxygen cylinder was kept ready.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "डिफिब्रिलेटर",
+    "romanization": "defibrillator",
+    "pos": "noun",
+    "definitions": [
+      "defibrillator"
+    ],
+    "examples": "डिफिब्रिलेटरले हृदयको धड्कन सामान्य गर्‍यो।",
+    "examplesRomanized": "defibrillatorle hridayako dhadkan samanya garyo.",
+    "exampleEnglish": "The defibrillator normalized the heartbeat.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "क्षयरोग",
+    "romanization": "kshayarog",
+    "pos": "noun",
+    "definitions": [
+      "tuberculosis"
+    ],
+    "examples": "क्षयरोगको उपचार लामो हुन्छ।",
+    "examplesRomanized": "kshayarogko upachar lamo hunchha.",
+    "exampleEnglish": "Treatment for tuberculosis is lengthy.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "मलेरिया",
+    "romanization": "malaria",
+    "pos": "noun",
+    "definitions": [
+      "malaria"
+    ],
+    "examples": "मलेरियाबाट ज्वरो आउँछ।",
+    "examplesRomanized": "malariabata jwaro aunchha.",
+    "exampleEnglish": "Malaria causes fever.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "डेंगु",
+    "romanization": "dengu",
+    "pos": "noun",
+    "definitions": [
+      "dengue"
+    ],
+    "examples": "डेंगुको संकेत ज्वरो र दुखाइ हुन्।",
+    "examplesRomanized": "denguko sanket jwaro ra dukhai hun.",
+    "exampleEnglish": "Fever and pain are signs of dengue.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "हेपाटाइटिस",
+    "romanization": "hepatitis",
+    "pos": "noun",
+    "definitions": [
+      "hepatitis"
+    ],
+    "examples": "हेपाटाइटिस कलेजोको रोग हो।",
+    "examplesRomanized": "hepatitis kalejoko rog ho.",
+    "exampleEnglish": "Hepatitis is a liver disease.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "कालाजार",
+    "romanization": "kalazar",
+    "pos": "noun",
+    "definitions": [
+      "visceral leishmaniasis"
+    ],
+    "examples": "कालाजार बालुवामा बस्ने किराबाट सर्छ।",
+    "examplesRomanized": "kalazar baluwama basne kirabata sarchha.",
+    "exampleEnglish": "Kala-azar spreads via sandflies.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "पोलियो",
+    "romanization": "polio",
+    "pos": "noun",
+    "definitions": [
+      "polio"
+    ],
+    "examples": "पोलियो विरुद्ध खोप लगाउनुपर्छ।",
+    "examplesRomanized": "polio viruddha khop lagaunuparchha.",
+    "exampleEnglish": "Polio vaccination is necessary.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "रेबीज",
+    "romanization": "rabies",
+    "pos": "noun",
+    "definitions": [
+      "rabies"
+    ],
+    "examples": "कुकुरले टोक्दा रेबीजको खोप लगाउनुहोस्।",
+    "examplesRomanized": "kukurile tokda rabiesko khop lagaunuhos.",
+    "exampleEnglish": "Get a rabies vaccine after a dog bite.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "बायोप्सी",
+    "romanization": "biopsy",
+    "pos": "noun",
+    "definitions": [
+      "biopsy"
+    ],
+    "examples": "बायोप्सीको रिपोर्ट पर्खनुहोस्।",
+    "examplesRomanized": "biopsyko report parkhanuhos.",
+    "exampleEnglish": "Wait for the biopsy report.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एन्डोस्कोपी",
+    "romanization": "endoscopy",
+    "pos": "noun",
+    "definitions": [
+      "endoscopy"
+    ],
+    "examples": "एन्डोस्कोपीले भित्री अवयव देखायो।",
+    "examplesRomanized": "endoscopele bhitri avayav dekhayo.",
+    "exampleEnglish": "Endoscopy showed internal organs.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "कोलोनोस्कोपी",
+    "romanization": "colonoscopy",
+    "pos": "noun",
+    "definitions": [
+      "colonoscopy"
+    ],
+    "examples": "कोलोनोस्कोपीबाट आन्द्रा जाँच गरियो।",
+    "examplesRomanized": "colonoscopybata aandra janch gario.",
+    "exampleEnglish": "The intestines were examined by colonoscopy.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "क्याथेटर",
+    "romanization": "catheter",
+    "pos": "noun",
+    "definitions": [
+      "catheter"
+    ],
+    "examples": "मूत्र निकाल्न क्याथेटर राखियो।",
+    "examplesRomanized": "mutra nikalna catheter rakhiyo.",
+    "exampleEnglish": "A catheter was placed to drain urine.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "भेन्टिलेटर",
+    "romanization": "ventilator",
+    "pos": "noun",
+    "definitions": [
+      "ventilator"
+    ],
+    "examples": "भेन्टिलेटरमा राखियो।",
+    "examplesRomanized": "ventilatorma rakhiyo.",
+    "exampleEnglish": "The patient was put on a ventilator.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "अक्सिजन मास्क",
+    "romanization": "oxygen mask",
+    "pos": "noun",
+    "definitions": [
+      "oxygen mask"
+    ],
+    "examples": "अक्सिजन मास्क लगाइयो।",
+    "examplesRomanized": "oxygen mask lagaiyo.",
+    "exampleEnglish": "An oxygen mask was applied.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "पीपीई",
+    "romanization": "PPE",
+    "pos": "noun",
+    "definitions": [
+      "personal protective equipment"
+    ],
+    "examples": "स्वास्थ्यकर्मीले पीपीई लगाए।",
+    "examplesRomanized": "swasthyakarmile PPE lagae.",
+    "exampleEnglish": "Health workers wore PPE.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "मास्क",
+    "romanization": "mask",
+    "pos": "noun",
+    "definitions": [
+      "mask"
+    ],
+    "examples": "भीडमा मास्क लगाउनुहोस्।",
+    "examplesRomanized": "bhidma mask lagaunuhos.",
+    "exampleEnglish": "Wear a mask in crowds.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "ह्यान्ड स्यानिटाइजर",
+    "romanization": "hand sanitizer",
+    "pos": "noun",
+    "definitions": [
+      "hand sanitizer"
+    ],
+    "examples": "ह्यान्ड स्यानिटाइजर प्रयोग गर्नुहोस्।",
+    "examplesRomanized": "hand sanitizer prayog garnuhos.",
+    "exampleEnglish": "Use hand sanitizer.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "साबुन",
+    "romanization": "sabun",
+    "pos": "noun",
+    "definitions": [
+      "soap"
+    ],
+    "examples": "हात साबुनले धुनुहोस्।",
+    "examplesRomanized": "hat sabunle dhunuhos.",
+    "exampleEnglish": "Wash hands with soap.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "श्वासप्रश्वास दर",
+    "romanization": "shwas-prashwas dar",
+    "pos": "noun",
+    "definitions": [
+      "respiratory rate"
+    ],
+    "examples": "श्वासप्रश्वास दर १६ प्रति मिनेट छ।",
+    "examplesRomanized": "shwas-prashwas dar 16 prati minut chha.",
+    "exampleEnglish": "Respiratory rate is 16 per minute.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "बीएमआई",
+    "romanization": "BMI",
+    "pos": "noun",
+    "definitions": [
+      "body mass index"
+    ],
+    "examples": "बीएमआई स्वस्थ दायरा भित्र छ।",
+    "examplesRomanized": "BMI swasth dayra bhitra chha.",
+    "exampleEnglish": "BMI is within a healthy range.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "उचाइ",
+    "romanization": "uchai",
+    "pos": "noun",
+    "definitions": [
+      "height"
+    ],
+    "examples": "उचाइ १७० से.मी. छ।",
+    "examplesRomanized": "uchai 170 se.mi. chha.",
+    "exampleEnglish": "Height is 170 cm.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "तौल",
+    "romanization": "taul",
+    "pos": "noun",
+    "definitions": [
+      "weight"
+    ],
+    "examples": "तौल ६५ किलो छ।",
+    "examplesRomanized": "taul 65 kilo chha.",
+    "exampleEnglish": "Weight is 65 kilograms.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "क्याभिटी",
+    "romanization": "cavity",
+    "pos": "noun",
+    "definitions": [
+      "tooth cavity; caries"
+    ],
+    "examples": "क्याभिटी भएमा फिलिङ गर्नुपर्छ।",
+    "examplesRomanized": "cavity bhaema filling garnuparchha.",
+    "exampleEnglish": "A cavity needs a filling.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "रूट क्यानल",
+    "romanization": "root canal",
+    "pos": "noun",
+    "definitions": [
+      "root canal treatment"
+    ],
+    "examples": "दाँत बचाउन रूट क्यानल गरियो।",
+    "examplesRomanized": "daat bachauna root canal gario.",
+    "exampleEnglish": "A root canal was performed to save the tooth.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "ब्रेस",
+    "romanization": "braces",
+    "pos": "noun",
+    "definitions": [
+      "dental braces"
+    ],
+    "examples": "दाँत सीधा पार्न ब्रेस लगाइयो।",
+    "examplesRomanized": "daat sidha parna braces lagaiyo.",
+    "exampleEnglish": "Braces were applied to straighten teeth.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "फ्लु",
+    "romanization": "flu",
+    "pos": "noun",
+    "definitions": [
+      "influenza"
+    ],
+    "examples": "फ्लुबाट ज्वरो र खोकी आउँछ।",
+    "examplesRomanized": "flubata jwaro ra khoki aunchha.",
+    "exampleEnglish": "Flu causes fever and cough.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "सर्दी",
+    "romanization": "sardi",
+    "pos": "noun",
+    "definitions": [
+      "common cold"
+    ],
+    "examples": "सर्दी हुँदा नाक बग्छ।",
+    "examplesRomanized": "sardi huda nak bagchha.",
+    "exampleEnglish": "The nose runs during a cold.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "घाँटी पोल्ने",
+    "romanization": "ghanti polne",
+    "pos": "noun",
+    "definitions": [
+      "sore throat"
+    ],
+    "examples": "घाँटी पोल्ने समस्या छ।",
+    "examplesRomanized": "ghanti polne samasya chha.",
+    "exampleEnglish": "There is a sore throat.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "असह्य पीडा",
+    "romanization": "asahya peeda",
+    "pos": "noun",
+    "definitions": [
+      "severe pain"
+    ],
+    "examples": "असह्य पीडा भए तुरुन्त जाँच गर्नुहोस्।",
+    "examplesRomanized": "asahya peeda bhae turun t janch garnuhos.",
+    "exampleEnglish": "Seek immediate checkup for severe pain.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "आइसीयू",
+    "romanization": "ICU",
+    "pos": "noun",
+    "definitions": [
+      "intensive care unit"
+    ],
+    "examples": "बिरामीलाई आइसीयूमा सारियो।",
+    "examplesRomanized": "biramilai ICUma sariyo.",
+    "exampleEnglish": "The patient was shifted to the ICU.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "वार्ड",
+    "romanization": "ward",
+    "pos": "noun",
+    "definitions": [
+      "ward"
+    ],
+    "examples": "वार्डमा बेड खाली छ।",
+    "examplesRomanized": "wardma bed khali chha.",
+    "exampleEnglish": "A bed is vacant in the ward.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "ओपीडी",
+    "romanization": "OPD",
+    "pos": "noun",
+    "definitions": [
+      "outpatient department"
+    ],
+    "examples": "ओपीडीमा नम्बर लिनुहोस्।",
+    "examplesRomanized": "OPDma number linuhos.",
+    "exampleEnglish": "Take a token in the OPD.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "भर्ना",
+    "romanization": "bharna",
+    "pos": "verb",
+    "definitions": [
+      "to admit (to hospital)"
+    ],
+    "examples": "बिरामीलाई अस्पतालमा भर्ना गरियो।",
+    "examplesRomanized": "biramilai aspatalma bharna gario.",
+    "exampleEnglish": "The patient was admitted to the hospital.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "डिस्चार्ज",
+    "romanization": "discharge",
+    "pos": "verb",
+    "definitions": [
+      "to discharge (from hospital)"
+    ],
+    "examples": "बिरामी आज डिस्चार्ज भए।",
+    "examplesRomanized": "birami aaj discharge bhae.",
+    "exampleEnglish": "The patient was discharged today.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "अपोइन्टमेन्ट",
+    "romanization": "appointment",
+    "pos": "noun",
+    "definitions": [
+      "appointment"
+    ],
+    "examples": "डाक्टरको अपोइन्टमेन्ट लिनुहोस्।",
+    "examplesRomanized": "daktarko appointment linuhos.",
+    "exampleEnglish": "Book a doctor's appointment.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "रजिस्ट्रेशन",
+    "romanization": "registration",
+    "pos": "noun",
+    "definitions": [
+      "registration"
+    ],
+    "examples": "रजिस्ट्रेशन काउन्टरमा जानुहोस्।",
+    "examplesRomanized": "registration counterma januhos.",
+    "exampleEnglish": "Go to the registration counter.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "अस्थमा",
+    "romanization": "asthma",
+    "pos": "noun",
+    "definitions": [
+      "asthma"
+    ],
+    "examples": "अस्थमामा सास फेर्न गाह्रो हुन्छ।",
+    "examplesRomanized": "asthamama saas fern gahro hunchha.",
+    "exampleEnglish": "Breathing becomes difficult in asthma.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "निमोनिया",
+    "romanization": "nimoniya",
+    "pos": "noun",
+    "definitions": [
+      "pneumonia"
+    ],
+    "examples": "निमोनियामा फोक्सोमा संक्रमण हुन्छ।",
+    "examplesRomanized": "nimoniyama fokso ma sankraman hunchha.",
+    "exampleEnglish": "Pneumonia is an infection in the lungs.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "सीओपीडी",
+    "romanization": "COPD",
+    "pos": "noun",
+    "definitions": [
+      "chronic obstructive pulmonary disease"
+    ],
+    "examples": "सीओपीडीका बिरामीले नियमित औषधि चाहिन्छ।",
+    "examplesRomanized": "COPDka biramile niyamit aushadhi chahincha.",
+    "exampleEnglish": "COPD patients need regular medication.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "अरिथमिया",
+    "romanization": "arrhythmia",
+    "pos": "noun",
+    "definitions": [
+      "arrhythmia"
+    ],
+    "examples": "अरिथमियामा धड्कन अनियमित हुन्छ।",
+    "examplesRomanized": "arrhythmiyama dhadkan aniyamit hunchha.",
+    "exampleEnglish": "Heartbeat is irregular in arrhythmia.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "रक्तअल्पता",
+    "romanization": "rakt alptaa",
+    "pos": "noun",
+    "definitions": [
+      "anemia"
+    ],
+    "examples": "रक्तअल्पताले थकान हुन्छ।",
+    "examplesRomanized": "rakt alptale thakan hunchha.",
+    "exampleEnglish": "Anemia causes fatigue.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "थाइराइड",
+    "romanization": "thyroid",
+    "pos": "noun",
+    "definitions": [
+      "thyroid gland"
+    ],
+    "examples": "थाइराइड हार्मोनको जाँच गरियो।",
+    "examplesRomanized": "thyroid harmonko janch gario.",
+    "exampleEnglish": "Thyroid hormones were tested.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "हाइपोथाइराइडिज्म",
+    "romanization": "hypothyroidism",
+    "pos": "noun",
+    "definitions": [
+      "hypothyroidism"
+    ],
+    "examples": "हाइपोथाइराइडिज्ममा थकान र तौल बढ्छ।",
+    "examplesRomanized": "hypothyroidismma thakan ra taul badchha.",
+    "exampleEnglish": "Hypothyroidism causes fatigue and weight gain.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "हाइपरथाइराइडिज्म",
+    "romanization": "hyperthyroidism",
+    "pos": "noun",
+    "definitions": [
+      "hyperthyroidism"
+    ],
+    "examples": "हाइपरथाइराइडिज्ममा नाडी छिटो चल्छ।",
+    "examplesRomanized": "hyperthyroidismma nadi chhito chalchha.",
+    "exampleEnglish": "Pulse is fast in hyperthyroidism.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "डायलाइसिस",
+    "romanization": "dialysis",
+    "pos": "noun",
+    "definitions": [
+      "dialysis"
+    ],
+    "examples": "मिर्गौला असफल हुँदा डायलाइसिस गरिन्छ।",
+    "examplesRomanized": "mirgaula asafal huda dialysis garincha.",
+    "exampleEnglish": "Dialysis is performed in kidney failure.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "मोतीबिन्दु",
+    "romanization": "motibindu",
+    "pos": "noun",
+    "definitions": [
+      "cataract"
+    ],
+    "examples": "मोतीबिन्दु भएमा दृष्टि धमिलो हुन्छ।",
+    "examplesRomanized": "motibindu bhaema drishti dhamilo hunchha.",
+    "exampleEnglish": "Cataract makes vision cloudy.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "ग्लुकोमा",
+    "romanization": "glaucoma",
+    "pos": "noun",
+    "definitions": [
+      "glaucoma"
+    ],
+    "examples": "ग्लुकोमाले आँखा क्षति पुर्‍याउन सक्छ।",
+    "examplesRomanized": "glaucomale aankha kshati puryauna sakchha.",
+    "exampleEnglish": "Glaucoma can damage the eyes.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "साइनुसाइटिस",
+    "romanization": "sinusitis",
+    "pos": "noun",
+    "definitions": [
+      "sinusitis"
+    ],
+    "examples": "साइनुसाइटिसमा टाउको दुख्छ र नाक बन्द हुन्छ।",
+    "examplesRomanized": "sinusitisma tauko dukhchha ra nak band hunchha.",
+    "exampleEnglish": "Sinusitis causes headache and nasal congestion.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एक्जिमा",
+    "romanization": "eczema",
+    "pos": "noun",
+    "definitions": [
+      "eczema"
+    ],
+    "examples": "एक्जिमामा छाला सुख्खा र खुजली हुन्छ।",
+    "examplesRomanized": "eczema ma chhala sukkha ra khujali hunchha.",
+    "exampleEnglish": "Eczema causes dry and itchy skin.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "सोरायसिस",
+    "romanization": "psoriasis",
+    "pos": "noun",
+    "definitions": [
+      "psoriasis"
+    ],
+    "examples": "सोरायसिसमा छाला बाक्लो र रातो हुन्छ।",
+    "examplesRomanized": "psoriasisma chhala baklo ra rato hunchha.",
+    "exampleEnglish": "Psoriasis makes skin thick and red.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "ग्यास्ट्राइटिस",
+    "romanization": "gastritis",
+    "pos": "noun",
+    "definitions": [
+      "gastritis"
+    ],
+    "examples": "ग्यास्ट्राइटिसले पेट पोल्छ।",
+    "examplesRomanized": "gastritisle pet polchha.",
+    "exampleEnglish": "Gastritis causes stomach burning.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "अल्सर",
+    "romanization": "ulcer",
+    "pos": "noun",
+    "definitions": [
+      "ulcer"
+    ],
+    "examples": "अल्सरले पेट दुख्छ र रक्तस्राव हुन सक्छ।",
+    "examplesRomanized": "ulcerle pet dukhchha ra raktasraav hun sakchha.",
+    "exampleEnglish": "An ulcer can cause stomach pain and bleeding.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "किमोथेरापी",
+    "romanization": "chemotherapy",
+    "pos": "noun",
+    "definitions": [
+      "chemotherapy"
+    ],
+    "examples": "क्यान्सरको उपचारमा किमोथेरापी दिइयो।",
+    "examplesRomanized": "cancerko upachar ma chemotherapy diyo.",
+    "exampleEnglish": "Chemotherapy was given for cancer treatment.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "रेडियोथेरापी",
+    "romanization": "radiotherapy",
+    "pos": "noun",
+    "definitions": [
+      "radiotherapy"
+    ],
+    "examples": "रेडियोथेरापी सत्र सम्पन्न भयो।",
+    "examplesRomanized": "radiotherapy satra sampanna bhayo.",
+    "exampleEnglish": "The radiotherapy session was completed.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एनेस्थेसिया",
+    "romanization": "anesthesia",
+    "pos": "noun",
+    "definitions": [
+      "anesthesia"
+    ],
+    "examples": "सर्जरी अघि एनेस्थेसिया दिइयो।",
+    "examplesRomanized": "surgery aghi anesthesia diyo.",
+    "exampleEnglish": "Anesthesia was administered before surgery.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "ल्यापारोस्कोपी",
+    "romanization": "laparoscopy",
+    "pos": "noun",
+    "definitions": [
+      "laparoscopy"
+    ],
+    "examples": "ल्यापारोस्कोपी कम चोट लाग्ने प्रक्रिया हो।",
+    "examplesRomanized": "laparoscopy kam chot lagne prakriya ho.",
+    "exampleEnglish": "Laparoscopy is a minimally invasive procedure.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "क्वारेन्टिन",
+    "romanization": "quarantine",
+    "pos": "noun",
+    "definitions": [
+      "quarantine"
+    ],
+    "examples": "सन्दिग्ध केसलाई क्वारेन्टिनमा राखियो।",
+    "examplesRomanized": "sandigdh keslai quarantine ma rakhiyo.",
+    "exampleEnglish": "Suspected cases were kept in quarantine.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "आइसोलेसन",
+    "romanization": "isolation",
+    "pos": "noun",
+    "definitions": [
+      "isolation"
+    ],
+    "examples": "संक्रमितलाई आइसोलेसनमा राखियो।",
+    "examplesRomanized": "sankramitlai isolation ma rakhiyo.",
+    "exampleEnglish": "Infected individuals were kept in isolation.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "सम्पर्क अनुगमन",
+    "romanization": "sampark anugaman",
+    "pos": "noun",
+    "definitions": [
+      "contact tracing"
+    ],
+    "examples": "सम्पर्क अनुगमन गरेर जोखिम पहिचान गरियो।",
+    "examplesRomanized": "sampark anugaman garera jokhim pahichan gario.",
+    "exampleEnglish": "Risk was identified through contact tracing.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "ट्रायाज",
+    "romanization": "triage",
+    "pos": "noun",
+    "definitions": [
+      "triage"
+    ],
+    "examples": "आपतकालीनमा ट्रायाज प्राथमिकता तोक्छ।",
+    "examplesRomanized": "aapatkalinma triage prathmikta tokchha.",
+    "exampleEnglish": "Triage sets priorities in emergencies.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "अकुपेसनल थेरापी",
+    "romanization": "occupational therapy",
+    "pos": "noun",
+    "definitions": [
+      "occupational therapy"
+    ],
+    "examples": "दैनिक क्रियाकलापमा फर्काउन अकुपेसनल थेरापीले सहयोग गर्छ।",
+    "examplesRomanized": "dainik kriyakalpma farkauna occupational therapy le sahayog garcha.",
+    "exampleEnglish": "Occupational therapy helps return to daily activities.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "स्पिच थेरापी",
+    "romanization": "speech therapy",
+    "pos": "noun",
+    "definitions": [
+      "speech therapy"
+    ],
+    "examples": "स्पिच थेरापीले बोलाइ सुधार गर्छ।",
+    "examplesRomanized": "speech therapy le bolai sudhar garcha.",
+    "exampleEnglish": "Speech therapy improves speech.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एनआईसीयू",
+    "romanization": "NICU",
+    "pos": "noun",
+    "definitions": [
+      "neonatal intensive care unit"
+    ],
+    "examples": "अकाल जन्मेको शिशु एनआईसीयूमा राखियो।",
+    "examplesRomanized": "akal janmeko shishu NICUma rakhiyo.",
+    "exampleEnglish": "The premature baby was kept in the NICU.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "इन्क्यूबेटर",
+    "romanization": "incubator",
+    "pos": "noun",
+    "definitions": [
+      "incubator"
+    ],
+    "examples": "नवजात शिशु इन्क्यूबेटरमा राखियो।",
+    "examplesRomanized": "navjat shishu incubatorma rakhiyo.",
+    "exampleEnglish": "The newborn was placed in an incubator.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "नवजात शिशु",
+    "romanization": "navajat shishu",
+    "pos": "noun",
+    "definitions": [
+      "newborn"
+    ],
+    "examples": "नवजात शिशुको तौल र तापक्रम जाँचिन्छ।",
+    "examplesRomanized": "navajat shishuko taul ra tapakram janchincha.",
+    "exampleEnglish": "A newborn's weight and temperature are checked.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "आर्थोपेडिक सर्जरी",
+    "romanization": "orthopedic surgery",
+    "pos": "noun",
+    "definitions": [
+      "orthopedic surgery"
+    ],
+    "examples": "आर्थोपेडिक सर्जरीले हाड जोर्नीको उपचार गर्छ।",
+    "examplesRomanized": "orthopedic surgery le haad jorniko upachar garcha.",
+    "exampleEnglish": "Orthopedic surgery treats bones and joints.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "चिन्ता विकार",
+    "romanization": "chinta vikar",
+    "pos": "noun",
+    "definitions": [
+      "anxiety disorder"
+    ],
+    "examples": "चिन्ता विकारमा चिन्ताको स्तर अत्यधिक हुन्छ।",
+    "examplesRomanized": "chinta vikarma chintako star atyadhik hunchha.",
+    "exampleEnglish": "Anxiety disorder involves excessive anxiety.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "उदासी",
+    "romanization": "udasi",
+    "pos": "noun",
+    "definitions": [
+      "depression"
+    ],
+    "examples": "उदासीमा मन खिन्न र उर्जा कम हुन्छ।",
+    "examplesRomanized": "udasima man khinna ra urja kam hunchha.",
+    "exampleEnglish": "Depression causes low mood and energy.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "द्विध्रुवी विकार",
+    "romanization": "dwidhruvi vikar",
+    "pos": "noun",
+    "definitions": [
+      "bipolar disorder"
+    ],
+    "examples": "द्विध्रुवी विकारमा मूड तीव्र उतारचढाव हुन्छ।",
+    "examplesRomanized": "dwidhruvi vikarma mood tivra utarachadhav hunchha.",
+    "exampleEnglish": "Bipolar disorder involves extreme mood swings.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "स्किजोफ्रेनिया",
+    "romanization": "schizophrenia",
+    "pos": "noun",
+    "definitions": [
+      "schizophrenia"
+    ],
+    "examples": "स्किजोफ्रेनियामा विचार र व्यवहार प्रभावित हुन्छ।",
+    "examplesRomanized": "schizophreniam a bichar ra byabahar prabhavit hunchha.",
+    "exampleEnglish": "Thought and behavior are affected in schizophrenia.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "प्यानिक अट्याक",
+    "romanization": "panic attack",
+    "pos": "noun",
+    "definitions": [
+      "panic attack"
+    ],
+    "examples": "प्यानिक अट्याकमा अचानक डर लाग्छ र नाडी बढ्छ।",
+    "examplesRomanized": "panic attackma achanak dar lagchha ra nadi badchha.",
+    "exampleEnglish": "Panic attacks cause sudden fear and rapid pulse.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एसएसआरआई",
+    "romanization": "SSRI",
+    "pos": "noun",
+    "definitions": [
+      "selective serotonin reuptake inhibitor"
+    ],
+    "examples": "एसएसआरआई औषधि उदासीमा प्रयोग हुन्छ।",
+    "examplesRomanized": "SSRI aushadhi udasima prayog hunchha.",
+    "exampleEnglish": "SSRI medicines are used in depression.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "बेंजो्डायजिपिन",
+    "romanization": "benzodiazepine",
+    "pos": "noun",
+    "definitions": [
+      "benzodiazepine"
+    ],
+    "examples": "बेंजो्डायजिपिन छोटो समयका लागि दिनुपर्छ।",
+    "examplesRomanized": "benzodiazepine chhoto samayka lagi dinuparchha.",
+    "exampleEnglish": "Benzodiazepines should be used short-term.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "बीटाब्लकर",
+    "romanization": "beta blocker",
+    "pos": "noun",
+    "definitions": [
+      "beta blocker"
+    ],
+    "examples": "बीटाब्लकरले नाडी र रक्तचाप घटाउँछ।",
+    "examplesRomanized": "beta blocker le nadi ra raktachap ghataunchha.",
+    "exampleEnglish": "Beta blockers lower pulse and blood pressure.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एसीई इनहिबिटर",
+    "romanization": "ACE inhibitor",
+    "pos": "noun",
+    "definitions": [
+      "ACE inhibitor"
+    ],
+    "examples": "एसीई इनहिबिटर उच्च रक्तचापमा प्रभावकारी हुन्छ।",
+    "examplesRomanized": "ACE inhibitor uchcha raktachapma prabhavkari hunchha.",
+    "exampleEnglish": "ACE inhibitors are effective in hypertension.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "डायुरेटिक",
+    "romanization": "diuretic",
+    "pos": "noun",
+    "definitions": [
+      "diuretic"
+    ],
+    "examples": "डायुरेटिकले पानी निस्कासन बढाउँछ।",
+    "examplesRomanized": "diuretic le pani niskasan badhaunchha.",
+    "exampleEnglish": "Diuretics increase fluid excretion.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "इनहेलर",
+    "romanization": "inhaler",
+    "pos": "noun",
+    "definitions": [
+      "inhaler"
+    ],
+    "examples": "अस्थमाका लागि इनहेलर प्रयोग हुन्छ।",
+    "examplesRomanized": "asthmaka lagi inhaler prayog hunchha.",
+    "exampleEnglish": "Inhalers are used for asthma.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "नेब्युलाइजेसन",
+    "romanization": "nebulization",
+    "pos": "noun",
+    "definitions": [
+      "nebulization"
+    ],
+    "examples": "नेब्युलाइजेसनले औषधि फोक्सोसम्म पुर्‍याउँछ।",
+    "examplesRomanized": "nebulization le aushadhi foksosamma puryaunchha.",
+    "exampleEnglish": "Nebulization delivers medicine to the lungs.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "ट्रेडमिल टेस्ट",
+    "romanization": "treadmill test",
+    "pos": "noun",
+    "definitions": [
+      "treadmill stress test"
+    ],
+    "examples": "ट्रेडमिल टेस्टले हृदयको सहनशीलता जाँच्छ।",
+    "examplesRomanized": "treadmill test le hridayako sahansheelta janchchha.",
+    "exampleEnglish": "The treadmill test checks cardiac tolerance.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "वाकिङ थेरापी",
+    "romanization": "walking therapy",
+    "pos": "noun",
+    "definitions": [
+      "walking therapy; gait training"
+    ],
+    "examples": "वाकिङ थेरापीले चाल सुधार हुन्छ।",
+    "examplesRomanized": "walking therapy le chal sudhar hunchha.",
+    "exampleEnglish": "Walking therapy improves gait.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "रक्त समूह",
+    "romanization": "rakt samuh",
+    "pos": "noun",
+    "definitions": [
+      "blood group"
+    ],
+    "examples": "रक्त समूह AO Rh+ छ।",
+    "examplesRomanized": "rakt samuh AO Rh+ chha.",
+    "exampleEnglish": "Blood group is AO Rh+.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "सीआरपी",
+    "romanization": "CRP",
+    "pos": "noun",
+    "definitions": [
+      "C-reactive protein"
+    ],
+    "examples": "सीआरपी स्तर बढेको छ।",
+    "examplesRomanized": "CRP star badheko chha.",
+    "exampleEnglish": "CRP level is elevated.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एचबिए१सी",
+    "romanization": "HbA1c",
+    "pos": "noun",
+    "definitions": [
+      "glycated hemoglobin"
+    ],
+    "examples": "एचबिए१सीले ३ महिनाको शर्करा नियन्त्रण देखाउँछ।",
+    "examplesRomanized": "HbA1c le 3 mahinako sharkara niyantran dekhau nchha.",
+    "exampleEnglish": "HbA1c shows 3-month sugar control.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "हेपबी खोप",
+    "romanization": "HepB khop",
+    "pos": "noun",
+    "definitions": [
+      "hepatitis B vaccine"
+    ],
+    "examples": "हेपबी खोप नवजातलाई दिइन्छ।",
+    "examplesRomanized": "HepB khop navajatlai diyincha.",
+    "exampleEnglish": "HepB vaccine is given to newborns.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "स्केल्पेल",
+    "romanization": "scalpel",
+    "pos": "noun",
+    "definitions": [
+      "scalpel"
+    ],
+    "examples": "स्केल्पेल शल्यक्रियामा प्रयोग हुन्छ।",
+    "examplesRomanized": "scalpel shalyakriyama prayog hunchha.",
+    "exampleEnglish": "A scalpel is used in surgery.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "फोर्सेप्स",
+    "romanization": "forceps",
+    "pos": "noun",
+    "definitions": [
+      "forceps"
+    ],
+    "examples": "फोर्सेप्सले टिस्यु समातिन्छ।",
+    "examplesRomanized": "forcepsle tissue samatinchha.",
+    "exampleEnglish": "Tissue is grasped with forceps.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "रीट्र्याक्टर",
+    "romanization": "retractor",
+    "pos": "noun",
+    "definitions": [
+      "retractor"
+    ],
+    "examples": "रीट्र्याक्टरले घाउ खुला राखिन्छ।",
+    "examplesRomanized": "retractorle ghau khula rakhinchha.",
+    "exampleEnglish": "A retractor keeps the wound open.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "स्यूचर",
+    "romanization": "suture",
+    "pos": "noun",
+    "definitions": [
+      "suture"
+    ],
+    "examples": "स्यूचरले कटिएको भाग सिलाइन्छ।",
+    "examplesRomanized": "suturele katieko bhag silainchha.",
+    "exampleEnglish": "A suture closes the cut part.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "स्टेरिलाइजेसन",
+    "romanization": "sterilization",
+    "pos": "noun",
+    "definitions": [
+      "sterilization (of instruments)"
+    ],
+    "examples": "स्टेरिलाइजेसनपछि उपकरण प्रयोग हुन्छ।",
+    "examplesRomanized": "sterilization pachi upakaran prayog hunchha.",
+    "exampleEnglish": "Instruments are used after sterilization.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "फिजियो ब्यान्ड",
+    "romanization": "physio band",
+    "pos": "noun",
+    "definitions": [
+      "resistance band"
+    ],
+    "examples": "फिजियो ब्यान्डले तान्ने अभ्यास गरियो।",
+    "examplesRomanized": "physio bandle tanne abhyas gario.",
+    "exampleEnglish": "Stretch exercises were done with a resistance band.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "काइरोप्र्याक्टिक",
+    "romanization": "chiropractic",
+    "pos": "noun",
+    "definitions": [
+      "chiropractic"
+    ],
+    "examples": "काइरोप्र्याक्टिकले मेरुदण्डको सम्योजन गर्छ।",
+    "examplesRomanized": "chiropractic le merudandako samyojan garcha.",
+    "exampleEnglish": "Chiropractic aligns the spine.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "खोप योजना",
+    "romanization": "khop yojana",
+    "pos": "noun",
+    "definitions": [
+      "immunization schedule"
+    ],
+    "examples": "बालखोप योजना अनुसार खोप लगाइयो।",
+    "examplesRomanized": "balakhop yojana anusaar khop lagaiyo.",
+    "exampleEnglish": "Vaccines were given per the immunization schedule.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "टिटानस खोप",
+    "romanization": "tetanus khop",
+    "pos": "noun",
+    "definitions": [
+      "tetanus vaccine"
+    ],
+    "examples": "घाउपछि टिटानस खोप लगाउनुहोस्।",
+    "examplesRomanized": "ghau pachi tetanus khop lagaunuhos.",
+    "exampleEnglish": "Get a tetanus shot after a wound.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "आयु",
+    "romanization": "ayu",
+    "pos": "noun",
+    "definitions": [
+      "life expectancy; age"
+    ],
+    "examples": "स्वास्थ्यले आयुमा प्रभाव पार्छ।",
+    "examplesRomanized": "swasthyal e ayuma prabhav parchha.",
+    "exampleEnglish": "Health affects life expectancy.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "ध्यान",
+    "romanization": "dhyaan",
+    "pos": "noun",
+    "definitions": [
+      "meditation"
+    ],
+    "examples": "ध्यानले मानसिक स्वास्थ्य सुधार्छ।",
+    "examplesRomanized": "dhyaan le manasik swasthya sudharchha.",
+    "exampleEnglish": "Meditation improves mental health.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "अस्थिग्म्याटिज्म",
+    "romanization": "astigmatism",
+    "pos": "noun",
+    "definitions": [
+      "astigmatism"
+    ],
+    "examples": "अस्थिग्म्याटिज्मले दृष्टि धुम्म देखिन्छ।",
+    "examplesRomanized": "astigmatismle drishti dhumma dekhhincha.",
+    "exampleEnglish": "Astigmatism causes blurred vision.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "नेत्रशोथ",
+    "romanization": "netra shoth",
+    "pos": "noun",
+    "definitions": [
+      "conjunctivitis"
+    ],
+    "examples": "नेत्रशोथ हुँदा आँखा रातो र पानी आउँछ।",
+    "examplesRomanized": "netra shoth huda aankha rato ra pani aunchha.",
+    "exampleEnglish": "Conjunctivitis causes red, watery eyes.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "रिफ्र्याक्सन जाँच",
+    "romanization": "refraction janch",
+    "pos": "noun",
+    "definitions": [
+      "refraction test"
+    ],
+    "examples": "चश्मा मिलाउन रिफ्र्याक्सन जाँच गरियो।",
+    "examplesRomanized": "chashma milauna refraction janch gario.",
+    "exampleEnglish": "A refraction test was done to fit glasses.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "टोनोंमिटर",
+    "romanization": "tonometer",
+    "pos": "noun",
+    "definitions": [
+      "tonometer"
+    ],
+    "examples": "टोनोंमिटरले आँखा दबाब नापिन्छ।",
+    "examplesRomanized": "tonometerle aankha dabab napincha.",
+    "exampleEnglish": "A tonometer measures eye pressure.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "मुँहासे",
+    "romanization": "muhase",
+    "pos": "noun",
+    "definitions": [
+      "acne"
+    ],
+    "examples": "किशोरावस्थामा मुँहासे देखापर्छ।",
+    "examplesRomanized": "kishorawasthama muhase dekhaparchha.",
+    "exampleEnglish": "Acne appears during adolescence.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एलोपेसिया",
+    "romanization": "alopecia",
+    "pos": "noun",
+    "definitions": [
+      "alopecia; hair loss"
+    ],
+    "examples": "एलोपेसियाले कपाल झर्छ।",
+    "examplesRomanized": "alopeci yale kapal jharchha.",
+    "exampleEnglish": "Alopecia causes hair loss.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "स्तनपान",
+    "romanization": "stanpan",
+    "pos": "noun",
+    "definitions": [
+      "breastfeeding"
+    ],
+    "examples": "स्तनपान नवजातका लागि आवश्यक छ।",
+    "examplesRomanized": "stanpan navajatka lagi aawashyak chha.",
+    "exampleEnglish": "Breastfeeding is essential for newborns.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "प्रसवोत्तर उदासी",
+    "romanization": "prasvottar udasi",
+    "pos": "noun",
+    "definitions": [
+      "postpartum depression"
+    ],
+    "examples": "प्रसवोत्तर उदासीको लक्षण देखियो।",
+    "examplesRomanized": "prasvottar udasiko lakshan dekhi yo.",
+    "exampleEnglish": "Signs of postpartum depression were noted.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एनाफायलाक्सिस",
+    "romanization": "anaphylaxis",
+    "pos": "noun",
+    "definitions": [
+      "anaphylaxis"
+    ],
+    "examples": "एनाफायलाक्सिस आपतकालीन अवस्था हो।",
+    "examplesRomanized": "anaphylaxis aapatkalin awastha ho.",
+    "exampleEnglish": "Anaphylaxis is a medical emergency.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "शक",
+    "romanization": "shock",
+    "pos": "noun",
+    "definitions": [
+      "shock (medical)"
+    ],
+    "examples": "रक्तस्रावले रोगी शकमा गए।",
+    "examplesRomanized": "raktasraavle rogi shakma gaye.",
+    "exampleEnglish": "The patient went into shock due to bleeding.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "जलन",
+    "romanization": "jalan",
+    "pos": "noun",
+    "definitions": [
+      "burn"
+    ],
+    "examples": "तातो पानीले हातमा जलन भयो।",
+    "examplesRomanized": "tato panile hatma jalan bhayo.",
+    "exampleEnglish": "Hot water caused a burn on the hand.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "फ्र्याक्चर",
+    "romanization": "fracture",
+    "pos": "noun",
+    "definitions": [
+      "fracture"
+    ],
+    "examples": "दुर्घटनामा खुट्टाको फ्र्याक्चर भयो।",
+    "examplesRomanized": "durghatanama khuttako fracture bhayo.",
+    "exampleEnglish": "The leg was fractured in an accident.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "हेमोस्टाट",
+    "romanization": "hemostat",
+    "pos": "noun",
+    "definitions": [
+      "hemostat"
+    ],
+    "examples": "हेमोस्टाटले रगतको बहाव रोकिन्छ।",
+    "examplesRomanized": "hemostatle ragatko bahav rokinchha.",
+    "exampleEnglish": "A hemostat stops blood flow.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "इलेक्ट्रोकटरी",
+    "romanization": "electrocautery",
+    "pos": "noun",
+    "definitions": [
+      "electrocautery"
+    ],
+    "examples": "इलेक्ट्रोकटरीले रक्तस्राव नियन्त्रण गरियो।",
+    "examplesRomanized": "electrocautery le raktasraav niyantran gario.",
+    "exampleEnglish": "Electrocautery controlled bleeding.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "आरओएम",
+    "romanization": "ROM",
+    "pos": "noun",
+    "definitions": [
+      "range of motion"
+    ],
+    "examples": "आरओएम अभ्यासले जोर्नीको गति बढ्छ।",
+    "examplesRomanized": "ROM abhyasle jorni ko gati badchha.",
+    "exampleEnglish": "ROM exercises improve joint movement.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "बलवर्द्धक अभ्यास",
+    "romanization": "balvarddhak abhyas",
+    "pos": "noun",
+    "definitions": [
+      "strengthening exercises"
+    ],
+    "examples": "बलवर्द्धक अभ्यासले मांसपेशी बलियो हुन्छ।",
+    "examplesRomanized": "balvarddhak abhyasle maansapeshi baliyo hunchha.",
+    "exampleEnglish": "Strengthening exercises build muscle strength.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "प्लेटलेट",
+    "romanization": "platelet",
+    "pos": "noun",
+    "definitions": [
+      "platelet"
+    ],
+    "examples": "प्लेटलेट स्तर घट्दा रक्तस्रावको जोखिम बढ्छ।",
+    "examplesRomanized": "platelet star ghad da raktasraavko jokhim badchha.",
+    "exampleEnglish": "Low platelets increase bleeding risk.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "क्रिएटिनिन",
+    "romanization": "creatinine",
+    "pos": "noun",
+    "definitions": [
+      "creatinine"
+    ],
+    "examples": "क्रिएटिनिन स्तर मिर्गौला कार्यको सूचक हो।",
+    "examplesRomanized": "creatinine star mirgaula karyako suchak ho.",
+    "exampleEnglish": "Creatinine level indicates kidney function.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "युरिया",
+    "romanization": "urea",
+    "pos": "noun",
+    "definitions": [
+      "urea"
+    ],
+    "examples": "युरिया स्तर बढेको छ।",
+    "examplesRomanized": "urea star badheko chha.",
+    "exampleEnglish": "Urea level is elevated.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "बीसीजी खोप",
+    "romanization": "BCG khop",
+    "pos": "noun",
+    "definitions": [
+      "BCG vaccine"
+    ],
+    "examples": "बीसीजी खोप टीबी विरुद्ध लगाइन्छ।",
+    "examplesRomanized": "BCG khop TB viruddha lagaincha.",
+    "exampleEnglish": "BCG vaccine is given against TB.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "डीटीपी खोप",
+    "romanization": "DTP khop",
+    "pos": "noun",
+    "definitions": [
+      "DTP vaccine"
+    ],
+    "examples": "डीटीपी खोप बालबालिकालाई दिइन्छ।",
+    "examplesRomanized": "DTP khop balbalikalai diyincha.",
+    "exampleEnglish": "DTP vaccine is given to children.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "ओपीभी",
+    "romanization": "OPV",
+    "pos": "noun",
+    "definitions": [
+      "oral polio vaccine"
+    ],
+    "examples": "ओपीभी खोप मुखमार्फत दिइन्छ।",
+    "examplesRomanized": "OPV khop mukhmargat diyincha.",
+    "exampleEnglish": "OPV is given orally.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "पीईटी स्क्यान",
+    "romanization": "PET scan",
+    "pos": "noun",
+    "definitions": [
+      "positron emission tomography"
+    ],
+    "examples": "पीईटी स्क्यानले क्यान्सरको सक्रियता देखाउँछ।",
+    "examplesRomanized": "PET scan le cancerko sakriyata dekhauchha.",
+    "exampleEnglish": "A PET scan shows cancer activity.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "डीफिब्रिलेटर",
+    "romanization": "defibrillator",
+    "pos": "noun",
+    "definitions": [
+      "defibrillator"
+    ],
+    "examples": "डीफिब्रिलेटरले असामान्य धड्कन सुधार्यो।",
+    "examplesRomanized": "defibrillatorle asamanya dhadkan sudharyo.",
+    "exampleEnglish": "The defibrillator corrected an abnormal rhythm.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "व्हेन्टिलेटर सेटिङ",
+    "romanization": "ventilator setting",
+    "pos": "noun",
+    "definitions": [
+      "ventilator settings"
+    ],
+    "examples": "व्हेन्टिलेटर सेटिङ रोगीअनुसार मिलाइयो।",
+    "examplesRomanized": "ventilator setting rogi anusaar milaiyo.",
+    "exampleEnglish": "Ventilator settings were adjusted per patient.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "सीबीटी",
+    "romanization": "CBT",
+    "pos": "noun",
+    "definitions": [
+      "cognitive behavioral therapy"
+    ],
+    "examples": "सीबीटीले चिन्ता र उदासीमा मद्दत गर्छ।",
+    "examplesRomanized": "CBT le chinta ra udasima maddat garcha.",
+    "exampleEnglish": "CBT helps with anxiety and depression.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "माइन्डफुलनेस",
+    "romanization": "mindfulness",
+    "pos": "noun",
+    "definitions": [
+      "mindfulness"
+    ],
+    "examples": "माइन्डफुलनेस अभ्यासले तनाव घट्छ।",
+    "examplesRomanized": "mindfulness abhyasle tanav ghatchha.",
+    "exampleEnglish": "Mindfulness practice reduces stress.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "प्रोटिन",
+    "romanization": "protein",
+    "pos": "noun",
+    "definitions": [
+      "protein"
+    ],
+    "examples": "प्रोटिनले मांसपेशी निर्माणमा सहयोग गर्छ।",
+    "examplesRomanized": "protein le maansapeshi nirmarma sahayog garcha.",
+    "exampleEnglish": "Protein helps build muscles.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "कार्बोहाइड्रेट",
+    "romanization": "carbohydrate",
+    "pos": "noun",
+    "definitions": [
+      "carbohydrate"
+    ],
+    "examples": "कार्बोहाइड्रेटले ऊर्जा प्रदान गर्छ।",
+    "examplesRomanized": "carbohydrate le urja pradan garcha.",
+    "exampleEnglish": "Carbohydrates provide energy.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "फाइबर",
+    "romanization": "fiber",
+    "pos": "noun",
+    "definitions": [
+      "dietary fiber"
+    ],
+    "examples": "फाइबरले पाचन सुधार्छ।",
+    "examplesRomanized": "fiber le pachan sudharchha.",
+    "exampleEnglish": "Fiber improves digestion.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "जस्ता",
+    "romanization": "zinc",
+    "pos": "noun",
+    "definitions": [
+      "zinc"
+    ],
+    "examples": "जस्ताले प्रतिरक्षा सुधार गर्छ।",
+    "examplesRomanized": "zinc le pratiraksha sudhar garcha.",
+    "exampleEnglish": "Zinc improves immunity.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "आयनिक क्याल्सियम",
+    "romanization": "ionic calcium",
+    "pos": "noun",
+    "definitions": [
+      "ionized calcium"
+    ],
+    "examples": "आयनिक क्याल्सियम असन्तुलनले स्नायु प्रभावित हुन्छ।",
+    "examplesRomanized": "ionic calcium asantulanle snayu prabhavit hunchha.",
+    "exampleEnglish": "Ionized calcium imbalance affects nerves.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "सेप्सिस प्रोटोकल",
+    "romanization": "sepsis protocol",
+    "pos": "noun",
+    "definitions": [
+      "sepsis protocol"
+    ],
+    "examples": "सेप्सिस प्रोटोकल १ घण्टामा सुरु गरियो।",
+    "examplesRomanized": "sepsis protocol 1 ghantama suru gario.",
+    "exampleEnglish": "Sepsis protocol was started within 1 hour.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एबीजी",
+    "romanization": "ABG",
+    "pos": "noun",
+    "definitions": [
+      "arterial blood gas"
+    ],
+    "examples": "एबीजी रिपोर्टले अक्सिजन र कार्बनडाइअक्साइड देखाउँछ।",
+    "examplesRomanized": "ABG report le oxygen ra carbon dioxide dekhauchha.",
+    "exampleEnglish": "ABG shows oxygen and carbon dioxide levels.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एमएमआर खोप",
+    "romanization": "MMR khop",
+    "pos": "noun",
+    "definitions": [
+      "measles-mumps-rubella vaccine"
+    ],
+    "examples": "एमएमआर खोप तालिका अनुसार लगाइन्छ।",
+    "examplesRomanized": "MMR khop talika anusaar lagaincha.",
+    "exampleEnglish": "The MMR vaccine is given per schedule.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "आइपीभी",
+    "romanization": "IPV",
+    "pos": "noun",
+    "definitions": [
+      "inactivated polio vaccine"
+    ],
+    "examples": "आइपीभी खोप इन्जेक्सनमार्फत दिइन्छ।",
+    "examplesRomanized": "IPV khop injectionmargat diyincha.",
+    "exampleEnglish": "IPV is administered by injection.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "हाइब खोप",
+    "romanization": "Hib khop",
+    "pos": "noun",
+    "definitions": [
+      "Haemophilus influenzae type b vaccine"
+    ],
+    "examples": "हाइब खोपले निमोनियाबाट जोगाउँछ।",
+    "examplesRomanized": "Hib khop le nimoniya bata jogaunchha.",
+    "exampleEnglish": "Hib vaccine protects against pneumonia.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "रोटा भाइरस खोप",
+    "romanization": "rota virus khop",
+    "pos": "noun",
+    "definitions": [
+      "rotavirus vaccine"
+    ],
+    "examples": "रोटा भाइरस खोपले दस्तबाट बचाउँछ।",
+    "examplesRomanized": "rota virus khop le dast bata bachaunchha.",
+    "exampleEnglish": "Rotavirus vaccine prevents diarrhea.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "पीसीभी खोप",
+    "romanization": "PCV khop",
+    "pos": "noun",
+    "definitions": [
+      "pneumococcal conjugate vaccine"
+    ],
+    "examples": "पीसीभी खोपले निमोनियाको जोखिम घटाउँछ।",
+    "examplesRomanized": "PCV khop le nimoniyako jokhim ghataunchha.",
+    "exampleEnglish": "PCV reduces risk of pneumonia.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एचपीभी खोप",
+    "romanization": "HPV khop",
+    "pos": "noun",
+    "definitions": [
+      "human papillomavirus vaccine"
+    ],
+    "examples": "एचपीभी खोपले क्यान्सरको जोखिम घटाउँछ।",
+    "examplesRomanized": "HPV khop le cancer ko jokhim ghataunchha.",
+    "exampleEnglish": "HPV vaccine lowers cancer risk.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एएलटी (एसजीपीटी)",
+    "romanization": "ALT (SGPT)",
+    "pos": "noun",
+    "definitions": [
+      "alanine aminotransferase"
+    ],
+    "examples": "एएलटी कलेजो कार्यको सूचक हो।",
+    "examplesRomanized": "ALT kalejo karyako suchak ho.",
+    "exampleEnglish": "ALT indicates liver function.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एएसटी (एसजीओटी)",
+    "romanization": "AST (SGOT)",
+    "pos": "noun",
+    "definitions": [
+      "aspartate aminotransferase"
+    ],
+    "examples": "एएसटी स्तर बढ्दा कलेजो प्रभावित हुन सक्छ।",
+    "examplesRomanized": "AST star badda kalejo prabhavit hun sakchha.",
+    "exampleEnglish": "Elevated AST may indicate liver injury.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "बिलिरुबिन",
+    "romanization": "bilirubin",
+    "pos": "noun",
+    "definitions": [
+      "bilirubin"
+    ],
+    "examples": "बिलिरुबिन बढ्दा जण्डिस देखिन्छ।",
+    "examplesRomanized": "bilirubin bad da jandis dekhhincha.",
+    "exampleEnglish": "High bilirubin leads to jaundice.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एएलपी",
+    "romanization": "ALP",
+    "pos": "noun",
+    "definitions": [
+      "alkaline phosphatase"
+    ],
+    "examples": "एएलपी हड्डी र कलेजो विकारमा बढ्न सक्छ।",
+    "examplesRomanized": "ALP haddi ra kalejo vikarma badna sakchha.",
+    "exampleEnglish": "ALP can be elevated in bone and liver disease.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "हेमाटोक्रिट",
+    "romanization": "hematocrit",
+    "pos": "noun",
+    "definitions": [
+      "hematocrit"
+    ],
+    "examples": "हेमाटोक्रिटले रक्तको कोषीय अंश देखाउँछ।",
+    "examplesRomanized": "hematocrit le raktako koshiy ansh dekhauchha.",
+    "exampleEnglish": "Hematocrit shows the cellular fraction of blood.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "डब्ल्यूबीसी",
+    "romanization": "WBC",
+    "pos": "noun",
+    "definitions": [
+      "white blood cell count"
+    ],
+    "examples": "डब्ल्यूबीसी बढ्नु संक्रमणको संकेत हो।",
+    "examplesRomanized": "WBC badhnu sankramanko sanket ho.",
+    "exampleEnglish": "High WBC indicates infection.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "आरबीसी",
+    "romanization": "RBC",
+    "pos": "noun",
+    "definitions": [
+      "red blood cell count"
+    ],
+    "examples": "आरबीसी घट्दा रक्तअल्पता हुन सक्छ।",
+    "examplesRomanized": "RBC ghad da raktalptaa hun sakchha.",
+    "exampleEnglish": "Low RBC can cause anemia.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एसीएलएस",
+    "romanization": "ACLS",
+    "pos": "noun",
+    "definitions": [
+      "advanced cardiac life support"
+    ],
+    "examples": "एसीएलएस प्रोटोकल अनुसार उपचार भयो।",
+    "examplesRomanized": "ACLS protocol anusaar upachar bhayo.",
+    "exampleEnglish": "Treatment followed ACLS protocols.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "बीएलएस",
+    "romanization": "BLS",
+    "pos": "noun",
+    "definitions": [
+      "basic life support"
+    ],
+    "examples": "बीएलएस सिक्नु सबैका लागि उपयोगी छ।",
+    "examplesRomanized": "BLS siknu sabailai lagi upayogi chha.",
+    "exampleEnglish": "Learning BLS is useful for everyone.",
+    "frequency": "high",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "एटीएलएस",
+    "romanization": "ATLS",
+    "pos": "noun",
+    "definitions": [
+      "advanced trauma life support"
+    ],
+    "examples": "एटीएलएसले आघात व्यवस्थापनमा मार्गदर्शक दिन्छ।",
+    "examplesRomanized": "ATLS le aghat byabasthapanma margadarshak dinchha.",
+    "exampleEnglish": "ATLS guides trauma management.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "इन्फ्युजन पम्प",
+    "romanization": "infusion pump",
+    "pos": "noun",
+    "definitions": [
+      "infusion pump"
+    ],
+    "examples": "इन्फ्युजन पम्पले तरलको दर नियन्त्रित गर्छ।",
+    "examplesRomanized": "infusion pumple taralko dar niyantrit garcha.",
+    "exampleEnglish": "An infusion pump controls fluid rate.",
+    "frequency": "medium",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "सिरिंज पम्प",
+    "romanization": "syringe pump",
+    "pos": "noun",
+    "definitions": [
+      "syringe pump"
+    ],
+    "examples": "सिरिंज पम्पले औषधि सटीक रूपमा दिन्छ।",
+    "examplesRomanized": "syringe pumple aushadhi satik rupma dinchha.",
+    "exampleEnglish": "A syringe pump delivers medicine precisely.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "सेंट्रल लाइन",
+    "romanization": "central line",
+    "pos": "noun",
+    "definitions": [
+      "central venous line"
+    ],
+    "examples": "आईसीयुमा सेंट्रल लाइन राखियो।",
+    "examplesRomanized": "ICUma central line rakhiyo.",
+    "exampleEnglish": "A central line was placed in the ICU.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "आर्टेरियल लाइन",
+    "romanization": "arterial line",
+    "pos": "noun",
+    "definitions": [
+      "arterial line"
+    ],
+    "examples": "आर्टेरियल लाइनबाट बीपी निरन्तर नापिन्छ।",
+    "examplesRomanized": "arterial linebata BP nirantar napincha.",
+    "exampleEnglish": "An arterial line measures BP continuously.",
+    "frequency": "low",
+    "category": "health"
+  },
+  {
+    "DevanagriWord": "डिब्राइडमेन्ट",
+    "romanization": "debridement",
+    "pos": "noun",
+    "definitions": [
+      "debridement"
+    ],
+    "examples": "घाउको डिब्राइडमेन्ट गरेर मृत ऊतक हटाइयो।",
+    "examplesRomanized": "ghau ko debridement garera mrut utak hataiyo.",
+    "exampleEnglish": "Dead tissue was removed by debridement.",
+    "frequency": "medium",
+    "category": "health"
+  }
+]

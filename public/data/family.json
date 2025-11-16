@@ -1,0 +1,392 @@
+[
+  {
+    "DevanagriWord": "आमा",
+    "romanization": "ama",
+    "pos": "noun",
+    "definitions": [
+      "mother"
+    ],
+    "examples": "उनी मेरी आमा हुनुहुन्छ।",
+    "examplesRomanized": "uni meri ama hunuhunchha.",
+    "exampleEnglish": "She is my mother.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "काका",
+    "romanization": "kaka",
+    "pos": "noun",
+    "definitions": [
+      "paternal uncle"
+    ],
+    "examples": "काका गाउँमा बस्नुहुन्छ।",
+    "examplesRomanized": "kaka gauma basnuhunchha.",
+    "exampleEnglish": "My uncle lives in the village.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "काकी",
+    "romanization": "kaki",
+    "pos": "noun",
+    "definitions": [
+      "aunt (wife of paternal uncle)"
+    ],
+    "examples": "काकीले मिठो खाना बनाउनु भयो।",
+    "examplesRomanized": "kakile mitho khana banaunu bhayo.",
+    "exampleEnglish": "Aunt cooked delicious food.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "छोरा",
+    "romanization": "chhora",
+    "pos": "noun",
+    "definitions": [
+      "son"
+    ],
+    "examples": "तिनको छोरा स्कूल जान्छ।",
+    "examplesRomanized": "tinako chhora skul janchha.",
+    "exampleEnglish": "Their son goes to school.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "छोरी",
+    "romanization": "chhori",
+    "pos": "noun",
+    "definitions": [
+      "daughter"
+    ],
+    "examples": "उनकी छोरी धेरै मेहनेती छिन्।",
+    "examplesRomanized": "unki chhori dherai mehaneti chhin.",
+    "exampleEnglish": "Her daughter is very hardworking.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "दाजु",
+    "romanization": "daju",
+    "pos": "noun",
+    "definitions": [
+      "elder brother"
+    ],
+    "examples": "मेरो दाजु काठमाडौँमा काम गर्छन्।",
+    "examplesRomanized": "mero daju kathmanduma kam garchhan.",
+    "exampleEnglish": "My elder brother works in Kathmandu.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "दिदी",
+    "romanization": "didi",
+    "pos": "noun",
+    "definitions": [
+      "elder sister"
+    ],
+    "examples": "दिदी चिकित्सक हुनुहुन्छ।",
+    "examplesRomanized": "didi chikitsak hunuhunchha.",
+    "exampleEnglish": "My elder sister is a doctor.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "नातिनी",
+    "romanization": "natini",
+    "pos": "noun",
+    "definitions": [
+      "granddaughter (daughter's or son's daughter)"
+    ],
+    "examples": "नातिनी यति बेला खेल्दै छिन्।",
+    "examplesRomanized": "natini yeti bela kheldai chhin.",
+    "exampleEnglish": "The granddaughter is playing now.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "बहिनी",
+    "romanization": "bahini",
+    "pos": "noun",
+    "definitions": [
+      "younger sister"
+    ],
+    "examples": "मेरो बहिनी कक्षा पाँचमा पढ्छिन्।",
+    "examplesRomanized": "mero bahini kaksha panchma padhchhin.",
+    "exampleEnglish": "My younger sister studies in grade five.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "बुबा",
+    "romanization": "buba",
+    "pos": "noun",
+    "definitions": [
+      "father"
+    ],
+    "examples": "बुबा अफिस जानुभयो।",
+    "examplesRomanized": "buba afis janubhayo.",
+    "exampleEnglish": "Father went to the office.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "भाइ",
+    "romanization": "bhai",
+    "pos": "noun",
+    "definitions": [
+      "younger brother"
+    ],
+    "examples": "मेरो भाइ फुटबल खेल्छ।",
+    "examplesRomanized": "mero bhai futbol khelchha.",
+    "exampleEnglish": "My younger brother plays football.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "मामा",
+    "romanization": "mama",
+    "pos": "noun",
+    "definitions": [
+      "maternal uncle"
+    ],
+    "examples": "मामा विदेशमा बस्नुहुन्छ।",
+    "examplesRomanized": "mama bideshma basnuhunchha.",
+    "exampleEnglish": "My maternal uncle lives abroad.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "मामी",
+    "romanization": "mami",
+    "pos": "noun",
+    "definitions": [
+      "aunt (wife of maternal uncle)"
+    ],
+    "examples": "मामीले हामीलाई मिठाई दिनुभयो।",
+    "examplesRomanized": "mamile hamilai mithai dinubhayo.",
+    "exampleEnglish": "Aunt gave us sweets.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "श्रीमती",
+    "romanization": "shrimati",
+    "pos": "noun",
+    "definitions": [
+      "wife"
+    ],
+    "examples": "उनकी श्रीमती शिक्षक हुन्।",
+    "examplesRomanized": "unki shrimati shikshak hun.",
+    "exampleEnglish": "His wife is a teacher.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "श्रीमान",
+    "romanization": "shriman",
+    "pos": "noun",
+    "definitions": [
+      "husband"
+    ],
+    "examples": "उनका श्रीमान इन्जिनियर हुन्।",
+    "examplesRomanized": "unka shriman engineer hun.",
+    "exampleEnglish": "Her husband is an engineer.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "फुपू",
+    "romanization": "phupu",
+    "pos": "noun",
+    "definitions": [
+      "paternal aunt (father's sister)"
+    ],
+    "examples": "फुपू शहरमा बस्नुहुन्छ।",
+    "examplesRomanized": "phupu saharma basnuhunchha.",
+    "exampleEnglish": "My aunt lives in the city.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "फुपाजु",
+    "romanization": "phupaju",
+    "pos": "noun",
+    "definitions": [
+      "husband of paternal aunt"
+    ],
+    "examples": "फुपाजु घरमा आउनुभयो।",
+    "examplesRomanized": "phupaju gharma aunubhayo.",
+    "exampleEnglish": "My aunt's husband came home.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "हजुरआमा",
+    "romanization": "hajur aama",
+    "pos": "noun",
+    "definitions": [
+      "grandmother"
+    ],
+    "examples": "हजुरआमाले कथा सुनाउनुभयो।",
+    "examplesRomanized": "hajur aamale katha sunaubhayo.",
+    "exampleEnglish": "Grandmother told a story.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "हजुरबुवा",
+    "romanization": "hajur buwa",
+    "pos": "noun",
+    "definitions": [
+      "grandfather"
+    ],
+    "examples": "हजुरबुवाले आशीर्वाद दिनुभयो।",
+    "examplesRomanized": "hajur buwale ashirbad dinubhayo.",
+    "exampleEnglish": "Grandfather gave blessings.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "नाति",
+    "romanization": "nati",
+    "pos": "noun",
+    "definitions": [
+      "grandson"
+    ],
+    "examples": "नाति विद्यालय जान्छ।",
+    "examplesRomanized": "nati vidyalaya janchha.",
+    "exampleEnglish": "The grandson goes to school.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "ससुरा",
+    "romanization": "sasura",
+    "pos": "noun",
+    "definitions": [
+      "father-in-law"
+    ],
+    "examples": "ससुरा गाउँबाट आउने भयो।",
+    "examplesRomanized": "sasura gaubata aune bhayo.",
+    "exampleEnglish": "Father-in-law is coming from the village.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "सासु",
+    "romanization": "sasu",
+    "pos": "noun",
+    "definitions": [
+      "mother-in-law"
+    ],
+    "examples": "सासुले फोन गर्नुभयो।",
+    "examplesRomanized": "sasule phone garnubhayo.",
+    "exampleEnglish": "Mother-in-law called.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "ज्वाइँ",
+    "romanization": "jwain",
+    "pos": "noun",
+    "definitions": [
+      "son-in-law"
+    ],
+    "examples": "ज्वाइँ घरमा आएका छन्।",
+    "examplesRomanized": "jwain gharma aeka chhan.",
+    "exampleEnglish": "The son-in-law has come home.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "बुहारी",
+    "romanization": "buhari",
+    "pos": "noun",
+    "definitions": [
+      "daughter-in-law"
+    ],
+    "examples": "बुहारीले चिया बनाइन्।",
+    "examplesRomanized": "buharile chiya banain.",
+    "exampleEnglish": "The daughter-in-law made tea.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "साली",
+    "romanization": "sali",
+    "pos": "noun",
+    "definitions": [
+      "wife's sister"
+    ],
+    "examples": "सालीले फोन गरिन्।",
+    "examplesRomanized": "salile phone garin.",
+    "exampleEnglish": "My sister-in-law (wife's sister) called.",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "साला",
+    "romanization": "sala",
+    "pos": "noun",
+    "definitions": [
+      "wife's brother"
+    ],
+    "examples": "साला घर आए।",
+    "examplesRomanized": "sala ghar aaye.",
+    "exampleEnglish": "My brother-in-law (wife's brother) came home.",
+    "frequency": "medium",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "देवर",
+    "romanization": "dewar",
+    "pos": "noun",
+    "definitions": [
+      "husband's younger brother"
+    ],
+    "examples": "देवरले सहयोग गरे।",
+    "examplesRomanized": "dewarle sahayog gare.",
+    "exampleEnglish": "My husband's younger brother helped.",
+    "frequency": "medium",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "भाउजू",
+    "romanization": "bhauju",
+    "pos": "noun",
+    "definitions": [
+      "elder brother's wife"
+    ],
+    "examples": "भाउजूसँग कुरा गरें।",
+    "examplesRomanized": "bhaujusanga kura garen.",
+    "exampleEnglish": "I spoke with my sister-in-law (elder brother's wife).",
+    "frequency": "high",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "जेठाजु",
+    "romanization": "jethaju",
+    "pos": "noun",
+    "definitions": [
+      "elder sister's husband"
+    ],
+    "examples": "जेठाजुले सल्लाह दिए।",
+    "examplesRomanized": "jethajule sallaha diye.",
+    "exampleEnglish": "My elder sister's husband gave advice.",
+    "frequency": "medium",
+    "category": "family"
+  },
+  {
+    "DevanagriWord": "नन्द",
+    "romanization": "nand",
+    "pos": "noun",
+    "definitions": [
+      "husband's sister"
+    ],
+    "examples": "नन्द घरमै छिन्।",
+    "examplesRomanized": "nand gharmai chhin.",
+    "exampleEnglish": "My husband's sister is at home.",
+    "frequency": "medium",
+    "category": "family"
+  }
+]

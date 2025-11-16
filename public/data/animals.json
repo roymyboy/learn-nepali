@@ -1,0 +1,1237 @@
+[
+  {
+    "DevanagriWord": "कुकुर",
+    "romanization": "kukur",
+    "pos": "noun",
+    "definitions": [
+      "a dog; a domesticated canine"
+    ],
+    "examples": "कुकुर घरको सुरक्षा गर्छ।",
+    "examplesRomanized": "kukur gharko suraksha garchha.",
+    "exampleEnglish": "The dog guards the house.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "गाई",
+    "romanization": "gai",
+    "pos": "noun",
+    "definitions": [
+      "a cow; a female bovine"
+    ],
+    "examples": "गाई दूध दिन्छ।",
+    "examplesRomanized": "gai dudh dinchha.",
+    "exampleEnglish": "The cow gives milk.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "घोडा",
+    "romanization": "ghoda",
+    "pos": "noun",
+    "definitions": [
+      "a horse; a domesticated equine"
+    ],
+    "examples": "घोडा छिटो दौडिन्छ।",
+    "examplesRomanized": "ghoda chito daudinchha.",
+    "exampleEnglish": "The horse runs fast.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "बाख्रा",
+    "romanization": "bakhra",
+    "pos": "noun",
+    "definitions": [
+      "a goat; a domesticated caprine"
+    ],
+    "examples": "बाख्रा पहाडमा चरिन्छ।",
+    "examplesRomanized": "bakhra pahadma charincha.",
+    "exampleEnglish": "Goats are grazed in the hills.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "बाघ",
+    "romanization": "bagh",
+    "pos": "noun",
+    "definitions": [
+      "a tiger; a large wild cat"
+    ],
+    "examples": "बाघ शक्तिशाली जनावर हो।",
+    "examplesRomanized": "bagh shaktishali janawar ho.",
+    "exampleEnglish": "The tiger is a powerful animal.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "बिरालो",
+    "romanization": "biralo",
+    "pos": "noun",
+    "definitions": [
+      "a cat; a domesticated feline"
+    ],
+    "examples": "बिरालोले मुसा सम्छ।",
+    "examplesRomanized": "biralole musa samchha.",
+    "exampleEnglish": "Cats catch mice.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "भैँसी",
+    "romanization": "bhainsi",
+    "pos": "noun",
+    "definitions": [
+      "a buffalo"
+    ],
+    "examples": "भैँसीले दूध दिन्छ।",
+    "examplesRomanized": "bhainsile dudh dinchha.",
+    "exampleEnglish": "The buffalo gives milk.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "हात्ती",
+    "romanization": "hatti",
+    "pos": "noun",
+    "definitions": [
+      "an elephant"
+    ],
+    "examples": "हात्ती बुद्धिमान जनावर हो।",
+    "examplesRomanized": "hatti buddhiman janawar ho.",
+    "exampleEnglish": "The elephant is an intelligent animal.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "भेडा",
+    "romanization": "bheda",
+    "pos": "noun",
+    "definitions": [
+      "a sheep"
+    ],
+    "examples": "भेडाबाट ऊन पाइन्छ।",
+    "examplesRomanized": "bhedabata un painchha.",
+    "exampleEnglish": "Wool is obtained from sheep.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "सिंह",
+    "romanization": "sinh",
+    "pos": "noun",
+    "definitions": [
+      "a lion; a large wild cat"
+    ],
+    "examples": "सिंहलाई जङ्गलको राजा भनिन्छ।",
+    "examplesRomanized": "sinhlaai jangal-ko raja bhaninchha.",
+    "exampleEnglish": "The lion is called the king of the jungle.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "गैँडा",
+    "romanization": "gainda",
+    "pos": "noun",
+    "definitions": [
+      "a rhinoceros"
+    ],
+    "examples": "गैँडा नेपालका निकुञ्जमा पाइन्छ।",
+    "examplesRomanized": "gainda Nepalka nikunjma painchha.",
+    "exampleEnglish": "Rhinoceroses are found in Nepal's national parks.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "खरायो",
+    "romanization": "kharayo",
+    "pos": "noun",
+    "definitions": [
+      "a rabbit"
+    ],
+    "examples": "खरायो छिटो दौडन्छ।",
+    "examplesRomanized": "kharayo chito daudanchha.",
+    "exampleEnglish": "A rabbit runs fast.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "स्याल",
+    "romanization": "syal",
+    "pos": "noun",
+    "definitions": [
+      "a jackal"
+    ],
+    "examples": "स्याल राति चिच्याउँछ।",
+    "examplesRomanized": "syal rati chichyaunchha.",
+    "exampleEnglish": "A jackal howls at night.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "भालु",
+    "romanization": "bhalu",
+    "pos": "noun",
+    "definitions": [
+      "a bear"
+    ],
+    "examples": "भालुले मह मन पराउँछ।",
+    "examplesRomanized": "bhalule mah man paraunchha.",
+    "exampleEnglish": "A bear likes honey.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "बाँदर",
+    "romanization": "bandar",
+    "pos": "noun",
+    "definitions": [
+      "a monkey"
+    ],
+    "examples": "बाँदर रूखमा चढ्छ।",
+    "examplesRomanized": "bandar rukhma chadhchha.",
+    "exampleEnglish": "Monkeys climb trees.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "चमेरा",
+    "romanization": "chamera",
+    "pos": "noun",
+    "definitions": [
+      "a bat"
+    ],
+    "examples": "चमेरा राति उड्छ।",
+    "examplesRomanized": "chamera rati udchha.",
+    "exampleEnglish": "Bats fly at night.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "मुसा",
+    "romanization": "musa",
+    "pos": "noun",
+    "definitions": [
+      "a mouse"
+    ],
+    "examples": "मुसाले दाना खान्छ।",
+    "examplesRomanized": "musale dana khanchha.",
+    "exampleEnglish": "Mice eat grain.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "सुँगुर",
+    "romanization": "sunggur",
+    "pos": "noun",
+    "definitions": [
+      "a pig"
+    ],
+    "examples": "सुँगुर दाना खोज्दै घुम्छ।",
+    "examplesRomanized": "sunggur dana khojdai ghumchha.",
+    "exampleEnglish": "A pig roams searching for feed.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "चितुवा",
+    "romanization": "chituwa",
+    "pos": "noun",
+    "definitions": [
+      "a leopard"
+    ],
+    "examples": "चितुवा छिटो दौडन्छ।",
+    "examplesRomanized": "chituwa chito daudanchha.",
+    "exampleEnglish": "A leopard runs fast.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "हरिण",
+    "romanization": "harin",
+    "pos": "noun",
+    "definitions": [
+      "a deer"
+    ],
+    "examples": "हरिण बनमा दौडन्छ।",
+    "examplesRomanized": "harin banma daudanchha.",
+    "exampleEnglish": "The deer runs in the forest.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "मगरमच्छ",
+    "romanization": "magarmachchha",
+    "pos": "noun",
+    "definitions": [
+      "a crocodile"
+    ],
+    "examples": "मगरमच्छ नदीमा बस्छ।",
+    "examplesRomanized": "magarmachchha nadima baschha.",
+    "exampleEnglish": "The crocodile stays in the river.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "घडियाल",
+    "romanization": "ghadiyal",
+    "pos": "noun",
+    "definitions": [
+      "a gharial (long-snouted crocodilian)"
+    ],
+    "examples": "घडियाल तराईका नदीमा पाइन्छ।",
+    "examplesRomanized": "ghadiyal taraika nadima painchha.",
+    "exampleEnglish": "Gharials are found in the Tarai rivers.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "गोरु",
+    "romanization": "goru",
+    "pos": "noun",
+    "definitions": [
+      "an ox; a bull"
+    ],
+    "examples": "गोरुले हल जोत्छ।",
+    "examplesRomanized": "gorule hal jotchha.",
+    "exampleEnglish": "The ox ploughs the field.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "ऊँट",
+    "romanization": "unt",
+    "pos": "noun",
+    "definitions": [
+      "a camel"
+    ],
+    "examples": "ऊँट मरुभूमिमा बास गर्छ।",
+    "examplesRomanized": "unt marubhumima bas garchha.",
+    "exampleEnglish": "The camel lives in the desert.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "नेवला",
+    "romanization": "nevala",
+    "pos": "noun",
+    "definitions": [
+      "a mongoose"
+    ],
+    "examples": "नेवलाले सर्पसँग लड्छ।",
+    "examplesRomanized": "nevalale sarp sanga ladchha.",
+    "exampleEnglish": "The mongoose fights with snakes.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "सर्प",
+    "romanization": "sarp",
+    "pos": "noun",
+    "definitions": [
+      "a snake"
+    ],
+    "examples": "सर्प झाडीमा बस्छ।",
+    "examplesRomanized": "sarp jhadima baschha.",
+    "exampleEnglish": "Snakes stay in bushes.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "ब्वाँसो",
+    "romanization": "bwanso",
+    "pos": "noun",
+    "definitions": [
+      "a wolf"
+    ],
+    "examples": "ब्वाँसो जङ्गलमा बस्छ।",
+    "examplesRomanized": "bwanso jangalma baschha.",
+    "exampleEnglish": "Wolves live in forests.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "याक",
+    "romanization": "yak",
+    "pos": "noun",
+    "definitions": [
+      "a yak (domesticated bovine)"
+    ],
+    "examples": "याक हिमाली क्षेत्रमा पाइन्छ।",
+    "examplesRomanized": "yak himali kshetrama painchha.",
+    "exampleEnglish": "Yaks are found in Himalayan regions.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "रातो पाण्डा",
+    "romanization": "rato panda",
+    "pos": "noun",
+    "definitions": [
+      "a red panda"
+    ],
+    "examples": "रातो पाण्डा दुर्लभ जनावर हो।",
+    "examplesRomanized": "rato panda durlabh janawar ho.",
+    "exampleEnglish": "The red panda is a rare animal.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "हिउँ चितुवा",
+    "romanization": "hiu chituwa",
+    "pos": "noun",
+    "definitions": [
+      "a snow leopard"
+    ],
+    "examples": "हिउँ चितुवा हिमालमा बस्छ।",
+    "examplesRomanized": "hiu chituwa himalma baschha.",
+    "exampleEnglish": "Snow leopards live in the mountains.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "लंगुर",
+    "romanization": "langur",
+    "pos": "noun",
+    "definitions": [
+      "a langur (monkey)"
+    ],
+    "examples": "लंगुर रूखमा हाम फाल्छ।",
+    "examplesRomanized": "langur rukhma ham falchha.",
+    "exampleEnglish": "Langurs jump on trees.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "कछुवा",
+    "romanization": "kachhuwa",
+    "pos": "noun",
+    "definitions": [
+      "a tortoise; turtle"
+    ],
+    "examples": "कछुवा बिस्तारै चल्छ।",
+    "examplesRomanized": "kachhuwa bistaarai chalchha.",
+    "exampleEnglish": "A tortoise moves slowly.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "भ्यागुतो",
+    "romanization": "bhyaguto",
+    "pos": "noun",
+    "definitions": [
+      "a frog"
+    ],
+    "examples": "भ्यागुतो पोखरीमा बस्छ।",
+    "examplesRomanized": "bhyaguto pokharima baschha.",
+    "exampleEnglish": "Frogs live in ponds.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "छेपारे",
+    "romanization": "chhepare",
+    "pos": "noun",
+    "definitions": [
+      "a lizard"
+    ],
+    "examples": "छेपारे भित्तामा दौडिन्छ।",
+    "examplesRomanized": "chhepare bhittama daudinchha.",
+    "exampleEnglish": "A lizard runs on the wall.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "बन सुँगुर",
+    "romanization": "ban sungur",
+    "pos": "noun",
+    "definitions": [
+      "a wild boar"
+    ],
+    "examples": "बन सुँगुरले जमिन खोतल्छ।",
+    "examplesRomanized": "ban sungurle jamin khotalchha.",
+    "exampleEnglish": "Wild boars root the ground.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "उद",
+    "romanization": "ud",
+    "pos": "noun",
+    "definitions": [
+      "an otter"
+    ],
+    "examples": "उद नदीमा खेल्छ।",
+    "examplesRomanized": "ud nadima khelchha.",
+    "exampleEnglish": "Otters play in the river.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "अजिंगर",
+    "romanization": "ajingar",
+    "pos": "noun",
+    "definitions": [
+      "a python (large constrictor)"
+    ],
+    "examples": "अजिंगर ठूलो सर्प हो।",
+    "examplesRomanized": "ajingar thulo sarp ho.",
+    "exampleEnglish": "A python is a large snake.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "कस्तुरी मृग",
+    "romanization": "kasturi mrig",
+    "pos": "noun",
+    "definitions": [
+      "a musk deer"
+    ],
+    "examples": "कस्तुरी मृग हिमाली जङ्गलमा पाइन्छ।",
+    "examplesRomanized": "kasturi mrig himali jangalma painchha.",
+    "exampleEnglish": "Musk deer are found in Himalayan forests.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "नाउर",
+    "romanization": "naur",
+    "pos": "noun",
+    "definitions": [
+      "a blue sheep (bharal)"
+    ],
+    "examples": "नाउर खुरुखुरु ढुंगामा चढ्छ।",
+    "examplesRomanized": "naur khurukhuru dhungama chadhchha.",
+    "exampleEnglish": "Blue sheep nimbly climb rocks.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "थार",
+    "romanization": "thar",
+    "pos": "noun",
+    "definitions": [
+      "a Himalayan tahr"
+    ],
+    "examples": "थार उकालो ढिस्कोमा चराउँछ।",
+    "examplesRomanized": "thar ukalo dhiskoma charaunchha.",
+    "exampleEnglish": "Himalayan tahr graze on steep slopes.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "घोरल",
+    "romanization": "ghoral",
+    "pos": "noun",
+    "definitions": [
+      "a goral (mountain goat-antelope)"
+    ],
+    "examples": "घोरल चट्टानमा दौडिन्छ।",
+    "examplesRomanized": "ghoral chattanma daudinchha.",
+    "exampleEnglish": "Gorals run on cliffs.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "गौर",
+    "romanization": "gaur",
+    "pos": "noun",
+    "definitions": [
+      "a gaur (wild bison)"
+    ],
+    "examples": "गौर ठूलो वन्य जनावर हो।",
+    "examplesRomanized": "gaur thulo vanya janawar ho.",
+    "exampleEnglish": "The gaur is a large wild bovine.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "साही",
+    "romanization": "sahi",
+    "pos": "noun",
+    "definitions": [
+      "a porcupine"
+    ],
+    "examples": "साहीले काँटा उचाल्छ।",
+    "examplesRomanized": "sahile kanta uchalchha.",
+    "exampleEnglish": "A porcupine raises its quills.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "साँढे",
+    "romanization": "saande",
+    "pos": "noun",
+    "definitions": [
+      "a bull"
+    ],
+    "examples": "साँढेले खेत जोत्न मद्दत गर्छ।",
+    "examplesRomanized": "saandele khet jotna maddat garcha.",
+    "exampleEnglish": "A bull helps plough the field.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "नीलगाई",
+    "romanization": "nilgai",
+    "pos": "noun",
+    "definitions": [
+      "a nilgai (blue bull antelope)"
+    ],
+    "examples": "नीलगाई समथर जमिनतिर चरिन्छ।",
+    "examplesRomanized": "nilgai samathar jamintira charincha.",
+    "exampleEnglish": "Nilgai graze toward the plains.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "चित्तल",
+    "romanization": "chittal",
+    "pos": "noun",
+    "definitions": [
+      "a spotted deer (chital)"
+    ],
+    "examples": "चित्तलको छाला चित्तेदार हुन्छ।",
+    "examplesRomanized": "chittalko chhala chittedar hunchha.",
+    "exampleEnglish": "Chital have spotted coats.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "सांबर",
+    "romanization": "sambar",
+    "pos": "noun",
+    "definitions": [
+      "a sambar deer"
+    ],
+    "examples": "सांबर घना जङ्गलमा लुकेर बस्छ।",
+    "examplesRomanized": "sambar ghana jangalma lukera baschha.",
+    "exampleEnglish": "Sambar deer hide in dense forests.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "सलक",
+    "romanization": "salak",
+    "pos": "noun",
+    "definitions": [
+      "a pangolin; scaly anteater"
+    ],
+    "examples": "सलकले किरा खान्छ।",
+    "examplesRomanized": "salakle kira khanchha.",
+    "exampleEnglish": "A pangolin eats insects.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "बार्हसिंगा",
+    "romanization": "barhasinga",
+    "pos": "noun",
+    "definitions": [
+      "a swamp deer (barasingha)"
+    ],
+    "examples": "बार्हसिंगालाई दुधुवा क्षेत्रमा देखिन्छ।",
+    "examplesRomanized": "barhasingalai dudhua kshetrama dekhinchha.",
+    "exampleEnglish": "Swamp deer are seen in the Dudhwa region.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "नाग",
+    "romanization": "naag",
+    "pos": "noun",
+    "definitions": [
+      "a cobra"
+    ],
+    "examples": "नाग विषालु सर्प हो।",
+    "examplesRomanized": "naag vishalu sarp ho.",
+    "exampleEnglish": "A cobra is a venomous snake.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "सूंस",
+    "romanization": "soons",
+    "pos": "noun",
+    "definitions": [
+      "a river dolphin"
+    ],
+    "examples": "सूंस तराईका नदीमा पाइन्छ।",
+    "examplesRomanized": "soons taraika nadima painchha.",
+    "exampleEnglish": "River dolphins are found in Tarai rivers.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "खच्चर",
+    "romanization": "khacchar",
+    "pos": "noun",
+    "definitions": [
+      "a mule"
+    ],
+    "examples": "खच्चरले भारी बोक्छ।",
+    "examplesRomanized": "khaccharle bhari bokchha.",
+    "exampleEnglish": "A mule carries loads.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "गधा",
+    "romanization": "gadha",
+    "pos": "noun",
+    "definitions": [
+      "a donkey"
+    ],
+    "examples": "गधाले सामान बोक्छ।",
+    "examplesRomanized": "gadhale saman bokchha.",
+    "exampleEnglish": "A donkey carries goods.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "उड्ने गिलहरी",
+    "romanization": "udne gilhari",
+    "pos": "noun",
+    "definitions": [
+      "a flying squirrel"
+    ],
+    "examples": "उड्ने गिलहरी राति सक्रिय हुन्छ।",
+    "examplesRomanized": "udne gilhari rati sakriya hunchha.",
+    "exampleEnglish": "Flying squirrels are active at night.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "हाइना",
+    "romanization": "haina",
+    "pos": "noun",
+    "definitions": [
+      "a hyena"
+    ],
+    "examples": "हाइना राति शिकार खोज्छ।",
+    "examplesRomanized": "haina rati shikar khojchha.",
+    "exampleEnglish": "A hyena searches for prey at night.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "स्लोथ भालु",
+    "romanization": "sloth bhalu",
+    "pos": "noun",
+    "definitions": [
+      "a sloth bear"
+    ],
+    "examples": "स्लोथ भालु तराईका जंगलमा पाइन्छ।",
+    "examplesRomanized": "sloth bhalu taraika jangalma painchha.",
+    "exampleEnglish": "Sloth bears are found in the Tarai forests.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "जंगली बिरालो",
+    "romanization": "jangali biralo",
+    "pos": "noun",
+    "definitions": [
+      "a wildcat"
+    ],
+    "examples": "जंगली बिरालो राति सिकार गर्छ।",
+    "examplesRomanized": "jangali biralo rati shikar garcha.",
+    "exampleEnglish": "A wildcat hunts at night.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "कृष्णसार",
+    "romanization": "krishnasar",
+    "pos": "noun",
+    "definitions": [
+      "a blackbuck"
+    ],
+    "examples": "कृष्णसार तराईमा पाइन्छ।",
+    "examplesRomanized": "krishnasar taraima painchha.",
+    "exampleEnglish": "Blackbucks are found in the Terai.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "लोमडी",
+    "romanization": "lomadi",
+    "pos": "noun",
+    "definitions": [
+      "a fox"
+    ],
+    "examples": "लोमडी चालाक जनावर हो।",
+    "examplesRomanized": "lomadi chalak janawar ho.",
+    "exampleEnglish": "The fox is a clever animal.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "महाशीर",
+    "romanization": "mahashir",
+    "pos": "noun",
+    "definitions": [
+      "a mahseer (fish)"
+    ],
+    "examples": "महाशीर पहाडी नदीमा पाइन्छ।",
+    "examplesRomanized": "mahashir pahadi nadima painchha.",
+    "exampleEnglish": "Mahseer are found in hill rivers.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "रोहु",
+    "romanization": "rohu",
+    "pos": "noun",
+    "definitions": [
+      "a rohu (fish)"
+    ],
+    "examples": "रोहु पोखरीमा पालन गरिन्छ।",
+    "examplesRomanized": "rohu pokharima palan garinchha.",
+    "exampleEnglish": "Rohu are farmed in ponds.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "कटला",
+    "romanization": "katla",
+    "pos": "noun",
+    "definitions": [
+      "a catla (fish)"
+    ],
+    "examples": "कटला ठूलो माछा हो।",
+    "examplesRomanized": "katla thulo machha ho.",
+    "exampleEnglish": "Catla is a large fish.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "ट्राउट",
+    "romanization": "trout",
+    "pos": "noun",
+    "definitions": [
+      "a trout (fish)"
+    ],
+    "examples": "ट्राउट चिसो पानीमा बस्छ।",
+    "examplesRomanized": "trout chiso panima baschha.",
+    "exampleEnglish": "Trout live in cold water.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "महुरी",
+    "romanization": "mauri",
+    "pos": "noun",
+    "definitions": [
+      "a honey bee"
+    ],
+    "examples": "महुरीले मह बनाउँछ।",
+    "examplesRomanized": "maurile mah banaunchha.",
+    "exampleEnglish": "Honey bees make honey.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "कमिला",
+    "romanization": "kamila",
+    "pos": "noun",
+    "definitions": [
+      "an ant"
+    ],
+    "examples": "कमिलाले दाना बोक्छ।",
+    "examplesRomanized": "kamilale dana bokchha.",
+    "exampleEnglish": "Ants carry grains.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "करेत",
+    "romanization": "karet",
+    "pos": "noun",
+    "definitions": [
+      "a krait (venomous snake)"
+    ],
+    "examples": "करेत विषालु सर्प हो।",
+    "examplesRomanized": "karet vishalu sarp ho.",
+    "exampleEnglish": "The krait is a venomous snake.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "गोमन सर्प",
+    "romanization": "goman sarp",
+    "pos": "noun",
+    "definitions": [
+      "a rat snake (non-venomous)"
+    ],
+    "examples": "गोमन सर्प विषरहित हुन्छ।",
+    "examplesRomanized": "goman sarp visharahit hunchha.",
+    "exampleEnglish": "Rat snakes are non-venomous.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "अरना",
+    "romanization": "arna",
+    "pos": "noun",
+    "definitions": [
+      "a wild water buffalo"
+    ],
+    "examples": "अरना तराईका घाँसे मैदानमा पाइन्छ।",
+    "examplesRomanized": "arna taraika ghase maidanma painchha.",
+    "exampleEnglish": "Arna are found in the grasslands of the Tarai.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "धोले",
+    "romanization": "dhole",
+    "pos": "noun",
+    "definitions": [
+      "an Asiatic wild dog"
+    ],
+    "examples": "धोले टोल बनाएर सिकार गर्छ।",
+    "examplesRomanized": "dhole tol banaera shikar garcha.",
+    "exampleEnglish": "Dholes hunt in packs.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "घोरपन्ने",
+    "romanization": "ghorpanne",
+    "pos": "noun",
+    "definitions": [
+      "a monitor lizard"
+    ],
+    "examples": "घोरपन्ने तातो ढुंगामाथि बस्छ।",
+    "examplesRomanized": "ghorpanne tato dhungamathi baschha.",
+    "exampleEnglish": "A monitor lizard sits on warm rocks.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "बाम",
+    "romanization": "bam",
+    "pos": "noun",
+    "definitions": [
+      "an eel"
+    ],
+    "examples": "बाम नदीको खोक्रोमा लुकेर बस्छ।",
+    "examplesRomanized": "bam nadiko khokroma lukera baschha.",
+    "exampleEnglish": "Eels hide in river crevices.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "लामखुट्टे",
+    "romanization": "lamkhutte",
+    "pos": "noun",
+    "definitions": [
+      "a mosquito"
+    ],
+    "examples": "लामखुट्टेले राति टोके।",
+    "examplesRomanized": "lamkhuttele rati toke.",
+    "exampleEnglish": "Mosquitoes bit at night.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "माकुरो",
+    "romanization": "makuro",
+    "pos": "noun",
+    "definitions": [
+      "a spider"
+    ],
+    "examples": "माकुरोले कुनामा जालो बुन्छ।",
+    "examplesRomanized": "makurole kunama jalo bunchha.",
+    "exampleEnglish": "A spider spins a web in the corner.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "झिँगुर",
+    "romanization": "jhingur",
+    "pos": "noun",
+    "definitions": [
+      "a cricket (insect)"
+    ],
+    "examples": "झिँगुरले राति ट्याँ ट्याँ गर्छ।",
+    "examplesRomanized": "jhingurle rati tyan tyan garcha.",
+    "exampleEnglish": "Crickets chirp at night.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "कस्तुरी बिरालो",
+    "romanization": "kasturi biralo",
+    "pos": "noun",
+    "definitions": [
+      "a civet"
+    ],
+    "examples": "कस्तुरी बिरालो राति सक्रिय हुन्छ।",
+    "examplesRomanized": "kasturi biralo rati sakriya hunchha.",
+    "exampleEnglish": "Civets are nocturnal.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "छिप्कली",
+    "romanization": "chipkali",
+    "pos": "noun",
+    "definitions": [
+      "a gecko"
+    ],
+    "examples": "छिप्कली भित्तामा टाँसिएर हिँड्छ।",
+    "examplesRomanized": "chipkali bhittama tansiYer hindchha.",
+    "exampleEnglish": "A gecko walks sticking to the wall.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "सिङ्गी",
+    "romanization": "singi",
+    "pos": "noun",
+    "definitions": [
+      "a catfish"
+    ],
+    "examples": "सिङ्गी माछा तलाउमा बस्छ।",
+    "examplesRomanized": "singi machha talauma baschha.",
+    "exampleEnglish": "Catfish live in ponds.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "पुतली",
+    "romanization": "putali",
+    "pos": "noun",
+    "definitions": [
+      "a butterfly"
+    ],
+    "examples": "पुतली फुलबारीमा उड्यो।",
+    "examplesRomanized": "putali phulbarima udyo.",
+    "exampleEnglish": "A butterfly flew in the garden.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "घोंघा",
+    "romanization": "ghongha",
+    "pos": "noun",
+    "definitions": [
+      "a snail"
+    ],
+    "examples": "घोंघा ढिलो गति चल्छ।",
+    "examplesRomanized": "ghongha dhilo gati chalchha.",
+    "exampleEnglish": "A snail moves slowly.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "केकडा",
+    "romanization": "kekda",
+    "pos": "noun",
+    "definitions": [
+      "a crab"
+    ],
+    "examples": "केकडा समुद्रतिरका बालुवामा हिँड्छ।",
+    "examplesRomanized": "kekda samudra tirka baluwama hindchha.",
+    "exampleEnglish": "Crabs walk on seaside sand.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "झिँगा",
+    "romanization": "jhinga",
+    "pos": "noun",
+    "definitions": [
+      "a housefly"
+    ],
+    "examples": "झिँगा खाना वरिपरि उड्छ।",
+    "examplesRomanized": "jhinga khana waripari udchha.",
+    "exampleEnglish": "Houseflies fly around food.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "दिमिरो",
+    "romanization": "dimiro",
+    "pos": "noun",
+    "definitions": [
+      "a termite"
+    ],
+    "examples": "दिमिरोले काठ खाइदिन्छ।",
+    "examplesRomanized": "dimirole kath khaidincha.",
+    "exampleEnglish": "Termites eat wood.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "भौंरा",
+    "romanization": "bhaura",
+    "pos": "noun",
+    "definitions": [
+      "a bumblebee"
+    ],
+    "examples": "भौंरा फुलबाट रस् चुस्छ।",
+    "examplesRomanized": "bhaura phulbata ras chusschha.",
+    "exampleEnglish": "A bumblebee sucks nectar from flowers.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "बिच्छी",
+    "romanization": "bichchhi",
+    "pos": "noun",
+    "definitions": [
+      "a scorpion"
+    ],
+    "examples": "बिच्छी ढुंगामुनि लुकेर बस्छ।",
+    "examplesRomanized": "bichchhi dhungamuni lukera baschha.",
+    "exampleEnglish": "Scorpions hide under stones.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "घोडेजुँगा",
+    "romanization": "ghode junga",
+    "pos": "noun",
+    "definitions": [
+      "a centipede"
+    ],
+    "examples": "घोडेजुँगा छिटो छिटो दौडिन्छ।",
+    "examplesRomanized": "ghode junga chito chito daudinchha.",
+    "exampleEnglish": "Centipedes run quickly.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "धामन",
+    "romanization": "dhaman",
+    "pos": "noun",
+    "definitions": [
+      "a common rat snake (non-venomous)"
+    ],
+    "examples": "धामन विषरहित सर्प हो।",
+    "examplesRomanized": "dhaman visharahit sarp ho.",
+    "exampleEnglish": "The dhaman is a non-venomous snake.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "राज गोमन",
+    "romanization": "raj goman",
+    "pos": "noun",
+    "definitions": [
+      "a king cobra"
+    ],
+    "examples": "राज गोमन अत्यन्त विषालु सर्प हो।",
+    "examplesRomanized": "raj goman atyanta vishalu sarp ho.",
+    "exampleEnglish": "The king cobra is highly venomous.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "केँचुआ",
+    "romanization": "kenchua",
+    "pos": "noun",
+    "definitions": [
+      "an earthworm"
+    ],
+    "examples": "केँचुआ माटोमा बस्छ।",
+    "examplesRomanized": "kenchua matoma baschha.",
+    "exampleEnglish": "Earthworms live in soil.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "गिलहरी",
+    "romanization": "gilhari",
+    "pos": "noun",
+    "definitions": [
+      "a squirrel"
+    ],
+    "examples": "गिलहरी रूखमा चढ्छ।",
+    "examplesRomanized": "gilhari rukhma chadhchha.",
+    "exampleEnglish": "A squirrel climbs trees.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "बँदेल",
+    "romanization": "bandel",
+    "pos": "noun",
+    "definitions": [
+      "a wild boar"
+    ],
+    "examples": "बँदेलले खेत जोतेको माटो खोतल्छ।",
+    "examplesRomanized": "bandelle khet joteko mato khotalchha.",
+    "exampleEnglish": "Wild boars root up ploughed fields.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "मागुर",
+    "romanization": "magur",
+    "pos": "noun",
+    "definitions": [
+      "a walking catfish"
+    ],
+    "examples": "मागुर पोखरीमा पाइन्छ।",
+    "examplesRomanized": "magur pokharima painchha.",
+    "exampleEnglish": "Magur are found in ponds.",
+    "frequency": "low",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "भैंसा",
+    "romanization": "bhainsa",
+    "pos": "noun",
+    "definitions": [
+      "a male buffalo"
+    ],
+    "examples": "भैंसाले हल जोत्छ।",
+    "examplesRomanized": "bhainsale hal jotchha.",
+    "exampleEnglish": "A male buffalo ploughs the field.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "जुग्नु",
+    "romanization": "jugnu",
+    "pos": "noun",
+    "definitions": [
+      "a firefly"
+    ],
+    "examples": "जुग्नुले राति उज्यालो दिन्छ।",
+    "examplesRomanized": "jugnule rati ujyalo dinchha.",
+    "exampleEnglish": "Fireflies glow at night.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "पतंगा",
+    "romanization": "patanga",
+    "pos": "noun",
+    "definitions": [
+      "a moth"
+    ],
+    "examples": "पतंगा उज्यालोतिर उड्छ।",
+    "examplesRomanized": "patanga ujyalotira udchha.",
+    "exampleEnglish": "Moths fly toward light.",
+    "frequency": "medium",
+    "category": "animals"
+  },
+  {
+    "DevanagriWord": "समुद्री घोडा",
+    "romanization": "samudri ghoda",
+    "pos": "noun",
+    "definitions": [
+      "a seahorse"
+    ],
+    "examples": "समुद्री घोडा समुद्रको तल्लो भागमा बस्छ।",
+    "examplesRomanized": "samudri ghoda samudrako tallo bhagma baschha.",
+    "exampleEnglish": "Seahorses live near the sea floor.",
+    "frequency": "low",
+    "category": "animals"
+  }
+]

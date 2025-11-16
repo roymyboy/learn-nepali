@@ -1,0 +1,925 @@
+[
+  {
+    "DevanagriWord": "का",
+    "romanization": "ka",
+    "pos": "postposition",
+    "definitions": [
+      "genitive marker (plural/masculine)"
+    ],
+    "examples": "यी किताबका पाना सफा छन्।",
+    "examplesRomanized": "yi kitabka pāna safa chhan.",
+    "exampleEnglish": "The pages of these books are clean.",
+    "frequency": "high",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "की",
+    "romanization": "ki",
+    "pos": "postposition",
+    "definitions": [
+      "genitive marker (feminine)"
+    ],
+    "examples": "उनकी छोरीको नाम सुहा हो।",
+    "examplesRomanized": "unki chhoriko nām Suha ho.",
+    "exampleEnglish": "His daughter's name is Suha.",
+    "frequency": "high",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "तिर",
+    "romanization": "tira",
+    "pos": "postposition",
+    "definitions": [
+      "towards; in the direction of"
+    ],
+    "examples": "घरतिर हिँडौँ।",
+    "examplesRomanized": "ghar tira hidaun.",
+    "exampleEnglish": "Let's walk towards home.",
+    "frequency": "high",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "देखि",
+    "romanization": "dekhi",
+    "pos": "postposition",
+    "definitions": [
+      "from; since (time or place)"
+    ],
+    "examples": "हिजोदेखि पानी परिरहेको छ।",
+    "examplesRomanized": "hijo dekhi pāni parirahēko chha.",
+    "exampleEnglish": "It has been raining since yesterday.",
+    "frequency": "high",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "मा",
+    "romanization": "ma",
+    "pos": "postposition",
+    "definitions": [
+      "in; at; on"
+    ],
+    "examples": "किताब टेबुलमा छ।",
+    "examplesRomanized": "kitab tēbulma chha.",
+    "exampleEnglish": "The book is on the table.",
+    "frequency": "high",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "मात्र",
+    "romanization": "matra",
+    "pos": "postposition",
+    "definitions": [
+      "only; just"
+    ],
+    "examples": "यो मात्रै सत्य हो।",
+    "examplesRomanized": "yo matrai satya ho.",
+    "exampleEnglish": "Only this is true.",
+    "frequency": "high",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "ले",
+    "romanization": "le",
+    "pos": "postposition",
+    "definitions": [
+      "ergative/instrumental marker (by; with)"
+    ],
+    "examples": "रामले खाना पकायो।",
+    "examplesRomanized": "ramle khāna pakāyo.",
+    "exampleEnglish": "Ram cooked the food.",
+    "frequency": "high",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "बारे",
+    "romanization": "bāre",
+    "pos": "postposition",
+    "definitions": [
+      "about; concerning"
+    ],
+    "examples": "म किताबबारे कुरा गर्दैछु।",
+    "examplesRomanized": "ma kitāb bāre kurā gardai chhu.",
+    "exampleEnglish": "I am talking about the book.",
+    "frequency": "high",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "दूर",
+    "romanization": "dur",
+    "pos": "postposition",
+    "definitions": [
+      "far; distant from"
+    ],
+    "examples": "घर बजारबाट दूर छ।",
+    "examplesRomanized": "ghar bajar bata dur chha.",
+    "exampleEnglish": "The house is far from the market.",
+    "frequency": "high",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "अर्थात्",
+    "romanization": "arthat",
+    "pos": "postposition",
+    "definitions": [
+      "that is; meaning"
+    ],
+    "examples": "उ परीक्षा उत्तीर्ण भयो, अर्थात् पास भयो।",
+    "examplesRomanized": "u pariksha uttirn bhayo, arthaat pass bhayo.",
+    "exampleEnglish": "He passed the exam, that is, he succeeded.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "संग",
+    "romanization": "sang",
+    "pos": "postposition",
+    "definitions": [
+      "with; along with"
+    ],
+    "examples": "म साथी संग बजार जाँदैछु।",
+    "examplesRomanized": "ma sathi sang bajar jandai chhu.",
+    "exampleEnglish": "I am going to the market with my friend.",
+    "frequency": "high",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "मध्य",
+    "romanization": "madhya",
+    "pos": "postposition",
+    "definitions": [
+      "in the middle of; among"
+    ],
+    "examples": "गाउँको मध्य बजार छ।",
+    "examplesRomanized": "gaun ko madhya bajar chha.",
+    "exampleEnglish": "The market is in the middle of the village.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "आसपास",
+    "romanization": "aaspaas",
+    "pos": "postposition",
+    "definitions": [
+      "around; nearby"
+    ],
+    "examples": "बजार आसपास धेरै पसल छन्।",
+    "examplesRomanized": "bajar aaspaas dherai pasal chhan.",
+    "exampleEnglish": "There are many shops around the market.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "तिरतिर",
+    "romanization": "tirtir",
+    "pos": "postposition",
+    "definitions": [
+      "all around; in every direction"
+    ],
+    "examples": "बच्चा खेल मैदान तिरतिर दौडिरहेका छन्।",
+    "examplesRomanized": "bachcha khel maidan tirtir daudiraheka chhan.",
+    "exampleEnglish": "Children are running all around the playground.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "कोसिसमा",
+    "romanization": "kosisma",
+    "pos": "postposition",
+    "definitions": [
+      "in an attempt to; trying to"
+    ],
+    "examples": "उ सफल हुनकोसिसमा छ।",
+    "examplesRomanized": "u safal hun ko kosisma chha.",
+    "exampleEnglish": "He is in an attempt to succeed.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "भित्रभित्रै",
+    "romanization": "bhitrabhitrai",
+    "pos": "postposition",
+    "definitions": [
+      "deep inside; entirely within"
+    ],
+    "examples": "सिकाइ भित्रभित्रै बुझ्नुपर्छ।",
+    "examplesRomanized": "sikai bhitrabhitrai bujhnu parchha.",
+    "exampleEnglish": "One must understand learning deeply inside.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "पारी",
+    "romanization": "pari",
+    "pos": "postposition",
+    "definitions": [
+      "across; on the other side of"
+    ],
+    "examples": "नदी पारी बाटो छ।",
+    "examplesRomanized": "nadi pari bato chha.",
+    "exampleEnglish": "There is a road across the river.",
+    "frequency": "high",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "भित्रबाट",
+    "romanization": "bhitrabata",
+    "pos": "postposition",
+    "definitions": [
+      "from inside; originating from within"
+    ],
+    "examples": "सन्देश भित्रबाट आएको हो।",
+    "examplesRomanized": "sandesh bhitrabata aayeko ho.",
+    "exampleEnglish": "The message came from inside.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "संगैमा",
+    "romanization": "sangaimaa",
+    "pos": "postposition",
+    "definitions": [
+      "together with; in the company of"
+    ],
+    "examples": "म साथी संगैमा बजार जाँदैछु।",
+    "examplesRomanized": "ma sathi sangaimaa bajar jandai chhu.",
+    "exampleEnglish": "I am going to the market together with my friend.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "सामु",
+    "romanization": "saamu",
+    "pos": "postposition",
+    "definitions": [
+      "in front of; facing"
+    ],
+    "examples": "स्कूल सामु पार्क छ।",
+    "examplesRomanized": "school saamu park chha.",
+    "exampleEnglish": "There is a park in front of the school.",
+    "frequency": "high",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "समेत",
+    "romanization": "samet",
+    "pos": "postposition",
+    "definitions": [
+      "including; also"
+    ],
+    "examples": "साथीसमेत कार्यक्रममा सहभागी भए।",
+    "examplesRomanized": "sathi samet karyakramma sahabhagi bhae.",
+    "exampleEnglish": "Friends also participated in the program.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "देखि माथि",
+    "romanization": "dekhi mathi",
+    "pos": "postposition",
+    "definitions": [
+      "from ... upwards; above from"
+    ],
+    "examples": "तीनतले घरदेखि माथि झ्याल छ।",
+    "examplesRomanized": "tintale ghar dekhi mathi jhyal chha.",
+    "exampleEnglish": "There are windows from the three-story house upwards.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "संगैसँगै",
+    "romanization": "sangai-sangai",
+    "pos": "postposition",
+    "definitions": [
+      "side by side; together with"
+    ],
+    "examples": "बालबालिका संगैसँगै खेल्दै छन्।",
+    "examplesRomanized": "balbalika sangai-sangai kheldai chhan.",
+    "exampleEnglish": "Children are playing side by side.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "माथि माथि",
+    "romanization": "mathi-mathi",
+    "pos": "postposition",
+    "definitions": [
+      "directly above; over"
+    ],
+    "examples": "पक्षी छत माथि माथि उड्दैछ।",
+    "examplesRomanized": "pakshi chhat mathi-mathi udai chha.",
+    "exampleEnglish": "The bird is flying directly above the roof.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "तर्फबाट",
+    "romanization": "tarfbata",
+    "pos": "postposition",
+    "definitions": [
+      "from the direction of; on behalf of"
+    ],
+    "examples": "पत्र सरकारतर्फबाट आएको हो।",
+    "examplesRomanized": "patra sarkar tarfbata aayeko ho.",
+    "exampleEnglish": "The letter came from the government.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "बाहिरतिर",
+    "romanization": "bahirtir",
+    "pos": "postposition",
+    "definitions": [
+      "towards outside; outward"
+    ],
+    "examples": "कुकुर बाहिरतिर हिँड्यो।",
+    "examplesRomanized": "kukur bahirtir hindyo.",
+    "exampleEnglish": "The dog walked towards outside.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "सहयोगमा",
+    "romanization": "sahayogma",
+    "pos": "postposition",
+    "definitions": [
+      "in cooperation with; with help of"
+    ],
+    "examples": "कार्यक्रम सहयोगमा सम्पन्न भयो।",
+    "examplesRomanized": "karyakram sahayogma sampann bhayo.",
+    "exampleEnglish": "The program was completed with cooperation.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "भित्रतिर",
+    "romanization": "bhitratir",
+    "pos": "postposition",
+    "definitions": [
+      "inside; inward"
+    ],
+    "examples": "सन्देश भित्रतिर पठाइयो।",
+    "examplesRomanized": "sandesh bhitratir pathaayo.",
+    "exampleEnglish": "The message was sent inside.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "सामुबाट",
+    "romanization": "saamubata",
+    "pos": "postposition",
+    "definitions": [
+      "from in front of; facing from"
+    ],
+    "examples": "पत्र स्कूल सामुबाट पठाइयो।",
+    "examplesRomanized": "patra school saamubata pathaayo.",
+    "exampleEnglish": "The letter was sent from in front of the school.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "पछाडिपट्टी",
+    "romanization": "pachaadipatti",
+    "pos": "postposition",
+    "definitions": [
+      "towards the back; behind"
+    ],
+    "examples": "बच्चा खेल मैदान पछाडिपट्टी दौडे।",
+    "examplesRomanized": "bachcha khel maidan pachaadipatti daude.",
+    "exampleEnglish": "Children ran towards the back of the playground.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "पक्षमा",
+    "romanization": "pakshama",
+    "pos": "postposition",
+    "definitions": [
+      "in favor of; on the side of"
+    ],
+    "examples": "वोट विपक्षमा होइन, पक्षमा छ।",
+    "examplesRomanized": "vot vipakshma hoina, pakshama chha.",
+    "exampleEnglish": "The vote is in favor, not against.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "विरुद्ध",
+    "romanization": "viruddha",
+    "pos": "postposition",
+    "definitions": [
+      "against; opposite"
+    ],
+    "examples": "यो नियम नियम विरुद्ध छ।",
+    "examplesRomanized": "yo niyam niyam viruddha chha.",
+    "exampleEnglish": "This rule is against the regulation.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "सम्पर्कमा",
+    "romanization": "samparkma",
+    "pos": "postposition",
+    "definitions": [
+      "in contact with; connected to"
+    ],
+    "examples": "म शिक्षकसँग सम्पर्कमा छु।",
+    "examplesRomanized": "ma shikshak sanga samparkma chhu.",
+    "exampleEnglish": "I am in contact with the teacher.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "तर्फतिर",
+    "romanization": "tarf-tir",
+    "pos": "postposition",
+    "definitions": [
+      "towards the direction of; heading to"
+    ],
+    "examples": "गाडी बजारतर्फतिर जाँदैछ।",
+    "examplesRomanized": "gadi bajar-tir jandai chha.",
+    "exampleEnglish": "The car is heading towards the market.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "माथितिर",
+    "romanization": "mathitira",
+    "pos": "postposition",
+    "definitions": [
+      "towards above; upwards"
+    ],
+    "examples": "ढुंगा माथितिर टुप्पो छ।",
+    "examplesRomanized": "dhunga mathitira tupo chha.",
+    "exampleEnglish": "There is a peak upwards on the rock.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "तल्लोतिर",
+    "romanization": "tallotira",
+    "pos": "postposition",
+    "definitions": [
+      "towards the bottom; downwards"
+    ],
+    "examples": "नदी तल्लोतिर बग्छ।",
+    "examplesRomanized": "nadi tallotira bagchha.",
+    "exampleEnglish": "The river flows downwards.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "जगहमा",
+    "romanization": "jagahma",
+    "pos": "postposition",
+    "definitions": [
+      "in place of; at the position of"
+    ],
+    "examples": "कुर्सीको ठाउँमा टेबल राखियो।",
+    "examplesRomanized": "kursiko thau ma table rakhiyo.",
+    "exampleEnglish": "The table was placed at the position of the chair.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "साँघैमा",
+    "romanization": "saanghaimaa",
+    "pos": "postposition",
+    "definitions": [
+      "right beside; adjacent to"
+    ],
+    "examples": "स्कूल साँघैमा बजार छ।",
+    "examplesRomanized": "school saanghaimaa bajar chha.",
+    "exampleEnglish": "The market is right beside the school.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "तर्फै",
+    "romanization": "tarfaai",
+    "pos": "postposition",
+    "definitions": [
+      "towards; in the direction of (emphasized)"
+    ],
+    "examples": "पन्छी आकाशतर्फै उड्यो।",
+    "examplesRomanized": "panchi aakash tarfaai udyo.",
+    "exampleEnglish": "The bird flew towards the sky.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "संगैसँग",
+    "romanization": "sangaisang",
+    "pos": "postposition",
+    "definitions": [
+      "together; side by side"
+    ],
+    "examples": "बच्चा खेल मैदान संगैसँग खेल्दै छन्।",
+    "examplesRomanized": "bachcha khel maidan sangaisang kheldai chhan.",
+    "exampleEnglish": "Children are playing side by side in the playground.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "लगभग",
+    "romanization": "lagbhag",
+    "pos": "postposition",
+    "definitions": [
+      "approximately; around"
+    ],
+    "examples": "कार्यक्रम लगभग पाँच बजे सुरु हुन्छ।",
+    "examplesRomanized": "karyakram lagbhag paanch baje suru hunchha.",
+    "exampleEnglish": "The program starts at approximately five o'clock.",
+    "frequency": "high",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "वाट",
+    "romanization": "wat",
+    "pos": "postposition",
+    "definitions": [
+      "via; through; from"
+    ],
+    "examples": "हामी बाटो शहर वाट जाँदैछौं।",
+    "examplesRomanized": "haami bato shahar wat jandai chhau.",
+    "exampleEnglish": "We are going to the city via the road.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "अन्तर्गत",
+    "romanization": "antargat",
+    "pos": "postposition",
+    "definitions": [
+      "under; within; part of"
+    ],
+    "examples": "यो नियम शिक्षा विभाग अन्तर्गत पर्छ।",
+    "examplesRomanized": "yo niyam shiksha vibhag antargat parchha.",
+    "exampleEnglish": "This rule falls under the education department.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "सम्बन्धमा",
+    "romanization": "sambandhama",
+    "pos": "postposition",
+    "definitions": [
+      "regarding; in relation to"
+    ],
+    "examples": "यो मुद्दा शिक्षकसँग सम्बन्धमा छ।",
+    "examplesRomanized": "yo mudda shikshak sanga sambandhama chha.",
+    "exampleEnglish": "This issue is regarding the teacher.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "सामेल",
+    "romanization": "saamel",
+    "pos": "postposition",
+    "definitions": [
+      "included in; part of"
+    ],
+    "examples": "सर्वेक्षणमा सबै सदस्य सामेल छन्।",
+    "examplesRomanized": "sarvekshanma sabai sadasya saamel chhan.",
+    "exampleEnglish": "All members are included in the survey.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "विरूद्ध",
+    "romanization": "viruddha",
+    "pos": "postposition",
+    "definitions": [
+      "against; opposed to"
+    ],
+    "examples": "सत्याइ झूट विरुद्ध छ।",
+    "examplesRomanized": "satyai jhoot viruddha chha.",
+    "exampleEnglish": "Truth is against falsehood.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "सहित",
+    "romanization": "sahit",
+    "pos": "postposition",
+    "definitions": [
+      "together with; including"
+    ],
+    "examples": "बच्चा शिक्षकसहित खेल मैदान गए।",
+    "examplesRomanized": "bachcha shikshaksahit khel maidan gaye.",
+    "exampleEnglish": "The children went to the playground together with the teacher.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "नजिकबाट",
+    "romanization": "najikbata",
+    "pos": "postposition",
+    "definitions": [
+      "from near; close by"
+    ],
+    "examples": "हामी स्कूल नजिकबाट आए।",
+    "examplesRomanized": "haami school najikbata aa'e.",
+    "exampleEnglish": "We came from near the school.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "दिशा",
+    "romanization": "disha",
+    "pos": "postposition",
+    "definitions": [
+      "towards; in the direction of"
+    ],
+    "examples": "हामी उत्तर दिशातर्फ जाँदैछौं।",
+    "examplesRomanized": "haami uttar dishatarf jandai chhau.",
+    "exampleEnglish": "We are heading towards the north direction.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "सम्मिलित",
+    "romanization": "sammilit",
+    "pos": "postposition",
+    "definitions": [
+      "included; joined with"
+    ],
+    "examples": "सारे कर्मचारी बैठकमा सम्मिलित छन्।",
+    "examplesRomanized": "saare karmachari baithakma sammilit chhan.",
+    "exampleEnglish": "All employees are included in the meeting.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "दृष्टि",
+    "romanization": "drishti",
+    "pos": "postposition",
+    "definitions": [
+      "from the perspective of; regarding"
+    ],
+    "examples": "शिक्षा दृष्टिले यो योजना राम्रो छ।",
+    "examplesRomanized": "shiksha drishti le yo yojana ramro chha.",
+    "exampleEnglish": "From an educational perspective, this plan is good.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "सापेक्ष",
+    "romanization": "saapeksha",
+    "pos": "postposition",
+    "definitions": [
+      "relative to; compared with"
+    ],
+    "examples": "यो योजना पुरानो योजनासँग सापेक्ष राम्रो छ।",
+    "examplesRomanized": "yo yojana purano yojanasang saapeksha ramro chha.",
+    "exampleEnglish": "This plan is better compared to the old plan.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "सम्बन्धित",
+    "romanization": "sambandhit",
+    "pos": "postposition",
+    "definitions": [
+      "related to; associated with"
+    ],
+    "examples": "यो दस्तावेज़ प्रोजेक्टसँग सम्बन्धित छ।",
+    "examplesRomanized": "yo dastavez project sang sambandhit chha.",
+    "exampleEnglish": "This document is related to the project.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "साथमा",
+    "romanization": "saathma",
+    "pos": "postposition",
+    "definitions": [
+      "together with; along with"
+    ],
+    "examples": "म आमासाथमा बजार गए।",
+    "examplesRomanized": "ma aama saathma bajar gaye.",
+    "exampleEnglish": "I went to the market together with my mother.",
+    "frequency": "high",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "समीप",
+    "romanization": "sameep",
+    "pos": "postposition",
+    "definitions": [
+      "near; close by"
+    ],
+    "examples": "स्कूल आफ्नो घरको समीप छ।",
+    "examplesRomanized": "school afno ghar ko sameep chha.",
+    "exampleEnglish": "The school is near my house.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "सम्मिलित गरेर",
+    "romanization": "sammilit gare",
+    "pos": "postposition",
+    "definitions": [
+      "including; by including"
+    ],
+    "examples": "सारे विद्यार्थीहरूलाई प्रोजेक्टमा सम्मिलित गरेर काम गर्न भनियो।",
+    "examplesRomanized": "saare vidyarthiharu lai projectma sammilit gare kaam garn bhaniyo.",
+    "exampleEnglish": "All students were told to work on the project including everyone.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "अनुसारै",
+    "romanization": "anusaarei",
+    "pos": "postposition",
+    "definitions": [
+      "according to; as per"
+    ],
+    "examples": "सिफारिस अनुसारै कार्य गर्नुपर्छ।",
+    "examplesRomanized": "sifaris anusaarei karya garnu parcha.",
+    "exampleEnglish": "Work must be done according to the recommendation.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "अग्र",
+    "romanization": "agra",
+    "pos": "postposition",
+    "definitions": [
+      "in front; ahead of"
+    ],
+    "examples": "सैनिक अग्र पंक्तिमा उभिएका थिए।",
+    "examplesRomanized": "sainik agra panktimma ubhieka thie.",
+    "exampleEnglish": "The soldiers were standing in front.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "पश्चात",
+    "romanization": "pashchat",
+    "pos": "postposition",
+    "definitions": [
+      "after; following"
+    ],
+    "examples": "संगीत कक्षाको पश्चात खाना खायौं।",
+    "examplesRomanized": "sangeet kakshako pashchat khana khayo.",
+    "exampleEnglish": "We ate after the music class.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "समानुपातिक",
+    "romanization": "samaanupatik",
+    "pos": "postposition",
+    "definitions": [
+      "proportional to; in proportion with"
+    ],
+    "examples": "तालिका विद्यार्थीको संख्या समानुपातिक बनाइयो।",
+    "examplesRomanized": "talika vidyarthiko sankhya samaanupatik banaayo.",
+    "exampleEnglish": "The schedule was made proportional to the number of students.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "दिग्भावमा",
+    "romanization": "digbhavma",
+    "pos": "postposition",
+    "definitions": [
+      "in a positive regard; favorably"
+    ],
+    "examples": "कार्यक्रमलाई सबैले दिग्भावमा हेरे।",
+    "examplesRomanized": "karyakramlai sabai le digbhavma here.",
+    "exampleEnglish": "Everyone viewed the program favorably.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "अवधिमा",
+    "romanization": "avadhima",
+    "pos": "postposition",
+    "definitions": [
+      "during; within the period of"
+    ],
+    "examples": "परीक्षाको अवधिमा पुस्तकालय खुल्ला हुनेछ।",
+    "examplesRomanized": "parikshako avadhima pustakalaya khulla huncha.",
+    "exampleEnglish": "The library will be open during the exam period.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "रुपमा",
+    "romanization": "rupma",
+    "pos": "postposition",
+    "definitions": [
+      "in the form of; as"
+    ],
+    "examples": "उहाँले पुरस्कार रुपमा पैसा पाए।",
+    "examplesRomanized": "uhale puraskar rupma paisa paaye.",
+    "exampleEnglish": "He received the award in the form of money.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "लगायत",
+    "romanization": "lagayat",
+    "pos": "postposition",
+    "definitions": [
+      "including; such as; together with"
+    ],
+    "examples": "विद्यार्थी शिक्षकलगायत उपस्थित थिए।",
+    "examplesRomanized": "vidyarthi shikshak lagayat upasthit thie.",
+    "exampleEnglish": "The students, including the teacher, were present.",
+    "frequency": "high",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "अन्तर्गतमा",
+    "romanization": "antargatma",
+    "pos": "postposition",
+    "definitions": [
+      "within; under the jurisdiction of"
+    ],
+    "examples": "नियम विद्यालयको अन्तर्गतमा लागू हुन्छ।",
+    "examplesRomanized": "niyam vidyalayko antargatma lagu huncha.",
+    "exampleEnglish": "The rule applies within the school's jurisdiction.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "प्रतिवद्ध",
+    "romanization": "pratibaddha",
+    "pos": "postposition",
+    "definitions": [
+      "committed to; bound by"
+    ],
+    "examples": "कम्पनी नियम प्रतिवद्ध छ।",
+    "examplesRomanized": "company niyam pratibaddha chha.",
+    "exampleEnglish": "The company is committed to the rules.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "सन्दर्भमा",
+    "romanization": "sandarbha ma",
+    "pos": "postposition",
+    "definitions": [
+      "in reference to; regarding"
+    ],
+    "examples": "कागजात सन्दर्भमा प्रस्तुत गरियो।",
+    "examplesRomanized": "kagajat sandarbha ma prastut gariyo.",
+    "exampleEnglish": "The document was presented regarding the matter.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "अनुरूप",
+    "romanization": "anuroop",
+    "pos": "postposition",
+    "definitions": [
+      "according to; in accordance with"
+    ],
+    "examples": "निर्देशन अनुरूप कार्य गर्नुहोस्।",
+    "examplesRomanized": "nirdeshan anuroop karya garnu hos.",
+    "exampleEnglish": "Work according to the instructions.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "प्रति",
+    "romanization": "prati",
+    "pos": "postposition",
+    "definitions": [
+      "towards; per; in relation to"
+    ],
+    "examples": "पानी प्रति ध्यान दिनुहोस्।",
+    "examplesRomanized": "pani prati dhyan dinu hos.",
+    "exampleEnglish": "Pay attention towards water conservation.",
+    "frequency": "high",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "अनुपातमा",
+    "romanization": "anupatma",
+    "pos": "postposition",
+    "definitions": [
+      "in proportion to; according to ratio"
+    ],
+    "examples": "भोजन अनुपातमा बाँडियो।",
+    "examplesRomanized": "bhojan anupatma baandiyo.",
+    "exampleEnglish": "The food was distributed in proportion.",
+    "frequency": "medium",
+    "category": "postpositions"
+  },
+  {
+    "DevanagriWord": "सहायता स्वरूप",
+    "romanization": "sahayata swaroop",
+    "pos": "postposition",
+    "definitions": [
+      "in the form of assistance; as aid"
+    ],
+    "examples": "उहाँले सहयोग सहायता स्वरूप दिए।",
+    "examplesRomanized": "uhale sahayog sahayata swaroop diye.",
+    "exampleEnglish": "He provided help in the form of assistance.",
+    "frequency": "medium",
+    "category": "postpositions"
+  }
+]

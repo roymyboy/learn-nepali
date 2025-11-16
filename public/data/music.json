@@ -1,0 +1,704 @@
+[
+  {
+    "DevanagriWord": "ढोल",
+    "romanization": "dhol",
+    "pos": "noun",
+    "definitions": [
+      "drum"
+    ],
+    "examples": "विवाहमा ढोल बज्छ।",
+    "examplesRomanized": "bibahma dhol bajchha.",
+    "exampleEnglish": "The drum is played at the wedding.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "सिन्थेसाइजर",
+    "romanization": "synthesizer",
+    "pos": "noun",
+    "definitions": [
+      "synthesizer (electronic instrument)"
+    ],
+    "examples": "सिन्थेसाइजरको आवाज आकर्षक छ।",
+    "examplesRomanized": "synthesizerko awaaz aakarshak chha.",
+    "exampleEnglish": "The sound of the synthesizer is appealing.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "बास गिटार",
+    "romanization": "bass guitar",
+    "pos": "noun",
+    "definitions": [
+      "bass guitar"
+    ],
+    "examples": "बास गिटारले गीतको ताल दिन्छ।",
+    "examplesRomanized": "bass guitarle gitko taal dinchha.",
+    "exampleEnglish": "The bass guitar provides the rhythm for the song.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "ढोलक",
+    "romanization": "dholak",
+    "pos": "noun",
+    "definitions": [
+      "dholak (two-headed drum)"
+    ],
+    "examples": "ढोलक बजाउँदा मस्ती हुन्छ।",
+    "examplesRomanized": "dholak bajaunda masti chha.",
+    "exampleEnglish": "Playing the dholak is fun.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "सुर",
+    "romanization": "sur",
+    "pos": "noun",
+    "definitions": [
+      "musical note or tone"
+    ],
+    "examples": "सुर मिलाउनु पर्छ।",
+    "examplesRomanized": "sur milaaunu parchha.",
+    "exampleEnglish": "The musical note must be in tune.",
+    "frequency": "high",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "गान",
+    "romanization": "gaan",
+    "pos": "noun",
+    "definitions": [
+      "song; singing"
+    ],
+    "examples": "ऊ मिठो गान गाउँछ।",
+    "examplesRomanized": "u mitho gaan gauchha.",
+    "exampleEnglish": "He/She sings a sweet song.",
+    "frequency": "high",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "बाजा",
+    "romanization": "baja",
+    "pos": "noun",
+    "definitions": [
+      "musical instrument"
+    ],
+    "examples": "बाजा बजाउनु रमाइलो हुन्छ।",
+    "examplesRomanized": "baja bajaunu ramailo hunchha.",
+    "exampleEnglish": "Playing instruments is fun.",
+    "frequency": "low",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "गिटार",
+    "romanization": "gitar",
+    "pos": "noun",
+    "definitions": [
+      "guitar"
+    ],
+    "examples": "उनी गिटार राम्रो बजाउँछन्।",
+    "examplesRomanized": "uni gitar ramro bajaundchhan.",
+    "exampleEnglish": "He plays the guitar well.",
+    "frequency": "low",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "संगीतकार",
+    "romanization": "sangeetkar",
+    "pos": "noun",
+    "definitions": [
+      "musician; composer"
+    ],
+    "examples": "उ एक प्रसिद्ध संगीतकार हुन्।",
+    "examplesRomanized": "u ek prasiddha sangeetkar hun.",
+    "exampleEnglish": "He is a famous musician.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "संगीतमय",
+    "romanization": "sangeetmay",
+    "pos": "adjective",
+    "definitions": [
+      "musical; full of music"
+    ],
+    "examples": "संगीतमय वातावरण छ।",
+    "examplesRomanized": "sangeetmay vatavaran chha.",
+    "exampleEnglish": "The atmosphere is musical.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "सुर ताल",
+    "romanization": "sur taal",
+    "pos": "noun",
+    "definitions": [
+      "melody and rhythm"
+    ],
+    "examples": "सुर ताल मिलाएर गाउनु पर्छ।",
+    "examplesRomanized": "sur taal milaera gaunu parchha.",
+    "exampleEnglish": "One must sing in melody and rhythm.",
+    "frequency": "high",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "संगीत समारोह",
+    "romanization": "sangeet samaroha",
+    "pos": "noun",
+    "definitions": [
+      "musical concert"
+    ],
+    "examples": "संगीत समारोहमा धेरै दर्शक आए।",
+    "examplesRomanized": "sangeet samarohema dherai darshak aaye.",
+    "exampleEnglish": "Many audience members attended the musical concert.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "संगीत कार्यक्रम",
+    "romanization": "sangeet karyakram",
+    "pos": "noun",
+    "definitions": [
+      "music program; event"
+    ],
+    "examples": "संगीत कार्यक्रम साँझमा छ।",
+    "examplesRomanized": "sangeet karyakram saanjh ma chha.",
+    "exampleEnglish": "The music program is in the evening.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "वाद्य",
+    "romanization": "wadya",
+    "pos": "noun",
+    "definitions": [
+      "musical instrument; percussion"
+    ],
+    "examples": "वाद्य बजाउन सिक्नुहोस्।",
+    "examplesRomanized": "wadya bajaaun siknuhos.",
+    "exampleEnglish": "Learn to play the musical instrument.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "अलाप",
+    "romanization": "alaap",
+    "pos": "noun",
+    "definitions": [
+      "introductory musical improvisation"
+    ],
+    "examples": "गीतको अलाप सुन्दर थियो।",
+    "examplesRomanized": "gitko alaap sundar thiyo.",
+    "exampleEnglish": "The song's introductory improvisation was beautiful.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "मंजीरा",
+    "romanization": "manjira",
+    "pos": "noun",
+    "definitions": [
+      "hand cymbals"
+    ],
+    "examples": "मंजीरा बज्दा ताल राम्रो लाग्छ।",
+    "examplesRomanized": "manjira bajda taal ramro lagchha.",
+    "exampleEnglish": "The rhythm feels good when playing manjira.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "ढोल्प",
+    "romanization": "dholp",
+    "pos": "noun",
+    "definitions": [
+      "traditional drum"
+    ],
+    "examples": "ढोल्प बजाउन सिक्नुपर्छ।",
+    "examplesRomanized": "dholp bajaaun siknuparchha.",
+    "exampleEnglish": "One must learn to play the dholp.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "स्वरलिपि",
+    "romanization": "swarlipi",
+    "pos": "noun",
+    "definitions": [
+      "musical notation"
+    ],
+    "examples": "स्वरलिपि पढेर गाउनुहोस्।",
+    "examplesRomanized": "swarlipi padhera gaunuhos.",
+    "exampleEnglish": "Sing by reading the musical notation.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "तालवद्ध",
+    "romanization": "taalvaddha",
+    "pos": "adjective",
+    "definitions": [
+      "rhythmic; in rhythm"
+    ],
+    "examples": "गीत तालवद्ध छ।",
+    "examplesRomanized": "geet taalvaddha chha.",
+    "exampleEnglish": "The song is rhythmic.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "सप्तक",
+    "romanization": "saptak",
+    "pos": "noun",
+    "definitions": [
+      "octave"
+    ],
+    "examples": "सप्तकमा स्वर उच्च छ।",
+    "examplesRomanized": "saptakma swar uchchha.",
+    "exampleEnglish": "The note is high in the octave.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "वादक",
+    "romanization": "wadak",
+    "pos": "noun",
+    "definitions": [
+      "instrumentalist; performer"
+    ],
+    "examples": "वादकले गीत उत्कृष्ट बनाए।",
+    "examplesRomanized": "wadakle geet utkrist banaye.",
+    "exampleEnglish": "The instrumentalist made the song excellent.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "लय",
+    "romanization": "laya",
+    "pos": "noun",
+    "definitions": [
+      "tempo; rhythm"
+    ],
+    "examples": "गीतको लय छिटो छ।",
+    "examplesRomanized": "gitko laya chhito chha.",
+    "exampleEnglish": "The song's tempo is fast.",
+    "frequency": "high",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "कर्ण",
+    "romanization": "karn",
+    "pos": "noun",
+    "definitions": [
+      "ear; musical perception"
+    ],
+    "examples": "उसको कर्ण संवेदनशील छ।",
+    "examplesRomanized": "usko karn samvedansheel chha.",
+    "exampleEnglish": "His/Her ear for music is sensitive.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "गीतकार",
+    "romanization": "geetkar",
+    "pos": "noun",
+    "definitions": [
+      "songwriter; lyricist"
+    ],
+    "examples": "गीतकारले नयाँ गीत लेखे।",
+    "examplesRomanized": "geetkarle naya geet lekhe.",
+    "exampleEnglish": "The songwriter wrote a new song.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "स्वरान्तर",
+    "romanization": "swaraantar",
+    "pos": "noun",
+    "definitions": [
+      "interval between notes"
+    ],
+    "examples": "स्वरान्तर मिलाएर गाउनुहोस्।",
+    "examplesRomanized": "swaraantar milaera gaunuhos.",
+    "exampleEnglish": "Sing matching the note intervals.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "संगीतालय",
+    "romanization": "sangeetalaya",
+    "pos": "noun",
+    "definitions": [
+      "music school; academy"
+    ],
+    "examples": "संगीतालयमा कक्षा सुरू भयो।",
+    "examplesRomanized": "sangeetalayama kaksha suru bhayo.",
+    "exampleEnglish": "Classes started at the music academy.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "लयबद्ध",
+    "romanization": "layabaddha",
+    "pos": "adjective",
+    "definitions": [
+      "rhythmic; in time"
+    ],
+    "examples": "संगीत लयबद्ध छ।",
+    "examplesRomanized": "sangeet layabaddha chha.",
+    "exampleEnglish": "The music is in rhythm.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "संगीतप्रेमी",
+    "romanization": "sangeetpremi",
+    "pos": "noun",
+    "definitions": [
+      "music lover"
+    ],
+    "examples": "संगीतप्रेमीले सांगीतिक कार्यक्रम मन पराउँछन्।",
+    "examplesRomanized": "sangeetpremile sangitik karyakram man paraunchhan.",
+    "exampleEnglish": "Music lovers enjoy musical programs.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "संगीत साधना",
+    "romanization": "sangeet sadhana",
+    "pos": "noun",
+    "definitions": [
+      "musical practice; devotion"
+    ],
+    "examples": "संगीत साधनाले उन्नति ल्याउँछ।",
+    "examplesRomanized": "sangeet sadhanale unnati lyaunchha.",
+    "exampleEnglish": "Musical practice brings progress.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "काव्य संगीत",
+    "romanization": "kavya sangeet",
+    "pos": "noun",
+    "definitions": [
+      "lyrical music; poetry in music"
+    ],
+    "examples": "काव्य संगीतले भावनात्मकता बढाउँछ।",
+    "examplesRomanized": "kavya sangeetle bhavanaatmaktā badhaunchha.",
+    "exampleEnglish": "Lyrical music enhances emotions.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "तालमिलाप",
+    "romanization": "taalmilap",
+    "pos": "noun",
+    "definitions": [
+      "rhythmic synchronization"
+    ],
+    "examples": "संगीतमा तालमिलाप आवश्यक छ।",
+    "examplesRomanized": "sangeetma taalmilap aawashyak chha.",
+    "exampleEnglish": "Rhythmic synchronization is necessary in music.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "मधुर संगीत",
+    "romanization": "madhur sangeet",
+    "pos": "noun",
+    "definitions": [
+      "sweet music"
+    ],
+    "examples": "मधुर संगीत सुन्न मन लाग्छ।",
+    "examplesRomanized": "madhur sangeet sunna man lagchha.",
+    "exampleEnglish": "I feel like listening to sweet music.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "संगीत विधा",
+    "romanization": "sangeet vidha",
+    "pos": "noun",
+    "definitions": [
+      "music genre"
+    ],
+    "examples": "संगीत विधामा विविधता छ।",
+    "examplesRomanized": "sangeet vidhama vividta chha.",
+    "exampleEnglish": "There is diversity in music genres.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "गायकसमूह",
+    "romanization": "gayaksamuh",
+    "pos": "noun",
+    "definitions": [
+      "choir; group of singers"
+    ],
+    "examples": "गायकसमूहले उत्कृष्ट प्रस्तुति दियो।",
+    "examplesRomanized": "gayaksamuhle utkrist prastuti diyo.",
+    "exampleEnglish": "The choir gave an excellent performance.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "स्वरलहरि",
+    "romanization": "swarlahari",
+    "pos": "noun",
+    "definitions": [
+      "melodic line; musical flow"
+    ],
+    "examples": "गीतमा स्वरलहरि सुन्दर छ।",
+    "examplesRomanized": "gitma swarlahari sundar chha.",
+    "exampleEnglish": "The melodic line in the song is beautiful.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "तालबद्धता",
+    "romanization": "taalbaddhata",
+    "pos": "noun",
+    "definitions": [
+      "rhythmic discipline"
+    ],
+    "examples": "तालबद्धता आवश्यक छ।",
+    "examplesRomanized": "taalbaddhata aawashyak chha.",
+    "exampleEnglish": "Rhythmic discipline is necessary.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "नाद",
+    "romanization": "naad",
+    "pos": "noun",
+    "definitions": [
+      "sound; vibration; musical tone"
+    ],
+    "examples": "नादले मन छुन सक्छ।",
+    "examplesRomanized": "naadle man chhun sakchha.",
+    "exampleEnglish": "The sound can touch the heart.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "संगीतकला",
+    "romanization": "sangeetkala",
+    "pos": "noun",
+    "definitions": [
+      "art of music"
+    ],
+    "examples": "संगीतकला अभ्यास गर्नुहोस्।",
+    "examplesRomanized": "sangeetkala abhyas garnuhos.",
+    "exampleEnglish": "Practice the art of music.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "संगीतसाधक",
+    "romanization": "sangeetsadhak",
+    "pos": "noun",
+    "definitions": [
+      "musician; music practitioner"
+    ],
+    "examples": "संगीतसाधकले गीत तयार गरे।",
+    "examplesRomanized": "sangeetsadhakle geet tayar gare.",
+    "exampleEnglish": "The musician prepared the song.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "तालबद्ध",
+    "romanization": "talbaddha",
+    "pos": "adjective",
+    "definitions": [
+      "in rhythm; rhythmic"
+    ],
+    "examples": "संगीत तालबद्ध छ।",
+    "examplesRomanized": "sangeet talbaddha chha.",
+    "exampleEnglish": "The music is rhythmic.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "संगीतशैली",
+    "romanization": "sangeetshaili",
+    "pos": "noun",
+    "definitions": [
+      "music style; genre"
+    ],
+    "examples": "उनीको संगीतशैली अद्वितीय छ।",
+    "examplesRomanized": "uniko sangeetshaili advitiya chha.",
+    "exampleEnglish": "Their music style is unique.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "संगीत कार्यक्रमकर्ता",
+    "romanization": "sangeet karyakramkarta",
+    "pos": "noun",
+    "definitions": [
+      "event organizer"
+    ],
+    "examples": "संगीत कार्यक्रमकर्ता तयारीमा छन्।",
+    "examplesRomanized": "sangeet karyakramkarta tayari ma chhan.",
+    "exampleEnglish": "The music event organizers are preparing.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "धुनिका",
+    "romanization": "dhunika",
+    "pos": "noun",
+    "definitions": [
+      "melodist"
+    ],
+    "examples": "धुनिकाले नयाँ धुन रचना गरे।",
+    "examplesRomanized": "dhunikale naya dhun rachana gare.",
+    "exampleEnglish": "The melodist composed a new tune.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "तालमा",
+    "romanization": "taalma",
+    "pos": "noun",
+    "definitions": [
+      "in beat; rhythmic measure"
+    ],
+    "examples": "गीत तालमा छ।",
+    "examplesRomanized": "git taalma chha.",
+    "exampleEnglish": "The song is in beat.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "स्वरताल",
+    "romanization": "swartaal",
+    "pos": "noun",
+    "definitions": [
+      "musical scale"
+    ],
+    "examples": "स्वरताल अध्ययन आवश्यक छ।",
+    "examplesRomanized": "swartaal adhyayan aawashyak chha.",
+    "exampleEnglish": "Studying musical scales is necessary.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "संगीतज्ञ",
+    "romanization": "sangeetgy",
+    "pos": "noun",
+    "definitions": [
+      "music expert"
+    ],
+    "examples": "संगीतज्ञले गीतको मूल्याङ्कन गरे।",
+    "examplesRomanized": "sangeetgyale gitko mulyankan gare.",
+    "exampleEnglish": "The music expert evaluated the song.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "गायनकला",
+    "romanization": "gayanakala",
+    "pos": "noun",
+    "definitions": [
+      "art of singing"
+    ],
+    "examples": "गायनकला अभ्यास गर्नुहोस्।",
+    "examplesRomanized": "gayanakala abhyas garnuhos.",
+    "exampleEnglish": "Practice the art of singing.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "संगीतिक",
+    "romanization": "sangeetik",
+    "pos": "adjective",
+    "definitions": [
+      "musical"
+    ],
+    "examples": "संगीतिक प्रस्तुति सुरु भयो।",
+    "examplesRomanized": "sangeetik prastuti suru bhayo.",
+    "exampleEnglish": "The musical performance began.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "सुरम्य",
+    "romanization": "suramya",
+    "pos": "adjective",
+    "definitions": [
+      "melodious"
+    ],
+    "examples": "संगीतको धुन सुरम्य छ।",
+    "examplesRomanized": "sangeetko dhun suramya chha.",
+    "exampleEnglish": "The melody of the music is melodious.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "अभिनयसंगीत",
+    "romanization": "abhinayasangeet",
+    "pos": "noun",
+    "definitions": [
+      "musical drama"
+    ],
+    "examples": "अभिनयसंगीत आज प्रस्तुति हुनेछ।",
+    "examplesRomanized": "abhinayasangeet aaj prastuti hunechha.",
+    "exampleEnglish": "The musical drama will be performed today.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "गायकगायिका",
+    "romanization": "gayakgayika",
+    "pos": "noun",
+    "definitions": [
+      "singers"
+    ],
+    "examples": "गायकगायिकाले गीत प्रस्तुत गरे।",
+    "examplesRomanized": "gayakgayikale geet prastut gare.",
+    "exampleEnglish": "The singers performed the song.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "ढिमे",
+    "romanization": "dhime",
+    "pos": "noun",
+    "definitions": [
+      "Newar traditional drum"
+    ],
+    "examples": "धिमे बजाउँदै नाच सुरु भयो।",
+    "examplesRomanized": "dhime bajaudai naach suru bhayo.",
+    "exampleEnglish": "Playing dhime started the dance.",
+    "frequency": "medium",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "तुङ्ना",
+    "romanization": "tungna",
+    "pos": "noun",
+    "definitions": [
+      "Himalayan folk string instrument"
+    ],
+    "examples": "तुङ्ना बजाउँदा रमाइलो लाग्छ।",
+    "examplesRomanized": "tungna bajauda ramailo lagchha.",
+    "exampleEnglish": "Playing the tungna is enjoyable.",
+    "frequency": "low",
+    "category": "music"
+  },
+  {
+    "DevanagriWord": "मधुरिमा",
+    "romanization": "madhurima",
+    "pos": "noun",
+    "definitions": [
+      "sweetness in music"
+    ],
+    "examples": "गीतको मधुरिमा सबैलाई मन पर्यो।",
+    "examplesRomanized": "gitko madhurima sabailai man paryo.",
+    "exampleEnglish": "Everyone liked the sweetness of the song.",
+    "frequency": "medium",
+    "category": "music"
+  }
+]

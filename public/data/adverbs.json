@@ -1,0 +1,2017 @@
+[
+  {
+    "DevanagriWord": "अघि",
+    "romanization": "aghi",
+    "pos": "adverb",
+    "definitions": [
+      "before; earlier than a certain point in time"
+    ],
+    "examples": "हामी अघि कहिल्यै भेटिएको थिएनौँ।",
+    "examplesRomanized": "haami aghi kahilyai bheteyeko thienaun.",
+    "exampleEnglish": "We had never met before.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अब",
+    "romanization": "aba",
+    "pos": "adverb",
+    "definitions": [
+      "now; from this moment onward"
+    ],
+    "examples": "अब हामी सुरु गरौं।",
+    "examplesRomanized": "aba haami suru garaun.",
+    "exampleEnglish": "Let's start now.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अहिले",
+    "romanization": "ahile",
+    "pos": "adverb",
+    "definitions": [
+      "at this moment; right now"
+    ],
+    "examples": "अहिले म व्यस्त छु।",
+    "examplesRomanized": "ahile ma byasta chu.",
+    "exampleEnglish": "I am busy right now.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "ठूलो",
+    "romanization": "thulo",
+    "pos": "adjective/adverb",
+    "definitions": [
+      "big (adjective); loudly (adverbial usage in informal speech)"
+    ],
+    "examples": "उसले ठूलो आवाजमा बोले।",
+    "examplesRomanized": "usale thulo awaajma bole.",
+    "exampleEnglish": "He/She spoke loudly.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "ढिलो",
+    "romanization": "dhilo",
+    "pos": "adverb",
+    "definitions": [
+      "slowly; in a delayed manner; late"
+    ],
+    "examples": "ऊ ढिलो बोल्छ।",
+    "examplesRomanized": "u dhilo bolchha.",
+    "exampleEnglish": "He/She speaks slowly.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "थोरै",
+    "romanization": "thorai",
+    "pos": "adverb",
+    "definitions": [
+      "a little; slightly; in small quantity"
+    ],
+    "examples": "म अस्वस्थ भएकाले थोरै मात्र खाएँ।",
+    "examplesRomanized": "ma aswastha bhaekaale thorai matra khayeun.",
+    "exampleEnglish": "I ate only a little since I was unwell.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "धेरै",
+    "romanization": "dherai",
+    "pos": "adverb",
+    "definitions": [
+      "a lot; much; very; many"
+    ],
+    "examples": "आज धेरै काम छ।",
+    "examplesRomanized": "aja dherai kaam chha.",
+    "exampleEnglish": "There is a lot of work today.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "पछि",
+    "romanization": "pachhi",
+    "pos": "adverb",
+    "definitions": [
+      "after; later on; following a point in time"
+    ],
+    "examples": "म कामपछि घर फर्कन्छु।",
+    "examplesRomanized": "ma kaam pachhi ghar pharkanchu.",
+    "exampleEnglish": "I will return home after work.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "सानो",
+    "romanization": "sano",
+    "pos": "adjective/adverb",
+    "definitions": [
+      "small (adjective); softly or quietly (adverbial use)"
+    ],
+    "examples": "उसले सानो स्वरमा बोले।",
+    "examplesRomanized": "usale sano swarama bole.",
+    "exampleEnglish": "He/She spoke softly.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "हिजो",
+    "romanization": "hijo",
+    "pos": "adverb",
+    "definitions": [
+      "yesterday; on the previous day"
+    ],
+    "examples": "हिजो धेरै पानी पर्‍यो।",
+    "examplesRomanized": "hijo dherai paani paryo.",
+    "exampleEnglish": "It rained a lot yesterday.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "चाँडो",
+    "romanization": "chando",
+    "pos": "adverb",
+    "definitions": [
+      "quickly; promptly; early"
+    ],
+    "examples": "कृपया चाँडो आउनुहोस्।",
+    "examplesRomanized": "kripaya chando aaunuhos.",
+    "exampleEnglish": "Please come quickly.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "आज",
+    "romanization": "aaj",
+    "pos": "adverb",
+    "definitions": [
+      "today; on this day"
+    ],
+    "examples": "आज मौसम राम्रो छ।",
+    "examplesRomanized": "aja mausam ramro chha.",
+    "exampleEnglish": "The weather is nice today.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "भोलि",
+    "romanization": "bholi",
+    "pos": "adverb",
+    "definitions": [
+      "tomorrow; on the following day"
+    ],
+    "examples": "भोलि बैठक छ।",
+    "examplesRomanized": "bholi baithak chha.",
+    "exampleEnglish": "There is a meeting tomorrow.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "भर्खर",
+    "romanization": "bharkhar",
+    "pos": "adverb",
+    "definitions": [
+      "just now; a moment ago"
+    ],
+    "examples": "भर्खर मात्र ऊ आए।",
+    "examplesRomanized": "bharkhar matra u aaye.",
+    "exampleEnglish": "He/She just arrived.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अहिलेभर्खर",
+    "romanization": "ahilebharkhar",
+    "pos": "adverb",
+    "definitions": [
+      "just now; right at this moment"
+    ],
+    "examples": "अहिलेभर्खर बैठक सकियो।",
+    "examplesRomanized": "ahilebharkhar baithak sakiyo.",
+    "exampleEnglish": "The meeting just ended.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अझै",
+    "romanization": "ajhai",
+    "pos": "adverb",
+    "definitions": [
+      "still; even more; yet"
+    ],
+    "examples": "अझै काम बाँकी छ।",
+    "examplesRomanized": "ajhai kaam baanki chha.",
+    "exampleEnglish": "There is still work left.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "झट्ट",
+    "romanization": "jhatta",
+    "pos": "adverb",
+    "definitions": [
+      "at a glance; quickly; suddenly"
+    ],
+    "examples": "झट्ट हेर्दा राम्रो देखिन्छ।",
+    "examplesRomanized": "jhatta herda ramro dekhinchha.",
+    "exampleEnglish": "At a glance, it looks good.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "राम्ररी",
+    "romanization": "ramrari",
+    "pos": "adverb",
+    "definitions": [
+      "properly; well; thoroughly"
+    ],
+    "examples": "कृपया काम राम्ररी गर्नुहोस्।",
+    "examplesRomanized": "kripaya kaam ramrari garnuhos.",
+    "exampleEnglish": "Please do the work properly.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "सिधै",
+    "romanization": "sidhai",
+    "pos": "adverb",
+    "definitions": [
+      "directly; straight; without detour"
+    ],
+    "examples": "यहाँबाट सिधै कार्यालय जानुस्।",
+    "examplesRomanized": "yahaa-bata sidhai kaaryalaya janus.",
+    "exampleEnglish": "Go straight to the office from here.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "पक्कै",
+    "romanization": "pakkai",
+    "pos": "adverb",
+    "definitions": [
+      "surely; certainly; without doubt"
+    ],
+    "examples": "पक्कै उसको घर उता छ।",
+    "examplesRomanized": "pakkai usko ghar uta chha.",
+    "exampleEnglish": "His/Her house is surely over there.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अवश्य",
+    "romanization": "avashya",
+    "pos": "adverb",
+    "definitions": [
+      "certainly; definitely; of course"
+    ],
+    "examples": "अवश्य म सहयोग गर्छु।",
+    "examplesRomanized": "avashya ma sahayog garchu.",
+    "exampleEnglish": "Certainly, I will help.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "निश्चयै",
+    "romanization": "nishchayai",
+    "pos": "adverb",
+    "definitions": [
+      "surely; without a doubt"
+    ],
+    "examples": "निश्चयै उसले थाहा पाउँछ।",
+    "examplesRomanized": "nishchayai usle thaha paunchha.",
+    "exampleEnglish": "Surely he/she will know.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "सायद",
+    "romanization": "sayad",
+    "pos": "adverb",
+    "definitions": [
+      "perhaps; maybe; possibly"
+    ],
+    "examples": "सायद उनी आज आउनेछन्।",
+    "examplesRomanized": "sayad uni aaja aaunechhan.",
+    "exampleEnglish": "Perhaps they will come today.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "सम्भवतः",
+    "romanization": "sambhavatah",
+    "pos": "adverb",
+    "definitions": [
+      "possibly; likely; potentially"
+    ],
+    "examples": "सम्भवतः कार्यक्रम भोलि हुनेछ।",
+    "examplesRomanized": "sambhavatah karyakram bholi hunechha.",
+    "exampleEnglish": "The program will possibly be tomorrow.",
+    "frequency": "low",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "एकैचोटि",
+    "romanization": "ekaichoti",
+    "pos": "adverb",
+    "definitions": [
+      "all at once; simultaneously; together"
+    ],
+    "examples": "सबैले एकैचोटि ताली बजाए।",
+    "examplesRomanized": "sabaile ekaichoti taali bajaye.",
+    "exampleEnglish": "Everyone clapped at once.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अचानक",
+    "romanization": "achanak",
+    "pos": "adverb",
+    "definitions": [
+      "suddenly; unexpectedly"
+    ],
+    "examples": "अचानक बिजुली गयो।",
+    "examplesRomanized": "achanak bijuli gayo.",
+    "exampleEnglish": "Suddenly the power went out.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "तुरुन्तै",
+    "romanization": "turuntai",
+    "pos": "adverb",
+    "definitions": [
+      "immediately; at once; without delay"
+    ],
+    "examples": "कृपया तुरुन्तै उत्तर दिनुहोस्।",
+    "examplesRomanized": "kripaya turuntai uttar dinuhos.",
+    "exampleEnglish": "Please reply immediately.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "तुरुन्त",
+    "romanization": "turunt",
+    "pos": "adverb",
+    "definitions": [
+      "immediately; instantly"
+    ],
+    "examples": "तुरुन्त काम सुरु गर।",
+    "examplesRomanized": "turunt kaam suru gara.",
+    "exampleEnglish": "Start the work immediately.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "छिट्टै",
+    "romanization": "chittai",
+    "pos": "adverb",
+    "definitions": [
+      "soon; quickly; in a short time"
+    ],
+    "examples": "हामी छिट्टै भेटौंला।",
+    "examplesRomanized": "haami chittai bhetaunla.",
+    "exampleEnglish": "We will meet soon.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "कहिलेकाहीँ",
+    "romanization": "kahilekahin",
+    "pos": "adverb",
+    "definitions": [
+      "sometimes; occasionally"
+    ],
+    "examples": "कहिलेकाहीँ विश्राम पनि चाहिन्छ।",
+    "examplesRomanized": "kahilekahin vishram pani chahinchha.",
+    "exampleEnglish": "Sometimes rest is needed.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "कहिल्यै",
+    "romanization": "kahilyai",
+    "pos": "adverb",
+    "definitions": [
+      "never (used with negatives)"
+    ],
+    "examples": "म कहिल्यै ढिलो आउँदिन।",
+    "examplesRomanized": "ma kahilyai dhilo aaundina.",
+    "exampleEnglish": "I never come late.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "प्रायः",
+    "romanization": "prayah",
+    "pos": "adverb",
+    "definitions": [
+      "often; mostly; generally"
+    ],
+    "examples": "उनी प्रायः बिहानै उठ्छन्।",
+    "examplesRomanized": "uni prayah bihānai uthchhan.",
+    "exampleEnglish": "They often wake up early.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "यदाकदा",
+    "romanization": "yadakada",
+    "pos": "adverb",
+    "definitions": [
+      "occasionally; from time to time"
+    ],
+    "examples": "यदाकदा गाउँ जान्छु।",
+    "examplesRomanized": "yadakada gaaun janchu.",
+    "exampleEnglish": "I go to the village occasionally.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "दिनदिनै",
+    "romanization": "dindinai",
+    "pos": "adverb",
+    "definitions": [
+      "every day; daily"
+    ],
+    "examples": "दिनदिनै अभ्यास गर्नुहोस्।",
+    "examplesRomanized": "dindinai abhyas garnuhos.",
+    "exampleEnglish": "Practice every day.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "दिनहुँ",
+    "romanization": "dinhun",
+    "pos": "adverb",
+    "definitions": [
+      "daily; each day"
+    ],
+    "examples": "उहाँ दिनहुँ हिँड्नुहुन्छ।",
+    "examplesRomanized": "uhaa dinhun hindnuhunchha.",
+    "exampleEnglish": "He/She walks daily.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "बेलाबेला",
+    "romanization": "belabela",
+    "pos": "adverb",
+    "definitions": [
+      "from time to time; occasionally"
+    ],
+    "examples": "बेलाबेला कुरा गरौँ।",
+    "examplesRomanized": "belabela kura garaun.",
+    "exampleEnglish": "Let's talk from time to time.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "सधैं",
+    "romanization": "sadhain",
+    "pos": "adverb",
+    "definitions": [
+      "always; all the time"
+    ],
+    "examples": "सधैं सचेत रहनुहोस्।",
+    "examplesRomanized": "sadhain sachet rahnuhos.",
+    "exampleEnglish": "Always stay alert.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "झन्",
+    "romanization": "jhan",
+    "pos": "adverb",
+    "definitions": [
+      "even more; further; additionally"
+    ],
+    "examples": "यसपछि झन् राम्रो भयो।",
+    "examplesRomanized": "yaspachi jhan ramro bhayo.",
+    "exampleEnglish": "After this, it became even better.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "कम्तिमा",
+    "romanization": "kamtima",
+    "pos": "adverb",
+    "definitions": [
+      "at least; minimum; not less than"
+    ],
+    "examples": "कम्तिमा दुई वटा चाहिन्छ।",
+    "examplesRomanized": "kamtima dui wata chahinchha.",
+    "exampleEnglish": "At least two are needed.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "बढीमा",
+    "romanization": "badima",
+    "pos": "adverb",
+    "definitions": [
+      "at most; maximum"
+    ],
+    "examples": "बढीमा पाँच मिनेट कुर्छु।",
+    "examplesRomanized": "badima panch minut kurchu.",
+    "exampleEnglish": "I will wait at most five minutes.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "यति",
+    "romanization": "yati",
+    "pos": "adverb",
+    "definitions": [
+      "this much; to this extent"
+    ],
+    "examples": "यति चाँडो नकर।",
+    "examplesRomanized": "yati chando nakara.",
+    "exampleEnglish": "Don't be this hasty.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "त्यति",
+    "romanization": "tyati",
+    "pos": "adverb",
+    "definitions": [
+      "that much; to that extent"
+    ],
+    "examples": "काम त्यति कठिन छैन।",
+    "examplesRomanized": "kaam tyati kathin chaina.",
+    "exampleEnglish": "The work is not that difficult.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "त्यत्तिकै",
+    "romanization": "tyattikai",
+    "pos": "adverb",
+    "definitions": [
+      "just like that; for no special reason"
+    ],
+    "examples": "उसले त्यत्तिकै हाँस्यो।",
+    "examplesRomanized": "usle tyattikai hansyo.",
+    "exampleEnglish": "He/She laughed just like that.",
+    "frequency": "low",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "यसरी",
+    "romanization": "yasari",
+    "pos": "adverb",
+    "definitions": [
+      "like this; thus"
+    ],
+    "examples": "यसरी लेख्नुहोस्।",
+    "examplesRomanized": "yasari lekhnu hos.",
+    "exampleEnglish": "Write like this.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "त्यसरी",
+    "romanization": "tyasari",
+    "pos": "adverb",
+    "definitions": [
+      "like that; in that way"
+    ],
+    "examples": "त्यसरी नबोल्नुहोस्।",
+    "examplesRomanized": "tyasari nabolnuhos.",
+    "exampleEnglish": "Don't speak like that.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "उस्तैगरी",
+    "romanization": "ustaigari",
+    "pos": "adverb",
+    "definitions": [
+      "in the same way"
+    ],
+    "examples": "अर्कोपटक उस्तैगरी गर्नुहोस्।",
+    "examplesRomanized": "arkopatak ustaigari garnuhos.",
+    "exampleEnglish": "Do it the same way next time.",
+    "frequency": "low",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "यथाशीघ्र",
+    "romanization": "yathashighra",
+    "pos": "adverb",
+    "definitions": [
+      "as soon as possible"
+    ],
+    "examples": "कृपया यथाशीघ्र पठाउनुहोस्।",
+    "examplesRomanized": "kripaya yathashighra pathaunuhos.",
+    "exampleEnglish": "Please send it as soon as possible.",
+    "frequency": "low",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "निक्कै",
+    "romanization": "nikkai",
+    "pos": "adverb",
+    "definitions": [
+      "quite; fairly"
+    ],
+    "examples": "आज निक्कै चिसो छ।",
+    "examplesRomanized": "aaja nikkai chiso chha.",
+    "exampleEnglish": "It is quite cold today.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "साँच्चिकै",
+    "romanization": "saanchikai",
+    "pos": "adverb",
+    "definitions": [
+      "really; truly"
+    ],
+    "examples": "यो साँच्चिकै रमाइलो रहेछ।",
+    "examplesRomanized": "yo saanchikai ramailo rahechha.",
+    "exampleEnglish": "This is really fun.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "वास्तवमै",
+    "romanization": "vastavamai",
+    "pos": "adverb",
+    "definitions": [
+      "indeed; in reality"
+    ],
+    "examples": "वास्तवमै समस्या गम्भीर छ।",
+    "examplesRomanized": "vastavamai samasya gambhir chha.",
+    "exampleEnglish": "Indeed, the problem is serious.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "ठिक्कै",
+    "romanization": "thikkai",
+    "pos": "adverb",
+    "definitions": [
+      "exactly; just right"
+    ],
+    "examples": "ठिक्कै समयमै पुग्यौ।",
+    "examplesRomanized": "thikkai samayamai pugyau.",
+    "exampleEnglish": "You arrived exactly on time.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "करिब",
+    "romanization": "karib",
+    "pos": "adverb",
+    "definitions": [
+      "about; approximately"
+    ],
+    "examples": "करिब दस मिनेट कुर्नुपर्छ।",
+    "examplesRomanized": "karib das minut kurnuparchha.",
+    "exampleEnglish": "We must wait about ten minutes.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "झन्डै",
+    "romanization": "jhandai",
+    "pos": "adverb",
+    "definitions": [
+      "almost; nearly"
+    ],
+    "examples": "झन्डै चुकें।",
+    "examplesRomanized": "jhandai chukein.",
+    "exampleEnglish": "I almost missed.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "पूर्णरूपले",
+    "romanization": "purnaruple",
+    "pos": "adverb",
+    "definitions": [
+      "completely; fully"
+    ],
+    "examples": "पूर्णरूपले बुझेर मात्र सहमत भएँ।",
+    "examplesRomanized": "purnaruple bujhera matra sahamat bhaen.",
+    "exampleEnglish": "I agreed only after fully understanding.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "एकदम",
+    "romanization": "ekdam",
+    "pos": "adverb",
+    "definitions": [
+      "very; absolutely"
+    ],
+    "examples": "आज एकदम खुशी छु।",
+    "examplesRomanized": "aaja ekdam khushi chu.",
+    "exampleEnglish": "I am very happy today.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अत्यन्तै",
+    "romanization": "atyantai",
+    "pos": "adverb",
+    "definitions": [
+      "extremely"
+    ],
+    "examples": "यो अत्यन्तै उपयोगी भयो।",
+    "examplesRomanized": "yo atyai upayogi bhayo.",
+    "exampleEnglish": "This was extremely useful.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अलिकति",
+    "romanization": "alikati",
+    "pos": "adverb",
+    "definitions": [
+      "a little; slightly"
+    ],
+    "examples": "अलिकति पर्खिनुहोस्।",
+    "examplesRomanized": "alikati parkhinuhos.",
+    "exampleEnglish": "Please wait a little.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "संक्षेपमा",
+    "romanization": "sanksepma",
+    "pos": "adverb",
+    "definitions": [
+      "briefly; in short"
+    ],
+    "examples": "संक्षेपमा नतिजा राम्रो छ।",
+    "examplesRomanized": "sanksepma natija ramro chha.",
+    "exampleEnglish": "Briefly, the result is good.",
+    "frequency": "low",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "विस्तारमा",
+    "romanization": "bistarma",
+    "pos": "adverb",
+    "definitions": [
+      "in detail"
+    ],
+    "examples": "विस्तारमा बुझ्नुस्।",
+    "examplesRomanized": "bistarma bujhnus.",
+    "exampleEnglish": "Understand in detail.",
+    "frequency": "low",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "बल्ल",
+    "romanization": "balla",
+    "pos": "adverb",
+    "definitions": [
+      "finally; only then"
+    ],
+    "examples": "बल्ल समस्या हल भयो।",
+    "examplesRomanized": "balla samasya hal bhayo.",
+    "exampleEnglish": "Finally, the problem was solved.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "बल्लतल्ल",
+    "romanization": "ballatalla",
+    "pos": "adverb",
+    "definitions": [
+      "with difficulty; hardly"
+    ],
+    "examples": "बल्लतल्ल समय मिल्यो।",
+    "examplesRomanized": "ballatalla samay milyo.",
+    "exampleEnglish": "I could barely manage the time.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "साधारणतया",
+    "romanization": "sadharanataya",
+    "pos": "adverb",
+    "definitions": [
+      "generally; ordinarily"
+    ],
+    "examples": "साधारणतया यो प्रक्रिया सरल छ।",
+    "examplesRomanized": "sadharanataya yo prakriya saral chha.",
+    "exampleEnglish": "Generally, this process is simple.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "सामान्यतया",
+    "romanization": "samanyataya",
+    "pos": "adverb",
+    "definitions": [
+      "usually; typically"
+    ],
+    "examples": "सामान्यतया कक्षा सात बजे सुरु हुन्छ।",
+    "examplesRomanized": "samanyataya kaksha saat baje suru hunchha.",
+    "exampleEnglish": "Usually, class starts at seven o'clock.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "प्रायजसो",
+    "romanization": "prayajaso",
+    "pos": "adverb",
+    "definitions": [
+      "mostly; for the most part"
+    ],
+    "examples": "प्रायजसो हामी घरमै खान्छौं।",
+    "examplesRomanized": "prayajaso haami gharmai khanchhau.",
+    "exampleEnglish": "Mostly we eat at home.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "खुलेर",
+    "romanization": "khulera",
+    "pos": "adverb",
+    "definitions": [
+      "openly; frankly"
+    ],
+    "examples": "खुलेर आफ्नो विचार राख्नुहोस्।",
+    "examplesRomanized": "khulera aafno vichar rakhnu hos.",
+    "exampleEnglish": "Express your opinion openly.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "चुपचाप",
+    "romanization": "chupchaap",
+    "pos": "adverb",
+    "definitions": [
+      "silently; quietly"
+    ],
+    "examples": "चुपचाप बस्नुहोस्।",
+    "examplesRomanized": "chupchaap basnuhos.",
+    "exampleEnglish": "Please sit quietly.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "कदाचित्",
+    "romanization": "kadachit",
+    "pos": "adverb",
+    "definitions": [
+      "perhaps; possibly"
+    ],
+    "examples": "कदाचित् ऊ आउँदैन।",
+    "examplesRomanized": "kadachit u aaudaina.",
+    "exampleEnglish": "Perhaps he/she will not come.",
+    "frequency": "low",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "पूर्ववत्",
+    "romanization": "purvavat",
+    "pos": "adverb",
+    "definitions": [
+      "as before; as earlier"
+    ],
+    "examples": "सबै कुरा पूर्ववत् भयो।",
+    "examplesRomanized": "sabai kura purvavat bhayo.",
+    "exampleEnglish": "Everything is as before.",
+    "frequency": "low",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "पहिल्यै",
+    "romanization": "pahilyai",
+    "pos": "adverb",
+    "definitions": [
+      "already; earlier"
+    ],
+    "examples": "म पहिल्यै तयारी भइसकेको छु।",
+    "examplesRomanized": "ma pahilyai tayari bhaisakeko chu.",
+    "exampleEnglish": "I am already prepared.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अहिलेसम्म",
+    "romanization": "ahilesamma",
+    "pos": "adverb",
+    "definitions": [
+      "so far; until now"
+    ],
+    "examples": "अहिलेसम्म निर्णय भएको छैन।",
+    "examplesRomanized": "ahilesamma nirnaya bhaeko chaina.",
+    "exampleEnglish": "No decision has been made so far.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अहिल्यै",
+    "romanization": "ahilyai",
+    "pos": "adverb",
+    "definitions": [
+      "right now; this instant"
+    ],
+    "examples": "अहिल्यै पठाइदिनुहोस्।",
+    "examplesRomanized": "ahilyai pathaidinuhos.",
+    "exampleEnglish": "Please send it right now.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अन्ततः",
+    "romanization": "antatah",
+    "pos": "adverb",
+    "definitions": [
+      "eventually; in the end"
+    ],
+    "examples": "अन्ततः हामी सफल भयौँ।",
+    "examplesRomanized": "antatah haami safal bhayau.",
+    "exampleEnglish": "Eventually, we succeeded.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "तथापि",
+    "romanization": "tathapi",
+    "pos": "adverb",
+    "definitions": [
+      "however; nevertheless"
+    ],
+    "examples": "कठिन थियो; तथापि हामीले गर्यौँ।",
+    "examplesRomanized": "kathin thiyo; tathapi haamile garyau.",
+    "exampleEnglish": "It was difficult; however, we did it.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "निरन्तर",
+    "romanization": "nirantar",
+    "pos": "adverb",
+    "definitions": [
+      "continuously"
+    ],
+    "examples": "उनी निरन्तर काम गरिरहे।",
+    "examplesRomanized": "uni nirantar kaam garirahe.",
+    "exampleEnglish": "They worked continuously.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "एकोहोरो",
+    "romanization": "ekohooro",
+    "pos": "adverb",
+    "definitions": [
+      "monotonously; without variation"
+    ],
+    "examples": "उनी एकोहोरो पढिरहे।",
+    "examplesRomanized": "uni ekohooro padhirahe.",
+    "exampleEnglish": "They kept studying monotonously.",
+    "frequency": "low",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "क्रमशः",
+    "romanization": "kramashah",
+    "pos": "adverb",
+    "definitions": [
+      "gradually; successively"
+    ],
+    "examples": "काम क्रमशः अघि बढ्दैछ।",
+    "examplesRomanized": "kaam kramashah aghi baddai chha.",
+    "exampleEnglish": "The work is progressing gradually.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "यतिबेला",
+    "romanization": "yatibela",
+    "pos": "adverb",
+    "definitions": [
+      "at this time; nowadays"
+    ],
+    "examples": "यतिबेला काम धेरै छ।",
+    "examplesRomanized": "yatibela kaam dherai chha.",
+    "exampleEnglish": "There is a lot of work at this time.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "उतिबेला",
+    "romanization": "utibela",
+    "pos": "adverb",
+    "definitions": [
+      "at that time"
+    ],
+    "examples": "उतिबेला यस्तो थिएन।",
+    "examplesRomanized": "utibela yasto thiena.",
+    "exampleEnglish": "It wasn't like that at that time.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "हुनत",
+    "romanization": "hunata",
+    "pos": "adverb",
+    "definitions": [
+      "to be sure; admittedly"
+    ],
+    "examples": "हुनत सजिलो छैन, तर सम्भव छ।",
+    "examplesRomanized": "hunata sajilo chaina, tara sambhav chha.",
+    "exampleEnglish": "Admittedly, it's not easy, but it's possible.",
+    "frequency": "low",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "खासगरी",
+    "romanization": "khasgari",
+    "pos": "adverb",
+    "definitions": [
+      "especially; particularly"
+    ],
+    "examples": "खासगरी छात्रालाई यो उपयोगी छ।",
+    "examplesRomanized": "khasgari chhatralai yo upayogi chha.",
+    "exampleEnglish": "This is especially useful for students.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "सामान्यतः",
+    "romanization": "samanyatah",
+    "pos": "adverb",
+    "definitions": [
+      "generally; usually"
+    ],
+    "examples": "सामान्यतः सधैं जुत्ता लगाइन्छ।",
+    "examplesRomanized": "samanyatah sadhain juta lagainchha.",
+    "exampleEnglish": "Generally, shoes are always worn.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "बाह्यतः",
+    "romanization": "bahyatah",
+    "pos": "adverb",
+    "definitions": [
+      "externally; on the surface"
+    ],
+    "examples": "बाह्यतः ठिक देखिन्छ।",
+    "examplesRomanized": "bahyatah thik dekhinchha.",
+    "exampleEnglish": "Externally, it looks fine.",
+    "frequency": "low",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "आन्तरिक रूपमा",
+    "romanization": "aantrik rupma",
+    "pos": "adverb",
+    "definitions": [
+      "internally"
+    ],
+    "examples": "आन्तरिक रूपमा समस्या छ।",
+    "examplesRomanized": "aantrik rupma samasya chha.",
+    "exampleEnglish": "There is a problem internally.",
+    "frequency": "low",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "निश्चित रूपमा",
+    "romanization": "nishchit rupma",
+    "pos": "adverb",
+    "definitions": [
+      "definitely"
+    ],
+    "examples": "निश्चित रूपमा त्यही हो।",
+    "examplesRomanized": "nishchit rupma tyaahi ho.",
+    "exampleEnglish": "Definitely, it's that.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अनिवार्य रूपमा",
+    "romanization": "anibaraya rupma",
+    "pos": "adverb",
+    "definitions": [
+      "mandatorily; compulsorily"
+    ],
+    "examples": "अनिवार्य रूपमा दर्ता गर्नुहोस्।",
+    "examplesRomanized": "anibaraya rupma darta garnuhos.",
+    "exampleEnglish": "Register compulsorily.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "आफैँ",
+    "romanization": "aafai",
+    "pos": "adverb",
+    "definitions": [
+      "by oneself; on one's own"
+    ],
+    "examples": "उसले आफैँ गर्‍यो।",
+    "examplesRomanized": "usle aafai garyo.",
+    "exampleEnglish": "He/She did it on their own.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "फेरि",
+    "romanization": "feri",
+    "pos": "adverb",
+    "definitions": [
+      "again; once more"
+    ],
+    "examples": "फेरि प्रयास गरौँ।",
+    "examplesRomanized": "feri prayas garaun.",
+    "exampleEnglish": "Let's try again.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "पुनः",
+    "romanization": "punah",
+    "pos": "adverb",
+    "definitions": [
+      "again; anew"
+    ],
+    "examples": "पुनः भेटौँला।",
+    "examplesRomanized": "punah bhetoula.",
+    "exampleEnglish": "We shall meet again.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "बारम्बार",
+    "romanization": "barambar",
+    "pos": "adverb",
+    "definitions": [
+      "repeatedly"
+    ],
+    "examples": "उनी बारम्बार सोध्छन्।",
+    "examplesRomanized": "uni barambar sodhchhan.",
+    "exampleEnglish": "They ask repeatedly.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "झनझन",
+    "romanization": "jhanzhan",
+    "pos": "adverb",
+    "definitions": [
+      "increasingly; more and more"
+    ],
+    "examples": "झनझन चिसो बढ्दैछ।",
+    "examplesRomanized": "jhanzhan chiso baddai chha.",
+    "exampleEnglish": "It is getting colder and colder.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "सजिलै",
+    "romanization": "sajilai",
+    "pos": "adverb",
+    "definitions": [
+      "easily"
+    ],
+    "examples": "यो काम सजिलै हुन्छ।",
+    "examplesRomanized": "yo kaam sajilai hunchha.",
+    "exampleEnglish": "This work is done easily.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "मुस्किलले",
+    "romanization": "muskille",
+    "pos": "adverb",
+    "definitions": [
+      "with difficulty; hardly"
+    ],
+    "examples": "मुस्किलले समय निकालें।",
+    "examplesRomanized": "muskille samay nikalen.",
+    "exampleEnglish": "I barely made time.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "बेलैमा",
+    "romanization": "belaima",
+    "pos": "adverb",
+    "definitions": [
+      "on time; in time"
+    ],
+    "examples": "बेलैमा पुग्नुहोस्।",
+    "examplesRomanized": "belaima pugnuhos.",
+    "exampleEnglish": "Reach on time.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "समयमै",
+    "romanization": "samayamai",
+    "pos": "adverb",
+    "definitions": [
+      "on time"
+    ],
+    "examples": "कागजात समयमै बुझाउनुहोस्।",
+    "examplesRomanized": "kagajat samayamai bujhaunuhos.",
+    "exampleEnglish": "Submit the documents on time.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "चाँडै",
+    "romanization": "chandai",
+    "pos": "adverb",
+    "definitions": [
+      "soon; quickly"
+    ],
+    "examples": "चाँडै भेटौँला।",
+    "examplesRomanized": "chandai bhetoula.",
+    "exampleEnglish": "See you soon.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "बिस्तारै",
+    "romanization": "bistarai",
+    "pos": "adverb",
+    "definitions": [
+      "slowly; gently"
+    ],
+    "examples": "बिस्तारै हिँड्नुहोस्।",
+    "examplesRomanized": "bistarai hindnuhos.",
+    "exampleEnglish": "Walk slowly.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "छिटोछिटो",
+    "romanization": "chitochito",
+    "pos": "adverb",
+    "definitions": [
+      "rapidly; in quick succession"
+    ],
+    "examples": "छिटोछिटो काम पूरा गर।",
+    "examplesRomanized": "chitochito kaam pura gara.",
+    "exampleEnglish": "Finish the work quickly.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "जानीबुझी",
+    "romanization": "janibujhi",
+    "pos": "adverb",
+    "definitions": [
+      "deliberately; knowingly"
+    ],
+    "examples": "उसले जानीबुझी गल्ती गरेन।",
+    "examplesRomanized": "usle janibujhi galti garena.",
+    "exampleEnglish": "He/She did not make a mistake deliberately.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अनायासै",
+    "romanization": "anayaasai",
+    "pos": "adverb",
+    "definitions": [
+      "unexpectedly; accidentally"
+    ],
+    "examples": "अनायासै भेट भयो।",
+    "examplesRomanized": "anayaasai bhet bhayo.",
+    "exampleEnglish": "We met unexpectedly.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "विशेषतः",
+    "romanization": "visheshatah",
+    "pos": "adverb",
+    "definitions": [
+      "especially"
+    ],
+    "examples": "यो विशेषतः बालकहरूका लागि हो।",
+    "examplesRomanized": "yo visheshatah balakharuka lagi ho.",
+    "exampleEnglish": "This is especially for children.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "स्पष्ट रूपमा",
+    "romanization": "spashta rupma",
+    "pos": "adverb",
+    "definitions": [
+      "clearly"
+    ],
+    "examples": "स्पष्ट रूपमा बताउनुहोस्।",
+    "examplesRomanized": "spashta rupma bataunuhos.",
+    "exampleEnglish": "Explain clearly.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अस्पष्ट रूपमा",
+    "romanization": "aspashta rupma",
+    "pos": "adverb",
+    "definitions": [
+      "unclearly; vaguely"
+    ],
+    "examples": "उसले अस्पष्ट रूपमा बोल्यो।",
+    "examplesRomanized": "usle aspashta rupma bolyo.",
+    "exampleEnglish": "He/She spoke unclearly.",
+    "frequency": "low",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "प्रभावकारी रूपमा",
+    "romanization": "prabhavkari rupma",
+    "pos": "adverb",
+    "definitions": [
+      "effectively"
+    ],
+    "examples": "सन्देश प्रभावकारी रूपमा पुग्यो।",
+    "examplesRomanized": "sandesh prabhavkari rupma pugyo.",
+    "exampleEnglish": "The message reached effectively.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "कुशलतापूर्वक",
+    "romanization": "kushalatapurvak",
+    "pos": "adverb",
+    "definitions": [
+      "skillfully"
+    ],
+    "examples": "उसले कुशलतापूर्वक समाधान गर्‍यो।",
+    "examplesRomanized": "usle kushalatapurvak samadhan garyo.",
+    "exampleEnglish": "He/She solved it skillfully.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "सावधानीपूर्वक",
+    "romanization": "saavadhanipurvak",
+    "pos": "adverb",
+    "definitions": [
+      "carefully; cautiously"
+    ],
+    "examples": "कृपया सावधानीपूर्वक पढ्नुहोस्।",
+    "examplesRomanized": "kripaya saavadhanipurvak padhnuhos.",
+    "exampleEnglish": "Please read carefully.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "नियमित रूपमा",
+    "romanization": "niyamit rupma",
+    "pos": "adverb",
+    "definitions": [
+      "regularly"
+    ],
+    "examples": "नियमित रूपमा अभ्यास गर्नुहोस्।",
+    "examplesRomanized": "niyamit rupma abhyas garnuhos.",
+    "exampleEnglish": "Practice regularly.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अनियमित रूपमा",
+    "romanization": "aniyamit rupma",
+    "pos": "adverb",
+    "definitions": [
+      "irregularly"
+    ],
+    "examples": "उनी अनियमित रूपमा आउँछन्।",
+    "examplesRomanized": "uni aniyamit rupma aauchhan.",
+    "exampleEnglish": "They come irregularly.",
+    "frequency": "low",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "लगत्तै",
+    "romanization": "lagattai",
+    "pos": "adverb",
+    "definitions": [
+      "immediately; right away"
+    ],
+    "examples": "भेट सकिएपछि लगत्तै फर्कियौँ।",
+    "examplesRomanized": "bhet sakiepachi lagattai farkiyaun.",
+    "exampleEnglish": "We returned immediately after the meeting.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "लगालग",
+    "romanization": "lagalag",
+    "pos": "adverb",
+    "definitions": [
+      "one after another; consecutively"
+    ],
+    "examples": "टीमले लगालग गोल गर्‍यो।",
+    "examplesRomanized": "teamle lagalag gol garyo.",
+    "exampleEnglish": "The team scored goals one after another.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "लगातार",
+    "romanization": "lagatar",
+    "pos": "adverb",
+    "definitions": [
+      "continuously"
+    ],
+    "examples": "बिहानदेखि लगातार पानी परिरहेको छ।",
+    "examplesRomanized": "bihan dekhi lagatar pani parirheko chha.",
+    "exampleEnglish": "It has been raining continuously since morning.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "उल्टै",
+    "romanization": "ultai",
+    "pos": "adverb",
+    "definitions": [
+      "on the contrary; instead"
+    ],
+    "examples": "उल्टै उसले धन्यवाद दियो।",
+    "examplesRomanized": "ultai usle dhanyabad diyo.",
+    "exampleEnglish": "On the contrary, he/she thanked us.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "बरु",
+    "romanization": "baru",
+    "pos": "adverb",
+    "definitions": [
+      "rather; instead"
+    ],
+    "examples": "बरु घरमै बस्।",
+    "examplesRomanized": "baru gharmai bas.",
+    "exampleEnglish": "Rather, stay at home.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "तैपनि",
+    "romanization": "taipani",
+    "pos": "adverb",
+    "definitions": [
+      "however; nevertheless"
+    ],
+    "examples": "कठिन छ; तैपनि सम्भव छ।",
+    "examplesRomanized": "kathin chha; taipani sambhav chha.",
+    "exampleEnglish": "It is difficult; nevertheless, it is possible.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "यसैले",
+    "romanization": "tyasaile",
+    "pos": "adverb",
+    "definitions": [
+      "therefore; for this reason"
+    ],
+    "examples": "ढिलो भयो; त्यसैले माफी चाहन्छु।",
+    "examplesRomanized": "dhilo bhayo; tyasaile maafi chahanchu.",
+    "exampleEnglish": "It was late; therefore I apologize.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अतः",
+    "romanization": "atah",
+    "pos": "adverb",
+    "definitions": [
+      "therefore; hence"
+    ],
+    "examples": "अतः निर्णय स्थगित गरियो।",
+    "examplesRomanized": "atah nirnaya sthagit gario.",
+    "exampleEnglish": "Therefore, the decision was postponed.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "यथार्थमा",
+    "romanization": "yatharthma",
+    "pos": "adverb",
+    "definitions": [
+      "in reality; actually"
+    ],
+    "examples": "यथार्थमा समस्या सानो थियो।",
+    "examplesRomanized": "yatharthma samasya sano thiyo.",
+    "exampleEnglish": "In reality, the problem was small.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "वास्तवमा",
+    "romanization": "vastavma",
+    "pos": "adverb",
+    "definitions": [
+      "actually; in fact"
+    ],
+    "examples": "वास्तवमा त्यस्तो होइन।",
+    "examplesRomanized": "vastavma tyasto hoina.",
+    "exampleEnglish": "Actually, it is not like that.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "प्रत्यक्ष रूपमा",
+    "romanization": "pratyaksh rupma",
+    "pos": "adverb",
+    "definitions": [
+      "directly"
+    ],
+    "examples": "प्रत्यक्ष रूपमा सम्बोधन गरियो।",
+    "examplesRomanized": "pratyaksh rupma sambodhan garyo.",
+    "exampleEnglish": "It was addressed directly.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अप्रत्यक्ष रूपमा",
+    "romanization": "apratyaksh rupma",
+    "pos": "adverb",
+    "definitions": [
+      "indirectly"
+    ],
+    "examples": "सन्देश अप्रत्यक्ष रूपमा दिइयो।",
+    "examplesRomanized": "sandesh apratyaksh rupma diyo.",
+    "exampleEnglish": "The message was given indirectly.",
+    "frequency": "low",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "समतुल्य रूपमा",
+    "romanization": "samatulya rupma",
+    "pos": "adverb",
+    "definitions": [
+      "equally"
+    ],
+    "examples": "स्रोत समतुल्य रूपमा बाँडियो।",
+    "examplesRomanized": "srot samatulya rupma baandiyo.",
+    "exampleEnglish": "Resources were distributed equally.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "पर्याप्त रूपमा",
+    "romanization": "paryapt rupma",
+    "pos": "adverb",
+    "definitions": [
+      "sufficiently"
+    ],
+    "examples": "समय पर्याप्त रूपमा छैन।",
+    "examplesRomanized": "samay paryapt rupma chaina.",
+    "exampleEnglish": "Time is not sufficient.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "आंशिक रूपमा",
+    "romanization": "aanshik rupma",
+    "pos": "adverb",
+    "definitions": [
+      "partially"
+    ],
+    "examples": "आंशिक रूपमा प्रभाव परेको छ।",
+    "examplesRomanized": "aanshik rupma prabhav pareko chha.",
+    "exampleEnglish": "It has been affected partially.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अत्यधिक",
+    "romanization": "atyadhik",
+    "pos": "adverb",
+    "definitions": [
+      "excessively"
+    ],
+    "examples": "अत्यधिक खर्च भयो।",
+    "examplesRomanized": "atyadhik kharcha bhayo.",
+    "exampleEnglish": "It was excessively expensive.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "धेरैजसो",
+    "romanization": "dheraijaso",
+    "pos": "adverb",
+    "definitions": [
+      "mostly; for the most part"
+    ],
+    "examples": "धेरैजसो मानिसहरू सहमत थिए।",
+    "examplesRomanized": "dheraijaso manishharu sahamat thiye.",
+    "exampleEnglish": "Most people agreed.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "विरलै",
+    "romanization": "virlai",
+    "pos": "adverb",
+    "definitions": [
+      "rarely; scarcely"
+    ],
+    "examples": "उनी विरलै यहाँ आउँछन्।",
+    "examplesRomanized": "uni virlai yahaa aaunchhan.",
+    "exampleEnglish": "They rarely come here.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अक्सर",
+    "romanization": "aksar",
+    "pos": "adverb",
+    "definitions": [
+      "often"
+    ],
+    "examples": "अक्सर ट्राफिक जाम हुन्छ।",
+    "examplesRomanized": "aksar traffic jam hunchha.",
+    "exampleEnglish": "There is often traffic jam.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "कमसेकम",
+    "romanization": "kmskm",
+    "pos": "adverb",
+    "definitions": [
+      "at least"
+    ],
+    "examples": "कमसेकम एकपटक प्रयास गर।",
+    "examplesRomanized": "kamsakam ekpatak prayas gara.",
+    "exampleEnglish": "At least try once.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "यथाशक्य",
+    "romanization": "yathashakya",
+    "pos": "adverb",
+    "definitions": [
+      "as far as possible"
+    ],
+    "examples": "यथाशक्य छिटो पठाउनुहोस्।",
+    "examplesRomanized": "yathashakya chito pathaunuhos.",
+    "exampleEnglish": "Send it as soon as possible.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अर्कोतर्फ",
+    "romanization": "arkotarfa",
+    "pos": "adverb",
+    "definitions": [
+      "on the other hand"
+    ],
+    "examples": "अर्कोतर्फ, खर्च घट्यो।",
+    "examplesRomanized": "arkotarfa, kharcha ghatyo.",
+    "exampleEnglish": "On the other hand, the cost decreased.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "यसैगरी",
+    "romanization": "yasai gari",
+    "pos": "adverb",
+    "definitions": [
+      "likewise; in the same way"
+    ],
+    "examples": "यसैगरी अर्को चरण सुरु हुन्छ।",
+    "examplesRomanized": "yasai gari arko charan suru hunchha.",
+    "exampleEnglish": "Likewise, the next phase begins.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "त्यसैगरी",
+    "romanization": "tyasai gari",
+    "pos": "adverb",
+    "definitions": [
+      "similarly; in that way"
+    ],
+    "examples": "त्यसैगरी योजना अघि बढाइयो।",
+    "examplesRomanized": "tyasai gari yojana aghi badaiyo.",
+    "exampleEnglish": "Similarly, the plan was advanced.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अप्रत्याशित रूपमा",
+    "romanization": "apratyashit rupma",
+    "pos": "adverb",
+    "definitions": [
+      "unexpectedly"
+    ],
+    "examples": "अप्रत्याशित रूपमा खबर आयो।",
+    "examplesRomanized": "apratyashit rupma khabar ayo.",
+    "exampleEnglish": "The news came unexpectedly.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "जानाजानी",
+    "romanization": "janajani",
+    "pos": "adverb",
+    "definitions": [
+      "on purpose; intentionally"
+    ],
+    "examples": "उनीले जानाजानी ढिलो गरे।",
+    "examplesRomanized": "unile janajani dhilo gare.",
+    "exampleEnglish": "They were late on purpose.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "कस्सेर",
+    "romanization": "kassera",
+    "pos": "adverb",
+    "definitions": [
+      "tightly; firmly"
+    ],
+    "examples": "डोरी कस्सेर बाँध।",
+    "examplesRomanized": "dori kassera baandha.",
+    "exampleEnglish": "Tie the rope tightly.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "ढिलोढिलो",
+    "romanization": "dhilodhilo",
+    "pos": "adverb",
+    "definitions": [
+      "very slowly; slower and slower"
+    ],
+    "examples": "गति ढिलोढिलो हुँदै गयो।",
+    "examplesRomanized": "gati dhilodhilo hunda gayo.",
+    "exampleEnglish": "The speed kept getting slower.",
+    "frequency": "low",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अलिकति अलिकति",
+    "romanization": "alikati alikati",
+    "pos": "adverb",
+    "definitions": [
+      "little by little"
+    ],
+    "examples": "अलिकति अलिकति गरेर सकियो।",
+    "examplesRomanized": "alikati alikati garera sakiyo.",
+    "exampleEnglish": "It was completed little by little.",
+    "frequency": "low",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "आफ्नै रूपमा",
+    "romanization": "aafnai rupma",
+    "pos": "adverb",
+    "definitions": [
+      "in one's own way"
+    ],
+    "examples": "उनीहरूले आफ्नै रूपमा समाधान गरे।",
+    "examplesRomanized": "uniharu le aafnai rupma samadhan gare.",
+    "exampleEnglish": "They solved it in their own way.",
+    "frequency": "low",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अन्यथा",
+    "romanization": "anyatha",
+    "pos": "adverb",
+    "definitions": [
+      "otherwise"
+    ],
+    "examples": "द्रुत चल, अन्यथा ढिलो हुन्छ।",
+    "examplesRomanized": "drut chala, anyatha dhilo hunchha.",
+    "exampleEnglish": "Move quickly, otherwise it will be late.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "समान रूपमा",
+    "romanization": "samaan rupma",
+    "pos": "adverb",
+    "definitions": [
+      "uniformly; equally"
+    ],
+    "examples": "तापक्रम समान रूपमा घट्यो।",
+    "examplesRomanized": "taapakram samaan rupma ghatyo.",
+    "exampleEnglish": "The temperature decreased uniformly.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "ठ्याक्कै",
+    "romanization": "thyakkai",
+    "pos": "adverb",
+    "definitions": [
+      "exactly; precisely"
+    ],
+    "examples": "ठ्याक्कै समयमै आउनुहोस्।",
+    "examplesRomanized": "thyakkai samayamai aaunuhos.",
+    "exampleEnglish": "Please come exactly on time.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "बिलकुल",
+    "romanization": "bilkul",
+    "pos": "adverb",
+    "definitions": [
+      "absolutely; completely"
+    ],
+    "examples": "यो बिलकुल सही छ।",
+    "examplesRomanized": "yo bilkul sahi chha.",
+    "exampleEnglish": "This is absolutely correct.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "टाढै",
+    "romanization": "tadhai",
+    "pos": "adverb",
+    "definitions": [
+      "far away"
+    ],
+    "examples": "घर टाढै छ।",
+    "examplesRomanized": "ghar tadhai chha.",
+    "exampleEnglish": "The house is far away.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "नजिकै",
+    "romanization": "najikai",
+    "pos": "adverb",
+    "definitions": [
+      "nearby; close by"
+    ],
+    "examples": "दुकान नजिकै छ।",
+    "examplesRomanized": "dukaan najikai chha.",
+    "exampleEnglish": "The shop is nearby.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "भित्रै",
+    "romanization": "bhitrai",
+    "pos": "adverb",
+    "definitions": [
+      "inside; within"
+    ],
+    "examples": "कुराहरू भित्रै राख।",
+    "examplesRomanized": "kuraharu bhitrai rakha.",
+    "exampleEnglish": "Keep the things inside.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "बाहिरै",
+    "romanization": "bahirai",
+    "pos": "adverb",
+    "definitions": [
+      "outside"
+    ],
+    "examples": "बाहिरै पर्खिएँ।",
+    "examplesRomanized": "bahirai parkhien.",
+    "exampleEnglish": "I waited outside.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "माथि",
+    "romanization": "mathi",
+    "pos": "adverb",
+    "definitions": [
+      "up; above"
+    ],
+    "examples": "किताब माथि राख।",
+    "examplesRomanized": "kitab mathi rakha.",
+    "exampleEnglish": "Put the book up above.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "तल",
+    "romanization": "tal",
+    "pos": "adverb",
+    "definitions": [
+      "down; below"
+    ],
+    "examples": "तल झर्‍नुहोस्।",
+    "examplesRomanized": "tal jharnuhos.",
+    "exampleEnglish": "Please go down.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "अगाडि",
+    "romanization": "agadi",
+    "pos": "adverb",
+    "definitions": [
+      "ahead; in front"
+    ],
+    "examples": "अगाडि बढ्नुहोस्।",
+    "examplesRomanized": "agadi badnuhos.",
+    "exampleEnglish": "Move ahead.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "पछाडि",
+    "romanization": "pachhadi",
+    "pos": "adverb",
+    "definitions": [
+      "behind; at the back"
+    ],
+    "examples": "गाडी पछाडि छ।",
+    "examplesRomanized": "gaadi pachhadi chha.",
+    "exampleEnglish": "The car is behind.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "एकाएक",
+    "romanization": "ekaiek",
+    "pos": "adverb",
+    "definitions": [
+      "all of a sudden; abruptly"
+    ],
+    "examples": "एकाएक हावा चल्यो।",
+    "examplesRomanized": "ekaiek hawa chalyo.",
+    "exampleEnglish": "All of a sudden, the wind blew.",
+    "frequency": "high",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "एकछिनमै",
+    "romanization": "ekchhinmai",
+    "pos": "adverb",
+    "definitions": [
+      "in a moment; shortly"
+    ],
+    "examples": "एकछिनमै ऊ फर्कियो।",
+    "examplesRomanized": "ekchhinmai u farkiyo.",
+    "exampleEnglish": "He/She returned in a moment.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "धमाधम",
+    "romanization": "dhamadham",
+    "pos": "adverb",
+    "definitions": [
+      "rapidly; in quick succession"
+    ],
+    "examples": "धमाधम काम भयो।",
+    "examplesRomanized": "dhamadham kaam bhayo.",
+    "exampleEnglish": "The work happened rapidly.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "धडाधड",
+    "romanization": "dhadadhad",
+    "pos": "adverb",
+    "definitions": [
+      "rapidly; one after another"
+    ],
+    "examples": "धडाधड निर्णय भए।",
+    "examplesRomanized": "dhadadhad nirnaya bhae.",
+    "exampleEnglish": "Decisions were made rapidly one after another.",
+    "frequency": "low",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "दाहिनेतिर",
+    "romanization": "dahinettir",
+    "pos": "adverb",
+    "definitions": [
+      "to the right"
+    ],
+    "examples": "दाहिनेतिर फर्किनुहोस्।",
+    "examplesRomanized": "dahinettir farkinuhos.",
+    "exampleEnglish": "Turn to the right.",
+    "frequency": "medium",
+    "category": "adverbs"
+  },
+  {
+    "DevanagriWord": "बायाँतिर",
+    "romanization": "bayaatir",
+    "pos": "adverb",
+    "definitions": [
+      "to the left"
+    ],
+    "examples": "बायाँतिर हिँड्नुहोस्।",
+    "examplesRomanized": "bayaatir hindnuhos.",
+    "exampleEnglish": "Walk to the left.",
+    "frequency": "medium",
+    "category": "adverbs"
+  }
+]

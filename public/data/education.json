@@ -1,0 +1,1757 @@
+[
+  {
+    "DevanagriWord": "कलेज",
+    "romanization": "kalej",
+    "pos": "noun",
+    "definitions": [
+      "college"
+    ],
+    "examples": "उनी कलेजमा पढ्छन्।",
+    "examplesRomanized": "uni kalejma padhchhan.",
+    "exampleEnglish": "They study at college.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "परीक्षा",
+    "romanization": "pariksha",
+    "pos": "noun",
+    "definitions": [
+      "exam; test"
+    ],
+    "examples": "भोली हाम्रो परीक्षा छ।",
+    "examplesRomanized": "bholi hamro pariksha chha.",
+    "exampleEnglish": "We have an exam tomorrow.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "विद्यालय",
+    "romanization": "vidyalaya",
+    "pos": "noun",
+    "definitions": [
+      "school"
+    ],
+    "examples": "बालबालिका विद्यालय जान्छन्।",
+    "examplesRomanized": "balbalika vidyalaya janchhan.",
+    "exampleEnglish": "Children go to school.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "शिक्षा",
+    "romanization": "shiksha",
+    "pos": "noun",
+    "definitions": [
+      "education"
+    ],
+    "examples": "शिक्षा सबैका लागि आवश्यक छ।",
+    "examplesRomanized": "shiksha sabaika lagi aawashyak chha.",
+    "exampleEnglish": "Education is necessary for all.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "विश्वविद्यालय",
+    "romanization": "vishwavidyalaya",
+    "pos": "noun",
+    "definitions": [
+      "university"
+    ],
+    "examples": "उनी विश्वविद्यालयमा अनुसन्धान गर्छन्।",
+    "examplesRomanized": "uni vishwavidyalayama anusandhan garchhan.",
+    "exampleEnglish": "They do research at the university.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "पाठ्यक्रम",
+    "romanization": "pathyakram",
+    "pos": "noun",
+    "definitions": [
+      "curriculum; syllabus"
+    ],
+    "examples": "यस वर्षको पाठ्यक्रम अपडेट भयो।",
+    "examplesRomanized": "yas barshako pathyakram update bhayo.",
+    "exampleEnglish": "This year's curriculum was updated.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "पुस्तकालय",
+    "romanization": "pustakalaya",
+    "pos": "noun",
+    "definitions": [
+      "library"
+    ],
+    "examples": "म पुस्तकालयबाट पुस्तक लिन्छु।",
+    "examplesRomanized": "ma pustakalayabata pustak linchu.",
+    "exampleEnglish": "I borrow books from the library.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अनुसन्धान",
+    "romanization": "anusandhan",
+    "pos": "noun",
+    "definitions": [
+      "research"
+    ],
+    "examples": "अनुसन्धानले नयाँ ज्ञान दिन्छ।",
+    "examplesRomanized": "anusandhanle naya gyan dinchha.",
+    "exampleEnglish": "Research provides new knowledge.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "कक्षा",
+    "romanization": "kaksha",
+    "pos": "noun",
+    "definitions": [
+      "class; classroom"
+    ],
+    "examples": "कक्षा बिहान सात बजे सुरु हुन्छ।",
+    "examplesRomanized": "kaksha bihan sat baje suru hunchha.",
+    "exampleEnglish": "Class starts at seven in the morning.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "विषय",
+    "romanization": "vishay",
+    "pos": "noun",
+    "definitions": [
+      "subject; topic"
+    ],
+    "examples": "आजको विषय गणित हो।",
+    "examplesRomanized": "ajako vishay ganit ho.",
+    "exampleEnglish": "Today's subject is mathematics.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "विद्यार्थीवृत्ति",
+    "romanization": "vidyarthi vritti",
+    "pos": "noun",
+    "definitions": [
+      "scholarship"
+    ],
+    "examples": "उनीले विद्यार्थीवृत्ति प्राप्त गरे।",
+    "examplesRomanized": "unile vidyarthi vritti prapta gare.",
+    "exampleEnglish": "They received a scholarship.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "परामर्शदाता",
+    "romanization": "paramarsha data",
+    "pos": "noun",
+    "definitions": [
+      "counselor; advisor"
+    ],
+    "examples": "कलेजमा परामर्शदातासँग भेट भयो।",
+    "examplesRomanized": "kalejama paramarsha data sanga bhet bhayo.",
+    "exampleEnglish": "I met with the counselor at college.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "शारीरिक शिक्षा",
+    "romanization": "sharirik shiksha",
+    "pos": "noun",
+    "definitions": [
+      "physical education"
+    ],
+    "examples": "आज शारीरिक शिक्षाको कक्षा छ।",
+    "examplesRomanized": "aaj sharirik shikshako kaksha chha.",
+    "exampleEnglish": "We have physical education class today.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "पाठ",
+    "romanization": "path",
+    "pos": "noun",
+    "definitions": [
+      "lesson"
+    ],
+    "examples": "आजको पाठ सरल छ।",
+    "examplesRomanized": "ajako path saral chha.",
+    "exampleEnglish": "Today's lesson is simple.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अध्ययन",
+    "romanization": "adhyayan",
+    "pos": "noun",
+    "definitions": [
+      "study; studying"
+    ],
+    "examples": "नियमित अध्ययन आवश्यक छ।",
+    "examplesRomanized": "niyamit adhyayan aawashyak chha.",
+    "exampleEnglish": "Regular study is necessary.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अनलाइन कक्षा",
+    "romanization": "online kaksha",
+    "pos": "noun",
+    "definitions": [
+      "online class"
+    ],
+    "examples": "हामीले अनलाइन कक्षा लिएँ।",
+    "examplesRomanized": "hamile online kaksha liem.",
+    "exampleEnglish": "We took an online class.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "शिक्षक",
+    "romanization": "shikshak",
+    "pos": "noun",
+    "definitions": [
+      "teacher; instructor"
+    ],
+    "examples": "शिक्षकले पाठ स्पष्ट रूपमा बुझाए।",
+    "examplesRomanized": "shikshakle path spashta rupa ma bujhae.",
+    "exampleEnglish": "The teacher explained the lesson clearly.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "विद्यार्थी",
+    "romanization": "vidyarthi",
+    "pos": "noun",
+    "definitions": [
+      "student"
+    ],
+    "examples": "विद्यार्थीहरूले मेहनतपूर्वक अध्ययन गर्छन्।",
+    "examplesRomanized": "vidyarthiharu le mehanatpurvak adhyayan garchhan.",
+    "exampleEnglish": "Students study diligently.",
+    "frequency": "high",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "गृहकार्य",
+    "romanization": "grihakarya",
+    "pos": "noun",
+    "definitions": [
+      "homework; assignment"
+    ],
+    "examples": "आजको गृहकार्य भोलिसम्म बुझाउनुहोस्।",
+    "examplesRomanized": "ajako grihakarya bholisamma bujhaunuhos.",
+    "exampleEnglish": "Submit today's homework by tomorrow.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "प्रशिक्षण",
+    "romanization": "prashikshan",
+    "pos": "noun",
+    "definitions": [
+      "training"
+    ],
+    "examples": "शिक्षकका लागि विशेष प्रशिक्षण राखियो।",
+    "examplesRomanized": "shikshakka lagi vishes prashikshan rakhiyo.",
+    "exampleEnglish": "Special training was held for teachers.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "महाविद्यालय",
+    "romanization": "mahavidyalaya",
+    "pos": "noun",
+    "definitions": [
+      "college; higher education institution"
+    ],
+    "examples": "उनी काठमाडौंको महाविद्यालयमा पढ्छ।",
+    "examplesRomanized": "Uni Kathmandu ko mahavidyalaya ma padchha.",
+    "exampleEnglish": "He studies at a college in Kathmandu.",
+    "frequency": "high",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "पाठशाला",
+    "romanization": "pathshala",
+    "pos": "noun",
+    "definitions": [
+      "traditional school or learning center"
+    ],
+    "examples": "पाठशालामा पढाइ प्राचीन विधि अनुसार हुन्छ।",
+    "examplesRomanized": "Pathshala ma padhaai prachin vidhi anusaar hunchha.",
+    "exampleEnglish": "Teaching in the pathshala follows ancient methods.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "शिक्षिका",
+    "romanization": "shikshika",
+    "pos": "noun",
+    "definitions": [
+      "female teacher; educator"
+    ],
+    "examples": "शिक्षिकाले गणितमा हामीलाई सहयोग गरिन्।",
+    "examplesRomanized": "Shikshikale ganit ma hamilai sahayog garin.",
+    "exampleEnglish": "The teacher helped us in math.",
+    "frequency": "high",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अध्यापक",
+    "romanization": "adhyapak",
+    "pos": "noun",
+    "definitions": [
+      "male instructor; lecturer"
+    ],
+    "examples": "अध्यापकले हाम्रो समूहलाई निर्देशन दिए।",
+    "examplesRomanized": "Adhyapak le hamro samuha lai nirdeshan diye.",
+    "exampleEnglish": "The lecturer gave instructions to our group.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अध्यापिका",
+    "romanization": "adhyapika",
+    "pos": "noun",
+    "definitions": [
+      "female instructor; lecturer"
+    ],
+    "examples": "अध्यापिकाले प्रयोगशालामा प्रशिक्षण दिइन्।",
+    "examplesRomanized": "Adhyapikale prayogshala ma prashikshan diyin.",
+    "exampleEnglish": "The lecturer provided training in the laboratory.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "स्नातक",
+    "romanization": "snatak",
+    "pos": "noun",
+    "definitions": [
+      "graduate; bachelor student"
+    ],
+    "examples": "स्नातक तहको अध्ययन सुरु भयो।",
+    "examplesRomanized": "Snatak tahako adhyayan suru bhayo.",
+    "exampleEnglish": "Graduate level studies have started.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "स्नातकोत्तर",
+    "romanization": "snatakottar",
+    "pos": "noun",
+    "definitions": [
+      "postgraduate; master's level student"
+    ],
+    "examples": "स्नातकोत्तर कार्यक्रम चुनौतीपूर्ण छ।",
+    "examplesRomanized": "Snatakottar karyakram chunautipurna chha.",
+    "exampleEnglish": "The postgraduate program is challenging.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "विद्याशाखा",
+    "romanization": "vidyashakha",
+    "pos": "noun",
+    "definitions": [
+      "branch of study; academic department"
+    ],
+    "examples": "उनले विज्ञान विद्याशाखामा अध्ययन गरे।",
+    "examplesRomanized": "Unle bigyan vidyashakha ma adhyayan gare.",
+    "exampleEnglish": "He studied in the science department.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अध्ययनशील",
+    "romanization": "adhyayansheel",
+    "pos": "adjective",
+    "definitions": [
+      "studious; dedicated to learning"
+    ],
+    "examples": "उनी अध्ययनशील विद्यार्थी हुन्।",
+    "examplesRomanized": "Uni adhyayansheel vidyarthi hun.",
+    "exampleEnglish": "He is a studious student.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "शैक्षिक",
+    "romanization": "shaikshik",
+    "pos": "adjective",
+    "definitions": [
+      "educational; related to education"
+    ],
+    "examples": "शैक्षिक कार्यक्रम सफल भयो।",
+    "examplesRomanized": "Shaikshik karyakram safal bhayo.",
+    "exampleEnglish": "The educational program was successful.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अध्यापन",
+    "romanization": "adhyapan",
+    "pos": "noun",
+    "definitions": [
+      "teaching; the act of instructing"
+    ],
+    "examples": "अध्यापन कला आवश्यक छ।",
+    "examplesRomanized": "Adhyapan kala aawashyak chha.",
+    "exampleEnglish": "The art of teaching is important.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "शैक्षिक संस्था",
+    "romanization": "shaikshik sanstha",
+    "pos": "noun",
+    "definitions": [
+      "educational institution; school or college"
+    ],
+    "examples": "शैक्षिक संस्था गुणस्तरीय शिक्षामा केन्द्रित छ।",
+    "examplesRomanized": "Shaikshik sanstha gunastariya shikshya ma kendrit chha.",
+    "exampleEnglish": "The educational institution focuses on quality education.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "पाठ्यपुस्तक",
+    "romanization": "pathyapustak",
+    "pos": "noun",
+    "definitions": [
+      "textbook; instructional book"
+    ],
+    "examples": "हामीले नयाँ पाठ्यपुस्तक पायौं।",
+    "examplesRomanized": "Hamile naya pathyapustak payau.",
+    "exampleEnglish": "We received new textbooks.",
+    "frequency": "high",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अभ्यास",
+    "romanization": "abhyas",
+    "pos": "noun",
+    "definitions": [
+      "practice; exercise for learning"
+    ],
+    "examples": "विद्यार्थीले गणित अभ्यास गरे।",
+    "examplesRomanized": "Vidyarthi le ganit abhyas gare.",
+    "exampleEnglish": "The students practiced math.",
+    "frequency": "high",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "सहपाठी",
+    "romanization": "sahpathi",
+    "pos": "noun",
+    "definitions": [
+      "classmate; fellow student"
+    ],
+    "examples": "मेरो सहपाठी साँच्चै सहयोगी छ।",
+    "examplesRomanized": "Mero sahpathi saanchai sahayogi chha.",
+    "exampleEnglish": "My classmate is really helpful.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "पाठ्यशाला",
+    "romanization": "pathyashala",
+    "pos": "noun",
+    "definitions": [
+      "learning center; school"
+    ],
+    "examples": "पाठ्यशालामा नयाँ शिक्षक आएका छन्।",
+    "examplesRomanized": "Pathyashala ma naya shikshak aayeka chhan.",
+    "exampleEnglish": "New teachers have arrived at the learning center.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "परीक्षक",
+    "romanization": "parikshak",
+    "pos": "noun",
+    "definitions": [
+      "examiner; person who conducts tests"
+    ],
+    "examples": "परीक्षकले परीक्षा समयमै लिए।",
+    "examplesRomanized": "Parikshak le pariksha samaymai liye.",
+    "exampleEnglish": "The examiner conducted the exam on time.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "छात्रवृत्ति",
+    "romanization": "chhatravritti",
+    "pos": "noun",
+    "definitions": [
+      "scholarship; financial aid for students"
+    ],
+    "examples": "उनीले छात्रवृत्ति पाए।",
+    "examplesRomanized": "Unile chhatravritti paae.",
+    "exampleEnglish": "He received a scholarship.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अध्ययन सामग्री",
+    "romanization": "adhyayan samagri",
+    "pos": "noun",
+    "definitions": [
+      "study materials; educational resources"
+    ],
+    "examples": "विद्यार्थीले अध्ययन सामग्री तयार गरे।",
+    "examplesRomanized": "Vidyarthi le adhyayan samagri tayar gare.",
+    "exampleEnglish": "The students prepared study materials.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "कक्षाकोठा",
+    "romanization": "kakshakotha",
+    "pos": "noun",
+    "definitions": [
+      "classroom; place for teaching and learning"
+    ],
+    "examples": "कक्षाकोठा राम्रोसँग सुसज्जित छ।",
+    "examplesRomanized": "Kakshakotha ramrosanga susajjit chha.",
+    "exampleEnglish": "The classroom is well-equipped.",
+    "frequency": "high",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "सत्र",
+    "romanization": "satra",
+    "pos": "noun",
+    "definitions": [
+      "academic session; school term"
+    ],
+    "examples": "नयाँ सत्र सुरू भयो।",
+    "examplesRomanized": "Naya satra suru bhayo.",
+    "exampleEnglish": "The new academic session has started.",
+    "frequency": "high",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अभिभावक",
+    "romanization": "abhibhaavak",
+    "pos": "noun",
+    "definitions": [
+      "guardian; parent responsible for student"
+    ],
+    "examples": "अभिभावक बैठक आज हुँदैछ।",
+    "examplesRomanized": "Abhibhaavak baithak aaj hudaichha.",
+    "exampleEnglish": "The parents' meeting is today.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "सत्रीक्षा",
+    "romanization": "satriksha",
+    "pos": "noun",
+    "definitions": [
+      "term examination; periodic assessment"
+    ],
+    "examples": "विद्यार्थीले सत्रीक्षा तयारी गर्नुपर्छ।",
+    "examplesRomanized": "Vidyarthi le satriksha tayari garnu parchha.",
+    "exampleEnglish": "Students must prepare for the term exam.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "शिक्षण पद्धति",
+    "romanization": "shikshan paddhati",
+    "pos": "noun",
+    "definitions": [
+      "teaching method; pedagogy"
+    ],
+    "examples": "विद्यालयमा नयाँ शिक्षण पद्धति लागू भयो।",
+    "examplesRomanized": "Vidyalaya ma naya shikshan paddhati lagu bhayo.",
+    "exampleEnglish": "A new teaching method was implemented in the school.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अध्यापन सामग्री",
+    "romanization": "adhyapan samagri",
+    "pos": "noun",
+    "definitions": [
+      "teaching material; instructional resources"
+    ],
+    "examples": "शिक्षकले अध्यापन सामग्री तयार गरे।",
+    "examplesRomanized": "Shikshak le adhyapan samagri tayar gare.",
+    "exampleEnglish": "The teacher prepared teaching materials.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "शोध",
+    "romanization": "shodh",
+    "pos": "noun",
+    "definitions": [
+      "research; systematic investigation"
+    ],
+    "examples": "विश्वविद्यालयमा नयाँ अनुसन्धान सुरू भयो।",
+    "examplesRomanized": "Vishwavidyalaya ma naya anusandhan suru bhayo.",
+    "exampleEnglish": "New research has started at the university.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "प्रवेश परीक्षा",
+    "romanization": "pravesh pariksha",
+    "pos": "noun",
+    "definitions": [
+      "entrance exam; admission test"
+    ],
+    "examples": "विश्वविद्यालयको प्रवेश परीक्षा कडा हुन्छ।",
+    "examplesRomanized": "Vishwavidyalaya ko pravesh pariksha kada hunchha.",
+    "exampleEnglish": "The university entrance exam is tough.",
+    "frequency": "high",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "संपूर्ण पाठ्यक्रम",
+    "romanization": "sampurna pathyakram",
+    "pos": "noun",
+    "definitions": [
+      "complete curriculum; full syllabus"
+    ],
+    "examples": "विद्यार्थीले सम्पूर्ण पाठ्यक्रम पूरा गरे।",
+    "examplesRomanized": "Vidyarthi le sampurna pathyakram pura gare.",
+    "exampleEnglish": "The students completed the full curriculum.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "सह-अध्ययन",
+    "romanization": "sah-adhyayan",
+    "pos": "noun",
+    "definitions": [
+      "co-study; group study"
+    ],
+    "examples": "विद्यार्थीहरू सह-अध्ययनको लागि भेट भए।",
+    "examplesRomanized": "Vidyarthi haru sah-adhyayan ko lagi bhet bhae.",
+    "exampleEnglish": "Students met for group study.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "विद्यावारिधि",
+    "romanization": "vidyavaridhi",
+    "pos": "noun",
+    "definitions": [
+      "doctoral degree; PhD"
+    ],
+    "examples": "उनी विद्यावारिधि प्राप्त गर्दैछन्।",
+    "examplesRomanized": "Uni vidyavaridhi prapt gardai chhan.",
+    "exampleEnglish": "He is pursuing a PhD.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अन्तरकक्षा परीक्षा",
+    "romanization": "antarkaksha pariksha",
+    "pos": "noun",
+    "definitions": [
+      "midterm exam; inter-class assessment"
+    ],
+    "examples": "विद्यार्थीले अन्तरकक्षा परीक्षा राम्रो दर्ता गरे।",
+    "examplesRomanized": "Vidyarthi le antarkaksha pariksha ramro darta gare.",
+    "exampleEnglish": "Students performed well in the midterm exam.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अन्तिम परीक्षा",
+    "romanization": "antim pariksha",
+    "pos": "noun",
+    "definitions": [
+      "final exam; summative assessment"
+    ],
+    "examples": "अन्तिम परीक्षा सकिन लाग्यो।",
+    "examplesRomanized": "Antim pariksha sakin lagyo.",
+    "exampleEnglish": "The final exam is about to finish.",
+    "frequency": "high",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अकादमिक वर्ष",
+    "romanization": "akademik barsha",
+    "pos": "noun",
+    "definitions": [
+      "academic year; study year"
+    ],
+    "examples": "नयाँ अकादमिक वर्षको तयारी भयो।",
+    "examplesRomanized": "Naya akademik barsha ko tayari bhayo.",
+    "exampleEnglish": "Preparations for the new academic year have begun.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "इ-शिक्षा",
+    "romanization": "e-shiksha",
+    "pos": "noun",
+    "definitions": [
+      "e-learning; digital education"
+    ],
+    "examples": "विद्यालयले इ-शिक्षा कार्यक्रम सुरु गर्यो।",
+    "examplesRomanized": "Vidyalaya le e-shiksha karyakram suru garyo.",
+    "exampleEnglish": "The school started an e-learning program.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "विद्यार्थी जीवन",
+    "romanization": "vidyarthi jeevan",
+    "pos": "noun",
+    "definitions": [
+      "student life; life as a student"
+    ],
+    "examples": "विद्यार्थी जीवन चुनौतीपूर्ण छ।",
+    "examplesRomanized": "Vidyarthi jeevan chunautipurna chha.",
+    "exampleEnglish": "Student life is challenging.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "सन्दर्भ पुस्तक",
+    "romanization": "sandarbha pustak",
+    "pos": "noun",
+    "definitions": [
+      "reference book; source book"
+    ],
+    "examples": "सन्दर्भ पुस्तकले अध्ययन सजिलो बनाउँछ।",
+    "examplesRomanized": "Sandarbha pustak le adhyayan sajilo banaucha.",
+    "exampleEnglish": "A reference book makes studying easier.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "समूह परियोजना",
+    "romanization": "samuh pariyojana",
+    "pos": "noun",
+    "definitions": [
+      "group project; collaborative assignment"
+    ],
+    "examples": "विद्यार्थीहरूले समूह परियोजना सम्पन्न गरे।",
+    "examplesRomanized": "Vidyarthi haru le samuh pariyojana sampanna gare.",
+    "exampleEnglish": "The students completed the group project.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "शैक्षिक नीति",
+    "romanization": "shaikshik niti",
+    "pos": "noun",
+    "definitions": [
+      "educational policy; governance rules for schools/colleges"
+    ],
+    "examples": "सरकारले नयाँ शैक्षिक नीति लागू गर्यो।",
+    "examplesRomanized": "Sarkar le naya shaikshik niti lagu garyo.",
+    "exampleEnglish": "The government implemented a new educational policy.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "विद्यावारिधि अनुसन्धान",
+    "romanization": "vidyavaridhi anusandhan",
+    "pos": "noun",
+    "definitions": [
+      "doctoral research; PhD-level research"
+    ],
+    "examples": "उनले विद्यावारिधि अनुसन्धान पूरा गरे।",
+    "examplesRomanized": "Unle vidyavaridhi anusandhan pura gare.",
+    "exampleEnglish": "He completed his doctoral research.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "प्रयोगशाला",
+    "romanization": "prayogshala",
+    "pos": "noun",
+    "definitions": [
+      "laboratory; place for practical experiments"
+    ],
+    "examples": "विद्यार्थीहरूले विज्ञान प्रयोगशालामा काम गरे।",
+    "examplesRomanized": "Vidyarthi haru le bigyan prayogshala ma kaam gare.",
+    "exampleEnglish": "The students worked in the science laboratory.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "समीक्षा",
+    "romanization": "sameeksha",
+    "pos": "noun",
+    "definitions": [
+      "review; evaluation of study or work"
+    ],
+    "examples": "शिक्षकले लेखको समीक्षा गरे।",
+    "examplesRomanized": "Shikshak le lekh ko sameeksha gare.",
+    "exampleEnglish": "The teacher reviewed the essay.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अनलाइन परीक्षा",
+    "romanization": "online pariksha",
+    "pos": "noun",
+    "definitions": [
+      "online exam; digital assessment"
+    ],
+    "examples": "विद्यार्थीहरूले अनलाइन परीक्षा दिएका छन्।",
+    "examplesRomanized": "Vidyarthi harule online pariksha dieka chhan.",
+    "exampleEnglish": "The students have taken the online exam.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अभिलेख",
+    "romanization": "abhilekh",
+    "pos": "noun",
+    "definitions": [
+      "record; academic record or file"
+    ],
+    "examples": "विद्यार्थीको अभिलेख अपडेट भयो।",
+    "examplesRomanized": "Vidyarthi ko abhilekh update bhayo.",
+    "exampleEnglish": "The student's record was updated.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "सफलता दर",
+    "romanization": "safalta dar",
+    "pos": "noun",
+    "definitions": [
+      "success rate; pass rate"
+    ],
+    "examples": "विद्यालयको सफलता दर उच्च छ।",
+    "examplesRomanized": "Vidyalaya ko safalta dar uchcha chha.",
+    "exampleEnglish": "The school's success rate is high.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "विद्यार्थी संगठन",
+    "romanization": "vidyarthi sangathan",
+    "pos": "noun",
+    "definitions": [
+      "student organization; club or association of students"
+    ],
+    "examples": "विद्यार्थी संगठनले नयाँ कार्यक्रम आयोजना गर्‍यो।",
+    "examplesRomanized": "Vidyarthi sangathan le naya karyakram aayojana garyo.",
+    "exampleEnglish": "The student organization organized a new program.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "संसाधन केन्द्र",
+    "romanization": "sansadhan kendra",
+    "pos": "noun",
+    "definitions": [
+      "resource center; facility providing study materials and support"
+    ],
+    "examples": "संसाधन केन्द्रमा पुस्तकहरू उपलब्ध छन्।",
+    "examplesRomanized": "Sansadhan kendra ma pustakharu upalabdha chhan.",
+    "exampleEnglish": "Books are available at the resource center.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "सत्रान्त परीक्षा",
+    "romanization": "satrant pariksha",
+    "pos": "noun",
+    "definitions": [
+      "final exam; end-of-term assessment"
+    ],
+    "examples": "सत्रान्त परीक्षाको तयारी गर्नुपर्छ।",
+    "examplesRomanized": "Satrant parikshako tayari garnuparchha.",
+    "exampleEnglish": "Preparation is needed for the final exam.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "सैद्धान्तिक अध्ययन",
+    "romanization": "saiddhantik adhyayan",
+    "pos": "noun",
+    "definitions": [
+      "theoretical study; non-practical academic learning"
+    ],
+    "examples": "सैद्धान्तिक अध्ययनमा ध्यान दिनुपर्छ।",
+    "examplesRomanized": "Saiddhantik adhyayan ma dhyan dinuparchha.",
+    "exampleEnglish": "One should focus on theoretical study.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "व्यावहारिक प्रशिक्षण",
+    "romanization": "vyavaharik prashikshan",
+    "pos": "noun",
+    "definitions": [
+      "practical training; hands-on learning experience"
+    ],
+    "examples": "व्यावहारिक प्रशिक्षण प्रयोगशालामा दिइन्छ।",
+    "examplesRomanized": "Vyavaharik prashikshan prayogshala ma diinchha.",
+    "exampleEnglish": "Practical training is provided in the laboratory.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "शिक्षक प्रशिक्षण",
+    "romanization": "shikshak prashikshan",
+    "pos": "noun",
+    "definitions": [
+      "teacher training; program to train educators"
+    ],
+    "examples": "शिक्षक प्रशिक्षणमा सहभागी हुनुपर्छ।",
+    "examplesRomanized": "Shikshak prashikshan ma sahabhagi hunuparchha.",
+    "exampleEnglish": "One must participate in teacher training.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "पाठ योजना",
+    "romanization": "path yojana",
+    "pos": "noun",
+    "definitions": [
+      "lesson plan; structured teaching plan"
+    ],
+    "examples": "शिक्षकले नयाँ पाठ योजना तयार गरे।",
+    "examplesRomanized": "Shikshak le naya path yojana tayar gare.",
+    "exampleEnglish": "The teacher prepared a new lesson plan.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अनुदान",
+    "romanization": "anudan",
+    "pos": "noun",
+    "definitions": [
+      "grant; financial aid for institutions or students"
+    ],
+    "examples": "विद्यालयले सरकारबाट अनुदान पाए।",
+    "examplesRomanized": "Vidyalaya le sarkar bata anudan paae.",
+    "exampleEnglish": "The school received a grant from the government.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "प्रविधि शिक्षा",
+    "romanization": "pravidhi shiksha",
+    "pos": "noun",
+    "definitions": [
+      "technical education; vocational or skill-based learning"
+    ],
+    "examples": "प्रविधि शिक्षाले रोजगारीको अवसर बढाउँछ।",
+    "examplesRomanized": "Pravidhi shikshale rojgariko awasar badhaunchha.",
+    "exampleEnglish": "Technical education increases employment opportunities.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "सहशिक्षा",
+    "romanization": "sahshiksha",
+    "pos": "noun",
+    "definitions": [
+      "co-curricular activities; learning beyond academics"
+    ],
+    "examples": "सहशिक्षा कार्यक्रममा सबैले भाग लिन्छन्।",
+    "examplesRomanized": "Sahshiksha karyakram ma sabailai bhag linchhan.",
+    "exampleEnglish": "Everyone participates in co-curricular activities.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "सत्र परीक्षा",
+    "romanization": "satra pariksha",
+    "pos": "noun",
+    "definitions": [
+      "semester exam; examination at the end of a term"
+    ],
+    "examples": "सत्र परीक्षामा तयारी गर्नुपर्छ।",
+    "examplesRomanized": "Satra parikshama tayari garnuparchha.",
+    "exampleEnglish": "Preparation is required for the semester exam.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अन्तरविद्यालय प्रतियोगिता",
+    "romanization": "antarvidyalaya pratiyogita",
+    "pos": "noun",
+    "definitions": [
+      "inter-school competition; contests between schools"
+    ],
+    "examples": "हामीले अन्तरविद्यालय प्रतियोगितामा भाग लियौं।",
+    "examplesRomanized": "Hami le antarvidyalaya pratiyogita ma bhag liyaun.",
+    "exampleEnglish": "We participated in the inter-school competition.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "विद्यापीठ",
+    "romanization": "vidyapeeth",
+    "pos": "noun",
+    "definitions": [
+      "academic institute; center of learning"
+    ],
+    "examples": "विद्यापीठमा नयाँ पाठ्यक्रम सुरू भयो।",
+    "examplesRomanized": "Vidyapeeth ma naya pathyakram suru bhayo.",
+    "exampleEnglish": "A new curriculum started at the institute.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "डिजिटल शिक्षा",
+    "romanization": "digital shiksha",
+    "pos": "noun",
+    "definitions": [
+      "digital education; learning using digital tools and platforms"
+    ],
+    "examples": "डिजिटल शिक्षाले पढाइलाई सजिलो बनाउँछ।",
+    "examplesRomanized": "Digital shikshale padhai lai sajilo banaunchha.",
+    "exampleEnglish": "Digital education makes learning easier.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "साक्षरता",
+    "romanization": "saksharta",
+    "pos": "noun",
+    "definitions": [
+      "literacy; ability to read and write"
+    ],
+    "examples": "देशमा साक्षरताको दर बढ्दैछ।",
+    "examplesRomanized": "Desh ma sakshartako dar badhdai chha.",
+    "exampleEnglish": "The literacy rate in the country is increasing.",
+    "frequency": "high",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "शैक्षिक संस्थान",
+    "romanization": "shaikshik sansthan",
+    "pos": "noun",
+    "definitions": [
+      "educational institution; school, college, or university"
+    ],
+    "examples": "शैक्षिक संस्थानले नयाँ कार्यक्रम ल्यायो।",
+    "examplesRomanized": "Shaikshik sansthan le naya karyakram lyaayo.",
+    "exampleEnglish": "The educational institution introduced a new program.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "आधारभूत शिक्षा",
+    "romanization": "aadharbhut shiksha",
+    "pos": "noun",
+    "definitions": [
+      "basic education; primary level learning"
+    ],
+    "examples": "आधारभूत शिक्षा सबैका लागि अनिवार्य छ।",
+    "examplesRomanized": "Aadharbhut shiksha sabai ka lagi aniwarya chha.",
+    "exampleEnglish": "Basic education is mandatory for everyone.",
+    "frequency": "high",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अन्तर्राष्ट्रिय शिक्षा",
+    "romanization": "antarrashtriya shiksha",
+    "pos": "noun",
+    "definitions": [
+      "international education; learning across countries or cultures"
+    ],
+    "examples": "अन्तर्राष्ट्रिय शिक्षाले विद्यार्थीको दृष्टिकोण फराकिलो बनाउँछ।",
+    "examplesRomanized": "Antarrashtriya shikshale vidyarthiko drishtikon farakilo banaunchha.",
+    "exampleEnglish": "International education broadens students' perspectives.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "सास्त्र",
+    "romanization": "sastra",
+    "pos": "noun",
+    "definitions": [
+      "treatise; systematic text on a subject, often philosophical or scientific"
+    ],
+    "examples": "गणित सास्त्र अध्ययन गर्नुपर्छ।",
+    "examplesRomanized": "Ganit sastra adhyayan garnuparchha.",
+    "exampleEnglish": "One must study the mathematical treatise.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "वेद",
+    "romanization": "veda",
+    "pos": "noun",
+    "definitions": [
+      "ancient Hindu scriptures; body of knowledge in philosophy, rituals, and hymns"
+    ],
+    "examples": "शिक्षकले वेदको ज्ञान पढाए।",
+    "examplesRomanized": "Shikshak le ved ko gyan padhae.",
+    "exampleEnglish": "The teacher taught the knowledge of the Vedas.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "पुराण",
+    "romanization": "puran",
+    "pos": "noun",
+    "definitions": [
+      "ancient text or scripture detailing history, mythology, or morals"
+    ],
+    "examples": "पुराणमा प्राचीन कथाहरू लेखिएका छन्।",
+    "examplesRomanized": "Puran ma prachin kathaharu lekhieka chhan.",
+    "exampleEnglish": "Ancient stories are written in the Puranas.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "तत्त्वज्ञान",
+    "romanization": "tattvagyan",
+    "pos": "noun",
+    "definitions": [
+      "philosophy; knowledge of principles and truths"
+    ],
+    "examples": "विद्यार्थीले तत्त्वज्ञानमा रुचि देखाए।",
+    "examplesRomanized": "Vidyarthi le tattvagyan ma ruchi dekhae.",
+    "exampleEnglish": "The student showed interest in philosophy.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "न्यायशास्त्र",
+    "romanization": "nyayashastra",
+    "pos": "noun",
+    "definitions": [
+      "discipline of logic and reasoning; jurisprudence in classical texts"
+    ],
+    "examples": "न्यायशास्त्र अध्ययन गर्नु ज्ञान बढाउँछ।",
+    "examplesRomanized": "Nyayashastra adhyayan garnu gyan badhaunchha.",
+    "exampleEnglish": "Studying Nyayashastra increases knowledge.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "वैदिक गणित",
+    "romanization": "vaidik ganit",
+    "pos": "noun",
+    "definitions": [
+      "Vedic mathematics; traditional system of mathematics from the Vedas"
+    ],
+    "examples": "विद्यार्थी वैदिक गणित सिक्दैछन्।",
+    "examplesRomanized": "Vidyarthi vaidik ganit sikdai chhan.",
+    "exampleEnglish": "Students are learning Vedic mathematics.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "धर्मशास्त्र",
+    "romanization": "dharmashastra",
+    "pos": "noun",
+    "definitions": [
+      "scriptures on duties, ethics, and moral law"
+    ],
+    "examples": "धर्मशास्त्रले जीवनका नियम सिकाउँछ।",
+    "examplesRomanized": "Dharmashastra le jivanka niyam sikaunchha.",
+    "exampleEnglish": "Dharmashastra teaches the rules of life.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "सङ्गीतशास्त्र",
+    "romanization": "sangeetashastra",
+    "pos": "noun",
+    "definitions": [
+      "treatise on music; musicology"
+    ],
+    "examples": "सङ्गीतशास्त्रले सुर, ताल र लयको ज्ञान दिन्छ।",
+    "examplesRomanized": "Sangeetashastra le sur, taal ra lay ko gyan dinchha.",
+    "exampleEnglish": "Sangeetashastra gives knowledge of notes, rhythm, and melody.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "आयुर्वेद",
+    "romanization": "ayurved",
+    "pos": "noun",
+    "definitions": [
+      "traditional Indian medicine system; science of life"
+    ],
+    "examples": "आयुर्वेद अध्ययन गर्न स्वास्थ्य लाभ हुन्छ।",
+    "examplesRomanized": "Ayurved adhyayan garn swasthya laabh hunchha.",
+    "exampleEnglish": "Studying Ayurveda benefits health.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "साहित्यशास्त्र",
+    "romanization": "sahityashastra",
+    "pos": "noun",
+    "definitions": [
+      "literary theory; study of literature and its principles"
+    ],
+    "examples": "साहित्यशास्त्रले कविता लेख्न मद्दत गर्छ।",
+    "examplesRomanized": "Sahityashastra le kavita lekhna maddat garchha.",
+    "exampleEnglish": "Sahityashastra helps in writing poetry.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "व्याकरणशास्त्र",
+    "romanization": "vyakaranashastra",
+    "pos": "noun",
+    "definitions": [
+      "grammar; study of linguistic rules"
+    ],
+    "examples": "विद्यार्थी व्याकरणशास्त्र सिक्दै छन्।",
+    "examplesRomanized": "Vidyarthi vyakaranashastra sikdai chhan.",
+    "exampleEnglish": "Students are learning grammar.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "तन्त्रशास्त्र",
+    "romanization": "tantrashastra",
+    "pos": "noun",
+    "definitions": [
+      "study of systems or techniques; often refers to spiritual or ritualistic manuals"
+    ],
+    "examples": "विद्यार्थीले तन्त्रशास्त्रको अभ्यास गर्यो।",
+    "examplesRomanized": "Vidyarthi le tantrashastra ko abhyas garyo.",
+    "exampleEnglish": "The student practiced the study of tantra.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "ज्योतिषशास्त्र",
+    "romanization": "jyotishashastra",
+    "pos": "noun",
+    "definitions": [
+      "study of astrology; science of celestial bodies"
+    ],
+    "examples": "ज्योतिषशास्त्रले ग्रहहरूको प्रभाव व्याख्या गर्छ।",
+    "examplesRomanized": "Jyotishashastra le grah haruko prabhav vyakhya garchha.",
+    "exampleEnglish": "Astrology explains the influence of planets.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "नाट्यशास्त्र",
+    "romanization": "natyashastra",
+    "pos": "noun",
+    "definitions": [
+      "treatise on drama and performing arts"
+    ],
+    "examples": "नाट्यशास्त्रले अभिनय र प्रस्तुति सिखाउँछ।",
+    "examplesRomanized": "Natyashastra le abhinay ra prastuti sikhaunchha.",
+    "exampleEnglish": "Natyashastra teaches acting and performance.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "पुरातत्त्वशास्त्र",
+    "romanization": "puratattvashastra",
+    "pos": "noun",
+    "definitions": [
+      "archaeology; study of ancient remains and artifacts"
+    ],
+    "examples": "पुरातत्त्वशास्त्रले प्राचीन सभ्यताबारे जानकारी दिन्छ।",
+    "examplesRomanized": "Puratattvashastra le prachin sabhyata bare jankari dinchha.",
+    "exampleEnglish": "Archaeology provides knowledge about ancient civilizations.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "भूगोलशास्त्र",
+    "romanization": "bhugolshastra",
+    "pos": "noun",
+    "definitions": [
+      "geography; study of earth, its features, and phenomena"
+    ],
+    "examples": "भूगोलशास्त्रले भौगोलिक संरचना बुझ्न मद्दत गर्छ।",
+    "examplesRomanized": "Bhugolshastra le bhaugolik sanrachana bujhna maddat garchha.",
+    "exampleEnglish": "Geography helps in understanding physical structures.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "मानसशास्त्र",
+    "romanization": "manasshastra",
+    "pos": "noun",
+    "definitions": [
+      "psychology; study of mind and behavior"
+    ],
+    "examples": "मानसशास्त्रले मानिसको व्यवहार बुझाउँछ।",
+    "examplesRomanized": "Manasshastra le manisko byavahar bujhaunchha.",
+    "exampleEnglish": "Psychology helps understand human behavior.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अन्तर्राष्ट्रिय सम्बन्ध",
+    "romanization": "antarrashtriya sambandh",
+    "pos": "noun",
+    "definitions": [
+      "international relations; study of diplomacy and global affairs"
+    ],
+    "examples": "अन्तर्राष्ट्रिय सम्बन्धमा विशेषज्ञ बन्ने सोच राखियो।",
+    "examplesRomanized": "Antarrashtriya sambandh ma visheshagya banne soch rakhiyo.",
+    "exampleEnglish": "He aimed to become an expert in international relations.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "राजनीतिशास्त्र",
+    "romanization": "rajnitishastra",
+    "pos": "noun",
+    "definitions": [
+      "political science; study of governance and policies"
+    ],
+    "examples": "राजनीतिशास्त्रले सरकारको कार्य प्रणाली बुझाउँछ।",
+    "examplesRomanized": "Rajniti shastra le sarkar ko karya pranali bujhaunchha.",
+    "exampleEnglish": "Political science explains how governments function.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अन्तरक्रियाशास्त्र",
+    "romanization": "antarkriyashastra",
+    "pos": "noun",
+    "definitions": [
+      "interaction studies; social or communication studies"
+    ],
+    "examples": "अन्तरक्रियाशास्त्रले सामाजिक व्यवहार बुझाउँछ।",
+    "examplesRomanized": "Antarkriyashastra le samajik byavahar bujhaunchha.",
+    "exampleEnglish": "Interaction studies help understand social behavior.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "नैतिकशास्त्र",
+    "romanization": "naitikshastra",
+    "pos": "noun",
+    "definitions": [
+      "ethics; study of morality and righteous conduct"
+    ],
+    "examples": "नैतिकशास्त्रले सही र गलत छुट्याउँछ।",
+    "examplesRomanized": "Naitikshastra le sahi ra galat chhutyauchha.",
+    "exampleEnglish": "Ethics distinguishes between right and wrong.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "शिक्षाशास्त्र",
+    "romanization": "shikshashastra",
+    "pos": "noun",
+    "definitions": [
+      "pedagogy; the study of teaching methods"
+    ],
+    "examples": "शिक्षाशास्त्रले प्रभावकारी शिक्षण विधि सिकाउँछ।",
+    "examplesRomanized": "Shikshashastra le prabhavkari shikshan vidhi sikhaunchha.",
+    "exampleEnglish": "Pedagogy teaches effective teaching methods.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "भाषाशास्त्र",
+    "romanization": "bhashashastra",
+    "pos": "noun",
+    "definitions": [
+      "linguistics; study of language and its structure"
+    ],
+    "examples": "भाषाशास्त्रले व्याकरण र शब्द संरचना बुझाउँछ।",
+    "examplesRomanized": "Bhashashastra le vyakaran ra shabd sanrachana bujhaunchha.",
+    "exampleEnglish": "Linguistics explains grammar and word structures.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "इतिहासशास्त्र",
+    "romanization": "itihashashastra",
+    "pos": "noun",
+    "definitions": [
+      "history studies; study of past events and civilizations"
+    ],
+    "examples": "इतिहासशास्त्रले पुराना घटनाहरूको विश्लेषण गर्छ।",
+    "examplesRomanized": "Itihashashastra le purana ghatnaharu ko vishleshan garchha.",
+    "exampleEnglish": "History studies analyze past events.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अन्तरिक्षशास्त्र",
+    "romanization": "antarikshashastra",
+    "pos": "noun",
+    "definitions": [
+      "astronomy; study of celestial bodies and space"
+    ],
+    "examples": "अन्तरिक्षशास्त्रले ग्रह र ताराहरूको अध्ययन गर्छ।",
+    "examplesRomanized": "Antarikshashastra le grah ra taraharu ko adhyayan garchha.",
+    "exampleEnglish": "Astronomy studies planets and stars.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "जीवविज्ञान",
+    "romanization": "jeevvigyan",
+    "pos": "noun",
+    "definitions": [
+      "biology; study of living organisms"
+    ],
+    "examples": "जीवविज्ञानले जनावर र वनस्पतिहरूको संरचना बुझाउँछ।",
+    "examplesRomanized": "Jeevvigyan le janawar ra vanaspati haruko sanrachana bujhaunchha.",
+    "exampleEnglish": "Biology explains the structure of animals and plants.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "रसायनशास्त्र",
+    "romanization": "rasayanashastra",
+    "pos": "noun",
+    "definitions": [
+      "chemistry; study of substances and their reactions"
+    ],
+    "examples": "रसायनशास्त्रले पदार्थहरूको प्रतिक्रिया बुझाउँछ।",
+    "examplesRomanized": "Rasayanashastra le padarth haruko pratikriya bujhaunchha.",
+    "exampleEnglish": "Chemistry explains the reactions of substances.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "भौतिकशास्त्र",
+    "romanization": "bhautikshastra",
+    "pos": "noun",
+    "definitions": [
+      "physics; study of matter, energy, and laws of nature"
+    ],
+    "examples": "भौतिकशास्त्रले गुरुत्वाकर्षण र बल बुझाउँछ।",
+    "examplesRomanized": "Bhautikshastra le gurutwakarshan ra bal bujhaunchha.",
+    "exampleEnglish": "Physics explains gravity and forces.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "गणितशास्त्र",
+    "romanization": "ganitashastra",
+    "pos": "noun",
+    "definitions": [
+      "mathematics; study of numbers, quantities, and structures"
+    ],
+    "examples": "गणितशास्त्रले समीकरण र सूत्र सिकाउँछ।",
+    "examplesRomanized": "Ganitashastra le samikaran ra sutra sikhaunchha.",
+    "exampleEnglish": "Mathematics teaches equations and formulas.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अर्थशास्त्र",
+    "romanization": "arthashastra",
+    "pos": "noun",
+    "definitions": [
+      "economics; study of wealth, finance, and resource management"
+    ],
+    "examples": "अर्थशास्त्रले बजार र उत्पादन व्यवस्थापन सिकाउँछ।",
+    "examplesRomanized": "Arthashastra le bajar ra utpadan byawasthapan sikhaunchha.",
+    "exampleEnglish": "Economics teaches market and production management.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "दर्शनशास्त्र",
+    "romanization": "darshanashastra",
+    "pos": "noun",
+    "definitions": [
+      "philosophy; study of existence, knowledge, and reality"
+    ],
+    "examples": "दर्शनशास्त्रले जीवनको अर्थ बुझ्न मद्दत गर्छ।",
+    "examplesRomanized": "Darshanashastra le jiban ko arth bujhna maddat garchha.",
+    "exampleEnglish": "Philosophy helps understand the meaning of life.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "मानवशास्त्र",
+    "romanization": "manavashastra",
+    "pos": "noun",
+    "definitions": [
+      "anthropology; study of humans, cultures, and societies"
+    ],
+    "examples": "मानवशास्त्रले समाज र संस्कृतिलाई बुझाउँछ।",
+    "examplesRomanized": "Manavashastra le samaj ra sanskriti bujhaunchha.",
+    "exampleEnglish": "Anthropology explains societies and cultures.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "संगीतशास्त्र",
+    "romanization": "sangeetshastra",
+    "pos": "noun",
+    "definitions": [
+      "musicology; study of music theory and practice"
+    ],
+    "examples": "संगीतशास्त्रले राग र ताल सिकाउँछ।",
+    "examplesRomanized": "Sangeetshastra le raag ra taal sikhaunchha.",
+    "exampleEnglish": "Musicology teaches ragas and rhythms.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "सांस्कृतिकशास्त्र",
+    "romanization": "sanskrutikshastra",
+    "pos": "noun",
+    "definitions": [
+      "cultural studies; study of customs, traditions, and arts"
+    ],
+    "examples": "सांस्कृतिकशास्त्रले नेपालको विविधता बुझाउँछ।",
+    "examplesRomanized": "Sanskrutikshastra le Nepalko vividhta bujhaunchha.",
+    "exampleEnglish": "Cultural studies explain the diversity of Nepal.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "शारीरिकशिक्षा",
+    "romanization": "sharirikshiksha",
+    "pos": "noun",
+    "definitions": [
+      "physical education; training in exercise and fitness"
+    ],
+    "examples": "शारीरिकशिक्षाले स्वस्थ जीवन बढाउँछ।",
+    "examplesRomanized": "Sharirikshiksha le swasth jiban badhaunchha.",
+    "exampleEnglish": "Physical education promotes a healthy life.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "शास्त्रीयसंगीत",
+    "romanization": "shastriyasangeet",
+    "pos": "noun",
+    "definitions": [
+      "classical music; traditional music based on theory"
+    ],
+    "examples": "शास्त्रीयसंगीतले मानसिक शान्ति ल्याउँछ।",
+    "examplesRomanized": "Shastriyasangeet le mansik shanti lyaunchha.",
+    "exampleEnglish": "Classical music brings mental peace.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "जीवशास्त्र",
+    "romanization": "jeevashastra",
+    "pos": "noun",
+    "definitions": [
+      "biology; study of living organisms"
+    ],
+    "examples": "जीवशास्त्रले जीवजन्तु र वनस्पति बुझाउँछ।",
+    "examplesRomanized": "Jeevashastra le jeevjantu ra vanaspati bujhaunchha.",
+    "exampleEnglish": "Biology explains animals and plants.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "भूगर्भशास्त्र",
+    "romanization": "bhugarbashastra",
+    "pos": "noun",
+    "definitions": [
+      "geology; study of the Earth's physical structure"
+    ],
+    "examples": "भूगर्भशास्त्रले पहाड र भू-आकृति बुझाउँछ।",
+    "examplesRomanized": "Bhugarbashastra le pahad ra bhu-aakriti bujhaunchha.",
+    "exampleEnglish": "Geology explains mountains and landforms.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "सांख्यशास्त्र",
+    "romanization": "sankhyashastra",
+    "pos": "noun",
+    "definitions": [
+      "statistics; study of data collection and analysis"
+    ],
+    "examples": "सांख्यशास्त्रले तथ्याङ्क विश्लेषणमा मद्दत गर्छ।",
+    "examplesRomanized": "Sankhyashastra le tathyank vishleshanma maddat garchha.",
+    "exampleEnglish": "Statistics helps in data analysis.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "मनशास्त्र",
+    "romanization": "manashastra",
+    "pos": "noun",
+    "definitions": [
+      "psychology; study of mind and behavior"
+    ],
+    "examples": "मनशास्त्रले मानव व्यवहार बुझ्न सहयोग गर्छ।",
+    "examplesRomanized": "Manashastra le manav byavahar bujhna sahayog garchha.",
+    "exampleEnglish": "Psychology helps understand human behavior.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "शैक्षिकप्रविधि",
+    "romanization": "shaikshikpravidhi",
+    "pos": "noun",
+    "definitions": [
+      "educational technology; methods and tools for teaching"
+    ],
+    "examples": "शैक्षिकप्रविधिले सिकाइ प्रक्रिया सजिलो बनाउँछ।",
+    "examplesRomanized": "Shaikshikpravidhi le sikai prakriya sajilo banaunchha.",
+    "exampleEnglish": "Educational technology makes learning easier.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "वाङ्मयशास्त्र",
+    "romanization": "vangmayshastra",
+    "pos": "noun",
+    "definitions": [
+      "literature; study of written works"
+    ],
+    "examples": "वाङ्मयशास्त्रले कविताहरूको अध्ययन गर्छ।",
+    "examplesRomanized": "Vangmayshastra le kavita haru ko adhyayan garchha.",
+    "exampleEnglish": "Literature studies poems and texts.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "संगणकशास्त्र",
+    "romanization": "sanganakshastra",
+    "pos": "noun",
+    "definitions": [
+      "computer science; study of computing and algorithms"
+    ],
+    "examples": "संगणकशास्त्रले प्रोग्रामिङ र डेटा संरचना सिकाउँछ।",
+    "examplesRomanized": "Sanganakshastra le programming ra data sanrachana sikhaunchha.",
+    "exampleEnglish": "Computer science teaches programming and data structures.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अन्तर्राष्ट्रियसम्बन्ध",
+    "romanization": "antarrastriyasambandh",
+    "pos": "noun",
+    "definitions": [
+      "international relations; study of foreign affairs and diplomacy"
+    ],
+    "examples": "अन्तर्राष्ट्रियसम्बन्धले देशको कूटनीति बुझाउँछ।",
+    "examplesRomanized": "Antarrastriyasambandh le desh ko kutniti bujhaunchha.",
+    "exampleEnglish": "International relations explain national diplomacy.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "प्रशासनशास्त्र",
+    "romanization": "prashashanshastra",
+    "pos": "noun",
+    "definitions": [
+      "public administration; study of governance and management"
+    ],
+    "examples": "प्रशासनशास्त्रले कार्यालय व्यवस्थापन सिकाउँछ।",
+    "examplesRomanized": "Prashashanshastra le karyalaya byawasthapan sikhaunchha.",
+    "exampleEnglish": "Public administration teaches office management.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अधिकारशास्त्र",
+    "romanization": "adhikarshastra",
+    "pos": "noun",
+    "definitions": [
+      "jurisprudence; study of law and legal systems"
+    ],
+    "examples": "अधिकारशास्त्रले कानूनी प्रक्रिया बुझाउँछ।",
+    "examplesRomanized": "Adhikarshastra le kanuni prakriya bujhaunchha.",
+    "exampleEnglish": "Jurisprudence explains legal procedures.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "नृत्यशास्त्र",
+    "romanization": "nrityashastra",
+    "pos": "noun",
+    "definitions": [
+      "dance theory; study of dance techniques and history"
+    ],
+    "examples": "नृत्यशास्त्रले परम्परागत नृत्य सिकाउँछ।",
+    "examplesRomanized": "Nrityashastra le paramparagat nritya sikhaunchha.",
+    "exampleEnglish": "Dance theory teaches traditional dance.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "शिल्पशास्त्र",
+    "romanization": "shilpashastra",
+    "pos": "noun",
+    "definitions": [
+      "artisanship; study of crafts and techniques"
+    ],
+    "examples": "शिल्पशास्त्रले माटो र ढुङ्गाको उपयोग सिकाउँछ।",
+    "examplesRomanized": "Shilpashastra le maato ra dhungako upyog sikhaunchha.",
+    "exampleEnglish": "Artisanship teaches the use of clay and stone.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "विधिशास्त्र",
+    "romanization": "vidhishastra",
+    "pos": "noun",
+    "definitions": [
+      "study of legal codes and regulations"
+    ],
+    "examples": "विधिशास्त्रले कानून पालन सिकाउँछ।",
+    "examplesRomanized": "Vidhishastra le kanoon palan sikhaunchha.",
+    "exampleEnglish": "Legal studies teach law compliance.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "संचारशास्त्र",
+    "romanization": "sancharashastra",
+    "pos": "noun",
+    "definitions": [
+      "communication studies; study of media and messaging"
+    ],
+    "examples": "संचारशास्त्रले जनसम्पर्क र सञ्चार प्रविधि सिकाउँछ।",
+    "examplesRomanized": "Sancharashastra le janasampark ra sanchar pravadhi sikhaunchha.",
+    "exampleEnglish": "Communication studies teach media and public relations.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "अन्तर्राष्ट्रियशास्त्र",
+    "romanization": "antarrastriyashastra",
+    "pos": "noun",
+    "definitions": [
+      "international studies; study of foreign policies and global relations"
+    ],
+    "examples": "अन्तर्राष्ट्रियशास्त्रले विश्व राजनीति बुझाउँछ।",
+    "examplesRomanized": "Antarrastriyashastra le vishwa rajneeti bujhaunchha.",
+    "exampleEnglish": "International studies explain global politics.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "समाजशास्त्र",
+    "romanization": "samajshastra",
+    "pos": "noun",
+    "definitions": [
+      "sociology; study of society and social behavior"
+    ],
+    "examples": "समाजशास्त्रले समुदाय र परम्पराहरू बुझाउँछ।",
+    "examplesRomanized": "Samajshastra le samuday ra paramparaharu bujhaunchha.",
+    "exampleEnglish": "Sociology studies communities and traditions.",
+    "frequency": "medium",
+    "category": "education"
+  },
+  {
+    "DevanagriWord": "कम्प्युटरशास्त्र",
+    "romanization": "computer shastra",
+    "pos": "noun",
+    "definitions": [
+      "computer science; study of computing systems and programming"
+    ],
+    "examples": "कम्प्युटरशास्त्रले सफ्टवेयर विकास सिकाउँछ।",
+    "examplesRomanized": "Computer shastra le software vikas sikhaunchha.",
+    "exampleEnglish": "Computer science teaches software development.",
+    "frequency": "medium",
+    "category": "education"
+  }
+]

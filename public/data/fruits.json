@@ -1,0 +1,1510 @@
+[
+  {
+    "DevanagriWord": "आँप",
+    "romanization": "aap",
+    "pos": "noun",
+    "definitions": [
+      "a mango"
+    ],
+    "examples": "आँप मीठो फल हो।",
+    "examplesRomanized": "aap mitho phal ho.",
+    "exampleEnglish": "Mango is a sweet fruit.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "केरा",
+    "romanization": "kera",
+    "pos": "noun",
+    "definitions": [
+      "a banana"
+    ],
+    "examples": "केरा पौष्टिक फल हो।",
+    "examplesRomanized": "kera paustik phal ho.",
+    "exampleEnglish": "Banana is a nutritious fruit.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "स्याउ",
+    "romanization": "syau",
+    "pos": "noun",
+    "definitions": [
+      "an apple"
+    ],
+    "examples": "स्याउ स्वास्थ्यका लागि राम्रो हुन्छ।",
+    "examplesRomanized": "syau swasthyaka lagi ramro hunchha.",
+    "exampleEnglish": "Apples are good for health.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "अंगुर",
+    "romanization": "angur",
+    "pos": "noun",
+    "definitions": [
+      "grapes"
+    ],
+    "examples": "अंगुर गुच्छामा फल्छ।",
+    "examplesRomanized": "angur guchchhama falchha.",
+    "exampleEnglish": "Grapes grow in bunches.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "कागती",
+    "romanization": "kagati",
+    "pos": "noun",
+    "definitions": [
+      "a lemon"
+    ],
+    "examples": "कागती खट्टा हुन्छ।",
+    "examplesRomanized": "kagati khatta hunchha.",
+    "exampleEnglish": "Lemon is sour.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "अनार",
+    "romanization": "anar",
+    "pos": "noun",
+    "definitions": [
+      "a pomegranate"
+    ],
+    "examples": "अनारमा रातो दाना हुन्छ।",
+    "examplesRomanized": "anarma rato dana hunchha.",
+    "exampleEnglish": "Pomegranates have red seeds.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "तरबुजा",
+    "romanization": "tarabuja",
+    "pos": "noun",
+    "definitions": [
+      "a watermelon"
+    ],
+    "examples": "तरबुजाको रस मीठो हुन्छ।",
+    "examplesRomanized": "tarabujako ras mitho hunchha.",
+    "exampleEnglish": "Watermelon juice is sweet.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "खरबुजा",
+    "romanization": "kharabuja",
+    "pos": "noun",
+    "definitions": [
+      "a melon (cantaloupe)"
+    ],
+    "examples": "खरबुजा सुगन्धित हुन्छ।",
+    "examplesRomanized": "kharabuja sugandhit hunchha.",
+    "exampleEnglish": "Cantaloupe is fragrant.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "नासपाती",
+    "romanization": "nasapati",
+    "pos": "noun",
+    "definitions": [
+      "a pear"
+    ],
+    "examples": "नासपाती रसीला हुन्छन्।",
+    "examplesRomanized": "nasapati rasila hunchhan.",
+    "exampleEnglish": "Pears are juicy.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "अम्बा",
+    "romanization": "amba",
+    "pos": "noun",
+    "definitions": [
+      "a guava"
+    ],
+    "examples": "अम्बामा भिटामिन C धेरै हुन्छ।",
+    "examplesRomanized": "ambama vitamin C dherai hunchha.",
+    "exampleEnglish": "Guava has a lot of vitamin C.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "आरु",
+    "romanization": "aru",
+    "pos": "noun",
+    "definitions": [
+      "a peach"
+    ],
+    "examples": "आरुको बोक्रा रौँदार हुन्छ।",
+    "examplesRomanized": "aruko bokra raundar hunchha.",
+    "exampleEnglish": "Peaches have fuzzy skin.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "किवी",
+    "romanization": "kiwi",
+    "pos": "noun",
+    "definitions": [
+      "a kiwi"
+    ],
+    "examples": "किवी हरियो गुदायुक्त फल हो।",
+    "examplesRomanized": "kiwi hariyo gudayukta phal ho.",
+    "exampleEnglish": "Kiwi is a green, pulpy fruit.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "जामुन",
+    "romanization": "jamun",
+    "pos": "noun",
+    "definitions": [
+      "black plum (jamun)"
+    ],
+    "examples": "जामुनको रंग गाढा बैजनी हुन्छ।",
+    "examplesRomanized": "jamunko rang gadha baijani hunchha.",
+    "exampleEnglish": "Jamun has a deep purple color.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "कटहर",
+    "romanization": "katahar",
+    "pos": "noun",
+    "definitions": [
+      "a jackfruit"
+    ],
+    "examples": "कटहर ठूलो र काँडेदार हुन्छ।",
+    "examplesRomanized": "katahar thulo ra kandedar hunchha.",
+    "exampleEnglish": "Jackfruit is large and spiky.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "लिची",
+    "romanization": "lichi",
+    "pos": "noun",
+    "definitions": [
+      "a lychee"
+    ],
+    "examples": "लिची मीठो र रसिलो हुन्छ।",
+    "examplesRomanized": "lichi mitho ra rasilo hunchha.",
+    "exampleEnglish": "Lychee is sweet and juicy.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "अनानास",
+    "romanization": "ananas",
+    "pos": "noun",
+    "definitions": [
+      "a pineapple"
+    ],
+    "examples": "अनानासको मिठास मन पर्छ।",
+    "examplesRomanized": "ananas ko mithas man parcha.",
+    "exampleEnglish": "The sweetness of pineapple is pleasing.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "मेवा",
+    "romanization": "mewa",
+    "pos": "noun",
+    "definitions": [
+      "a papaya"
+    ],
+    "examples": "मेवा पक्दा पहेंलो हुन्छ।",
+    "examplesRomanized": "mewa pakda pahenlo hunchha.",
+    "exampleEnglish": "Papaya turns yellow when ripe.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "नरिवल",
+    "romanization": "naribal",
+    "pos": "noun",
+    "definitions": [
+      "a coconut"
+    ],
+    "examples": "नरिवलको पानी चिसो हुन्छ।",
+    "examplesRomanized": "naribal ko pani chiso hunchha.",
+    "exampleEnglish": "Coconut water is cooling.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "खजुर",
+    "romanization": "khajur",
+    "pos": "noun",
+    "definitions": [
+      "dates"
+    ],
+    "examples": "खजुर मीठो र पौष्टिक हुन्छ।",
+    "examplesRomanized": "khajur mitho ra paustik hunchha.",
+    "exampleEnglish": "Dates are sweet and nutritious.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "अञ्जिर",
+    "romanization": "anjir",
+    "pos": "noun",
+    "definitions": [
+      "a fig"
+    ],
+    "examples": "अञ्जिर सुकाएर पनि खान्छन्।",
+    "examplesRomanized": "anjir sukayera pani khanchhan.",
+    "exampleEnglish": "Figs are also eaten dried.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "खुर्मानी",
+    "romanization": "khurmani",
+    "pos": "noun",
+    "definitions": [
+      "an apricot"
+    ],
+    "examples": "खुर्मानी सुगन्धित र मीठो फल हो।",
+    "examplesRomanized": "khurmani sugandhit ra mitho phal ho.",
+    "exampleEnglish": "Apricot is a fragrant, sweet fruit.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "आलुबखडा",
+    "romanization": "alubakhada",
+    "pos": "noun",
+    "definitions": [
+      "a plum"
+    ],
+    "examples": "आलुबखडा सिजनमा सस्तो हुन्छ।",
+    "examplesRomanized": "alubakhada season ma sasto hunchha.",
+    "exampleEnglish": "Plums are inexpensive in season.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "चेरी",
+    "romanization": "cheri",
+    "pos": "noun",
+    "definitions": [
+      "a cherry"
+    ],
+    "examples": "चेरी साना रातो फल हुन्छन्।",
+    "examplesRomanized": "cheri sana rato phal hunchhan.",
+    "exampleEnglish": "Cherries are small red fruits.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "स्ट्रबेरी",
+    "romanization": "strawberry",
+    "pos": "noun",
+    "definitions": [
+      "a strawberry"
+    ],
+    "examples": "स्ट्रबेरीको स्वाद मीठो र अलिकति खट्टा हुन्छ।",
+    "examplesRomanized": "strawberryko swad mitho ra alikati khatta hunchha.",
+    "exampleEnglish": "Strawberries taste sweet and slightly sour.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "ब्लुबेरी",
+    "romanization": "blueberry",
+    "pos": "noun",
+    "definitions": [
+      "a blueberry"
+    ],
+    "examples": "ब्लुबेरी साना निला फल हुन्छन्।",
+    "examplesRomanized": "blueberry sana nila phal hunchhan.",
+    "exampleEnglish": "Blueberries are small blue fruits.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "रास्पबेरी",
+    "romanization": "raspberry",
+    "pos": "noun",
+    "definitions": [
+      "a raspberry"
+    ],
+    "examples": "रास्पबेरी झाडीमा फल्छ।",
+    "examplesRomanized": "raspberry jhadima falchha.",
+    "exampleEnglish": "Raspberries grow on bushes.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "ब्ल्याकबेरी",
+    "romanization": "blackberry",
+    "pos": "noun",
+    "definitions": [
+      "a blackberry"
+    ],
+    "examples": "ब्ल्याकबेरी काँडेदार बुटामा फल्छ।",
+    "examplesRomanized": "blackberry kandedar butama falchha.",
+    "exampleEnglish": "Blackberries grow on thorny shrubs.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "सीताफल",
+    "romanization": "sitaphal",
+    "pos": "noun",
+    "definitions": [
+      "a custard apple"
+    ],
+    "examples": "सीताफलको गुदी क्रीमी हुन्छ।",
+    "examplesRomanized": "sitaphalko gudi creamy hunchha.",
+    "exampleEnglish": "Custard apple has a creamy pulp.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "चकोतरा",
+    "romanization": "chakotara",
+    "pos": "noun",
+    "definitions": [
+      "a grapefruit"
+    ],
+    "examples": "चकोतरा ठूलो साइट्रस फल हो।",
+    "examplesRomanized": "chakotara thulo citrus phal ho.",
+    "exampleEnglish": "Grapefruit is a large citrus fruit.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "मोसमी",
+    "romanization": "mosami",
+    "pos": "noun",
+    "definitions": [
+      "a sweet lime"
+    ],
+    "examples": "मोसमी मीठो खट्टा हुन्छ।",
+    "examplesRomanized": "mosami mitho khatta hunchha.",
+    "exampleEnglish": "Sweet lime tastes sweet and sour.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "एभोकाडो",
+    "romanization": "avocado",
+    "pos": "noun",
+    "definitions": [
+      "an avocado"
+    ],
+    "examples": "एभोकाडोमा स्वस्थ बोसो हुन्छ।",
+    "examplesRomanized": "avocado ma swasth boso hunchha.",
+    "exampleEnglish": "Avocados contain healthy fats.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "ड्रागन फ्रुट",
+    "romanization": "dragon fruit",
+    "pos": "noun",
+    "definitions": [
+      "a dragon fruit"
+    ],
+    "examples": "ड्रागन फ्रुटको भित्री भाग सेतो वा रातो हुन्छ।",
+    "examplesRomanized": "dragon fruitko bhitri bhag seto wa rato hunchha.",
+    "exampleEnglish": "Dragon fruit has white or red flesh.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "लप्सी",
+    "romanization": "lapsi",
+    "pos": "noun",
+    "definitions": [
+      "hog plum (lapsi)"
+    ],
+    "examples": "लप्सीबाट अचार बनाइन्छ।",
+    "examplesRomanized": "lapsi bata achar banaaincha.",
+    "exampleEnglish": "Pickles are made from lapsi.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "जैतुन",
+    "romanization": "jaitun",
+    "pos": "noun",
+    "definitions": [
+      "an olive"
+    ],
+    "examples": "जैतुन तेलका लागि प्रसिद्ध फल हो।",
+    "examplesRomanized": "jaitun telka lagi prasiddha phal ho.",
+    "exampleEnglish": "Olive is famous for its oil.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "बेल",
+    "romanization": "bel",
+    "pos": "noun",
+    "definitions": [
+      "wood apple; bael"
+    ],
+    "examples": "बेलको शर्बत चिस्यान दिन्छ।",
+    "examplesRomanized": "belko sharbat chi syan dinchha.",
+    "exampleEnglish": "Bael juice is refreshing.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "अमला",
+    "romanization": "amla",
+    "pos": "noun",
+    "definitions": [
+      "Indian gooseberry"
+    ],
+    "examples": "अमलामा भिटामिन C धेरै हुन्छ।",
+    "examplesRomanized": "amlam a vitamin C dherai hunchha.",
+    "exampleEnglish": "Amla is rich in vitamin C.",
+    "frequency": "high",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "काफल",
+    "romanization": "kaafal",
+    "pos": "noun",
+    "definitions": [
+      "Nepalese bayberry (kaafal)"
+    ],
+    "examples": "काफल पहाडी क्षेत्रमा पाइन्छ।",
+    "examplesRomanized": "kaafal pahadi kshetrama painchha.",
+    "exampleEnglish": "Kaafal is found in the hills.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "भोगटे",
+    "romanization": "bhogate",
+    "pos": "noun",
+    "definitions": [
+      "a pomelo"
+    ],
+    "examples": "भोगटे ठूलो साइट्रस फल हो।",
+    "examplesRomanized": "bhogate thulo citrus phal ho.",
+    "exampleEnglish": "Pomelo is a large citrus fruit.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "तुत",
+    "romanization": "tut",
+    "pos": "noun",
+    "definitions": [
+      "mulberry"
+    ],
+    "examples": "तुतको रुखमा साना मीठा फल लाग्छन्।",
+    "examplesRomanized": "tutko rukhma sana mitha phal lagchhan.",
+    "exampleEnglish": "Mulberry trees bear small sweet fruits.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "रामबुटान",
+    "romanization": "rambutan",
+    "pos": "noun",
+    "definitions": [
+      "a rambutan"
+    ],
+    "examples": "रामबुटानको बोक्रा काँडेदार हुन्छ।",
+    "examplesRomanized": "rambutan ko bokra kandedar hunchha.",
+    "exampleEnglish": "Rambutan has spiky skin.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "कमरख",
+    "romanization": "kamarakh",
+    "pos": "noun",
+    "definitions": [
+      "star fruit"
+    ],
+    "examples": "कमरख काट्दा ताराजस्तो देखिन्छ।",
+    "examplesRomanized": "kamarakh katda tarajasto dekhhincha.",
+    "exampleEnglish": "Starfruit looks like a star when cut.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "बयर",
+    "romanization": "bayar",
+    "pos": "noun",
+    "definitions": [
+      "jujube (ber)"
+    ],
+    "examples": "बयर सानो र चपाउन सजिलो हुन्छ।",
+    "examplesRomanized": "bayar sano ra chapau na sajilo hunchha.",
+    "exampleEnglish": "Jujube is small and easy to chew.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "शरीफा",
+    "romanization": "sharifa",
+    "pos": "noun",
+    "definitions": [
+      "sugar apple (sweetsop)"
+    ],
+    "examples": "शरीफामा मीठो दाना हुन्छ।",
+    "examplesRomanized": "sharifama mitho dana hunchha.",
+    "exampleEnglish": "Sugar apple has sweet segments.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "किशमिस",
+    "romanization": "kishmish",
+    "pos": "noun",
+    "definitions": [
+      "raisins"
+    ],
+    "examples": "किशमिस सुकाएको अंगुर हो।",
+    "examplesRomanized": "kishmish sukayeko angur ho.",
+    "exampleEnglish": "Raisins are dried grapes.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "अखरोट",
+    "romanization": "akharot",
+    "pos": "noun",
+    "definitions": [
+      "walnut"
+    ],
+    "examples": "अखरोटको गिरी पौष्टिक हुन्छ।",
+    "examplesRomanized": "akharotko giri paustik hunchha.",
+    "exampleEnglish": "Walnut kernels are nutritious.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "बदाम",
+    "romanization": "badam",
+    "pos": "noun",
+    "definitions": [
+      "almond"
+    ],
+    "examples": "बदामको सेवन स्वास्थ्यका लागि राम्रो।",
+    "examplesRomanized": "badamko sewan swasthyaka lagi ramro.",
+    "exampleEnglish": "Eating almonds is good for health.",
+    "frequency": "high",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "काजु",
+    "romanization": "kaju",
+    "pos": "noun",
+    "definitions": [
+      "cashew"
+    ],
+    "examples": "काजु मीठो सुकुटा हो।",
+    "examplesRomanized": "kaju mitho sukuta ho.",
+    "exampleEnglish": "Cashew is a tasty nut.",
+    "frequency": "high",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "पिस्ता",
+    "romanization": "pista",
+    "pos": "noun",
+    "definitions": [
+      "pistachio"
+    ],
+    "examples": "पिस्ता मिठाइमा प्रयोग हुन्छ।",
+    "examplesRomanized": "pista mithai ma prayog hunchha.",
+    "exampleEnglish": "Pistachios are used in sweets.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "चिउरी",
+    "romanization": "chiuri",
+    "pos": "noun",
+    "definitions": [
+      "Indian butter tree fruit"
+    ],
+    "examples": "चिउरीको फल तेल निकाल्न प्रयोग हुन्छ।",
+    "examplesRomanized": "chiuriko phal tel nikalna prayog hunchha.",
+    "exampleEnglish": "Chiuri fruit is used to extract butter/oil.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "पर्सिमोन",
+    "romanization": "persimmon",
+    "pos": "noun",
+    "definitions": [
+      "persimmon"
+    ],
+    "examples": "पर्सिमोन पाकेपछि मीठो हुन्छ।",
+    "examplesRomanized": "persimmon pakepachi mitho hunchha.",
+    "exampleEnglish": "Persimmon tastes sweet when ripe.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "क्र्यानबेरी",
+    "romanization": "cranberry",
+    "pos": "noun",
+    "definitions": [
+      "a cranberry"
+    ],
+    "examples": "क्र्यानबेरी खट्टो स्वादको हुन्छ।",
+    "examplesRomanized": "cranberry khatto swadko hunchha.",
+    "exampleEnglish": "Cranberries have a tart taste.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "रासभरी",
+    "romanization": "rasbhari",
+    "pos": "noun",
+    "definitions": [
+      "cape gooseberry (physalis)"
+    ],
+    "examples": "रासभरी कागतीजस्तै खट्टो हुन्छ।",
+    "examplesRomanized": "rasbhari kagatijastai khatto hunchha.",
+    "exampleEnglish": "Cape gooseberry is tart like lemon.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "चीकू",
+    "romanization": "chiku",
+    "pos": "noun",
+    "definitions": [
+      "sapodilla (chikoo)"
+    ],
+    "examples": "चीकूको गुदी मीठो र दानेदार हुन्छ।",
+    "examplesRomanized": "chikuko gudi mitho ra danedar hunchha.",
+    "exampleEnglish": "Sapodilla has a sweet, grainy pulp.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "इम्ली",
+    "romanization": "imli",
+    "pos": "noun",
+    "definitions": [
+      "tamarind"
+    ],
+    "examples": "इम्ली खट्टो हुन्छ र chutney बनाउन प्रयोग हुन्छ।",
+    "examplesRomanized": "imli khatto hunchha ra chutney banauna prayog hunchha.",
+    "exampleEnglish": "Tamarind is sour and used to make chutney.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "नेक्टारिन",
+    "romanization": "nectarine",
+    "pos": "noun",
+    "definitions": [
+      "a nectarine"
+    ],
+    "examples": "नेक्टारिन पिच जस्तै तर छालामा रौँ हुँदैन।",
+    "examplesRomanized": "nectarine peach jastai tara chhalama rau hundaina.",
+    "exampleEnglish": "Nectarine is like a peach but without fuzz.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "म्याङ्गोस्टिन",
+    "romanization": "mangosteen",
+    "pos": "noun",
+    "definitions": [
+      "mangosteen"
+    ],
+    "examples": "म्याङ्गोस्टिनलाई फलको रानी भनिन्छ।",
+    "examplesRomanized": "mangosteenlai phalko rani bhanincha.",
+    "exampleEnglish": "Mangosteen is called the queen of fruits.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "प्यासन फ्रुट",
+    "romanization": "passion fruit",
+    "pos": "noun",
+    "definitions": [
+      "passion fruit"
+    ],
+    "examples": "प्यासन फ्रुटको रस स्वादिष्ट हुन्छ।",
+    "examplesRomanized": "passion fruitko ras swadisht hunchha.",
+    "exampleEnglish": "Passion fruit juice is delicious.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "डुरियन",
+    "romanization": "durian",
+    "pos": "noun",
+    "definitions": [
+      "durian"
+    ],
+    "examples": "डुरियनमा तीव्र गन्ध हुन्छ तर स्वाद मिठो हुन्छ।",
+    "examplesRomanized": "durianma tivra gandha hunchha tara swad mitho hunchha.",
+    "exampleEnglish": "Durian has a strong odor but tastes sweet.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "सोरसप",
+    "romanization": "soursop",
+    "pos": "noun",
+    "definitions": [
+      "soursop (graviola)"
+    ],
+    "examples": "सोरसपको गुदी खट्टो–मीठो हुन्छ।",
+    "examplesRomanized": "soursopko gudi khatto-mitho hunchha.",
+    "exampleEnglish": "Soursop has a sweet–sour pulp.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "लङ्गन",
+    "romanization": "longan",
+    "pos": "noun",
+    "definitions": [
+      "longan"
+    ],
+    "examples": "लङ्गन लीची जस्तै पारदर्शी गुदीयुक्त हुन्छ।",
+    "examplesRomanized": "longan lichi jastai paradarshi gudiyukta hunchha.",
+    "exampleEnglish": "Longan has translucent flesh like lychee.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "ब्लड अरेन्ज",
+    "romanization": "blood orange",
+    "pos": "noun",
+    "definitions": [
+      "blood orange"
+    ],
+    "examples": "ब्लड अरेन्जको गुदी रातो हुन्छ।",
+    "examplesRomanized": "blood orangeko gudi rato hunchha.",
+    "exampleEnglish": "Blood orange has red flesh.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "गोजी बेरी",
+    "romanization": "goji berry",
+    "pos": "noun",
+    "definitions": [
+      "goji berry"
+    ],
+    "examples": "गोजी बेरीलाई सुपरफुड मानिन्छ।",
+    "examplesRomanized": "goji berylai superfood manincha.",
+    "exampleEnglish": "Goji berry is considered a superfood.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "ब्ल्याक करेन्ट",
+    "romanization": "black currant",
+    "pos": "noun",
+    "definitions": [
+      "black currant"
+    ],
+    "examples": "ब्ल्याक करेन्टबाट जाम बनाइन्छ।",
+    "examplesRomanized": "black currantbata jam banaaincha.",
+    "exampleEnglish": "Jam is made from black currant.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "रेड करेन्ट",
+    "romanization": "red currant",
+    "pos": "noun",
+    "definitions": [
+      "red currant"
+    ],
+    "examples": "रेड करेन्ट साना टव्काहरुमा फल्छ।",
+    "examplesRomanized": "red currant sana tabkaharuma falchha.",
+    "exampleEnglish": "Red currant grows in small clusters.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "प्रून",
+    "romanization": "prune",
+    "pos": "noun",
+    "definitions": [
+      "dried plum; prune"
+    ],
+    "examples": "प्रून सुकाएको आलुबखडा हो।",
+    "examplesRomanized": "prune sukayeko alubakhada ho.",
+    "exampleEnglish": "A prune is a dried plum.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "रामफल",
+    "romanization": "ramphal",
+    "pos": "noun",
+    "definitions": [
+      "bullock's heart (Annona reticulata)"
+    ],
+    "examples": "रामफल सीताफलको नातेदार फल हो।",
+    "examplesRomanized": "ramphal sitaphalko natedar phal ho.",
+    "exampleEnglish": "Ramphal is a relative of custard apple.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "कुमक्वाट",
+    "romanization": "kumquat",
+    "pos": "noun",
+    "definitions": [
+      "kumquat"
+    ],
+    "examples": "कुमक्वाट सानो साइट्रस फल हो जसको बोक्रा पनि खान्छन्।",
+    "examplesRomanized": "kumquat sano citrus phal ho jasko bokra pani khanchhan.",
+    "exampleEnglish": "Kumquat is a small citrus fruit whose peel is also eaten.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "क्विन्स",
+    "romanization": "quince",
+    "pos": "noun",
+    "definitions": [
+      "quince"
+    ],
+    "examples": "क्विन्सलाई प्रायः जाम र जेलीमा प्रयोग गरिन्छ।",
+    "examplesRomanized": "quince lai prayah jam ra jelly ma prayog garincha.",
+    "exampleEnglish": "Quince is often used in jam and jelly.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "बदहर",
+    "romanization": "badahar",
+    "pos": "noun",
+    "definitions": [
+      "breadfruit"
+    ],
+    "examples": "बदहर पाकेपछि तरकारी वा अचार बनाइन्छ।",
+    "examplesRomanized": "badahar pakepachi tarkari wa achar banaaincha.",
+    "exampleEnglish": "Breadfruit is cooked as a curry or pickle when ripe.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "जुनार",
+    "romanization": "junar",
+    "pos": "noun",
+    "definitions": [
+      "a Nepali mandarin orange (Junar)"
+    ],
+    "examples": "सिन्धुलीको जुनार विशेष प्रसिद्ध छ।",
+    "examplesRomanized": "Sindhuliko junar vishes prasiddha chha.",
+    "exampleEnglish": "Junar from Sindhuli is especially famous.",
+    "frequency": "high",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "माल्टा",
+    "romanization": "malta",
+    "pos": "noun",
+    "definitions": [
+      "malta (sweet orange variety)"
+    ],
+    "examples": "पहाडमा माल्टा धेरै फलाइन्छ।",
+    "examplesRomanized": "pahadma malta dherai phalaincha.",
+    "exampleEnglish": "Malta is widely grown in the hills.",
+    "frequency": "high",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "निबुवा",
+    "romanization": "nibuwa",
+    "pos": "noun",
+    "definitions": [
+      "lime"
+    ],
+    "examples": "निबुवाको रस अमिलो र ताजा हुन्छ।",
+    "examplesRomanized": "nibuwako ras amilo ra taja hunchha.",
+    "exampleEnglish": "Lime juice is sour and refreshing.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "जामरोज",
+    "romanization": "jamroz",
+    "pos": "noun",
+    "definitions": [
+      "rose apple"
+    ],
+    "examples": "जामरोजको स्वाद हल्का गुलाबजस्तो हुन्छ।",
+    "examplesRomanized": "jamrozko swad halka gulab jasto hunchha.",
+    "exampleEnglish": "Rose apple tastes faintly of rose.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "लोकाट",
+    "romanization": "loquat",
+    "pos": "noun",
+    "definitions": [
+      "loquat"
+    ],
+    "examples": "लोकाट सिजनमा पहेंलो र रसिलो हुन्छ।",
+    "examplesRomanized": "loquat season ma pahenlo ra rasilo hunchha.",
+    "exampleEnglish": "Loquat is yellow and juicy in season.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "ऐंसेलु",
+    "romanization": "ainselu",
+    "pos": "noun",
+    "definitions": [
+      "Himalayan raspberry (yellow wild raspberry)"
+    ],
+    "examples": "ऐंसेलु पहाडी जंगलमा पाइने जंगली बेरी हो।",
+    "examplesRomanized": "ainselu pahadi janglama paine jangali berry ho.",
+    "exampleEnglish": "Ainselu is a wild berry found in hill forests.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "भ्याकुर",
+    "romanization": "bhyakur",
+    "pos": "noun",
+    "definitions": [
+      "wild kiwi (Actinidia spp.)"
+    ],
+    "examples": "पूर्वी नेपालको भ्याकुर जंगली किवी हो।",
+    "examplesRomanized": "purbi nepalko bhyakur jangali kiwi ho.",
+    "exampleEnglish": "Bhyakur is a wild kiwi from eastern Nepal.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "भोटे कागती",
+    "romanization": "bhote kagati",
+    "pos": "noun",
+    "definitions": [
+      "citron (Citrus medica)"
+    ],
+    "examples": "भोटे कागतीको बोक्राबाट मसला बनाइन्छ।",
+    "examplesRomanized": "bhote kagatiko bokrabat masala banaaincha.",
+    "exampleEnglish": "Citron peel is used as a spice.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "नागफनी फल",
+    "romanization": "nagphani phal",
+    "pos": "noun",
+    "definitions": [
+      "prickly pear"
+    ],
+    "examples": "नागफनीको फल काँडेदार बोक्रा भएको हुन्छ।",
+    "examplesRomanized": "nagphaniko phal kandedar bokra bhayeko hunchha.",
+    "exampleEnglish": "Prickly pear has a spiny skin.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "चिनियाँ नासपाती",
+    "romanization": "chiniya naspati",
+    "pos": "noun",
+    "definitions": [
+      "Asian pear"
+    ],
+    "examples": "चिनियाँ नासपाती कुरकुरा बनोटको हुन्छ।",
+    "examplesRomanized": "chiniya naspati kurkura banotko hunchha.",
+    "exampleEnglish": "Asian pear has a crisp texture.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "हर्रो",
+    "romanization": "harro",
+    "pos": "noun",
+    "definitions": [
+      "chebulic myrobalan (Terminalia chebula)"
+    ],
+    "examples": "हर्रो त्रिफलाको एक अङ्ग हो।",
+    "examplesRomanized": "harro triphalako ek anga ho.",
+    "exampleEnglish": "Harro is one component of Triphala.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "बर्रो",
+    "romanization": "barro",
+    "pos": "noun",
+    "definitions": [
+      "beleric myrobalan (Terminalia bellirica)"
+    ],
+    "examples": "बर्रो आयुर्वेदिक प्रयोगमा चर्चित फल हो।",
+    "examplesRomanized": "barro ayurvedic prayogma charchit phal ho.",
+    "exampleEnglish": "Barro is a notable fruit in Ayurveda.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "किन्नू",
+    "romanization": "kinnow",
+    "pos": "noun",
+    "definitions": [
+      "kinnow mandarin"
+    ],
+    "examples": "किन्नूको रस ताजा र सुगन्धित हुन्छ।",
+    "examplesRomanized": "kinnowko ras taja ra sugandhit hunchha.",
+    "exampleEnglish": "Kinnow juice is fresh and aromatic.",
+    "frequency": "high",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "सतबेरो",
+    "romanization": "satabero",
+    "pos": "noun",
+    "definitions": [
+      "star gooseberry (Phyllanthus acidus)"
+    ],
+    "examples": "सतबेरोको अचार प्रख्यात छ।",
+    "examplesRomanized": "satabero ko achar prakhyat chha.",
+    "exampleEnglish": "Pickle made from star gooseberry is popular.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "जाम्बिरे कागती",
+    "romanization": "jambire kagati",
+    "pos": "noun",
+    "definitions": [
+      "citron (large fragrant citrus)"
+    ],
+    "examples": "जाम्बिरे कागतीको छाला मिठाईमा राखिन्छ।",
+    "examplesRomanized": "jambire kagatiko chhala mithai ma rakhincha.",
+    "exampleEnglish": "Citron peel is used in desserts.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "हिसालु",
+    "romanization": "hisalu",
+    "pos": "noun",
+    "definitions": [
+      "yellow Himalayan raspberry (Rubus ellipticus)"
+    ],
+    "examples": "हिसालु पहाडी बाटो छेउमा पाइन्छ।",
+    "examplesRomanized": "hisalu pahadi bato chheuma painchha.",
+    "exampleEnglish": "Hisalu grows along hill trails.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "एल्डरबेरी",
+    "romanization": "elderberry",
+    "pos": "noun",
+    "definitions": [
+      "elderberry"
+    ],
+    "examples": "एल्डरबेरीबाट सिरप बनाइन्छ।",
+    "examplesRomanized": "elderberry bata syrup banaaincha.",
+    "exampleEnglish": "Syrup is made from elderberries.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "जुनिपर बेरी",
+    "romanization": "juniper berry",
+    "pos": "noun",
+    "definitions": [
+      "juniper berry"
+    ],
+    "examples": "जुनिपर बेरी हिमाली क्षेत्रमा पाइन्छ।",
+    "examplesRomanized": "juniper berry himali kshetrama painchha.",
+    "exampleEnglish": "Juniper berries are found in Himalayan regions.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "सी बकथर्न",
+    "romanization": "sea buckthorn",
+    "pos": "noun",
+    "definitions": [
+      "sea buckthorn"
+    ],
+    "examples": "सी बकथर्न उच्च हिमाली क्षेत्रमा बढ्छ।",
+    "examplesRomanized": "sea buckthorn uchcha himali kshetrama badchha.",
+    "exampleEnglish": "Sea buckthorn grows in high Himalayan zones.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "बर्बेरी",
+    "romanization": "barberry",
+    "pos": "noun",
+    "definitions": [
+      "barberry"
+    ],
+    "examples": "बर्बेरीका दाना अमिला हुन्छन्।",
+    "examplesRomanized": "barberika dana amila hunchhan.",
+    "exampleEnglish": "Barberry berries are sour.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "हथर्न बेरी",
+    "romanization": "hawthorn berry",
+    "pos": "noun",
+    "definitions": [
+      "hawthorn berry"
+    ],
+    "examples": "हथर्न बेरीबाट जाम बनाइन्छ।",
+    "examplesRomanized": "hawthorn berry bata jam banaaincha.",
+    "exampleEnglish": "Jam is made from hawthorn berries.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "रोवान बेरी",
+    "romanization": "rowan berry",
+    "pos": "noun",
+    "definitions": [
+      "rowan berry"
+    ],
+    "examples": "रोवान बेरी जंगली रूखमा फल्छ।",
+    "examplesRomanized": "rowan berry jangali rukhma falchha.",
+    "exampleEnglish": "Rowan berries grow on wild trees.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "हकलबेरी",
+    "romanization": "huckleberry",
+    "pos": "noun",
+    "definitions": [
+      "huckleberry"
+    ],
+    "examples": "हकलबेरी जंगली बेरीको प्रकार हो।",
+    "examplesRomanized": "huckleberry jangali beriko prakaar ho.",
+    "exampleEnglish": "Huckleberry is a type of wild berry.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "क्लाउडबेरी",
+    "romanization": "cloudberry",
+    "pos": "noun",
+    "definitions": [
+      "cloudberry"
+    ],
+    "examples": "क्लाउडबेरी चिसो भेगमा पाइन्छ।",
+    "examplesRomanized": "cloudberry chiso bhegma painchha.",
+    "exampleEnglish": "Cloudberries grow in cold regions.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "नास्पाती",
+    "romanization": "naspati",
+    "pos": "noun",
+    "definitions": [
+      "a pear"
+    ],
+    "examples": "नास्पाती रसिलो फल हो।",
+    "examplesRomanized": "naspati rasilo phal ho.",
+    "exampleEnglish": "Pear is a juicy fruit.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "तरबूजा",
+    "romanization": "tarbuj",
+    "pos": "noun",
+    "definitions": [
+      "a watermelon"
+    ],
+    "examples": "तरबूजामा धेरै पानी हुन्छ।",
+    "examplesRomanized": "tarbujama dherai pani hunchha.",
+    "exampleEnglish": "Watermelon has a lot of water.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "सिताफल",
+    "romanization": "sitaphal",
+    "pos": "noun",
+    "definitions": [
+      "custard apple"
+    ],
+    "examples": "सिताफलको गूदा मखमली हुन्छ।",
+    "examplesRomanized": "sitaphalko guda makhamali hunchha.",
+    "exampleEnglish": "Custard apple has a creamy pulp.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "नारिवल",
+    "romanization": "nariwal",
+    "pos": "noun",
+    "definitions": [
+      "a coconut"
+    ],
+    "examples": "नारिवलको पानी चिसो र ताजा हुन्छ।",
+    "examplesRomanized": "nariwalko pani chiso ra taja hunchha.",
+    "exampleEnglish": "Coconut water is cool and refreshing.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "कीवी",
+    "romanization": "kiwi",
+    "pos": "noun",
+    "definitions": [
+      "kiwi"
+    ],
+    "examples": "कीवीको भित्र हरियो रंग हुन्छ।",
+    "examplesRomanized": "kiwiko bhitra hariyo rang hunchha.",
+    "exampleEnglish": "Kiwi has a green interior.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "अंजीर",
+    "romanization": "anjir",
+    "pos": "noun",
+    "definitions": [
+      "a fig"
+    ],
+    "examples": "अंजीरको भित्र धेरै साना दाना हुन्छन्।",
+    "examplesRomanized": "anjirko bhitra dherai sana dana hunchhan.",
+    "exampleEnglish": "Figs have many small seeds inside.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "खुबानी",
+    "romanization": "khubani",
+    "pos": "noun",
+    "definitions": [
+      "apricot"
+    ],
+    "examples": "खुबानी पहेंलो- सुनौलो रङको हुन्छ।",
+    "examplesRomanized": "khubani pahenlo-sunaulo rango hunchha.",
+    "exampleEnglish": "Apricot is yellow-golden in color.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "भुई कत्रुस",
+    "romanization": "bhui katrus",
+    "pos": "noun",
+    "definitions": [
+      "ground cherry (Physalis)"
+    ],
+    "examples": "भुई कत्रुसको बोक्रा खोलजस्तो हुन्छ।",
+    "examplesRomanized": "bhui katrusko bokra khol jasto hunchha.",
+    "exampleEnglish": "Ground cherry has a husk-like covering.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "ब्लूबेरी",
+    "romanization": "blueberry",
+    "pos": "noun",
+    "definitions": [
+      "blueberry"
+    ],
+    "examples": "ब्लूबेरीको रंग नीलो हुन्छ।",
+    "examplesRomanized": "blueberry ko rang nilo hunchha.",
+    "exampleEnglish": "Blueberries are blue in color.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "रसबेरी",
+    "romanization": "raspberry",
+    "pos": "noun",
+    "definitions": [
+      "raspberry"
+    ],
+    "examples": "रसबेरी कोमल र रसिला हुन्छन्।",
+    "examplesRomanized": "raspberry komal ra rasila hunchhan.",
+    "exampleEnglish": "Raspberries are tender and juicy.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "खुर्मा",
+    "romanization": "khurma",
+    "pos": "noun",
+    "definitions": [
+      "persimmon"
+    ],
+    "examples": "खुर्मा पक्दा सुनौलो हुन्छ।",
+    "examplesRomanized": "khurma pakda sunaulo hunchha.",
+    "exampleEnglish": "Persimmon turns golden when ripe.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "सतुवा",
+    "romanization": "satuwa",
+    "pos": "noun",
+    "definitions": [
+      "soursop (graviola)"
+    ],
+    "examples": "सतुवाको रस शीतल हुन्छ।",
+    "examplesRomanized": "satuwako ras sheetal hunchha.",
+    "exampleEnglish": "Soursop juice is cooling.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "पेस्ता",
+    "romanization": "pesta",
+    "pos": "noun",
+    "definitions": [
+      "pistachio (nut)"
+    ],
+    "examples": "पेस्ता ड्राइफ्रुट्समा पर्छ।",
+    "examplesRomanized": "pesta dryfruitsma parcha.",
+    "exampleEnglish": "Pistachio is a type of dry fruit.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "बादाम",
+    "romanization": "badam",
+    "pos": "noun",
+    "definitions": [
+      "almond (dry fruit)"
+    ],
+    "examples": "बादाम पोषणयुक्त सुकुटा फल हो।",
+    "examplesRomanized": "badam poshanyukt sukuta phal ho.",
+    "exampleEnglish": "Almond is a nutritious dry fruit.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "किसमिस",
+    "romanization": "kismis",
+    "pos": "noun",
+    "definitions": [
+      "raisins (dried grapes)"
+    ],
+    "examples": "किसमिस खाजा र मिष्ठान्नमा राखिन्छ।",
+    "examplesRomanized": "kismis khaja ra misthannma rakhinchha.",
+    "exampleEnglish": "Raisins are added to snacks and desserts.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "पपया",
+    "romanization": "papaya",
+    "pos": "noun",
+    "definitions": [
+      "papaya"
+    ],
+    "examples": "पपयामा पपाइन एन्जाइम हुन्छ।",
+    "examplesRomanized": "papayama papain enzyme hunchha.",
+    "exampleEnglish": "Papaya contains the enzyme papain.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "गलगल",
+    "romanization": "galgal",
+    "pos": "noun",
+    "definitions": [
+      "hill lemon (kaffir-like)"
+    ],
+    "examples": "गलगल अचारमा राखिन्छ।",
+    "examplesRomanized": "galgal acharma rakhinchha.",
+    "exampleEnglish": "Galgal is used in pickles.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "बेर",
+    "romanization": "ber",
+    "pos": "noun",
+    "definitions": [
+      "Indian jujube"
+    ],
+    "examples": "बेर सानो तर कडा हुन्छ।",
+    "examplesRomanized": "ber sano tara kada hunchha.",
+    "exampleEnglish": "Indian jujube is small but firm.",
+    "frequency": "medium",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "सपोटा",
+    "romanization": "sapota",
+    "pos": "noun",
+    "definitions": [
+      "sapodilla (chikoo)"
+    ],
+    "examples": "सपोटाको छाला खैरो हुन्छ।",
+    "examplesRomanized": "sapotako chhala khairo hunchha.",
+    "exampleEnglish": "Sapodilla has a brown skin.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "जैतून",
+    "romanization": "jaitun",
+    "pos": "noun",
+    "definitions": [
+      "olive"
+    ],
+    "examples": "जैतूनबाट तेल निकालिन्छ।",
+    "examplesRomanized": "jaitunbata tel nikalinchha.",
+    "exampleEnglish": "Oil is extracted from olives.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "क्रैनबेरी",
+    "romanization": "cranberry",
+    "pos": "noun",
+    "definitions": [
+      "cranberry"
+    ],
+    "examples": "क्रैनबेरीबाट रस बनाइन्छ।",
+    "examplesRomanized": "cranberry bata ras banaainchha.",
+    "exampleEnglish": "Juice is made from cranberries.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "करन्ट",
+    "romanization": "currant",
+    "pos": "noun",
+    "definitions": [
+      "currant"
+    ],
+    "examples": "करन्ट साना र खट्टा हुन्छन्।",
+    "examplesRomanized": "currant sana ra khatta hunchhan.",
+    "exampleEnglish": "Currants are small and tart.",
+    "frequency": "low",
+    "category": "fruits"
+  },
+  {
+    "DevanagriWord": "नागफनी",
+    "romanization": "nagphani",
+    "pos": "noun",
+    "definitions": [
+      "prickly pear"
+    ],
+    "examples": "नागफनी क्याक्टसमा फल्छ।",
+    "examplesRomanized": "nagphani cactusma falchha.",
+    "exampleEnglish": "Prickly pears grow on cacti.",
+    "frequency": "low",
+    "category": "fruits"
+  }
+]

@@ -1,0 +1,1614 @@
+[
+  {
+    "DevanagriWord": "औँला",
+    "romanization": "aunla",
+    "pos": "noun",
+    "definitions": [
+      "finger"
+    ],
+    "examples": "उसले औँलामा औँठी लगायो।",
+    "examplesRomanized": "usle aunlama aunthi lagayo.",
+    "exampleEnglish": "They wore a ring on their finger.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "कपाल",
+    "romanization": "kapal",
+    "pos": "noun",
+    "definitions": [
+      "hair (on the head)"
+    ],
+    "examples": "उसको कपाल लामो छ।",
+    "examplesRomanized": "usko kapal lamo chha.",
+    "exampleEnglish": "Her hair is long.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "कान",
+    "romanization": "kan",
+    "pos": "noun",
+    "definitions": [
+      "ear"
+    ],
+    "examples": "उसले कानमा हेडफोन लगायो।",
+    "examplesRomanized": "usle kanma headphone lagayo.",
+    "exampleEnglish": "He put on headphones.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "खुट्टा",
+    "romanization": "khutta",
+    "pos": "noun",
+    "definitions": [
+      "leg or foot"
+    ],
+    "examples": "उसले खुट्टामा जुत्ता लगायो।",
+    "examplesRomanized": "usle khuttama jutta lagayo.",
+    "exampleEnglish": "He wore shoes on his feet.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "छाला",
+    "romanization": "chhala",
+    "pos": "noun",
+    "definitions": [
+      "skin"
+    ],
+    "examples": "उसको छाला सुक्खा छ।",
+    "examplesRomanized": "usko chhala sukkha chha.",
+    "exampleEnglish": "His skin is dry.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "टाउको",
+    "romanization": "tauko",
+    "pos": "noun",
+    "definitions": [
+      "head"
+    ],
+    "examples": "उसले टाउकोमा टोपी लगायो।",
+    "examplesRomanized": "usle taukoma topi lagayo.",
+    "exampleEnglish": "He wore a hat on his head.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "दाँत",
+    "romanization": "daant",
+    "pos": "noun",
+    "definitions": [
+      "tooth; teeth"
+    ],
+    "examples": "उसले दाँत माझ्यो।",
+    "examplesRomanized": "usle daant majhyo.",
+    "exampleEnglish": "He brushed his teeth.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "नङ",
+    "romanization": "nang",
+    "pos": "noun",
+    "definitions": [
+      "nail (fingernail or toenail)"
+    ],
+    "examples": "उसको नङ लामो छ।",
+    "examplesRomanized": "usko nang lamo chha.",
+    "exampleEnglish": "Her nails are long.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "नाक",
+    "romanization": "nak",
+    "pos": "noun",
+    "definitions": [
+      "nose"
+    ],
+    "examples": "म नाकबाट सास फेर्छु।",
+    "examplesRomanized": "ma nakbata saas pherchu.",
+    "exampleEnglish": "I breathe through my nose.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "पेट",
+    "romanization": "pet",
+    "pos": "noun",
+    "definitions": [
+      "stomach; abdomen"
+    ],
+    "examples": "उसले पेटभरि खाना खायो।",
+    "examplesRomanized": "usle petbhari khana khayo.",
+    "exampleEnglish": "He ate to his fill.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "मुख",
+    "romanization": "mukh",
+    "pos": "noun",
+    "definitions": [
+      "mouth"
+    ],
+    "examples": "उसले मुख कुल्ला गर्यो।",
+    "examplesRomanized": "usle mukh kulla garyo.",
+    "exampleEnglish": "He rinsed his mouth.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "हात",
+    "romanization": "haat",
+    "pos": "noun",
+    "definitions": [
+      "hand"
+    ],
+    "examples": "उसले हात धोयो।",
+    "examplesRomanized": "usle haat dhoyo.",
+    "exampleEnglish": "He washed his hands.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "जिब्रो",
+    "romanization": "jibro",
+    "pos": "noun",
+    "definitions": [
+      "tongue"
+    ],
+    "examples": "जिब्रोले स्वाद चिन्छ।",
+    "examplesRomanized": "jibrole swaad chinchha.",
+    "exampleEnglish": "The tongue senses taste.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "घाँटी",
+    "romanization": "ghaati",
+    "pos": "noun",
+    "definitions": [
+      "throat"
+    ],
+    "examples": "घाँटीबाट स्वर निस्कन्छ।",
+    "examplesRomanized": "ghaati bata swar niskanchha.",
+    "exampleEnglish": "Sound comes from the throat.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "काँध",
+    "romanization": "kaandh",
+    "pos": "noun",
+    "definitions": [
+      "shoulder"
+    ],
+    "examples": "उसले काँधमा झोला बोकेको छ।",
+    "examplesRomanized": "usle kaandhama jhola bokeko chha.",
+    "exampleEnglish": "He is carrying a bag on his shoulder.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "कुहिनी",
+    "romanization": "kuhini",
+    "pos": "noun",
+    "definitions": [
+      "elbow"
+    ],
+    "examples": "उसले कुहिनी मोड्यो।",
+    "examplesRomanized": "usle kuhini modyo.",
+    "exampleEnglish": "He bent his elbow.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "छाती",
+    "romanization": "chaati",
+    "pos": "noun",
+    "definitions": [
+      "chest"
+    ],
+    "examples": "उसले छातीमा हात राख्यो।",
+    "examplesRomanized": "usle chaatima haat rakhyo.",
+    "exampleEnglish": "He placed his hand on his chest.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "ढाड",
+    "romanization": "dhaad",
+    "pos": "noun",
+    "definitions": [
+      "back"
+    ],
+    "examples": "उसको ढाड सीधा छ।",
+    "examplesRomanized": "usko dhaad sidha chha.",
+    "exampleEnglish": "His back is straight.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "कमर",
+    "romanization": "kamar",
+    "pos": "noun",
+    "definitions": [
+      "waist"
+    ],
+    "examples": "उसले कमरमा बेल्ट बाँध्यो।",
+    "examplesRomanized": "usle kamarma belt baandhyo.",
+    "exampleEnglish": "He tied a belt around his waist.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "तिघ्रा",
+    "romanization": "tighra",
+    "pos": "noun",
+    "definitions": [
+      "thigh"
+    ],
+    "examples": "उसका तिघ्रा बलिया छन्।",
+    "examplesRomanized": "uska tighra baliya chhan.",
+    "exampleEnglish": "His thighs are strong.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "घुँडा",
+    "romanization": "ghunda",
+    "pos": "noun",
+    "definitions": [
+      "knee"
+    ],
+    "examples": "उसले घुँडा मोड्यो।",
+    "examplesRomanized": "usle ghunda modyo.",
+    "exampleEnglish": "He bent his knee.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "एडी",
+    "romanization": "edi",
+    "pos": "noun",
+    "definitions": [
+      "heel"
+    ],
+    "examples": "उसको एडी दुखेको छ।",
+    "examplesRomanized": "usko edi dukhako chha.",
+    "exampleEnglish": "Their heel hurts.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "कुर्कुच्चा",
+    "romanization": "kurkuchcha",
+    "pos": "noun",
+    "definitions": [
+      "ankle"
+    ],
+    "examples": "कुर्कुच्चामा मोच आयो।",
+    "examplesRomanized": "kurkuchchama moch ayo.",
+    "exampleEnglish": "He sprained his ankle.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "हड्डी",
+    "romanization": "haddi",
+    "pos": "noun",
+    "definitions": [
+      "bone"
+    ],
+    "examples": "हड्डी कडा हुन्छ।",
+    "examplesRomanized": "haddi kada hunchha.",
+    "exampleEnglish": "Bones are hard.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "रगत",
+    "romanization": "ragat",
+    "pos": "noun",
+    "definitions": [
+      "blood"
+    ],
+    "examples": "रगत रातो हुन्छ।",
+    "examplesRomanized": "ragat rato hunchha.",
+    "exampleEnglish": "Blood is red.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "मुटु",
+    "romanization": "mutu",
+    "pos": "noun",
+    "definitions": [
+      "heart"
+    ],
+    "examples": "मुटुले रगत पम्प गर्छ।",
+    "examplesRomanized": "mutule ragat pump garchha.",
+    "exampleEnglish": "The heart pumps blood.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "मस्तिष्क",
+    "romanization": "mastishk",
+    "pos": "noun",
+    "definitions": [
+      "brain"
+    ],
+    "examples": "मस्तिष्कले शरीर नियन्त्रण गर्छ।",
+    "examplesRomanized": "mastishkle sharir niyantran garchha.",
+    "exampleEnglish": "The brain controls the body.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "फोक्सो",
+    "romanization": "phokso",
+    "pos": "noun",
+    "definitions": [
+      "lungs"
+    ],
+    "examples": "फोक्सोले अक्सिजन लिन्छ।",
+    "examplesRomanized": "phoksole oksijan linchha.",
+    "exampleEnglish": "The lungs take in oxygen.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "कलेजो",
+    "romanization": "kalejo",
+    "pos": "noun",
+    "definitions": [
+      "liver"
+    ],
+    "examples": "कलेजोले रगत शुद्ध गर्छ।",
+    "examplesRomanized": "kalejole ragat shuddha garchha.",
+    "exampleEnglish": "The liver purifies blood.",
+    "frequency": "high",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "आँखा",
+    "romanization": "aankha",
+    "pos": "noun",
+    "definitions": [
+      "eye"
+    ],
+    "examples": "उसका आँखा ठूला छन्।",
+    "examplesRomanized": "uska aankha thula chhan.",
+    "exampleEnglish": "His eyes are big.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "ओंठ",
+    "romanization": "onth",
+    "pos": "noun",
+    "definitions": [
+      "lip"
+    ],
+    "examples": "उसका ओंठ सुख्खा छन्।",
+    "examplesRomanized": "uska onth sukkha chhan.",
+    "exampleEnglish": "His lips are dry.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "गाला",
+    "romanization": "gala",
+    "pos": "noun",
+    "definitions": [
+      "cheek"
+    ],
+    "examples": "लाजले उसका गाला रातो भए।",
+    "examplesRomanized": "lajle uska gala rato bhae.",
+    "exampleEnglish": "His cheeks turned red with shyness.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "ठुड्डी",
+    "romanization": "thuddi",
+    "pos": "noun",
+    "definitions": [
+      "chin"
+    ],
+    "examples": "उसको ठुड्डीमा डिम्पल छ।",
+    "examplesRomanized": "usko thuddima dimple chha.",
+    "exampleEnglish": "He has a dimple on his chin.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "निधार",
+    "romanization": "nidhar",
+    "pos": "noun",
+    "definitions": [
+      "forehead"
+    ],
+    "examples": "उनको निधारमा पसिना आयो।",
+    "examplesRomanized": "unko nidharma pasina ayo.",
+    "exampleEnglish": "Sweat appeared on his forehead.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "आँखीभौं",
+    "romanization": "aankhibhaun",
+    "pos": "noun",
+    "definitions": [
+      "eyebrow"
+    ],
+    "examples": "उसले आँखीभौं उचाल्यो।",
+    "examplesRomanized": "usle aankhibhaun uchalyo.",
+    "exampleEnglish": "He raised his eyebrows.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "बरौनी",
+    "romanization": "barouni",
+    "pos": "noun",
+    "definitions": [
+      "eyelashes"
+    ],
+    "examples": "लामो बरौनी सुन्दर देखिन्छ।",
+    "examplesRomanized": "lamo barouni sundar dekhinchha.",
+    "exampleEnglish": "Long eyelashes look beautiful.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "पाप्रो",
+    "romanization": "papro",
+    "pos": "noun",
+    "definitions": [
+      "eyelid"
+    ],
+    "examples": "निदाउँदा पाप्रो आफैँ बन्द हुन्छ।",
+    "examplesRomanized": "nidauda papro aafai banda hunchha.",
+    "exampleEnglish": "When we get sleepy, eyelids close on their own.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "गर्दन",
+    "romanization": "gardan",
+    "pos": "noun",
+    "definitions": [
+      "neck (front)"
+    ],
+    "examples": "उसको गर्दनमा मालाले सजायो।",
+    "examplesRomanized": "usko gardanma malale sajayo.",
+    "exampleEnglish": "A garland adorned his neck.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "नितम्ब",
+    "romanization": "nitamb",
+    "pos": "noun",
+    "definitions": [
+      "buttocks"
+    ],
+    "examples": "लामो बसाइले नितम्ब दुख्यो।",
+    "examplesRomanized": "lamo basaaile nitamb dukhyo.",
+    "exampleEnglish": "Long sitting made the buttocks sore.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "कूल्हा",
+    "romanization": "kulha",
+    "pos": "noun",
+    "definitions": [
+      "hip"
+    ],
+    "examples": "उसको कूल्हामा चोट लाग्यो।",
+    "examplesRomanized": "usko kulhama chot lagyo.",
+    "exampleEnglish": "He injured his hip.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "रीढ",
+    "romanization": "ridh",
+    "pos": "noun",
+    "definitions": [
+      "spine; backbone"
+    ],
+    "examples": "सीधो बस्दा रीढलाई फाइदा हुन्छ।",
+    "examplesRomanized": "sidho basda ridhlai faida hunchha.",
+    "exampleEnglish": "Sitting straight benefits the spine.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "पसली",
+    "romanization": "pasali",
+    "pos": "noun",
+    "definitions": [
+      "rib"
+    ],
+    "examples": "उसको पसली भाँचियो।",
+    "examplesRomanized": "usko pasali bhancheyo.",
+    "exampleEnglish": "His rib fractured.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "पिँजर",
+    "romanization": "pinjar",
+    "pos": "noun",
+    "definitions": [
+      "ribcage"
+    ],
+    "examples": "पिँजरले फोक्सोलाई जोगाउँछ।",
+    "examplesRomanized": "pinjarle phoksolai jogaunchha.",
+    "exampleEnglish": "The ribcage protects the lungs.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "मांसपेशी",
+    "romanization": "manspesi",
+    "pos": "noun",
+    "definitions": [
+      "muscle"
+    ],
+    "examples": "कसरतले मांसपेशी बलिया हुन्छन्।",
+    "examplesRomanized": "kasaratle manspesi baliya hunchhan.",
+    "exampleEnglish": "Exercise strengthens muscles.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "नस",
+    "romanization": "nas",
+    "pos": "noun",
+    "definitions": [
+      "vein"
+    ],
+    "examples": "हातका नसहरू स्पष्ट देखिन्छन्।",
+    "examplesRomanized": "hatka nasharu spashta dekhinchhan.",
+    "exampleEnglish": "The veins on the hand are visible.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "धमनी",
+    "romanization": "dhamani",
+    "pos": "noun",
+    "definitions": [
+      "artery"
+    ],
+    "examples": "धमनीले अक्सिजनयुक्त रगत बोक्छ।",
+    "examplesRomanized": "dhamanile oksijanyukta ragat bokchha.",
+    "exampleEnglish": "Arteries carry oxygenated blood.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "मिर्गौला",
+    "romanization": "mirgaula",
+    "pos": "noun",
+    "definitions": [
+      "kidney"
+    ],
+    "examples": "मिर्गौलाले रगत छान्छ।",
+    "examplesRomanized": "mirgaulale ragat chhanchha.",
+    "exampleEnglish": "The kidney filters blood.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "आमाशय",
+    "romanization": "aamashay",
+    "pos": "noun",
+    "definitions": [
+      "stomach (organ)"
+    ],
+    "examples": "आमाशयले खाना पचाउन मद्दत गर्छ।",
+    "examplesRomanized": "aamashayle khana pachaauna maddat garchha.",
+    "exampleEnglish": "The stomach helps digest food.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "आन्द्रा",
+    "romanization": "aandra",
+    "pos": "noun",
+    "definitions": [
+      "intestines"
+    ],
+    "examples": "आन्द्राले पोषक तत्व सोस्छ।",
+    "examplesRomanized": "aandrale poshak tatwa soschha.",
+    "exampleEnglish": "The intestines absorb nutrients.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "प्लीहा",
+    "romanization": "pliha",
+    "pos": "noun",
+    "definitions": [
+      "spleen"
+    ],
+    "examples": "प्लिहाले रगतको शुद्धिकरणमा मद्दत गर्छ।",
+    "examplesRomanized": "plihale ragatko shuddhikaranma maddat garchha.",
+    "exampleEnglish": "The spleen helps purify blood.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "अग्नाशय",
+    "romanization": "agnashay",
+    "pos": "noun",
+    "definitions": [
+      "pancreas"
+    ],
+    "examples": "अग्नाशयले इन्सुलिन उत्पादन गर्छ।",
+    "examplesRomanized": "agnashayle insulin utpadan garchha.",
+    "exampleEnglish": "The pancreas produces insulin.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "मूत्राशय",
+    "romanization": "mutrashaya",
+    "pos": "noun",
+    "definitions": [
+      "urinary bladder"
+    ],
+    "examples": "मूत्राशयमा मूत्र सङ्ग्रह हुन्छ।",
+    "examplesRomanized": "mutrashayama mutra sangrah hunchha.",
+    "exampleEnglish": "Urine is stored in the bladder.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "स्वरयन्त्र",
+    "romanization": "swarayantra",
+    "pos": "noun",
+    "definitions": [
+      "larynx; voice box"
+    ],
+    "examples": "स्वरयन्त्रबाट आवाज निस्कन्छ।",
+    "examplesRomanized": "swarayantrabata awaj niskanchha.",
+    "exampleEnglish": "Voice comes from the larynx.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "श्वासनली",
+    "romanization": "shwasanali",
+    "pos": "noun",
+    "definitions": [
+      "trachea; windpipe"
+    ],
+    "examples": "श्वासनलीबाट फोक्सोमा हावा पुग्छ।",
+    "examplesRomanized": "shwasanalibata phoksoma hawa pugchha.",
+    "exampleEnglish": "Air reaches the lungs through the trachea.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "कपालको छाला",
+    "romanization": "kapalko chhala",
+    "pos": "noun",
+    "definitions": [
+      "scalp"
+    ],
+    "examples": "कपालको छालामा चिलाउन सक्छ।",
+    "examplesRomanized": "kapalko chhalama chilauna sakchha.",
+    "exampleEnglish": "The scalp can get itchy.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "खोपडी",
+    "romanization": "khopadi",
+    "pos": "noun",
+    "definitions": [
+      "skull"
+    ],
+    "examples": "खोपडीले मस्तिष्क जोगाउँछ।",
+    "examplesRomanized": "khopadile mastishk jogaunchha.",
+    "exampleEnglish": "The skull protects the brain.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "तालु",
+    "romanization": "talu",
+    "pos": "noun",
+    "definitions": [
+      "palate"
+    ],
+    "examples": "तालुमा जिब्रो टेकेर ध्वनि बन्छ।",
+    "examplesRomanized": "taluma jibro teker dhwani banchha.",
+    "exampleEnglish": "Sounds form by touching the tongue to the palate.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "मसूडा",
+    "romanization": "masuda",
+    "pos": "noun",
+    "definitions": [
+      "gums (of the teeth)"
+    ],
+    "examples": "मसूडा दुखेकोले उसले डेन्टिस्ट देखायो।",
+    "examplesRomanized": "masuda dukhekole usle dentist dekhayo.",
+    "exampleEnglish": "He visited a dentist because his gums hurt.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "जिब्रोको टुप्पो",
+    "romanization": "jibroko tuppo",
+    "pos": "noun",
+    "definitions": [
+      "tip of the tongue"
+    ],
+    "examples": "जिब्रोको टुप्पोले अक्षर छुन सक्छ।",
+    "examplesRomanized": "jibroko tuppole akshar chhun sakchha.",
+    "exampleEnglish": "The tip of the tongue can touch letters (points).",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "नाकको प्वाल",
+    "romanization": "nakko pwal",
+    "pos": "noun",
+    "definitions": [
+      "nostril"
+    ],
+    "examples": "नाकको प्वालबाट सास आउँछ।",
+    "examplesRomanized": "nakko pwalbata saas aauchha.",
+    "exampleEnglish": "Breath comes through the nostrils.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "नाभी",
+    "romanization": "nabhi",
+    "pos": "noun",
+    "definitions": [
+      "navel; belly button"
+    ],
+    "examples": "नाभी पेटको बीचमा हुन्छ।",
+    "examplesRomanized": "nabhi petko bichma hunchha.",
+    "exampleEnglish": "The navel lies in the middle of the belly.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "पाखुरा",
+    "romanization": "pakhura",
+    "pos": "noun",
+    "definitions": [
+      "forearm"
+    ],
+    "examples": "उसको पाखुरा बलिया छन्।",
+    "examplesRomanized": "usko pakhura baliya chhan.",
+    "exampleEnglish": "His forearms are strong.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "बाहु",
+    "romanization": "bahu",
+    "pos": "noun",
+    "definitions": [
+      "upper arm"
+    ],
+    "examples": "उसको बाहुमा निलो चोट लाग्यो।",
+    "examplesRomanized": "usko bahuma nilo chot lagyo.",
+    "exampleEnglish": "He got a bruise on his upper arm.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "नाडी",
+    "romanization": "nadi",
+    "pos": "noun",
+    "definitions": [
+      "wrist; pulse"
+    ],
+    "examples": "डाक्टरले नाडी छामे।",
+    "examplesRomanized": "daktarle nadi chhame.",
+    "exampleEnglish": "The doctor felt the pulse.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "हतेली",
+    "romanization": "hatheli",
+    "pos": "noun",
+    "definitions": [
+      "palm (of the hand)"
+    ],
+    "examples": "हतेलीमा पसिना आएको छ।",
+    "examplesRomanized": "hathelima pasina aayeko chha.",
+    "exampleEnglish": "There is sweat on the palm.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "औँठी औँला",
+    "romanization": "aunthi aunla",
+    "pos": "noun",
+    "definitions": [
+      "ring finger"
+    ],
+    "examples": "औँठी औँलामा औँठी लगाइयो।",
+    "examplesRomanized": "aunthi aunlama aunthi lagaiyo.",
+    "exampleEnglish": "A ring was worn on the ring finger.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "बुढी औँला",
+    "romanization": "budhi aunla",
+    "pos": "noun",
+    "definitions": [
+      "thumb"
+    ],
+    "examples": "बुढी औँलाले बटन थिच्यो।",
+    "examplesRomanized": "budhi aunlale button thichyo.",
+    "exampleEnglish": "The thumb pressed the button.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "सानो औँला",
+    "romanization": "sano aunla",
+    "pos": "noun",
+    "definitions": [
+      "little finger"
+    ],
+    "examples": "सानो औँलामा चोट लाग्यो।",
+    "examplesRomanized": "sano aunlama chot lagyo.",
+    "exampleEnglish": "The little finger got injured.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "पाउको औँला",
+    "romanization": "paunko aunla",
+    "pos": "noun",
+    "definitions": [
+      "toe"
+    ],
+    "examples": "पाउको औँलामा जुत्ताले घर्षण गर्‍यो।",
+    "examplesRomanized": "paunko aunlama juttale gharshan garyo.",
+    "exampleEnglish": "The shoe caused friction on the toe.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "तलुवा",
+    "romanization": "taluwa",
+    "pos": "noun",
+    "definitions": [
+      "sole (of the foot)"
+    ],
+    "examples": "तलुवामा कडा छाला बसेको छ।",
+    "examplesRomanized": "taluwama kada chhala baseko chha.",
+    "exampleEnglish": "There is callus on the sole.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "पिँडुलो",
+    "romanization": "pindulo",
+    "pos": "noun",
+    "definitions": [
+      "calf (of the leg)"
+    ],
+    "examples": "दौडँदा पिँडुलो तन्किन्छ।",
+    "examplesRomanized": "daudanda pindulo tankinchha.",
+    "exampleEnglish": "The calf stretches while running.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "हृदय",
+    "romanization": "hriday",
+    "pos": "noun",
+    "definitions": [
+      "heart (formal)"
+    ],
+    "examples": "हृदयले रगत पम्प गर्छ।",
+    "examplesRomanized": "hridayle ragat pump garchha.",
+    "exampleEnglish": "The heart pumps blood.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "यकृत",
+    "romanization": "yakrit",
+    "pos": "noun",
+    "definitions": [
+      "liver (formal)"
+    ],
+    "examples": "यकृतले विषाक्त पदार्थ फिल्टर गर्छ।",
+    "examplesRomanized": "yakritle visakta padartha filter garchha.",
+    "exampleEnglish": "The liver filters toxins.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "फुफ्फुस",
+    "romanization": "phuphus",
+    "pos": "noun",
+    "definitions": [
+      "lungs (formal)"
+    ],
+    "examples": "फुफ्फुसले अक्सिजन लिन्छ र कार्बन डाइअक्साइड निकाल्छ।",
+    "examplesRomanized": "phuphusle oksijan linchha ra karbon daiaoksid nikalchha.",
+    "exampleEnglish": "The lungs take in oxygen and expel carbon dioxide.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "मूत्रनली",
+    "romanization": "mutranali",
+    "pos": "noun",
+    "definitions": [
+      "urethra"
+    ],
+    "examples": "मूत्रनलीबाट मूत्र बाहिरिन्छ।",
+    "examplesRomanized": "mutranalibata mutra bahirinchha.",
+    "exampleEnglish": "Urine exits through the urethra.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "ग्रसनी",
+    "romanization": "grasani",
+    "pos": "noun",
+    "definitions": [
+      "esophagus"
+    ],
+    "examples": "ग्रसनिबाट खाना पेटमा जान्छ।",
+    "examplesRomanized": "grasanibata khana petma janchha.",
+    "exampleEnglish": "Food passes to the stomach via the esophagus.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "गुदा",
+    "romanization": "guda",
+    "pos": "noun",
+    "definitions": [
+      "anus"
+    ],
+    "examples": "गुदाबाट मल बाहिरिन्छ।",
+    "examplesRomanized": "gudabata mal bahirinchha.",
+    "exampleEnglish": "Feces exit through the anus.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "मलाशय",
+    "romanization": "malashay",
+    "pos": "noun",
+    "definitions": [
+      "rectum"
+    ],
+    "examples": "मलाशयमा मल केही समयका लागि सङ्ग्रह हुन्छ।",
+    "examplesRomanized": "malashayama mal kehi samayka lagi sangrah hunchha.",
+    "exampleEnglish": "The rectum stores feces temporarily.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "अण्डकोष",
+    "romanization": "andkosh",
+    "pos": "noun",
+    "definitions": [
+      "testicle"
+    ],
+    "examples": "अण्डकोषले शुक्राणु उत्पादन गर्छ।",
+    "examplesRomanized": "andkoshle shukranu utpadan garchha.",
+    "exampleEnglish": "The testicles produce sperm.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "अण्डथैली",
+    "romanization": "andthaili",
+    "pos": "noun",
+    "definitions": [
+      "scrotum"
+    ],
+    "examples": "अण्डथैली अण्डकोषलाई ढाक्छ।",
+    "examplesRomanized": "andthaili andkosh lai dhakchha.",
+    "exampleEnglish": "The scrotum covers the testicles.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "गर्भाशय",
+    "romanization": "garbhashay",
+    "pos": "noun",
+    "definitions": [
+      "uterus"
+    ],
+    "examples": "गर्भाशयमा गर्भ विकास हुन्छ।",
+    "examplesRomanized": "garbhashayama garbh vikas hunchha.",
+    "exampleEnglish": "A fetus develops in the uterus.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "डिम्बाशय",
+    "romanization": "dimbashay",
+    "pos": "noun",
+    "definitions": [
+      "ovary"
+    ],
+    "examples": "डिम्बाशयले डिम्ब उत्पादन गर्छ।",
+    "examplesRomanized": "dimbashayle dimb utpadan garchha.",
+    "exampleEnglish": "The ovary produces ova (eggs).",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "फेलोपियन नली",
+    "romanization": "felopian nali",
+    "pos": "noun",
+    "definitions": [
+      "fallopian tube"
+    ],
+    "examples": "फेलोपियन नलीमा निषेचन हुन सक्छ।",
+    "examplesRomanized": "felopian nalima nishedan hun sakchha.",
+    "exampleEnglish": "Fertilization can occur in the fallopian tube.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "गर्भाशयमुख",
+    "romanization": "garbhashaymukh",
+    "pos": "noun",
+    "definitions": [
+      "cervix"
+    ],
+    "examples": "गर्भाशयमुख प्रसवमा विस्तार हुन्छ।",
+    "examplesRomanized": "garbhashaymukh prasavma vistar hunchha.",
+    "exampleEnglish": "The cervix dilates during childbirth.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "स्तन",
+    "romanization": "stan",
+    "pos": "noun",
+    "definitions": [
+      "breast"
+    ],
+    "examples": "स्तन शिशुलाई दूध खुवाउन प्रयोग हुन्छ।",
+    "examplesRomanized": "stan shishulai dudh khuwauna prayog hunchha.",
+    "exampleEnglish": "Breasts are used to feed milk to infants.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "निप्पल",
+    "romanization": "nipple",
+    "pos": "noun",
+    "definitions": [
+      "nipple"
+    ],
+    "examples": "निप्पल स्तनको अग्र भाग हो।",
+    "examplesRomanized": "nipple stan ko agra bhag ho.",
+    "exampleEnglish": "The nipple is the front part of the breast.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "नाभिनाल",
+    "romanization": "nabhinal",
+    "pos": "noun",
+    "definitions": [
+      "umbilical cord"
+    ],
+    "examples": "नाभिनालले शिशुलाई आमा सँग जोड्छ।",
+    "examplesRomanized": "nabhinalle shishulai ama sanga jodchha.",
+    "exampleEnglish": "The umbilical cord connects the baby to the mother.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "मेरुदण्ड",
+    "romanization": "merudand",
+    "pos": "noun",
+    "definitions": [
+      "spine; vertebral column"
+    ],
+    "examples": "मेरुदण्ड सीधा राख्नुस्।",
+    "examplesRomanized": "merudand sidha rakhnus.",
+    "exampleEnglish": "Keep the spine straight.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "करङ",
+    "romanization": "karang",
+    "pos": "noun",
+    "definitions": [
+      "rib"
+    ],
+    "examples": "करङ छातीलाई जोगाउँछ।",
+    "examplesRomanized": "karang chaatilai jogaunchha.",
+    "exampleEnglish": "Ribs protect the chest.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "कलाई",
+    "romanization": "kalai",
+    "pos": "noun",
+    "definitions": [
+      "wrist"
+    ],
+    "examples": "उसको कलाई मर्कियो।",
+    "examplesRomanized": "usko kalai markiyo.",
+    "exampleEnglish": "They sprained their wrist.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "घुँडाको टोपी",
+    "romanization": "ghundako topi",
+    "pos": "noun",
+    "definitions": [
+      "kneecap; patella"
+    ],
+    "examples": "घुँडाको टोपीमा चोट लाग्यो।",
+    "examplesRomanized": "ghundako topima chot lagyo.",
+    "exampleEnglish": "The kneecap was injured.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "कर्णपल्लव",
+    "romanization": "karnapallav",
+    "pos": "noun",
+    "definitions": [
+      "earlobe"
+    ],
+    "examples": "कर्णपल्लवमा औँठी लगाइन्।",
+    "examplesRomanized": "karnapallavma aunthi lagain.",
+    "exampleEnglish": "She wore an earring on the earlobe.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "कर्ण नली",
+    "romanization": "karn nali",
+    "pos": "noun",
+    "definitions": [
+      "ear canal"
+    ],
+    "examples": "कर्ण नली सफा गर्न सावधानी अपनाउनुस्।",
+    "examplesRomanized": "karn nali safa garna savdhani apnaunus.",
+    "exampleEnglish": "Be careful when cleaning the ear canal.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "कर्णपटल",
+    "romanization": "karnapatal",
+    "pos": "noun",
+    "definitions": [
+      "eardrum"
+    ],
+    "examples": "तेज आवाजले कर्णपटलमा असर पर्न सक्छ।",
+    "examplesRomanized": "tej awajle karnapatalma asar parna sakchha.",
+    "exampleEnglish": "Loud sounds can affect the eardrum.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "जबडा",
+    "romanization": "jabada",
+    "pos": "noun",
+    "definitions": [
+      "jaw"
+    ],
+    "examples": "जबडामा दुखाइ भयो।",
+    "examplesRomanized": "jabadama dukhai bhayo.",
+    "exampleEnglish": "There was pain in the jaw.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "माथिल्लो ओंठ",
+    "romanization": "mathillo onth",
+    "pos": "noun",
+    "definitions": [
+      "upper lip"
+    ],
+    "examples": "माथिल्लो ओंठ सुक्खा छ।",
+    "examplesRomanized": "mathillo onth sukkha chha.",
+    "exampleEnglish": "The upper lip is dry.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "तल्लो ओंठ",
+    "romanization": "tallo onth",
+    "pos": "noun",
+    "definitions": [
+      "lower lip"
+    ],
+    "examples": "तल्लो ओंठमा चोट लाग्यो।",
+    "examplesRomanized": "tallo onthma chot lagyo.",
+    "exampleEnglish": "The lower lip was injured.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "कंकाल",
+    "romanization": "kankal",
+    "pos": "noun",
+    "definitions": [
+      "skeleton"
+    ],
+    "examples": "कंकालले शरीरलाई ढाँचा दिन्छ।",
+    "examplesRomanized": "kankalle sharirlai dacha dinchha.",
+    "exampleEnglish": "The skeleton gives the body its framework.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "चर्म",
+    "romanization": "charm",
+    "pos": "noun",
+    "definitions": [
+      "skin (formal)"
+    ],
+    "examples": "चर्म शरीरको बाहिरी आवरण हो।",
+    "examplesRomanized": "charm sharirko bahiri awaran ho.",
+    "exampleEnglish": "Skin is the body's outer covering.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "स्नायु",
+    "romanization": "snayu",
+    "pos": "noun",
+    "definitions": [
+      "nerve"
+    ],
+    "examples": "स्नायुले संकेत सार्छ।",
+    "examplesRomanized": "snayule sanket sarchha.",
+    "exampleEnglish": "Nerves transmit signals.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "उपास्थि",
+    "romanization": "upasthi",
+    "pos": "noun",
+    "definitions": [
+      "cartilage"
+    ],
+    "examples": "नाकमा उपास्थि हुन्छ।",
+    "examplesRomanized": "nakma upasthi hunchha.",
+    "exampleEnglish": "There is cartilage in the nose.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "कण्डरा",
+    "romanization": "kandara",
+    "pos": "noun",
+    "definitions": [
+      "tendon"
+    ],
+    "examples": "कण्डरा मांसपेशीलाई हड्डीसँग जोड्छ।",
+    "examplesRomanized": "kandarale manspesilai haddisang jodchha.",
+    "exampleEnglish": "Tendons connect muscles to bones.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "अस्थि",
+    "romanization": "asthi",
+    "pos": "noun",
+    "definitions": [
+      "bone (formal)"
+    ],
+    "examples": "अस्थि कडा संरचना हो।",
+    "examplesRomanized": "asthi kada sanrachana ho.",
+    "exampleEnglish": "Bone is a hard structure.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "अस्थिमज्जा",
+    "romanization": "asthimajja",
+    "pos": "noun",
+    "definitions": [
+      "bone marrow"
+    ],
+    "examples": "अस्थिमज्जाले रक्तकोशिका बनाउँछ।",
+    "examplesRomanized": "asthimajjale raktakoshika banaunchha.",
+    "exampleEnglish": "Bone marrow produces blood cells.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "कोशिका",
+    "romanization": "koshika",
+    "pos": "noun",
+    "definitions": [
+      "cell"
+    ],
+    "examples": "शरीर कोशिकाबाट बनेको छ।",
+    "examplesRomanized": "sharir koshikabata baneko chha.",
+    "exampleEnglish": "The body is made of cells.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "रक्तनली",
+    "romanization": "raktanali",
+    "pos": "noun",
+    "definitions": [
+      "blood vessel"
+    ],
+    "examples": "रक्तनलीमार्फत रगत बग्छ।",
+    "examplesRomanized": "raktanalimarfat ragat bagchha.",
+    "exampleEnglish": "Blood flows through blood vessels.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "केश",
+    "romanization": "kesh",
+    "pos": "noun",
+    "definitions": [
+      "hair (formal)"
+    ],
+    "examples": "उनका केश घना छन्।",
+    "examplesRomanized": "unka kesh ghana chhan.",
+    "exampleEnglish": "Her hair is thick.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "रोमछिद्र",
+    "romanization": "romchhidr",
+    "pos": "noun",
+    "definitions": [
+      "pore (skin)"
+    ],
+    "examples": "रोमछिद्र बन्द हुँदा दाना आउँछन्।",
+    "examplesRomanized": "romchhidr banda huda dana aauchhan.",
+    "exampleEnglish": "Acne appears when pores get clogged.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "थाइराइड ग्रन्थि",
+    "romanization": "thyroid granthi",
+    "pos": "noun",
+    "definitions": [
+      "thyroid gland"
+    ],
+    "examples": "थाइराइड ग्रन्थिले हर्मोन बनाउँछ।",
+    "examplesRomanized": "thyroid granthile harmon banaunchha.",
+    "exampleEnglish": "The thyroid gland produces hormones.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "पिट्युटरी ग्रन्थि",
+    "romanization": "pituitary granthi",
+    "pos": "noun",
+    "definitions": [
+      "pituitary gland"
+    ],
+    "examples": "पिट्युटरी ग्रन्थि ‘मास्टर ग्रन्थि’ भनिन्छ।",
+    "examplesRomanized": "pituitary granthi 'master granthi' bhaninchha.",
+    "exampleEnglish": "The pituitary gland is called the master gland.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "अधिवृक्क ग्रन्थि",
+    "romanization": "adhivrikk granthi",
+    "pos": "noun",
+    "definitions": [
+      "adrenal gland"
+    ],
+    "examples": "अधिवृक्क ग्रन्थिले एड्रिनालिन स्राव गर्छ।",
+    "examplesRomanized": "adhivrikk granthile adrenalin srav garchha.",
+    "exampleEnglish": "The adrenal glands secrete adrenaline.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "लालाग्रन्थि",
+    "romanization": "lalagranthi",
+    "pos": "noun",
+    "definitions": [
+      "salivary gland"
+    ],
+    "examples": "लालाग्रन्थिले लाला बनाउँछ।",
+    "examplesRomanized": "lalagranthile lala banaunchha.",
+    "exampleEnglish": "Salivary glands produce saliva.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "लाला",
+    "romanization": "lala",
+    "pos": "noun",
+    "definitions": [
+      "saliva"
+    ],
+    "examples": "लाला पाचनको सुरुआत गर्छ।",
+    "examplesRomanized": "lala pachanko suruat garchha.",
+    "exampleEnglish": "Saliva initiates digestion.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "रक्त",
+    "romanization": "rakta",
+    "pos": "noun",
+    "definitions": [
+      "blood (formal)"
+    ],
+    "examples": "रक्त जीवनदायी द्रव हो।",
+    "examplesRomanized": "rakta jivandayi drav ho.",
+    "exampleEnglish": "Blood is a life-giving fluid.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "पित्ताशय",
+    "romanization": "pittashay",
+    "pos": "noun",
+    "definitions": [
+      "gallbladder"
+    ],
+    "examples": "पित्ताशयले पित्त सङ्ग्रह गर्छ।",
+    "examplesRomanized": "pittashayale pitt sangrah garchha.",
+    "exampleEnglish": "The gallbladder stores bile.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "पित्त नली",
+    "romanization": "pitt nali",
+    "pos": "noun",
+    "definitions": [
+      "bile duct"
+    ],
+    "examples": "पित्त नलीमार्फत पित्त आन्द्रामा जान्छ।",
+    "examplesRomanized": "pitt nalimarfat pitt aandrama janchha.",
+    "exampleEnglish": "Bile reaches the intestine via the bile duct.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "अन्ननली",
+    "romanization": "annanali",
+    "pos": "noun",
+    "definitions": [
+      "esophagus"
+    ],
+    "examples": "अन्ननलीबाट खाना तल सर्छ।",
+    "examplesRomanized": "annanalibata khana tala sarchha.",
+    "exampleEnglish": "Food moves down through the esophagus.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "श्रोणी",
+    "romanization": "shroni",
+    "pos": "noun",
+    "definitions": [
+      "pelvis"
+    ],
+    "examples": "श्रोणीले शरीरको तौल बोक्छ।",
+    "examplesRomanized": "shronile sharirko taul bokchha.",
+    "exampleEnglish": "The pelvis bears the body's weight.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "जङ्घा",
+    "romanization": "janggha",
+    "pos": "noun",
+    "definitions": [
+      "thigh (formal)"
+    ],
+    "examples": "जङ्घामा मांसपेशी बलिया हुन्छन्।",
+    "examplesRomanized": "jangghama manspesi baliya hunchhan.",
+    "exampleEnglish": "Thigh muscles are strong.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "टखना",
+    "romanization": "takhana",
+    "pos": "noun",
+    "definitions": [
+      "ankle"
+    ],
+    "examples": "टखनामा हल्का सूजन आयो।",
+    "examplesRomanized": "takhanama halka sujan ayo.",
+    "exampleEnglish": "There was mild swelling at the ankle.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "धड्कन",
+    "romanization": "dhadkan",
+    "pos": "noun",
+    "definitions": [
+      "heartbeat; pulse"
+    ],
+    "examples": "उत्साहमा धड्कन बढ्छ।",
+    "examplesRomanized": "utsahma dhadkan badchha.",
+    "exampleEnglish": "Heartbeat increases with excitement.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "पीठ",
+    "romanization": "pith",
+    "pos": "noun",
+    "definitions": [
+      "back (formal)"
+    ],
+    "examples": "पीठ सीधा राख्दा आराम लाग्छ।",
+    "examplesRomanized": "pith sidha rakhda aram lagchha.",
+    "exampleEnglish": "Keeping the back straight feels comfortable.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "गालाको हड्डी",
+    "romanization": "galako haddi",
+    "pos": "noun",
+    "definitions": [
+      "cheekbone"
+    ],
+    "examples": "गालाको हड्डी स्पष्ट देखिन्छ।",
+    "examplesRomanized": "galako haddi spashta dekhinchha.",
+    "exampleEnglish": "The cheekbone is prominent.",
+    "frequency": "low",
+    "category": "body"
+  },
+  {
+    "DevanagriWord": "घाँटीको स्याउ",
+    "romanization": "ghatiko syau",
+    "pos": "noun",
+    "definitions": [
+      "Adam's apple"
+    ],
+    "examples": "पुरुषमा घाँटीको स्याउ बढी देखिन्छ।",
+    "examplesRomanized": "purushma ghatiko syau badhi dekhinchha.",
+    "exampleEnglish": "The Adam's apple is more visible in men.",
+    "frequency": "low",
+    "category": "body"
+  }
+]

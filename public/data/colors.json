@@ -1,0 +1,574 @@
+[
+  {
+    "DevanagriWord": "कालो",
+    "romanization": "kalo",
+    "pos": "adjective",
+    "definitions": [
+      "black"
+    ],
+    "examples": "यो घरको ढोका कालो छ।",
+    "examplesRomanized": "yo gharko dhoka kalo chha.",
+    "exampleEnglish": "The door of this house is black.",
+    "frequency": "high",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "खैरो",
+    "romanization": "khairo",
+    "pos": "adjective",
+    "definitions": [
+      "brown"
+    ],
+    "examples": "उसको कोट खैरो छ।",
+    "examplesRomanized": "usko kot khairo chha.",
+    "exampleEnglish": "His coat is brown.",
+    "frequency": "high",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "निलो",
+    "romanization": "nilo",
+    "pos": "adjective",
+    "definitions": [
+      "blue"
+    ],
+    "examples": "आज आकाश निलो छ।",
+    "examplesRomanized": "aaj aakash nilo chha.",
+    "exampleEnglish": "The sky is blue today.",
+    "frequency": "high",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "पहेंलो",
+    "romanization": "pahenlo",
+    "pos": "adjective",
+    "definitions": [
+      "yellow"
+    ],
+    "examples": "घाम पहेंलो हुन्छ।",
+    "examplesRomanized": "gham pahenlo hunchha.",
+    "exampleEnglish": "The sun is yellow.",
+    "frequency": "high",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "बैजनी",
+    "romanization": "baijani",
+    "pos": "adjective",
+    "definitions": [
+      "purple"
+    ],
+    "examples": "उसले बैजनी स्वेटर लगायो।",
+    "examplesRomanized": "usle baijani sweater lagayo.",
+    "exampleEnglish": "They wore a purple sweater.",
+    "frequency": "high",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "रातो",
+    "romanization": "rato",
+    "pos": "adjective",
+    "definitions": [
+      "red"
+    ],
+    "examples": "उसले रातो सर्ट लगायो।",
+    "examplesRomanized": "usle rato sart lagayo.",
+    "exampleEnglish": "They wore a red shirt.",
+    "frequency": "high",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "सुन्तला",
+    "romanization": "suntala",
+    "pos": "adjective",
+    "definitions": [
+      "orange"
+    ],
+    "examples": "सुन्तला रङको झोला राम्रो देखिन्छ।",
+    "examplesRomanized": "suntala rangako jhola ramro dekhinchha.",
+    "exampleEnglish": "The orange-colored bag looks nice.",
+    "frequency": "high",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "सेतो",
+    "romanization": "seto",
+    "pos": "adjective",
+    "definitions": [
+      "white"
+    ],
+    "examples": "सेतो पर्खाल सफा छ।",
+    "examplesRomanized": "seto parkhal safa chha.",
+    "exampleEnglish": "The white wall is clean.",
+    "frequency": "high",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "हरियो",
+    "romanization": "hariyo",
+    "pos": "adjective",
+    "definitions": [
+      "green"
+    ],
+    "examples": "हरियो घाँस बाक्लो छ।",
+    "examplesRomanized": "hariyo ghaans baklo chha.",
+    "exampleEnglish": "The green grass is thick.",
+    "frequency": "high",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "गुलाबी",
+    "romanization": "gulabi",
+    "pos": "adjective",
+    "definitions": [
+      "pink"
+    ],
+    "examples": "गुलाबी फूल सुन्दर छ।",
+    "examplesRomanized": "gulabi phul sundar chha.",
+    "exampleEnglish": "The pink flower is beautiful.",
+    "frequency": "high",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "आस्मानी",
+    "romanization": "asmani",
+    "pos": "adjective",
+    "definitions": [
+      "sky blue"
+    ],
+    "examples": "आस्मानी रंगको पर्दा मनपर्छ।",
+    "examplesRomanized": "asmani rangako parda manparchha.",
+    "exampleEnglish": "I like sky-blue curtains.",
+    "frequency": "high",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "हल्का निलो",
+    "romanization": "halka nilo",
+    "pos": "adjective",
+    "definitions": [
+      "light blue"
+    ],
+    "examples": "उसको हल्का निलो शर्ट मनपर्छ।",
+    "examplesRomanized": "usko halka nilo shirt manparchha.",
+    "exampleEnglish": "I like his light blue shirt.",
+    "frequency": "medium",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "गाढा नीलो",
+    "romanization": "gadha nilo",
+    "pos": "adjective",
+    "definitions": [
+      "dark blue"
+    ],
+    "examples": "गाढा नीलो आकाश साँझमा सुन्दर देखिन्छ।",
+    "examplesRomanized": "gadha nilo aakash saanjh ma sundar dekhinchha.",
+    "exampleEnglish": "The dark blue sky looks beautiful in the evening.",
+    "frequency": "medium",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "भूरो",
+    "romanization": "bhuro",
+    "pos": "adjective",
+    "definitions": [
+      "dark brown; earthy brown"
+    ],
+    "examples": "भूरो माटो खेतमा छ।",
+    "examplesRomanized": "bhuro mato khetma chha.",
+    "exampleEnglish": "The dark brown soil is in the field.",
+    "frequency": "medium",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "सुनहरा",
+    "romanization": "sunahra",
+    "pos": "adjective",
+    "definitions": [
+      "golden"
+    ],
+    "examples": "सुनहरा सूर्यास्त देखेर रमाइलो भयो।",
+    "examplesRomanized": "sunahra suryast dekhera ramailo bhayo.",
+    "exampleEnglish": "Watching the golden sunset was delightful.",
+    "frequency": "medium",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "रूखो हरियो",
+    "romanization": "rukho hariyo",
+    "pos": "adjective",
+    "definitions": [
+      "olive green; dull green"
+    ],
+    "examples": "रूखो हरियो पातले जंगल सजिएको छ।",
+    "examplesRomanized": "rukho hariyo patle jangal sajieko chha.",
+    "exampleEnglish": "The forest is decorated with olive-green leaves.",
+    "frequency": "low",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "आकाशे निलो",
+    "romanization": "aakashe nilo",
+    "pos": "adjective",
+    "definitions": [
+      "sky blue (slightly deeper tone)"
+    ],
+    "examples": "आकाशे निलो रंगको कमीज राम्रो देखिन्छ।",
+    "examplesRomanized": "aakashe nilo rangako kameej ramro dekhinchha.",
+    "exampleEnglish": "The sky-blue shirt looks nice.",
+    "frequency": "medium",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "बैजनी गुलाबी",
+    "romanization": "baijani gulabi",
+    "pos": "adjective",
+    "definitions": [
+      "violet-pink shade"
+    ],
+    "examples": "बैजनी गुलाबी फूल मालीले रोप्यो।",
+    "examplesRomanized": "baijani gulabi phul malile ropyo.",
+    "exampleEnglish": "The gardener planted violet-pink flowers.",
+    "frequency": "low",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "खैँरो र लाल मिश्रित",
+    "romanization": "khairo ra laal mishrit",
+    "pos": "adjective",
+    "definitions": [
+      "brownish-red; mixed shade"
+    ],
+    "examples": "खैँरो र लाल मिश्रित ढोका देखेर मन लाग्यो।",
+    "examplesRomanized": "khairo ra laal mishrit dhoka dekhera man lagyo.",
+    "exampleEnglish": "I liked the brownish-red door.",
+    "frequency": "low",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "धूलो सेतो",
+    "romanization": "dhulo seto",
+    "pos": "adjective",
+    "definitions": [
+      "off-white; dusty white"
+    ],
+    "examples": "धूलो सेतो कपडा लामो समयमा मोटो भयो।",
+    "examplesRomanized": "dhulo seto kapda lamo samay ma moto bhayo.",
+    "exampleEnglish": "The off-white cloth got thick over time.",
+    "frequency": "low",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "हल्का गुलाबी",
+    "romanization": "halka gulabi",
+    "pos": "adjective",
+    "definitions": [
+      "light pink"
+    ],
+    "examples": "हल्का गुलाबी फूल सुन्दर देखिन्छ।",
+    "examplesRomanized": "halka gulabi phul sundar dekhinchha.",
+    "exampleEnglish": "The light pink flower looks beautiful.",
+    "frequency": "medium",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "बैजनी नीलो",
+    "romanization": "baijani nilo",
+    "pos": "adjective",
+    "definitions": [
+      "deep purple-blue"
+    ],
+    "examples": "बैजनी नीलो कपडा विशेष अवसरमा लगाइन्छ।",
+    "examplesRomanized": "baijani nilo kapda vishes awasar ma lagaainchha.",
+    "exampleEnglish": "The deep purple-blue cloth is worn on special occasions.",
+    "frequency": "low",
+    "category": "colors"
+  },
+  {
+    "DevanगriWord": "हरियो",
+    "romanization": "hariyo",
+    "pos": "adjective",
+    "definitions": [
+      "green"
+    ],
+    "examples": "हरियो घाँस बाक्लो छ।",
+    "examplesRomanized": "hariyo ghaans baklo chha.",
+    "exampleEnglish": "The green grass is thick.",
+    "frequency": "high",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "पेस्टेल पहेंलो",
+    "romanization": "pastel pahenlo",
+    "pos": "adjective",
+    "definitions": [
+      "pastel yellow"
+    ],
+    "examples": "पेस्टेल पहेंलो पर्दा कोठामा राम्रो देखिन्छ।",
+    "examplesRomanized": "pastel pahenlo parda kothama ramro dekhinchha.",
+    "exampleEnglish": "The pastel yellow curtains look good in the room.",
+    "frequency": "low",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "चाकलेट खैरो",
+    "romanization": "chocolate khairo",
+    "pos": "adjective",
+    "definitions": [
+      "chocolate brown"
+    ],
+    "examples": "चाकलेट खैरो केक स्वादिलो छ।",
+    "examplesRomanized": "chocolate khairo cake swadilo chha.",
+    "exampleEnglish": "The chocolate brown cake is delicious.",
+    "frequency": "low",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "सुन फिका",
+    "romanization": "sun fika",
+    "pos": "adjective",
+    "definitions": [
+      "pale gold"
+    ],
+    "examples": "सुन फिका गहना चम्किलो छ।",
+    "examplesRomanized": "sun fika gahana chamkilo chha.",
+    "exampleEnglish": "The pale gold jewelry is shiny.",
+    "frequency": "low",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "काक्रो हरियो",
+    "romanization": "kakro hariyo",
+    "pos": "adjective",
+    "definitions": [
+      "cucumber green"
+    ],
+    "examples": "काक्रो हरियो तरकारी ताजा छ।",
+    "examplesRomanized": "kakro hariyo tarkari taza chha.",
+    "exampleEnglish": "The cucumber-green vegetable is fresh.",
+    "frequency": "low",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "म्याट ब्ल्याक",
+    "romanization": "mat black",
+    "pos": "adjective",
+    "definitions": [
+      "matte black"
+    ],
+    "examples": "म्याट ब्ल्याक गाडी स्टाइलिश देखिन्छ।",
+    "examplesRomanized": "mat black gadi stylish dekhinchha.",
+    "exampleEnglish": "The matte black car looks stylish.",
+    "frequency": "low",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "रक्तरंजित रातो",
+    "romanization": "raktaranjit rato",
+    "pos": "adjective",
+    "definitions": [
+      "blood red"
+    ],
+    "examples": "रक्तरंजित रातो फूल सुन्दर छ।",
+    "examplesRomanized": "raktaranjit rato phul sundar chha.",
+    "exampleEnglish": "The blood-red flower is beautiful.",
+    "frequency": "low",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "नीलो हरियो",
+    "romanization": "nilo hariyo",
+    "pos": "adjective",
+    "definitions": [
+      "blue-green; teal"
+    ],
+    "examples": "नीलो हरियो पेन्ट सुन्दर देखिन्छ।",
+    "examplesRomanized": "nilo hariyo paint sundar dekhinchha.",
+    "exampleEnglish": "The blue-green paint looks beautiful.",
+    "frequency": "low",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "चन्द्रमाइ सेतो",
+    "romanization": "chandramai seto",
+    "pos": "adjective",
+    "definitions": [
+      "moonlit white"
+    ],
+    "examples": "चन्द्रमाइ सेतो पोशाक रमाइलो देखिन्छ।",
+    "examplesRomanized": "chandramai seto posak ramailo dekhinchha.",
+    "exampleEnglish": "The moonlit white dress looks lovely.",
+    "frequency": "low",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "गाढा हरियो",
+    "romanization": "gadha hariyo",
+    "pos": "adjective",
+    "definitions": [
+      "dark green"
+    ],
+    "examples": "गाढा हरियो पात घाममा चम्किन्छ।",
+    "examplesRomanized": "gadha hariyo pat gham ma chamkinchha.",
+    "exampleEnglish": "The dark green leaf shines in the sun.",
+    "frequency": "medium",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "गाढा गुलाबी",
+    "romanization": "gadha gulabi",
+    "pos": "adjective",
+    "definitions": [
+      "dark pink"
+    ],
+    "examples": "गाढा गुलाबी गुलाब सुन्दर देखिन्छ।",
+    "examplesRomanized": "gadha gulabi gulab sundar dekhinchha.",
+    "exampleEnglish": "The dark pink rose looks beautiful.",
+    "frequency": "medium",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "मटिन्ग खैरो",
+    "romanization": "matting khairo",
+    "pos": "adjective",
+    "definitions": [
+      "matte brown"
+    ],
+    "examples": "मटिन्ग खैरो फर्निचर टिकाउ छ।",
+    "examplesRomanized": "matting khairo furniture tikao chha.",
+    "exampleEnglish": "The matte brown furniture is durable.",
+    "frequency": "low",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "गाढा सुन्तला",
+    "romanization": "gadha suntala",
+    "pos": "adjective",
+    "definitions": [
+      "dark orange"
+    ],
+    "examples": "गाढा सुन्तला रङको झोला आकर्षक छ।",
+    "examplesRomanized": "gadha suntala rangako jhola aakarshak chha.",
+    "exampleEnglish": "The dark orange bag is attractive.",
+    "frequency": "low",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "हल्का बैजनी",
+    "romanization": "halka baijani",
+    "pos": "adjective",
+    "definitions": [
+      "light purple"
+    ],
+    "examples": "हल्का बैजनी टोपि सुन्दर देखिन्छ।",
+    "examplesRomanized": "halka baijani topi sundar dekhinchha.",
+    "exampleEnglish": "The light purple hat looks nice.",
+    "frequency": "medium",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "धूसर",
+    "romanization": "dhusar",
+    "pos": "adjective",
+    "definitions": [
+      "gray"
+    ],
+    "examples": "धूसर आकाश बादलले ढाकिएको छ।",
+    "examplesRomanized": "dhusar aakash badal le dhakieko chha.",
+    "exampleEnglish": "The gray sky is covered with clouds.",
+    "frequency": "high",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "गाढा धूसर",
+    "romanization": "gadha dhusar",
+    "pos": "adjective",
+    "definitions": [
+      "dark gray"
+    ],
+    "examples": "गाढा धूसर पर्खाल पुरानो देखिन्छ।",
+    "examplesRomanized": "gadha dhusar parkhal purano dekhinchha.",
+    "exampleEnglish": "The dark gray wall looks old.",
+    "frequency": "medium",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "हल्का धूसर",
+    "romanization": "halka dhusar",
+    "pos": "adjective",
+    "definitions": [
+      "light gray"
+    ],
+    "examples": "हल्का धूसर फर्निचर कोठामा सुहाउँछ।",
+    "examplesRomanized": "halka dhusar furniture kothama suhaunchha.",
+    "exampleEnglish": "The light gray furniture fits well in the room.",
+    "frequency": "medium",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "मटिन्ग नीलो",
+    "romanization": "matting nilo",
+    "pos": "adjective",
+    "definitions": [
+      "matte blue"
+    ],
+    "examples": "मटिन्ग नीलो गाडी आधुनिक देखिन्छ।",
+    "examplesRomanized": "matting nilo gadi aadhunik dekhinchha.",
+    "exampleEnglish": "The matte blue car looks modern.",
+    "frequency": "low",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "गाढा रातो",
+    "romanization": "gadha rato",
+    "pos": "adjective",
+    "definitions": [
+      "dark red"
+    ],
+    "examples": "गाढा रातो कपडा विशेष अवसरको लागि हो।",
+    "examplesRomanized": "gadha rato kapda vishes awasar ko lagi ho.",
+    "exampleEnglish": "The dark red cloth is for special occasions.",
+    "frequency": "medium",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "सुनहरा पेलो",
+    "romanization": "sunahra pelo",
+    "pos": "adjective",
+    "definitions": [
+      "pale gold"
+    ],
+    "examples": "सुनहरा पेलो गहना चम्किलो देखिन्छ।",
+    "examplesRomanized": "sunahra pelo gahana chamkilo dekhinchha.",
+    "exampleEnglish": "The pale gold jewelry shines brightly.",
+    "frequency": "low",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "गाढा सुनहरा",
+    "romanization": "gadha sunahra",
+    "pos": "adjective",
+    "definitions": [
+      "deep gold"
+    ],
+    "examples": "गाढा सुनहरा घडी महँगो देखिन्छ।",
+    "examplesRomanized": "gadha sunahra ghadi maheno dekhinchha.",
+    "exampleEnglish": "The deep gold watch looks expensive.",
+    "frequency": "low",
+    "category": "colors"
+  },
+  {
+    "DevanagriWord": "पिस्सु गुलाबी",
+    "romanization": "pissu gulabi",
+    "pos": "adjective",
+    "definitions": [
+      "vivid pink"
+    ],
+    "examples": "पिस्सु गुलाबी लिपस्टिक आकर्षक देखिन्छ।",
+    "examplesRomanized": "pissu gulabi lipstick aakarshak dekhinchha.",
+    "exampleEnglish": "The vivid pink lipstick looks attractive.",
+    "frequency": "low",
+    "category": "colors"
+  }
+]

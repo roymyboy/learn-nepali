@@ -1,0 +1,262 @@
+[
+  {
+    "DevanagriWord": "आठ",
+    "romanization": "aath",
+    "pos": "numeral",
+    "definitions": [
+      "the number eight"
+    ],
+    "examples": "मसँग आठ किताब छन्।",
+    "examplesRomanized": "ma sanga aath kitab chhan.",
+    "exampleEnglish": "I have eight books.",
+    "frequency": "high",
+    "category": "numbers"
+  },
+  {
+    "DevanagriWord": "एक",
+    "romanization": "ek",
+    "pos": "numeral",
+    "definitions": [
+      "the number one"
+    ],
+    "examples": "उसको एक छोरी छ।",
+    "examplesRomanized": "usko ek chhori chha.",
+    "exampleEnglish": "He/She has one daughter.",
+    "frequency": "high",
+    "category": "numbers"
+  },
+  {
+    "DevanagriWord": "चार",
+    "romanization": "char",
+    "pos": "numeral",
+    "definitions": [
+      "the number four"
+    ],
+    "examples": "हामी चार जना हौँ।",
+    "examplesRomanized": "hami char jana hau.",
+    "exampleEnglish": "We are four people.",
+    "frequency": "high",
+    "category": "numbers"
+  },
+  {
+    "DevanagriWord": "तीन",
+    "romanization": "tin",
+    "pos": "numeral",
+    "definitions": [
+      "the number three"
+    ],
+    "examples": "तीन दिन छुट्टी छ।",
+    "examplesRomanized": "tin din chutti chha.",
+    "exampleEnglish": "There is a three-day holiday.",
+    "frequency": "high",
+    "category": "numbers"
+  },
+  {
+    "DevanagriWord": "दस",
+    "romanization": "das",
+    "pos": "numeral",
+    "definitions": [
+      "the number ten"
+    ],
+    "examples": "दस बजिसक्यो।",
+    "examplesRomanized": "das bajisakyo.",
+    "exampleEnglish": "It is already ten o'clock.",
+    "frequency": "high",
+    "category": "numbers"
+  },
+  {
+    "DevanagriWord": "दुई",
+    "romanization": "dui",
+    "pos": "numeral",
+    "definitions": [
+      "the number two"
+    ],
+    "examples": "दुई वटा कुर्सी ल्याऊ।",
+    "examplesRomanized": "dui wata kursi lyaau.",
+    "exampleEnglish": "Bring two chairs.",
+    "frequency": "high",
+    "category": "numbers"
+  },
+  {
+    "DevanagriWord": "नौ",
+    "romanization": "nau",
+    "pos": "numeral",
+    "definitions": [
+      "the number nine"
+    ],
+    "examples": "नौ महिनामै काम सकियो।",
+    "examplesRomanized": "nau mahinamai kaam sakiyo.",
+    "exampleEnglish": "The work was finished in nine months.",
+    "frequency": "high",
+    "category": "numbers"
+  },
+  {
+    "DevanagriWord": "पाँच",
+    "romanization": "paanch",
+    "pos": "numeral",
+    "definitions": [
+      "the number five"
+    ],
+    "examples": "पाँच जनाले भाग लिए।",
+    "examplesRomanized": "panch janale bhag liye.",
+    "exampleEnglish": "Five people participated.",
+    "frequency": "high",
+    "category": "numbers"
+  },
+  {
+    "DevanagriWord": "सात",
+    "romanization": "sat",
+    "pos": "numeral",
+    "definitions": [
+      "the number seven"
+    ],
+    "examples": "सात दिनपछि परीक्षा छ।",
+    "examplesRomanized": "sat dinpachi pariksha chha.",
+    "exampleEnglish": "The exam is after seven days.",
+    "frequency": "high",
+    "category": "numbers"
+  },
+  {
+    "DevanagriWord": "१",
+    "romanization": "1",
+    "pos": "numeral",
+    "definitions": [
+      "the number one"
+    ],
+    "examples": "मसँग १ किताब छ।",
+    "examplesRomanized": "ma sanga 1 kitab chha.",
+    "exampleEnglish": "I have 1 book.",
+    "frequency": "high",
+    "category": "numbers"
+  },
+  {
+    "DevanagriWord": "२",
+    "romanization": "2",
+    "pos": "numeral",
+    "definitions": [
+      "the number two"
+    ],
+    "examples": "२ वटा कुर्सी ल्याऊ।",
+    "examplesRomanized": "2 wata kursi lyaau.",
+    "exampleEnglish": "Bring 2 chairs.",
+    "frequency": "high",
+    "category": "numbers"
+  },
+  {
+    "DevanagriWord": "३",
+    "romanization": "3",
+    "pos": "numeral",
+    "definitions": [
+      "the number three"
+    ],
+    "examples": "३ दिन छुट्टी छ।",
+    "examplesRomanized": "3 din chutti chha.",
+    "exampleEnglish": "There is a 3-day holiday.",
+    "frequency": "high",
+    "category": "numbers"
+  },
+  {
+    "DevanagriWord": "४",
+    "romanization": "4",
+    "pos": "numeral",
+    "definitions": [
+      "the number four"
+    ],
+    "examples": "४ बजे भेटौँला।",
+    "examplesRomanized": "4 baje bhetoula.",
+    "exampleEnglish": "Let's meet at 4 o'clock.",
+    "frequency": "high",
+    "category": "numbers"
+  },
+  {
+    "DevanagriWord": "५",
+    "romanization": "5",
+    "pos": "numeral",
+    "definitions": [
+      "the number five"
+    ],
+    "examples": "५ जनाले भाग लिए।",
+    "examplesRomanized": "5 janale bhaag liye.",
+    "exampleEnglish": "5 people participated.",
+    "frequency": "high",
+    "category": "numbers"
+  },
+  {
+    "DevanagriWord": "६",
+    "romanization": "6",
+    "pos": "numeral",
+    "definitions": [
+      "the number six"
+    ],
+    "examples": "६ महिनापछि भेटौँला।",
+    "examplesRomanized": "6 mahinapachi bhetoula.",
+    "exampleEnglish": "We'll meet after 6 months.",
+    "frequency": "high",
+    "category": "numbers"
+  },
+  {
+    "DevanagriWord": "७",
+    "romanization": "7",
+    "pos": "numeral",
+    "definitions": [
+      "the number seven"
+    ],
+    "examples": "७ दिनपछि परीक्षा छ।",
+    "examplesRomanized": "7 dinpachi pariksha chha.",
+    "exampleEnglish": "The exam is after 7 days.",
+    "frequency": "high",
+    "category": "numbers"
+  },
+  {
+    "DevanagriWord": "८",
+    "romanization": "8",
+    "pos": "numeral",
+    "definitions": [
+      "the number eight"
+    ],
+    "examples": "मसँग ८ किताब छन्।",
+    "examplesRomanized": "ma sanga 8 kitab chhan.",
+    "exampleEnglish": "I have 8 books.",
+    "frequency": "high",
+    "category": "numbers"
+  },
+  {
+    "DevanagriWord": "९",
+    "romanization": "9",
+    "pos": "numeral",
+    "definitions": [
+      "the number nine"
+    ],
+    "examples": "९ महिना लग्यो।",
+    "examplesRomanized": "9 mahina lagyo.",
+    "exampleEnglish": "It took 9 months.",
+    "frequency": "high",
+    "category": "numbers"
+  },
+  {
+    "DevanagriWord": "०",
+    "romanization": "0",
+    "pos": "numeral",
+    "definitions": [
+      "the number zero"
+    ],
+    "examples": "० भन्दा सानो केही छैन।",
+    "examplesRomanized": "0 bhanda sano kehi chaina.",
+    "exampleEnglish": "Nothing is smaller than 0.",
+    "frequency": "high",
+    "category": "numbers"
+  },
+  {
+    "DevanagriWord": "शून्य",
+    "romanization": "shunya",
+    "pos": "numeral",
+    "definitions": [
+      "the number zero"
+    ],
+    "examples": "शून्यबाट गन्ती सुरु हुन्छ।",
+    "examplesRomanized": "shunya bata ganti suru hunchha.",
+    "exampleEnglish": "Counting starts from zero.",
+    "frequency": "high",
+    "category": "numbers"
+  }
+]

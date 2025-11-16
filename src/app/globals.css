@@ -1,26 +1,278 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 248, 250, 252;
+  --background-end-rgb: 255, 255, 255;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
   }
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  color: #1f2937;
+  background: #f8fafc;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  line-height: 1.6;
+}
+
+/* Dark mode body styling */
+.dark body {
+  color: #f9fafb;
+  background: #111827;
+}
+
+/* Ensure all text elements inherit dark mode colors */
+.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
+  color: #ffffff !important;
+}
+
+.dark p, .dark span, .dark div, .dark li, .dark td, .dark th {
+  color: #ffffff !important;
+}
+
+/* Force all text to be white in dark mode */
+.dark * {
+  color: #ffffff !important;
+}
+
+/* Override specific elements that need different colors */
+.dark .text-gray-500, .dark .text-gray-400 {
+  color: #d1d5db !important;
+}
+
+.dark .text-blue-600, .dark .text-blue-400 {
+  color: #60a5fa !important;
+}
+
+/* Dark mode for form elements */
+.dark input, .dark select, .dark textarea {
+  background-color: #374151 !important;
+  color: #ffffff !important;
+  border-color: #4b5563 !important;
+}
+
+.dark input::placeholder, .dark textarea::placeholder {
+  color: #9ca3af !important;
+}
+
+/* Ensure all option elements are white in dark mode */
+.dark option {
+  background-color: #374151 !important;
+  color: #ffffff !important;
+}
+
+/* Force filter labels to be white in dark mode */
+.dark label {
+  color: #ffffff !important;
+}
+
+/* Animated background for falling Devanagari characters */
+@keyframes fall {
+  0% {
+    transform: translateY(-100vh) rotate(0deg);
+    opacity: 1;
+  }
+  95% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(100vh) rotate(360deg);
+    opacity: 0;
+  }
+}
+
+.animate-fall {
+  animation: fall linear infinite;
+}
+
+/* Improved typography for better readability */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  line-height: 1.3;
+  color: #111827;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #111827;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #111827;
+}
+
+h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #111827;
+}
+
+/* Better contrast for text - much darker */
+.text-gray-600 {
+  color: #374151 !important;
+}
+
+.text-gray-500 {
+  color: #6b7280 !important;
+}
+
+.text-gray-700 {
+  color: #374151 !important;
+}
+
+.text-gray-800 {
+  color: #1f2937 !important;
+}
+
+.text-gray-900 {
+  color: #111827 !important;
+}
+
+/* Enhanced button styles */
+.btn-primary {
+  background-color: #2563eb;
+  color: white;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  transition: background-color 0.2s;
+}
+
+.btn-primary:hover {
+  background-color: #1d4ed8;
+}
+
+.btn-secondary {
+  background-color: #f3f4f6;
+  color: #1f2937;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  transition: background-color 0.2s;
+}
+
+.btn-secondary:hover {
+  background-color: #e5e7eb;
+}
+
+/* Card styles with better contrast */
+.card {
+  background-color: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.2s;
+}
+
+.card:hover {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+/* Improved focus states for accessibility */
+button:focus, input:focus, a:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px #3b82f6, 0 0 0 4px white;
+}
+
+/* Better spacing for readability */
+.prose {
+  color: #1f2937;
+  line-height: 1.75;
+}
+
+.prose p {
+  margin-bottom: 1rem;
+  color: #374151;
+}
+
+/* Enhanced contrast for interactive elements */
+.interactive-text {
+  color: #1d4ed8;
+  font-weight: 500;
+}
+
+.interactive-text:hover {
+  color: #1e40af;
+}
+
+/* Better contrast for status indicators */
+.status-high {
+  background-color: #dcfce7;
+  color: #166534;
+  border: 1px solid #bbf7d0;
+}
+
+.status-medium {
+  background-color: #fef3c7;
+  color: #92400e;
+  border: 1px solid #fde68a;
+}
+
+.status-low {
+  background-color: #f3f4f6;
+  color: #374151;
+  border: 1px solid #e5e7eb;
+}
+
+/* Force dark text for better readability */
+p, span, div {
+  color: #374151;
+}
+
+/* Specific overrides for better contrast */
+.text-blue-600 {
+  color: #2563eb !important;
+}
+
+.text-blue-700 {
+  color: #1d4ed8 !important;
+}
+
+.text-blue-900 {
+  color: #1e3a8a !important;
+}
+
+/* Background colors for better contrast */
+.bg-blue-50 {
+  background-color: #eff6ff;
+}
+
+.bg-gray-50 {
+  background-color: #f9fafb;
+}
+
+.bg-gray-100 {
+  background-color: #f3f4f6;
+}
+
+/* Ensure all text is readable */
+* {
+  color: inherit;
+}
+
+/* Override any light text colors */
+.text-white {
+  color: white !important;
+}
+
+/* Make sure links are visible */
+a {
+  color: #2563eb;
+}
+
+a:hover {
+  color: #1d4ed8;
 }

@@ -1,0 +1,652 @@
+[
+  {
+    "DevanagriWord": "घाम",
+    "romanization": "gham",
+    "pos": "noun",
+    "definitions": [
+      "sunlight; sun (informal)"
+    ],
+    "examples": "आज घाम कडा छ।",
+    "examplesRomanized": "aaj gham kada chha.",
+    "exampleEnglish": "The sun is strong today.",
+    "frequency": "low",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "हावा",
+    "romanization": "hawa",
+    "pos": "noun",
+    "definitions": [
+      "air; wind"
+    ],
+    "examples": "आज हावा चलिरहेको छ।",
+    "examplesRomanized": "aaj hawa chalirheko chha.",
+    "exampleEnglish": "The wind is blowing today.",
+    "frequency": "low",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "माटो",
+    "romanization": "mato",
+    "pos": "noun",
+    "definitions": [
+      "soil; earth"
+    ],
+    "examples": "यो माटो उब्जाउ छ।",
+    "examplesRomanized": "yo mato ubjau chha.",
+    "exampleEnglish": "This soil is fertile.",
+    "frequency": "low",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "ढुंगा",
+    "romanization": "dhunga",
+    "pos": "noun",
+    "definitions": [
+      "stone; rock"
+    ],
+    "examples": "बाटोमा ठूलो ढुंगा छ।",
+    "examplesRomanized": "batoma thulo dhunga chha.",
+    "exampleEnglish": "There is a big rock on the road.",
+    "frequency": "low",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "बालुवा",
+    "romanization": "baluwa",
+    "pos": "noun",
+    "definitions": [
+      "sand"
+    ],
+    "examples": "नदीकिनारमा बालुवा छ।",
+    "examplesRomanized": "nadikinarma baluwa chha.",
+    "exampleEnglish": "There is sand on the riverbank.",
+    "frequency": "low",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "इन्द्रेणी",
+    "romanization": "indreni",
+    "pos": "noun",
+    "definitions": [
+      "rainbow"
+    ],
+    "examples": "वर्षापछि आकाशमा इन्द्रेणी देखियो।",
+    "examplesRomanized": "barshapachi akashma indreni dekhiYo.",
+    "exampleEnglish": "A rainbow appeared in the sky after the rain.",
+    "frequency": "low",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "आकाश",
+    "romanization": "akash",
+    "pos": "noun",
+    "definitions": [
+      "sky"
+    ],
+    "examples": "आज आकाश सफा छ।",
+    "examplesRomanized": "aaj akash safa chha.",
+    "exampleEnglish": "The sky is clear today.",
+    "frequency": "high",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "चन्द्रमा",
+    "romanization": "chandrama",
+    "pos": "noun",
+    "definitions": [
+      "moon"
+    ],
+    "examples": "रातमा चन्द्रमा चम्किरहेको छ।",
+    "examplesRomanized": "ratma chandrama chamkirahiko chha.",
+    "exampleEnglish": "The moon is shining at night.",
+    "frequency": "high",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "तारा",
+    "romanization": "tara",
+    "pos": "noun",
+    "definitions": [
+      "star"
+    ],
+    "examples": "आकाशमा तारा चम्किरहेका छन्।",
+    "examplesRomanized": "akashma tara chamkirahika chhan.",
+    "exampleEnglish": "Stars are shining in the sky.",
+    "frequency": "high",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "बर्षा",
+    "romanization": "barsha",
+    "pos": "noun",
+    "definitions": [
+      "rain; monsoon"
+    ],
+    "examples": "बर्षा ऋतु सुरु भइसकेको छ।",
+    "examplesRomanized": "barsha ritu suru bhiseko chha.",
+    "exampleEnglish": "The rainy season has started.",
+    "frequency": "high",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "हिउँदे",
+    "romanization": "hiunde",
+    "pos": "adjective",
+    "definitions": [
+      "wintry; snowy"
+    ],
+    "examples": "हिउँदे मौसममा घुम्न मजा आउँछ।",
+    "examplesRomanized": "hiunde mausamma ghumna maja aunchha.",
+    "exampleEnglish": "It's fun to walk around in the snowy season.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "डाँड",
+    "romanization": "dand",
+    "pos": "noun",
+    "definitions": [
+      "hill; small mountain"
+    ],
+    "examples": "डाँडमा घाँस बढेको छ।",
+    "examplesRomanized": "dandma ghaans badheko chha.",
+    "exampleEnglish": "Grass has grown on the hill.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "भेँडा",
+    "romanization": "bheda",
+    "pos": "noun",
+    "definitions": [
+      "sheep"
+    ],
+    "examples": "भेँडाहरू चरनमा छन्।",
+    "examplesRomanized": "bhedaharu charanma chhan.",
+    "exampleEnglish": "The sheep are grazing.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "बातास",
+    "romanization": "batas",
+    "pos": "noun",
+    "definitions": [
+      "breeze; gentle wind"
+    ],
+    "examples": "साँझको बातास सुखद छ।",
+    "examplesRomanized": "sanjhko batas sukhad chha.",
+    "exampleEnglish": "The evening breeze is pleasant.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "बर्फ",
+    "romanization": "barf",
+    "pos": "noun",
+    "definitions": [
+      "ice; snow"
+    ],
+    "examples": "पहाडमा बर्फ परेको छ।",
+    "examplesRomanized": "pahadma barf pareko chha.",
+    "exampleEnglish": "Snow has fallen on the mountain.",
+    "frequency": "high",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "वनस्पति",
+    "romanization": "vanaspati",
+    "pos": "noun",
+    "definitions": [
+      "plants; flora"
+    ],
+    "examples": "वनस्पति विविधता धेरै छ।",
+    "examplesRomanized": "vanaspati vividta dherai chha.",
+    "exampleEnglish": "There is a wide variety of flora.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "पर्वत",
+    "romanization": "parbat",
+    "pos": "noun",
+    "definitions": [
+      "mountain; peak"
+    ],
+    "examples": "पर्वतको शिखर सेतो छ।",
+    "examplesRomanized": "parbatko shikhar seto chha.",
+    "exampleEnglish": "The mountain peak is white.",
+    "frequency": "high",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "हिउँपहाड",
+    "romanization": "hiupahad",
+    "pos": "noun",
+    "definitions": [
+      "snow-covered mountain"
+    ],
+    "examples": "हिउँपहाड रमाइलो देखिन्छ।",
+    "examplesRomanized": "hiupahad ramailo dekhinchha.",
+    "exampleEnglish": "The snow-covered mountain looks beautiful.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "खुला आकाश",
+    "romanization": "khula akash",
+    "pos": "noun",
+    "definitions": [
+      "open sky; clear sky"
+    ],
+    "examples": "खुला आकाश हेर्न मन लाग्छ।",
+    "examplesRomanized": "khula akash herna man lagchha.",
+    "exampleEnglish": "I like to watch the open sky.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "बगैँचा",
+    "romanization": "bagaicha",
+    "pos": "noun",
+    "definitions": [
+      "garden"
+    ],
+    "examples": "बगैँचामा रंगीन फूल छन्।",
+    "examplesRomanized": "bagaichama rangeen phul chhan.",
+    "exampleEnglish": "There are colorful flowers in the garden.",
+    "frequency": "high",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "गहिरो खोला",
+    "romanization": "gahiro khola",
+    "pos": "noun",
+    "definitions": [
+      "deep river; stream"
+    ],
+    "examples": "गहिरो खोलामा माछा धेरै छन्।",
+    "examplesRomanized": "gahiro kholama machha dherai chhan.",
+    "exampleEnglish": "There are many fish in the deep river.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "ढलान",
+    "romanization": "dhalan",
+    "pos": "noun",
+    "definitions": [
+      "slope; incline"
+    ],
+    "examples": "पहाडको ढलान धेरै खतरनाक छ।",
+    "examplesRomanized": "pahadko dhalan dherai khatarnak chha.",
+    "exampleEnglish": "The mountain slope is very dangerous.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "चोक",
+    "romanization": "chok",
+    "pos": "noun",
+    "definitions": [
+      "open ground; clearing"
+    ],
+    "examples": "जङ्गलमा चोक खालि छ।",
+    "examplesRomanized": "jangalma chok khali chha.",
+    "exampleEnglish": "There is an open clearing in the forest.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "मोर",
+    "romanization": "mor",
+    "pos": "noun",
+    "definitions": [
+      "peacock"
+    ],
+    "examples": "मोरले आफ्नो पूँख फैलायो।",
+    "examplesRomanized": "morle afno punkh phailayo.",
+    "exampleEnglish": "The peacock spread its feathers.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "साँप",
+    "romanization": "sanp",
+    "pos": "noun",
+    "definitions": [
+      "snake (general)"
+    ],
+    "examples": "साँप जङ्गलमा भेटियो।",
+    "examplesRomanized": "sanp jangalma bhetiyo.",
+    "exampleEnglish": "A snake was found in the forest.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "सिन्धु",
+    "romanization": "sindhu",
+    "pos": "noun",
+    "definitions": [
+      "river (historical/poetic)"
+    ],
+    "examples": "सिन्धु नदी धेरै लामो छ।",
+    "examplesRomanized": "sindhu nadi dherai lamo chha.",
+    "exampleEnglish": "The Sindhu river is very long.",
+    "frequency": "low",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "घाँसे मैदान",
+    "romanization": "ghanse maidan",
+    "pos": "noun",
+    "definitions": [
+      "grassy plain; meadow"
+    ],
+    "examples": "घाँसे मैदानमा जङ्गली फूल फुलेका छन्।",
+    "examplesRomanized": "ghanse maidanma jangali phul phuleka chhan.",
+    "exampleEnglish": "Wildflowers have bloomed in the grassy plain.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "घामफूल",
+    "romanization": "ghamphul",
+    "pos": "noun",
+    "definitions": [
+      "sunflower"
+    ],
+    "examples": "बगैंचामा घामफूल फुलेको छ।",
+    "examplesRomanized": "bagaichama ghamphul phuleko chha.",
+    "exampleEnglish": "Sunflowers have bloomed in the garden.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "रातो माटो",
+    "romanization": "rato mato",
+    "pos": "noun",
+    "definitions": [
+      "red soil"
+    ],
+    "examples": "यो क्षेत्र रातो माटोले धनी छ।",
+    "examplesRomanized": "yo kshetra rato matole dhani chha.",
+    "exampleEnglish": "This area is rich in red soil.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "बग्ने पानी",
+    "romanization": "bagne pani",
+    "pos": "noun",
+    "definitions": [
+      "flowing water; stream"
+    ],
+    "examples": "बग्ने पानीले नदी बनाउँछ।",
+    "examplesRomanized": "bagne panile nadi banaunchha.",
+    "exampleEnglish": "Flowing water forms a river.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "शीतल हिमाल",
+    "romanization": "sheetal himal",
+    "pos": "noun",
+    "definitions": [
+      "cold mountain; snowy peak"
+    ],
+    "examples": "शीतल हिमालको दृश्य मनमोहक छ।",
+    "examplesRomanized": "sheetal himalko drishya manmohak chha.",
+    "exampleEnglish": "The view of the snowy peak is mesmerizing.",
+    "frequency": "low",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "कुँडालो",
+    "romanization": "kundalo",
+    "pos": "noun",
+    "definitions": [
+      "village pond; natural pond"
+    ],
+    "examples": "कुँडालोमा माछा छन्।",
+    "examplesRomanized": "kundaloma machha chhan.",
+    "exampleEnglish": "There are fish in the village pond.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "कन्दुक",
+    "romanization": "kanduk",
+    "pos": "noun",
+    "definitions": [
+      "bulbous plant; tuber"
+    ],
+    "examples": "कन्दुक बगैंचामा राखिएको छ।",
+    "examplesRomanized": "kanduk bagaichama rakhiyeko chha.",
+    "exampleEnglish": "The tuber is kept in the garden.",
+    "frequency": "low",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "पातलो नदी",
+    "romanization": "paatlo nadi",
+    "pos": "noun",
+    "definitions": [
+      "narrow river or stream"
+    ],
+    "examples": "पातलो नदी किनार सुन्दर छ।",
+    "examplesRomanized": "paatlo nadi kinar sundar chha.",
+    "exampleEnglish": "The banks of the narrow river are beautiful.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "काँकर",
+    "romanization": "kankar",
+    "pos": "noun",
+    "definitions": [
+      "pebble; small stone"
+    ],
+    "examples": "नदी किनारमा काँकर धेरै छ।",
+    "examplesRomanized": "nadi kinarma kankar dherai chha.",
+    "exampleEnglish": "There are many pebbles on the riverbank.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "जङ्गली फूल",
+    "romanization": "jangali phul",
+    "pos": "noun",
+    "definitions": [
+      "wildflower"
+    ],
+    "examples": "जङ्गली फूलले बाटो सजिएको छ।",
+    "examplesRomanized": "jangali phulle bato sajiieko chha.",
+    "exampleEnglish": "Wildflowers have decorated the path.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "मौसमी फलफूल",
+    "romanization": "mausami phalphul",
+    "pos": "noun",
+    "definitions": [
+      "seasonal fruits"
+    ],
+    "examples": "बगैंचामा मौसमी फलफूल धेरै छन्।",
+    "examplesRomanized": "bagaichama mausami phalphul dherai chhan.",
+    "exampleEnglish": "There are many seasonal fruits in the garden.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "काठको रूख",
+    "romanization": "kathko rukh",
+    "pos": "noun",
+    "definitions": [
+      "timber tree; wooden tree"
+    ],
+    "examples": "काठको रूख ठूलो छ।",
+    "examplesRomanized": "kathko rukh thulo chha.",
+    "exampleEnglish": "The timber tree is tall.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "अरण्य",
+    "romanization": "aranya",
+    "pos": "noun",
+    "definitions": [
+      "forest; wilderness"
+    ],
+    "examples": "अरण्य धेरै घना छ।",
+    "examplesRomanized": "aranya dherai ghana chha.",
+    "exampleEnglish": "The forest is very dense.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "घासको मैदान",
+    "romanization": "ghasko maidan",
+    "pos": "noun",
+    "definitions": [
+      "grassland; pasture"
+    ],
+    "examples": "घासको मैदानमा गाई चरिरहेका छन्।",
+    "examplesRomanized": "ghasko maidanma gai charirahaka chhan.",
+    "exampleEnglish": "Cows are grazing in the grassland.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "चिनारी",
+    "romanization": "chinari",
+    "pos": "noun",
+    "definitions": [
+      "rare herb"
+    ],
+    "examples": "चिनारी औषधिमा प्रयोग हुन्छ।",
+    "examplesRomanized": "chinari aushadhima prayog hunchha.",
+    "exampleEnglish": "Chinari is used in medicine.",
+    "frequency": "low",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "गरुड",
+    "romanization": "garud",
+    "pos": "noun",
+    "definitions": [
+      "eagle"
+    ],
+    "examples": "गरुड आकाशमा उडिरहेको छ।",
+    "examplesRomanized": "garud akashma udirahko chha.",
+    "exampleEnglish": "The eagle is flying in the sky.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "काँचो सुन्तला",
+    "romanization": "kancho suntala",
+    "pos": "noun",
+    "definitions": [
+      "wild orange fruit"
+    ],
+    "examples": "काँचो सुन्तला रूखमा फुलेको छ।",
+    "examplesRomanized": "kancho suntala rukhma phuleko chha.",
+    "exampleEnglish": "Wild orange fruit has bloomed on the tree.",
+    "frequency": "low",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "हिरण",
+    "romanization": "hiran",
+    "pos": "noun",
+    "definitions": [
+      "deer"
+    ],
+    "examples": "हिरण जंगलमा दौडिरहेको छ।",
+    "examplesRomanized": "hiran jangalma daudirahko chha.",
+    "exampleEnglish": "The deer is running in the forest.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "कन्या",
+    "romanization": "kanya",
+    "pos": "noun",
+    "definitions": [
+      "female deer (rare term)"
+    ],
+    "examples": "कन्या जंगलमा देखियो।",
+    "examplesRomanized": "kanya jangalma dekhiyo.",
+    "exampleEnglish": "A female deer was spotted in the forest.",
+    "frequency": "low",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "फुलबारी",
+    "romanization": "phulbari",
+    "pos": "noun",
+    "definitions": [
+      "flower garden; orchard"
+    ],
+    "examples": "फुलबारीमा गुलाफ फुलेका छन्।",
+    "examplesRomanized": "phulbari ma gulaf phuleka chhan.",
+    "exampleEnglish": "Roses have bloomed in the garden.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "कुमुदिनी",
+    "romanization": "kumudini",
+    "pos": "noun",
+    "definitions": [
+      "lotus pond"
+    ],
+    "examples": "कुमुदिनी सुन्दर देखिन्छ।",
+    "examplesRomanized": "kumudini sundar dekhinchha.",
+    "exampleEnglish": "The lotus pond looks beautiful.",
+    "frequency": "medium",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "साँपानी",
+    "romanization": "sampani",
+    "pos": "noun",
+    "definitions": [
+      "creeping vine; climber plant"
+    ],
+    "examples": "साँपानीले रूख ओढेको छ।",
+    "examplesRomanized": "sampani le rukh odheko chha.",
+    "exampleEnglish": "The vine has covered the tree.",
+    "frequency": "low",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "भृकुटी",
+    "romanization": "bhrikuti",
+    "pos": "noun",
+    "definitions": [
+      "rare medicinal herb"
+    ],
+    "examples": "भृकुटी औषधिमा प्रयोग हुन्छ।",
+    "examplesRomanized": "bhrikuti aushadhima prayog hunchha.",
+    "exampleEnglish": "Bhrikuti is used in medicine.",
+    "frequency": "low",
+    "category": "nature"
+  },
+  {
+    "DevanagriWord": "सिस्नो",
+    "romanization": "sisno",
+    "pos": "noun",
+    "definitions": [
+      "ginger plant"
+    ],
+    "examples": "सिस्नो बगैंचामा छ।",
+    "examplesRomanized": "sisno bagainchama chha.",
+    "exampleEnglish": "Ginger plant is in the garden.",
+    "frequency": "medium",
+    "category": "nature"
+  }
+]

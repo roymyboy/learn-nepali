@@ -1,0 +1,249 @@
+[
+  {
+    "DevanagriWord": "आइतबार",
+    "romanization": "aitabar",
+    "pos": "noun",
+    "definitions": [
+      "Sunday"
+    ],
+    "examples": "आइतबार बिदा हुन्छ।",
+    "examplesRomanized": "aitabar bida hunchha.",
+    "exampleEnglish": "Sunday is a holiday.",
+    "frequency": "high",
+    "category": "time"
+  },
+  {
+    "DevanagriWord": "शनिबार",
+    "romanization": "shanibar",
+    "pos": "noun",
+    "definitions": [
+      "Saturday"
+    ],
+    "examples": "शनिबार बजार भीड हुन्छ।",
+    "examplesRomanized": "shanibar bajar bhid hunchha.",
+    "exampleEnglish": "The market is crowded on Saturdays.",
+    "frequency": "high",
+    "category": "time"
+  },
+  {
+    "DevanagriWord": "सोमबार",
+    "romanization": "somabar",
+    "pos": "noun",
+    "definitions": [
+      "Monday"
+    ],
+    "examples": "सोमबार कक्षा सुरु हुन्छ।",
+    "examplesRomanized": "somabar kaksha suru hunchha.",
+    "exampleEnglish": "Classes start on Monday.",
+    "frequency": "high",
+    "category": "time"
+  },
+  {
+    "DevanagriWord": "बैशाख",
+    "romanization": "baishakh",
+    "pos": "noun",
+    "definitions": [
+      "Baisakh (first month of Nepali calendar)"
+    ],
+    "examples": "बैशाखमा नयाँ वर्ष सुरु हुन्छ।",
+    "examplesRomanized": "baishakh ma naya barsha suru hunchha.",
+    "exampleEnglish": "The new year begins in Baisakh.",
+    "frequency": "high",
+    "category": "time"
+  },
+  {
+    "DevanagriWord": "जेठ",
+    "romanization": "jeth",
+    "pos": "noun",
+    "definitions": [
+      "Jestha (second month)"
+    ],
+    "examples": "जेठ तातो महिना हो।",
+    "examplesRomanized": "jeth tato mahina ho.",
+    "exampleEnglish": "Jestha is a hot month.",
+    "frequency": "high",
+    "category": "time"
+  },
+  {
+    "DevanagriWord": "असार",
+    "romanization": "asar",
+    "pos": "noun",
+    "definitions": [
+      "Asar (third month)"
+    ],
+    "examples": "असारमा धान रोपाइँ हुन्छ।",
+    "examplesRomanized": "asar ma dhan ropai hunchha.",
+    "exampleEnglish": "Rice planting happens in Asar.",
+    "frequency": "high",
+    "category": "time"
+  },
+  {
+    "DevanagriWord": "साउन",
+    "romanization": "saun",
+    "pos": "noun",
+    "definitions": [
+      "Saun (fourth month)"
+    ],
+    "examples": "साउनमा धेरै वर्षा हुन्छ।",
+    "examplesRomanized": "saun ma dherai barsha hunchha.",
+    "exampleEnglish": "There is heavy rainfall in Saun.",
+    "frequency": "high",
+    "category": "time"
+  },
+  {
+    "DevanagriWord": "भदौ",
+    "romanization": "bhadau",
+    "pos": "noun",
+    "definitions": [
+      "Bhadau (fifth month)"
+    ],
+    "examples": "भदौमा फलफूल पक्न थाल्छ।",
+    "examplesRomanized": "bhadau ma phalphul pakna thalchha.",
+    "exampleEnglish": "Fruits start ripening in Bhadau.",
+    "frequency": "high",
+    "category": "time"
+  },
+  {
+    "DevanagriWord": "असोज",
+    "romanization": "asoj",
+    "pos": "noun",
+    "definitions": [
+      "Asoj (sixth month)"
+    ],
+    "examples": "असोजमा दशैं पर्छ।",
+    "examplesRomanized": "asoj ma dashain parcha.",
+    "exampleEnglish": "Dashain falls in Asoj.",
+    "frequency": "high",
+    "category": "time"
+  },
+  {
+    "DevanagriWord": "कात्तिक",
+    "romanization": "kattik",
+    "pos": "noun",
+    "definitions": [
+      "Kartik (seventh month)"
+    ],
+    "examples": "कात्तिकमा तिहार पर्छ।",
+    "examplesRomanized": "kattik ma tihar parcha.",
+    "exampleEnglish": "Tihar falls in Kartik.",
+    "frequency": "high",
+    "category": "time"
+  },
+  {
+    "DevanagriWord": "मंसिर",
+    "romanization": "mansir",
+    "pos": "noun",
+    "definitions": [
+      "Mangsir (eighth month)"
+    ],
+    "examples": "मंसिरमा चिसो बढ्छ।",
+    "examplesRomanized": "mansir ma chiso badchha.",
+    "exampleEnglish": "It gets colder in Mangsir.",
+    "frequency": "high",
+    "category": "time"
+  },
+  {
+    "DevanagriWord": "पुष",
+    "romanization": "push",
+    "pos": "noun",
+    "definitions": [
+      "Poush (ninth month)"
+    ],
+    "examples": "पुष जाडो महिना हो।",
+    "examplesRomanized": "push jado mahina ho.",
+    "exampleEnglish": "Poush is a cold month.",
+    "frequency": "high",
+    "category": "time"
+  },
+  {
+    "DevanagriWord": "माघ",
+    "romanization": "magh",
+    "pos": "noun",
+    "definitions": [
+      "Magh (tenth month)"
+    ],
+    "examples": "माघमा चिसो चरम हुन्छ।",
+    "examplesRomanized": "magh ma chiso charam hunchha.",
+    "exampleEnglish": "It is extremely cold in Magh.",
+    "frequency": "high",
+    "category": "time"
+  },
+  {
+    "DevanagriWord": "फागुन",
+    "romanization": "phagun",
+    "pos": "noun",
+    "definitions": [
+      "Falgun (eleventh month)"
+    ],
+    "examples": "फागुनमा मौसम बदलिन्छ।",
+    "examplesRomanized": "phagun ma mausam badlinchha.",
+    "exampleEnglish": "The weather changes in Falgun.",
+    "frequency": "high",
+    "category": "time"
+  },
+  {
+    "DevanagriWord": "चैत",
+    "romanization": "chait",
+    "pos": "noun",
+    "definitions": [
+      "Chaitra (twelfth month)"
+    ],
+    "examples": "चैतमा गर्मी सुरु हुन्छ।",
+    "examplesRomanized": "chait ma garmi suru hunchha.",
+    "exampleEnglish": "Heat begins in Chaitra.",
+    "frequency": "high",
+    "category": "time"
+  },
+  {
+    "DevanagriWord": "मंगलबार",
+    "romanization": "mangalbar",
+    "pos": "noun",
+    "definitions": [
+      "Tuesday"
+    ],
+    "examples": "मंगलबार बैठक छ।",
+    "examplesRomanized": "mangalbar baithak chha.",
+    "exampleEnglish": "There is a meeting on Tuesday.",
+    "frequency": "high",
+    "category": "time"
+  },
+  {
+    "DevanagriWord": "बुधबार",
+    "romanization": "budhbar",
+    "pos": "noun",
+    "definitions": [
+      "Wednesday"
+    ],
+    "examples": "बुधबार कक्षा छैन।",
+    "examplesRomanized": "budhbar kaksha chaina.",
+    "exampleEnglish": "There is no class on Wednesday.",
+    "frequency": "high",
+    "category": "time"
+  },
+  {
+    "DevanagriWord": "बिहीबार",
+    "romanization": "bihibar",
+    "pos": "noun",
+    "definitions": [
+      "Thursday"
+    ],
+    "examples": "बिहीबार छुट्टी छैन।",
+    "examplesRomanized": "bihibar chutti chaina.",
+    "exampleEnglish": "There is no holiday on Thursday.",
+    "frequency": "high",
+    "category": "time"
+  },
+  {
+    "DevanagriWord": "शुक्रबार",
+    "romanization": "shukrabar",
+    "pos": "noun",
+    "definitions": [
+      "Friday"
+    ],
+    "examples": "शुक्रबार फिल्म हेर्ने योजना छ।",
+    "examplesRomanized": "shukrabar film herne yojana chha.",
+    "exampleEnglish": "There is a plan to watch a movie on Friday.",
+    "frequency": "high",
+    "category": "time"
+  }
+]

@@ -1,0 +1,1458 @@
+[
+  {
+    "DevanagriWord": "कला",
+    "romanization": "kala",
+    "pos": "noun",
+    "definitions": [
+      "art; creative expression"
+    ],
+    "examples": "कला समाजको दर्पण हो।",
+    "examplesRomanized": "kala samajko darpan ho.",
+    "exampleEnglish": "Art is a mirror of society.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "चित्रकला",
+    "romanization": "chitrakala",
+    "pos": "noun",
+    "definitions": [
+      "painting; the art of drawing and coloring"
+    ],
+    "examples": "उनी चित्रकला पढ्छिन्।",
+    "examplesRomanized": "uni chitrakala padhchhin.",
+    "exampleEnglish": "She studies painting.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "मूर्तिकला",
+    "romanization": "murtikala",
+    "pos": "noun",
+    "definitions": [
+      "sculpture; the art of sculpting"
+    ],
+    "examples": "मूर्तिकलामा धैर्य चाहिन्छ।",
+    "examplesRomanized": "murtikalama dhairya chahinchha.",
+    "exampleEnglish": "Sculpture requires patience.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "मञ्च",
+    "romanization": "manch",
+    "pos": "noun",
+    "definitions": [
+      "stage; platform for performance"
+    ],
+    "examples": "कलाकार मञ्चमा प्रस्तुत भए।",
+    "examplesRomanized": "kalakar manchma prastut bhae.",
+    "exampleEnglish": "The artists performed on stage.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "नाटक",
+    "romanization": "natak",
+    "pos": "noun",
+    "definitions": [
+      "play; drama"
+    ],
+    "examples": "नाटकले सामाजिक सन्देश दिन्छ।",
+    "examplesRomanized": "natakle samajik sandesh dinchha.",
+    "exampleEnglish": "Drama conveys a social message.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "सिनेमा",
+    "romanization": "sinema",
+    "pos": "noun",
+    "definitions": [
+      "cinema; film"
+    ],
+    "examples": "आज नयाँ सिनेमा रिलिज भयो।",
+    "examplesRomanized": "aaja nayaa sinema rilij bhayo.",
+    "exampleEnglish": "A new film was released today.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "थिएटर",
+    "romanization": "theater",
+    "pos": "noun",
+    "definitions": [
+      "theater; playhouse; stage art"
+    ],
+    "examples": "थिएटरमा प्रत्यक्ष प्रस्तुति हुन्छ।",
+    "examplesRomanized": "theaterma pratyaksha prastuti hunchha.",
+    "exampleEnglish": "There are live performances in the theater.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "नृत्य",
+    "romanization": "nritya",
+    "pos": "noun",
+    "definitions": [
+      "dance; the art of dancing"
+    ],
+    "examples": "उनीहरू नृत्य प्रतियोगितामा सहभागी भए।",
+    "examplesRomanized": "uniharu nritya pratiyogitama sahabhagi bhae.",
+    "exampleEnglish": "They participated in a dance competition.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "संगीत",
+    "romanization": "sangeet",
+    "pos": "noun",
+    "definitions": [
+      "music; musical art"
+    ],
+    "examples": "संगीतले मनलाई शान्त बनाउँछ।",
+    "examplesRomanized": "sangeetle manlai shant banaunchha.",
+    "exampleEnglish": "Music calms the mind.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "काव्य",
+    "romanization": "kavya",
+    "pos": "noun",
+    "definitions": [
+      "poetry; poetic literature"
+    ],
+    "examples": "काव्य पाठले सौन्दर्य अनुभव गराउँछ।",
+    "examplesRomanized": "kavya pathle saundarya anubhav garaunchha.",
+    "exampleEnglish": "Reading poetry evokes a sense of beauty.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "कलाकार",
+    "romanization": "kalakar",
+    "pos": "noun",
+    "definitions": [
+      "artist; performer"
+    ],
+    "examples": "कलाकारले आफ्नो सिर्जनाले दर्शकलाई आकर्षित गर्छ।",
+    "examplesRomanized": "kalakarle aaphno sirjanale darshaklai akarshit garchha.",
+    "exampleEnglish": "An artist captivates the audience through their creation.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "चित्र",
+    "romanization": "chitra",
+    "pos": "noun",
+    "definitions": [
+      "picture; painting; drawing"
+    ],
+    "examples": "यो चित्रले गाउँको जीवन देखाउँछ।",
+    "examplesRomanized": "yo chitrale gaunko jivan dekhaunchha.",
+    "exampleEnglish": "This painting depicts village life.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "चित्रकार",
+    "romanization": "chitrakar",
+    "pos": "noun",
+    "definitions": [
+      "painter; visual artist"
+    ],
+    "examples": "चित्रकारले क्यानभासमा कुचीले रंग भर्छ।",
+    "examplesRomanized": "chitrakarle kyanbhasma kuchile rang bharchha.",
+    "exampleEnglish": "A painter fills the canvas with color using a brush.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "रेखाचित्र",
+    "romanization": "rekhachitra",
+    "pos": "noun",
+    "definitions": [
+      "sketch; line drawing"
+    ],
+    "examples": "रेखाचित्रले विचारको खाका देखाउँछ।",
+    "examplesRomanized": "rekhachitrale bicharko khaka dekhaunchha.",
+    "exampleEnglish": "A sketch shows the outline of an idea.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "कुची",
+    "romanization": "kuchi",
+    "pos": "noun",
+    "definitions": [
+      "paintbrush"
+    ],
+    "examples": "कुचीले बिस्तारै स्ट्रोक हालिन्।",
+    "examplesRomanized": "kuchile bistarai strok halin.",
+    "exampleEnglish": "She applied brush strokes gently.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "क्यानभास",
+    "romanization": "kyanbhas",
+    "pos": "noun",
+    "definitions": [
+      "canvas (for painting)"
+    ],
+    "examples": "क्यानभास तयार पारेर चित्र सुरू गर्‍यो।",
+    "examplesRomanized": "kyanbhas tayar parera chitra suru garyo.",
+    "exampleEnglish": "After preparing the canvas, the painting began.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "रंग",
+    "romanization": "rang",
+    "pos": "noun",
+    "definitions": [
+      "color; pigment (in art)"
+    ],
+    "examples": "रंगको संयोजन मिलाउँदा चित्र जीवित जस्तो लाग्छ।",
+    "examplesRomanized": "rangko sanyojan milaunda chitra jivit jasto lagchha.",
+    "exampleEnglish": "When colors are combined well, the painting looks alive.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "ग्यालरी",
+    "romanization": "gyalari",
+    "pos": "noun",
+    "definitions": [
+      "gallery (exhibition space)"
+    ],
+    "examples": "ग्यालरीमा नयाँ प्रदर्शनी खुलेको छ।",
+    "examplesRomanized": "gyalarima naya pradarshani khuleko chha.",
+    "exampleEnglish": "A new exhibition has opened in the gallery.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "प्रदर्शनी",
+    "romanization": "pradarshani",
+    "pos": "noun",
+    "definitions": [
+      "exhibition; showcase"
+    ],
+    "examples": "प्रदर्शनीमा स्थानीय कलाकारका काम राखिएका छन्।",
+    "examplesRomanized": "pradarshanima sthaniya kalarkaka kam rakhiekā chhan.",
+    "exampleEnglish": "Works by local artists are displayed at the exhibition.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "शिल्प",
+    "romanization": "shilp",
+    "pos": "noun",
+    "definitions": [
+      "craft; craftsmanship"
+    ],
+    "examples": "काठको शिल्प अत्यन्त सुन्दर छ।",
+    "examplesRomanized": "kathko shilp atyanta sundar chha.",
+    "exampleEnglish": "The wooden craft is extremely beautiful.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "हस्तकला",
+    "romanization": "hastakala",
+    "pos": "noun",
+    "definitions": [
+      "handicraft; artisan work"
+    ],
+    "examples": "हस्तकलाले स्थानीय पहिचान झल्काउँछ।",
+    "examplesRomanized": "hastakalale sthaniya pahichan jhalkaunchha.",
+    "exampleEnglish": "Handicrafts reflect local identity.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "लोककला",
+    "romanization": "lokakala",
+    "pos": "noun",
+    "definitions": [
+      "folk art"
+    ],
+    "examples": "लोककलामा समुदायको परम्परा झल्किन्छ।",
+    "examplesRomanized": "lokakalama samudayako parampara jhalkinchha.",
+    "exampleEnglish": "Folk art reflects community traditions.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "वास्तुकला",
+    "romanization": "vastukala",
+    "pos": "noun",
+    "definitions": [
+      "architecture"
+    ],
+    "examples": "काठमाडौँको वास्तुकलामा नेवारी शैली देखिन्छ।",
+    "examplesRomanized": "kathmanduko vastukalama newari shaili dekhinchha.",
+    "exampleEnglish": "Newar style can be seen in Kathmandu's architecture.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "अभिनय",
+    "romanization": "abhinay",
+    "pos": "noun",
+    "definitions": [
+      "acting; performance"
+    ],
+    "examples": "उनको अभिनय स्वाभाविक र प्रभावशाली छ।",
+    "examplesRomanized": "unko abhinay swabhavik ra prabhavshali chha.",
+    "exampleEnglish": "Their acting is natural and impactful.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "अभिनेता",
+    "romanization": "abhineta",
+    "pos": "noun",
+    "definitions": [
+      "actor (male or general)"
+    ],
+    "examples": "अभिनेताले प्रमुख भूमिका निर्वाह गरे।",
+    "examplesRomanized": "abhinetale pramukh bhumika nirvah gare.",
+    "exampleEnglish": "The actor performed the lead role.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "अभिनेत्री",
+    "romanization": "abhinetri",
+    "pos": "noun",
+    "definitions": [
+      "actress"
+    ],
+    "examples": "अभिनेत्रीको प्रस्तुति प्रशंसनीय रह्यो।",
+    "examplesRomanized": "abhinetriko prastuti prashansaniya rahyo.",
+    "exampleEnglish": "The actress's performance was commendable.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "निर्देशन",
+    "romanization": "nirdeshan",
+    "pos": "noun",
+    "definitions": [
+      "direction (film/stage)"
+    ],
+    "examples": "कथालाई बलियो बनाउन निर्देशन महत्वपूर्ण हुन्छ।",
+    "examplesRomanized": "kathalai baliyo banauna nirdeshan mahatvapurna hunchha.",
+    "exampleEnglish": "Direction is crucial to strengthen the story.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "निर्देशक",
+    "romanization": "nirdeshak",
+    "pos": "noun",
+    "definitions": [
+      "director"
+    ],
+    "examples": "निर्देशकले कलाकारसँग दृश्य अभ्यास गराए।",
+    "examplesRomanized": "nirdeshakle kalakarsanga drishya abhyas garaye.",
+    "exampleEnglish": "The director rehearsed scenes with the actors.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "पटकथा",
+    "romanization": "patkatha",
+    "pos": "noun",
+    "definitions": [
+      "screenplay; script"
+    ],
+    "examples": "पटकथाले कथा, संवाद र दृश्य वर्णन राख्छ।",
+    "examplesRomanized": "patkathale katha, samvad ra drishya varnan rakhchha.",
+    "exampleEnglish": "A screenplay includes story, dialogues, and scene descriptions.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "पटकथाकार",
+    "romanization": "patkathakar",
+    "pos": "noun",
+    "definitions": [
+      "screenwriter; scriptwriter"
+    ],
+    "examples": "पटकथाकारले चरित्र र घटना निर्माण गर्छन्।",
+    "examplesRomanized": "patkathakarle charitra ra ghatana nirmaan garchhan.",
+    "exampleEnglish": "Screenwriters create characters and events.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "छायांकन",
+    "romanization": "chhayankan",
+    "pos": "noun",
+    "definitions": [
+      "cinematography"
+    ],
+    "examples": "छायांकनले कथाको भाव दृश्यमा उतार्छ।",
+    "examplesRomanized": "chhayankanle kathako bhav drishyama utarchha.",
+    "exampleEnglish": "Cinematography transforms the story's emotion into visuals.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "छायाकार",
+    "romanization": "chhayakar",
+    "pos": "noun",
+    "definitions": [
+      "cinematographer; cameraperson"
+    ],
+    "examples": "छायाकारले प्रकाश र कोण सावधानीपूर्वक छनोट गर्छ।",
+    "examplesRomanized": "chhayakarle prakash ra kon savadhanipurvak chhanot garchha.",
+    "exampleEnglish": "The cinematographer carefully selects light and angles.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "फोटोग्राफी",
+    "romanization": "photography",
+    "pos": "noun",
+    "definitions": [
+      "photography"
+    ],
+    "examples": "फोटोग्राफीले क्षणलाई स्थिर बनाउँछ।",
+    "examplesRomanized": "photographyle kshanalai sthir banaunchha.",
+    "exampleEnglish": "Photography makes a moment still.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "फोटोग्राफर",
+    "romanization": "photographer",
+    "pos": "noun",
+    "definitions": [
+      "photographer"
+    ],
+    "examples": "फोटोग्राफरले सडक जीवन क्यामेरामा कैद गरे।",
+    "examplesRomanized": "photographerle sadak jivan kamerama kaid gare.",
+    "exampleEnglish": "The photographer captured street life on camera.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "वाद्ययन्त्र",
+    "romanization": "vadyayantra",
+    "pos": "noun",
+    "definitions": [
+      "musical instrument"
+    ],
+    "examples": "नेपालका परम्परागत वाद्ययन्त्र विविध छन्।",
+    "examplesRomanized": "nepalka paramparagat vadyayantra vivid chhan.",
+    "exampleEnglish": "Nepal's traditional instruments are diverse.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "तबला",
+    "romanization": "tabala",
+    "pos": "noun",
+    "definitions": [
+      "tabla (pair of drums)"
+    ],
+    "examples": "तबलाको तालले गायनलाई साथ दिन्छ।",
+    "examplesRomanized": "tabalako taalle gayanlai sath dinchha.",
+    "exampleEnglish": "The tabla's rhythm accompanies singing.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "मादल",
+    "romanization": "madal",
+    "pos": "noun",
+    "definitions": [
+      "madal (Nepali hand drum)"
+    ],
+    "examples": "मादलको धुन सुनेर सबै नाचे।",
+    "examplesRomanized": "madalko dhun sunera sabai nache.",
+    "exampleEnglish": "Hearing the madal's tune, everyone danced.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "बाँसुरी",
+    "romanization": "bansuri",
+    "pos": "noun",
+    "definitions": [
+      "flute"
+    ],
+    "examples": "बाँसुरीको सुमधुर स्वरले मन मोह्यो।",
+    "examplesRomanized": "bansuriko sumadhur swarle man mohyo.",
+    "exampleEnglish": "The flute's melodious tone charmed the heart.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "सारंगी",
+    "romanization": "sarangi",
+    "pos": "noun",
+    "definitions": [
+      "sarangi (bowed instrument)"
+    ],
+    "examples": "सारंगीको धुनले लोकगीत झन् मनलोभ्य बनायो।",
+    "examplesRomanized": "sarangiko dhunle lokgit jhan manlobhya banayo.",
+    "exampleEnglish": "The sarangi's tune made the folk song even more appealing.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "सितार",
+    "romanization": "sitar",
+    "pos": "noun",
+    "definitions": [
+      "sitar (plucked string instrument)"
+    ],
+    "examples": "सितारको आलाप शान्त र न्यारो लाग्छ।",
+    "examplesRomanized": "sitar ko alap shant ra nyaro lagchha.",
+    "exampleEnglish": "The sitar's alap feels calm and intimate.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "हार्मोनियम",
+    "romanization": "harmonium",
+    "pos": "noun",
+    "definitions": [
+      "harmonium"
+    ],
+    "examples": "हार्मोनियमले गायनलाई आधार दिन्छ।",
+    "examplesRomanized": "harmoniumle gayanlai aadhar dinchha.",
+    "exampleEnglish": "The harmonium provides a base for singing.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "राग",
+    "romanization": "raag",
+    "pos": "noun",
+    "definitions": [
+      "raga (melodic framework)"
+    ],
+    "examples": "भिन्न रागले भिन्न भाव व्यक्त गर्छ।",
+    "examplesRomanized": "bhinn raagle bhinn bhav vyakt garchha.",
+    "exampleEnglish": "Different ragas express different moods.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "ताल",
+    "romanization": "taal",
+    "pos": "noun",
+    "definitions": [
+      "rhythmic cycle; beat"
+    ],
+    "examples": "ताल नथाप्दा गीत बिग्रिन्छ।",
+    "examplesRomanized": "taal nathapda git bigrinchha.",
+    "exampleEnglish": "A song falters without keeping the beat.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "गायन",
+    "romanization": "gayan",
+    "pos": "noun",
+    "definitions": [
+      "singing; vocal performance"
+    ],
+    "examples": "गायन अभ्यासले स्वर दृढ हुन्छ।",
+    "examplesRomanized": "gayan abhyasle swar dridh hunchha.",
+    "exampleEnglish": "Vocal practice strengthens the voice.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "वादन",
+    "romanization": "vadan",
+    "pos": "noun",
+    "definitions": [
+      "instrumental playing"
+    ],
+    "examples": "वादन र गायन मिलेर कार्यक्रम सम्पन्न भयो।",
+    "examplesRomanized": "vadan ra gayan milera karyakram sampanna bhayo.",
+    "exampleEnglish": "The program concluded with a blend of instrumental and vocal music.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "कोरियोग्राफी",
+    "romanization": "choreography",
+    "pos": "noun",
+    "definitions": [
+      "choreography (dance composition)"
+    ],
+    "examples": "कोरियोग्राफीले समूह नृत्यलाई सुव्यवस्थित बनायो।",
+    "examplesRomanized": "choreographyle samuh nrityalai subyavasthit banayo.",
+    "exampleEnglish": "Choreography organized the group dance neatly.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "कोरियोग्राफर",
+    "romanization": "choreographer",
+    "pos": "noun",
+    "definitions": [
+      "choreographer"
+    ],
+    "examples": "कोरियोग्राफरले नर्तकलाई चाल सिकाए।",
+    "examplesRomanized": "choreographerle nartaklai chal sikae.",
+    "exampleEnglish": "The choreographer taught steps to the dancers.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "मञ्च सजावट",
+    "romanization": "manch sajawat",
+    "pos": "noun",
+    "definitions": [
+      "stage decoration; set design"
+    ],
+    "examples": "मञ्च सजावटले दृश्यको वातावरण बढायो।",
+    "examplesRomanized": "manch sajawatle drishyaka vatavaran badayo.",
+    "exampleEnglish": "Stage decoration enhanced the scene's atmosphere.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "प्रकाश व्यवस्था",
+    "romanization": "prakash byabastha",
+    "pos": "noun",
+    "definitions": [
+      "lighting design"
+    ],
+    "examples": "प्रकाश व्यवस्थाले भावलाई केन्द्रित गर्‍यो।",
+    "examplesRomanized": "prakash byabasthale bhavlai kendrit garyo.",
+    "exampleEnglish": "Lighting design focused the mood.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "पोशाक डिजाइन",
+    "romanization": "poshak dizain",
+    "pos": "noun",
+    "definitions": [
+      "costume design"
+    ],
+    "examples": "पोशाक डिजाइनले पात्रको पहिचान बलियो बनायो।",
+    "examplesRomanized": "poshak dizainle patrako pahichan baliyo banayo.",
+    "exampleEnglish": "Costume design strengthened the character's identity.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "सुलेख",
+    "romanization": "sulekh",
+    "pos": "noun",
+    "definitions": [
+      "calligraphy"
+    ],
+    "examples": "सुलेख अभ्यासले अक्षरलाई सुन्दर बनाउँछ।",
+    "examplesRomanized": "sulekh abhyasle aksharlai sundar banaunchha.",
+    "exampleEnglish": "Calligraphy practice beautifies letters.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "ग्राफिक डिजाइन",
+    "romanization": "graphic dizain",
+    "pos": "noun",
+    "definitions": [
+      "graphic design"
+    ],
+    "examples": "ग्राफिक डिजाइनले सन्देशलाई दृश्यात्मक बनाउँछ।",
+    "examplesRomanized": "graphic dizainle sandeshlai drishyatmak banaunchha.",
+    "exampleEnglish": "Graphic design makes messages visual.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "एनिमेशन",
+    "romanization": "animation",
+    "pos": "noun",
+    "definitions": [
+      "animation"
+    ],
+    "examples": "एनिमेशनमार्फत कथा आकर्षक ढङ्गले भनिन्छ।",
+    "examplesRomanized": "animationmargat katha akarshak dhangle bhaninchha.",
+    "exampleEnglish": "Through animation, stories are told engagingly.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "चलचित्र",
+    "romanization": "chalchitra",
+    "pos": "noun",
+    "definitions": [
+      "film; motion picture"
+    ],
+    "examples": "चलचित्रले समाजका विविध पक्ष देखाउँछ।",
+    "examplesRomanized": "chalchitrale samajka vivid pakhya dekhaunchha.",
+    "exampleEnglish": "Films depict various aspects of society.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "पोस्टर",
+    "romanization": "poster",
+    "pos": "noun",
+    "definitions": [
+      "poster"
+    ],
+    "examples": "पोस्टरले कार्यक्रमको जानकारी दिन्छ।",
+    "examplesRomanized": "posterle karyakramko janakari dinchha.",
+    "exampleEnglish": "A poster provides information about an event.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "आलोचना",
+    "romanization": "alochana",
+    "pos": "noun",
+    "definitions": [
+      "critique; criticism (of art/literature)"
+    ],
+    "examples": "आलोचनाले कृतिको शक्तिलाई स्पष्ट गर्छ।",
+    "examplesRomanized": "alochanale kritikо shaktilai spashta garchha.",
+    "exampleEnglish": "Critique clarifies the strengths of a work.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "कलामेला",
+    "romanization": "kalamela",
+    "pos": "noun",
+    "definitions": [
+      "art fair; art festival"
+    ],
+    "examples": "कलामेलामा धेरै कलाकारले आफ्ना काम देखाए।",
+    "examplesRomanized": "kalamelama dherai kalakarle aafna kam dekhae.",
+    "exampleEnglish": "Many artists showcased their work at the art fair.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "चित्रशाला",
+    "romanization": "chitrashala",
+    "pos": "noun",
+    "definitions": [
+      "art studio; atelier"
+    ],
+    "examples": "चित्रशालामा उनी नियमित अभ्यास गर्छिन्।",
+    "examplesRomanized": "chitrashalama uni niyamita abhyas garchhin.",
+    "exampleEnglish": "She practices regularly in the studio.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "रंगमञ्च",
+    "romanization": "rangamanch",
+    "pos": "noun",
+    "definitions": [
+      "theatre; stage"
+    ],
+    "examples": "रंगमञ्चमा नयाँ नाटक मञ्चन भयो।",
+    "examplesRomanized": "rangamanchma naya natak manchan bhayo.",
+    "exampleEnglish": "A new play was staged at the theatre.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "नाट्यशाला",
+    "romanization": "natyashala",
+    "pos": "noun",
+    "definitions": [
+      "playhouse; theatre hall"
+    ],
+    "examples": "नाट्यशालामा दर्शकको भीड थियो।",
+    "examplesRomanized": "natyashalama darshakko bhid thiyo.",
+    "exampleEnglish": "There was a crowd of spectators in the playhouse.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "नाटककार",
+    "romanization": "natakkar",
+    "pos": "noun",
+    "definitions": [
+      "playwright"
+    ],
+    "examples": "नाटककारले समसामयिक मुद्दामा लेखे।",
+    "examplesRomanized": "natakkarle samasamayik muddama lekhe.",
+    "exampleEnglish": "The playwright wrote on contemporary issues.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "नर्तक",
+    "romanization": "nartak",
+    "pos": "noun",
+    "definitions": [
+      "dancer (male or general)"
+    ],
+    "examples": "नर्तकले कठिन चाल सहजतासँग देखाए।",
+    "examplesRomanized": "nartakle kathin chal sahajatasanga dekhae.",
+    "exampleEnglish": "The dancer performed difficult steps with ease.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "नर्तकी",
+    "romanization": "nartaki",
+    "pos": "noun",
+    "definitions": [
+      "dancer (female)"
+    ],
+    "examples": "नर्तकीको भावाभिनय प्रभावकारी थियो।",
+    "examplesRomanized": "nartakiko bhavabhinay prabhavkari thiyo.",
+    "exampleEnglish": "The dancer's expression was impactful.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "वेशभूषा",
+    "romanization": "veshbhuusha",
+    "pos": "noun",
+    "definitions": [
+      "costume; attire"
+    ],
+    "examples": "वेशभूषाले पात्रको परिवेश प्रस्ट्यायो।",
+    "examplesRomanized": "veshbhuushale patrako parivesh prastyayo.",
+    "exampleEnglish": "Costume clarified the character's setting.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "संवाद",
+    "romanization": "samvad",
+    "pos": "noun",
+    "definitions": [
+      "dialogue"
+    ],
+    "examples": "संवाद स्वाभाविक बनाएर अभिनेय बढ्यो।",
+    "examplesRomanized": "samvad swabhavik banaera abhinay badhyo.",
+    "exampleEnglish": "Natural dialogues improved the acting.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "गीत",
+    "romanization": "git",
+    "pos": "noun",
+    "definitions": [
+      "song"
+    ],
+    "examples": "गीतका शब्दले मन छोए।",
+    "examplesRomanized": "gitka shabdale man chhoe.",
+    "exampleEnglish": "The song's lyrics touched the heart.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "धुन",
+    "romanization": "dhun",
+    "pos": "noun",
+    "definitions": [
+      "melody; tune"
+    ],
+    "examples": "धुन सुनेर सबै तानिए।",
+    "examplesRomanized": "dhun sunera sabai taniye.",
+    "exampleEnglish": "Everyone was drawn in by the melody.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "स्वर",
+    "romanization": "swar",
+    "pos": "noun",
+    "definitions": [
+      "voice; note"
+    ],
+    "examples": "उनको स्वर मधुर छ।",
+    "examplesRomanized": "unko swar madhur chha.",
+    "exampleEnglish": "Their voice is sweet.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "आलाप",
+    "romanization": "alap",
+    "pos": "noun",
+    "definitions": [
+      "alap (improvised intro in raga)"
+    ],
+    "examples": "आलापले रागको भाव खोलेको थियो।",
+    "examplesRomanized": "alaple raagko bhav kholeko thiyo.",
+    "exampleEnglish": "The alap opened up the raga's mood.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "तान",
+    "romanization": "taan",
+    "pos": "noun",
+    "definitions": [
+      "taan (fast melodic run)"
+    ],
+    "examples": "तानमा उनको नियन्त्रण प्रशंसनीय छ।",
+    "examplesRomanized": "taanma unko niyantran prashansaniya chha.",
+    "exampleEnglish": "Their control over taan is admirable.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "रियाज",
+    "romanization": "riyaaz",
+    "pos": "noun",
+    "definitions": [
+      "riyaz; rigorous practice (music/dance)"
+    ],
+    "examples": "दैनिक रियाज बिना प्रगति सम्भव छैन।",
+    "examplesRomanized": "dainik riyaaz bina pragati sambhav chaina.",
+    "exampleEnglish": "Progress isn't possible without daily practice.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "प्रस्तुति",
+    "romanization": "prastuti",
+    "pos": "noun",
+    "definitions": [
+      "presentation; performance"
+    ],
+    "examples": "समूह प्रस्तुति अत्यन्त अनुशासित थियो।",
+    "examplesRomanized": "samuh prastuti atyanta anushasit thiyo.",
+    "exampleEnglish": "The group performance was very disciplined.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "दर्शक",
+    "romanization": "darshak",
+    "pos": "noun",
+    "definitions": [
+      "audience; spectator"
+    ],
+    "examples": "दर्शकको प्रतिक्रिया उत्साहजनक रह्यो।",
+    "examplesRomanized": "darshakko pratikriya utsahajanak rahyo.",
+    "exampleEnglish": "Audience response was encouraging.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "ताली",
+    "romanization": "tali",
+    "pos": "noun",
+    "definitions": [
+      "applause; clapping"
+    ],
+    "examples": "प्रस्तुतिपछि लामो ताली बज्यो।",
+    "examplesRomanized": "prastutipachi lamo tali bajyo.",
+    "exampleEnglish": "Long applause followed the performance.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "पर्दा",
+    "romanization": "parda",
+    "pos": "noun",
+    "definitions": [
+      "curtain (stage/screen)"
+    ],
+    "examples": "पर्दा उठेपछि नाटक सुरु भयो।",
+    "examplesRomanized": "parda uthepachi natak suru bhayo.",
+    "exampleEnglish": "The play began after the curtain rose.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "मञ्च व्यवस्थापन",
+    "romanization": "manch byabasthapan",
+    "pos": "noun",
+    "definitions": [
+      "stage management"
+    ],
+    "examples": "मञ्च व्यवस्थापनले प्रवाह सहज बनायो।",
+    "examplesRomanized": "manch byabasthapanle pravah sahaj banayo.",
+    "exampleEnglish": "Stage management made the flow smooth.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "नाट्य निर्देशन",
+    "romanization": "natya nirdeshan",
+    "pos": "noun",
+    "definitions": [
+      "theatre direction"
+    ],
+    "examples": "नाट्य निर्देशन सशक्त र स्पष्ट थियो।",
+    "examplesRomanized": "natya nirdeshan sashakt ra spasta thiyo.",
+    "exampleEnglish": "Theatre direction was strong and clear.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "संवाद लेखन",
+    "romanization": "samvad lekhan",
+    "pos": "noun",
+    "definitions": [
+      "dialogue writing"
+    ],
+    "examples": "संवाद लेखनलाई समय र अवलोकन चाहिन्छ।",
+    "examplesRomanized": "samvad lekhanlai samay ra avlokan chahinchha.",
+    "exampleEnglish": "Dialogue writing requires time and observation.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "सम्पादन",
+    "romanization": "sampadan",
+    "pos": "noun",
+    "definitions": [
+      "editing (film/video)"
+    ],
+    "examples": "सम्पादनको गतिको कारण कथा तंग भयो।",
+    "examplesRomanized": "sampadanko gatiko karan katha tang bhayo.",
+    "exampleEnglish": "Editing pace made the story tight.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "सम्पादक",
+    "romanization": "sampadak",
+    "pos": "noun",
+    "definitions": [
+      "editor (film/video)"
+    ],
+    "examples": "सम्पादकले दृश्यहरू सन्तुलित गरे।",
+    "examplesRomanized": "sampadakle drishya haru santulit gare.",
+    "exampleEnglish": "The editor balanced the scenes.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "ध्वनि",
+    "romanization": "dhwani",
+    "pos": "noun",
+    "definitions": [
+      "sound; audio"
+    ],
+    "examples": "ध्वनि स्वच्छ हुँदा संवाद स्पष्ट सुन्छ।",
+    "examplesRomanized": "dhwani swachchha huda samvad spashta sunchha.",
+    "exampleEnglish": "Clear sound makes dialogues easy to hear.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "ध्वनियोजन",
+    "romanization": "dhwani yojan",
+    "pos": "noun",
+    "definitions": [
+      "sound design"
+    ],
+    "examples": "ध्वनियोजनले वातावरण गहिरो बनायो।",
+    "examplesRomanized": "dhwani yojanle vatavaran gahiro banayo.",
+    "exampleEnglish": "Sound design deepened the atmosphere.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "ध्वनिकार",
+    "romanization": "dhwanikar",
+    "pos": "noun",
+    "definitions": [
+      "sound designer/engineer"
+    ],
+    "examples": "ध्वनिकारले फोली र मिश्रण गरे।",
+    "examplesRomanized": "dhwanikarle foley ra mishran gare.",
+    "exampleEnglish": "The sound designer did the foley and mix.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "पाश्र्व संगीत",
+    "romanization": "pashrv sangeet",
+    "pos": "noun",
+    "definitions": [
+      "background score"
+    ],
+    "examples": "पाश्र्व संगीतले दृश्यलाई भावुक बनायो।",
+    "examplesRomanized": "pashrv sangeetle drishyalai bhavuk banayo.",
+    "exampleEnglish": "The background score made the scene emotional.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "प्लेब्याक गायन",
+    "romanization": "playback gayan",
+    "pos": "noun",
+    "definitions": [
+      "playback singing"
+    ],
+    "examples": "प्लेब्याक गायनले पात्रको भावना बढायो।",
+    "examplesRomanized": "playback gayanle patrako bhavana badayo.",
+    "exampleEnglish": "Playback singing enhanced the character's emotions.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "भित्तिचित्र",
+    "romanization": "bhittichitra",
+    "pos": "noun",
+    "definitions": [
+      "mural"
+    ],
+    "examples": "भित्तिचित्रले सार्वजनिक ठाउँ सजायो।",
+    "examplesRomanized": "bhittichitrale sarvajanik thau sajayo.",
+    "exampleEnglish": "The mural decorated the public space.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "सूक्ष्म चित्र",
+    "romanization": "sukshma chitra",
+    "pos": "noun",
+    "definitions": [
+      "miniature painting"
+    ],
+    "examples": "सूक्ष्म चित्रमा बारीक विस्तृतता हुन्छ।",
+    "examplesRomanized": "sukshma chitramा barik vistarata hunchha.",
+    "exampleEnglish": "Miniature paintings have fine detail.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "व्यङ्ग्यचित्र",
+    "romanization": "vyangyachitra",
+    "pos": "noun",
+    "definitions": [
+      "caricature"
+    ],
+    "examples": "व्यङ्ग्यचित्रले समाजको विडम्बना देखायो।",
+    "examplesRomanized": "vyangyachitrale samajko vidambana dekhaayo.",
+    "exampleEnglish": "Caricature showed society's irony.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "कार्टुन",
+    "romanization": "cartoon",
+    "pos": "noun",
+    "definitions": [
+      "cartoon"
+    ],
+    "examples": "कार्टुनले सन्देशलाई सरल बनाउँछ।",
+    "examplesRomanized": "cartoonle sandeshlai saral banaunchha.",
+    "exampleEnglish": "Cartoons make messages simple.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "टाइपोग्राफी",
+    "romanization": "typography",
+    "pos": "noun",
+    "definitions": [
+      "typography"
+    ],
+    "examples": "टाइपोग्राफीले पढ्ने अनुभव सुधार्छ।",
+    "examplesRomanized": "typographyle padhne anubhav sudharchha.",
+    "exampleEnglish": "Typography improves the reading experience.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "मुद्रण कला",
+    "romanization": "mudran kala",
+    "pos": "noun",
+    "definitions": [
+      "printmaking"
+    ],
+    "examples": "मुद्रण कलामा काठछाप लोकप्रिय छ।",
+    "examplesRomanized": "mudran kalama kathchhap lokpriya chha.",
+    "exampleEnglish": "Woodcut is popular in printmaking.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "मूर्तिकार",
+    "romanization": "murtikar",
+    "pos": "noun",
+    "definitions": [
+      "sculptor"
+    ],
+    "examples": "मूर्तिकारले ढुंगामा जीवन भरे।",
+    "examplesRomanized": "murtikarle dhungama jivan bhare.",
+    "exampleEnglish": "The sculptor breathed life into stone.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "मूर्ति",
+    "romanization": "murti",
+    "pos": "noun",
+    "definitions": [
+      "statue; idol"
+    ],
+    "examples": "मूर्तिको बनावट अत्यन्त सूक्ष्म छ।",
+    "examplesRomanized": "murtiko banawat atyanta sukshma chha.",
+    "exampleEnglish": "The statue's form is very intricate.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "काठकला",
+    "romanization": "kathkala",
+    "pos": "noun",
+    "definitions": [
+      "woodcraft; wood art"
+    ],
+    "examples": "काठकलामा नेवारी नक्कासी प्रसिद्ध छ।",
+    "examplesRomanized": "kathkalama newari nakkasi prasiddha chha.",
+    "exampleEnglish": "Newar woodcarving is renowned in wood art.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "धातुकला",
+    "romanization": "dhatukala",
+    "pos": "noun",
+    "definitions": [
+      "metalwork art"
+    ],
+    "examples": "धातुकलामा ढलाइ र नक्कासी दुवै पर्छ।",
+    "examplesRomanized": "dhatukalama dhalai ra nakkasi duvai parchha.",
+    "exampleEnglish": "Casting and carving both belong to metalwork art.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "कुम्भकला",
+    "romanization": "kumbhakala",
+    "pos": "noun",
+    "definitions": [
+      "pottery; ceramics"
+    ],
+    "examples": "कुम्भकलामा चाकमा भाँडा बनाइन्छ।",
+    "examplesRomanized": "kumbhakalama chakma bhanda banainchha.",
+    "exampleEnglish": "In pottery, vessels are made on the wheel.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "सिरामिक",
+    "romanization": "ceramic",
+    "pos": "noun",
+    "definitions": [
+      "ceramics"
+    ],
+    "examples": "सिरामिक कलामा सतहको ग्लेज महत्त्वपूर्ण हुन्छ।",
+    "examplesRomanized": "ceramic kalama satahko glaze mahatvapurna hunchha.",
+    "exampleEnglish": "Glaze on the surface is important in ceramics.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "उत्कीर्ण",
+    "romanization": "utkirna",
+    "pos": "noun",
+    "definitions": [
+      "engraving; etching"
+    ],
+    "examples": "धातु सतहमाथि उत्कीर्ण बनाइयो।",
+    "examplesRomanized": "dhatu satahmathi utkirna banaiyo.",
+    "exampleEnglish": "Engraving was done on the metal surface.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "नक्कासी",
+    "romanization": "nakkasi",
+    "pos": "noun",
+    "definitions": [
+      "carving"
+    ],
+    "examples": "काठमा नक्कासीले ढोकालाई सुन्दर बनायो।",
+    "examplesRomanized": "kathma nakkasile dhokalai sundar banayo.",
+    "exampleEnglish": "Carving made the door beautiful.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "फ्रेस्को",
+    "romanization": "fresco",
+    "pos": "noun",
+    "definitions": [
+      "fresco (wall-painting technique)"
+    ],
+    "examples": "फ्रेस्कोमा ताजा प्लास्टरमा रंग हालिन्छ।",
+    "examplesRomanized": "frescomma taza plasterma rang halinchha.",
+    "exampleEnglish": "In fresco, color is applied to wet plaster.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "तेलचित्र",
+    "romanization": "telchitra",
+    "pos": "noun",
+    "definitions": [
+      "oil painting"
+    ],
+    "examples": "तेलचित्रमा रंगको तहहरू देखिन्छ।",
+    "examplesRomanized": "telchitrama rangko taharu dekhinchha.",
+    "exampleEnglish": "Layers of color are seen in oil painting.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "जलरंग",
+    "romanization": "jalarang",
+    "pos": "noun",
+    "definitions": [
+      "watercolor"
+    ],
+    "examples": "जलरंगमा पारदर्शिता मुख्य विशेषता हो।",
+    "examplesRomanized": "jalarangma paradarshita mukhya visheshata ho.",
+    "exampleEnglish": "Transparency is a key feature in watercolor.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "काठछाप",
+    "romanization": "kathchhap",
+    "pos": "noun",
+    "definitions": [
+      "woodcut (print)"
+    ],
+    "examples": "काठछापबाट शक्तिशाली ग्राफिक प्रभाव बन्छ।",
+    "examplesRomanized": "kathchhapbatа shaktishali graphic prabhav banchha.",
+    "exampleEnglish": "Woodcut creates a powerful graphic effect.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "लिथोग्राफी",
+    "romanization": "lithography",
+    "pos": "noun",
+    "definitions": [
+      "lithography"
+    ],
+    "examples": "लिथोग्राफीमा पत्थर पट्टिकामा छापिन्छ।",
+    "examplesRomanized": "lithographima patthar pattikama chhapinchha.",
+    "exampleEnglish": "Lithography prints on a stone plate.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "मोनोटाइप",
+    "romanization": "monotype",
+    "pos": "noun",
+    "definitions": [
+      "monotype (printmaking)"
+    ],
+    "examples": "मोनोटाइप प्रत्येक छाप अद्वितीय हुन्छ।",
+    "examplesRomanized": "monotype pratyek chhap advitiya hunchha.",
+    "exampleEnglish": "Every monotype print is unique.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "इन्स्टलेसन आर्ट",
+    "romanization": "installation art",
+    "pos": "noun",
+    "definitions": [
+      "installation art"
+    ],
+    "examples": "इन्स्टलेसन आर्टले स्थानलाई कलाकृतिमा रूपान्तरण गर्छ।",
+    "examplesRomanized": "installation artle sthanlai kalakritima rupantaran garchha.",
+    "exampleEnglish": "Installation art transforms a space into an artwork.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "परफर्मेन्स आर्ट",
+    "romanization": "performance art",
+    "pos": "noun",
+    "definitions": [
+      "performance art"
+    ],
+    "examples": "परफर्मेन्स आर्टमा कलाकार स्वयं माध्यम हुन्छ।",
+    "examplesRomanized": "performance artma kalakar swayam madhyam hunchha.",
+    "exampleEnglish": "In performance art, the artist themself is the medium.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "अवधारणा कला",
+    "romanization": "avadharana kala",
+    "pos": "noun",
+    "definitions": [
+      "conceptual art"
+    ],
+    "examples": "अवधारणा कलामा विचार नै केन्द्रमा हुन्छ।",
+    "examplesRomanized": "avadharana kalama vichar nai kendra ma hunchha.",
+    "exampleEnglish": "In conceptual art, the idea is central.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "समकालीन कला",
+    "romanization": "samkalin kala",
+    "pos": "noun",
+    "definitions": [
+      "contemporary art"
+    ],
+    "examples": "समकालीन कला वर्तमान समाजसँग संवाद गर्छ।",
+    "examplesRomanized": "samkalin kala vartaman samajsanga samvad garchha.",
+    "exampleEnglish": "Contemporary art dialogues with present society.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "आधुनिक कला",
+    "romanization": "adhunik kala",
+    "pos": "noun",
+    "definitions": [
+      "modern art"
+    ],
+    "examples": "आधुनिक कलाले परम्परागत नियम तोड्छ।",
+    "examplesRomanized": "adhunik kalale paramparagat niyam todchha.",
+    "exampleEnglish": "Modern art breaks traditional rules.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "यथार्थवाद",
+    "romanization": "yatharthavad",
+    "pos": "noun",
+    "definitions": [
+      "realism (art movement)"
+    ],
+    "examples": "यथार्थवादले दैनन्दिन जीवन चित्रित गर्छ।",
+    "examplesRomanized": "yatharthavadle dainandin jivan chitrित garchha.",
+    "exampleEnglish": "Realism depicts everyday life.",
+    "frequency": "low",
+    "category": "arts"
+  },
+  {
+    "DevanagriWord": "अमूर्त कला",
+    "romanization": "amurt kala",
+    "pos": "noun",
+    "definitions": [
+      "abstract art"
+    ],
+    "examples": "अमूर्त कलाले रूपभन्दा भावलाई प्राथमिकता दिन्छ।",
+    "examplesRomanized": "amurt kalale rupbhanda bhavlai prathamikta dinchha.",
+    "exampleEnglish": "Abstract art prioritizes feeling over form.",
+    "frequency": "low",
+    "category": "arts"
+  }
+]

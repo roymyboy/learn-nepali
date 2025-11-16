@@ -1,0 +1,535 @@
+[
+  {
+    "DevanagriWord": "खेलकुद",
+    "romanization": "khelkud",
+    "pos": "noun",
+    "definitions": [
+      "sports; athletics"
+    ],
+    "examples": "हामी खेलकुदमा सहभागी भयौँ।",
+    "examplesRomanized": "hami khelkudma sahabhagi bhayau.",
+    "exampleEnglish": "We participated in sports.",
+    "frequency": "low",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "खेल्",
+    "romanization": "khel",
+    "pos": "noun",
+    "definitions": [
+      "game; play"
+    ],
+    "examples": "विद्यालयमा हरेक विद्यार्थी खेलकुदमा उत्साहपूर्वक सहभागी हुन्छन्।",
+    "examplesRomanized": "harek khelma utsahpurvak sahabhagi hunchhan.",
+    "exampleEnglish": "Everyone participates enthusiastically in games.",
+    "frequency": "high",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "फुटबल",
+    "romanization": "phutbal",
+    "pos": "noun",
+    "definitions": [
+      "football; soccer"
+    ],
+    "examples": "आज फुटबलको खेल छ।",
+    "examplesRomanized": "aaj phutbalko khel chha.",
+    "exampleEnglish": "There's a football match today.",
+    "frequency": "low",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "क्रिकेट",
+    "romanization": "kriket",
+    "pos": "noun",
+    "definitions": [
+      "cricket"
+    ],
+    "examples": "हामी क्रिकेट खेल्न मैदान गयौँ।",
+    "examplesRomanized": "hami kriket khelna maidan gayaun.",
+    "exampleEnglish": "We went to the ground to play cricket.",
+    "frequency": "low",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "भलिबल",
+    "romanization": "bhalibal",
+    "pos": "noun",
+    "definitions": [
+      "volleyball"
+    ],
+    "examples": "भलिबलको प्रतियोगिता सुरु भयो।",
+    "examplesRomanized": "bhalibalko pratiyogita suru bhayo.",
+    "exampleEnglish": "The volleyball tournament started.",
+    "frequency": "low",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "बास्केटबल",
+    "romanization": "basketbal",
+    "pos": "noun",
+    "definitions": [
+      "basketball"
+    ],
+    "examples": "उनीले बास्केटबल राम्रो खेल्छन्।",
+    "examplesRomanized": "unile basketbal ramro khelchhan.",
+    "exampleEnglish": "He plays basketball well.",
+    "frequency": "low",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "एथलेटिक्स",
+    "romanization": "athletics",
+    "pos": "noun",
+    "definitions": [
+      "athletics (track and field)"
+    ],
+    "examples": "एथलेटिक्समा स्वर्ण पदक जितियो।",
+    "examplesRomanized": "athleticsma swarna padak jiti yo.",
+    "exampleEnglish": "A gold medal was won in athletics.",
+    "frequency": "low",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "कुस्ती",
+    "romanization": "kusti",
+    "pos": "noun",
+    "definitions": [
+      "wrestling"
+    ],
+    "examples": "कुस्तीको अभ्यास बिहान हुन्छ।",
+    "examplesRomanized": "kustiko abhyas bihan hunchha.",
+    "exampleEnglish": "Wrestling practice is in the morning.",
+    "frequency": "low",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "टेक्वान्डो",
+    "romanization": "taekwondo",
+    "pos": "noun",
+    "definitions": [
+      "taekwondo"
+    ],
+    "examples": "उनले टेक्वान्डोमा तालीम लिए।",
+    "examplesRomanized": "unle taekwondoma talim liye.",
+    "exampleEnglish": "He took training in taekwondo.",
+    "frequency": "low",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "धावन",
+    "romanization": "dhawan",
+    "pos": "noun",
+    "definitions": [
+      "running; track (event)"
+    ],
+    "examples": "धावन प्रतियोगिता भोली छ।",
+    "examplesRomanized": "dhawan pratiyogita bholi chha.",
+    "exampleEnglish": "The running event is tomorrow.",
+    "frequency": "low",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "तैराकी",
+    "romanization": "tairaki",
+    "pos": "noun",
+    "definitions": [
+      "swimming"
+    ],
+    "examples": "तैराकीको अभ्यास नियमित गर्नुहोस्।",
+    "examplesRomanized": "tairakiko abhyas niyamit garnuhos.",
+    "exampleEnglish": "Practice swimming regularly.",
+    "frequency": "low",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "जिम्नास्टिक्स",
+    "romanization": "gymnastics",
+    "pos": "noun",
+    "definitions": [
+      "gymnastics"
+    ],
+    "examples": "जिम्नास्टिक्समा लचकता आवश्यक हुन्छ।",
+    "examplesRomanized": "gymnasticsma lachakta aawashyak hunchha.",
+    "exampleEnglish": "Flexibility is necessary in gymnastics.",
+    "frequency": "low",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "हात्ती दौड",
+    "romanization": "hatti daud",
+    "pos": "noun",
+    "definitions": [
+      "A competitive running race, typically referring to sprinting or marathons."
+    ],
+    "examples": "विद्यालयले हात्ती दौडको प्रतियोगिता आयोजना गर्यो।",
+    "examplesRomanized": "vidyalay le hatti daud ko pratiyogita aayojana garyo.",
+    "exampleEnglish": "The school organized a running race competition.",
+    "frequency": "low",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "तैराकी प्रतियोगिता",
+    "romanization": "tairaki pratiyogita",
+    "pos": "noun",
+    "definitions": [
+      "A swimming competition where participants race in various swimming styles."
+    ],
+    "examples": "सांगीतिक कार्यक्रममा तैराकी प्रतियोगिता भयो।",
+    "examplesRomanized": "sangitik karyakramma tairaki pratiyogita bhayo.",
+    "exampleEnglish": "A swimming competition was held at the event.",
+    "frequency": "medium",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "टेबल टेनिस",
+    "romanization": "table tennis",
+    "pos": "noun",
+    "definitions": [
+      "A sport where two or four players hit a lightweight ball back and forth on a table divided by a net."
+    ],
+    "examples": "हामीले स्कुलमा टेबल टेनिस खेल्यौं।",
+    "examplesRomanized": "hamile schoolma table tennis khelyau.",
+    "exampleEnglish": "We played table tennis at school.",
+    "frequency": "medium",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "हात्ती बल",
+    "romanization": "hatti bal",
+    "pos": "noun",
+    "definitions": [
+      "An informal term sometimes used for dodgeball or ball games involving quick throws and dodges."
+    ],
+    "examples": "हाम्रो समूहले हात्ती बल खेल्दै रमाइलो गर्‍यो।",
+    "examplesRomanized": "hamro samuh le hatti bal kheldai ramailo garyo.",
+    "exampleEnglish": "Our group had fun playing dodgeball.",
+    "frequency": "low",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "तैराकी तालिम",
+    "romanization": "tairaki talim",
+    "pos": "noun",
+    "definitions": [
+      "Swimming training sessions to improve technique, stamina, and speed."
+    ],
+    "examples": "बच्चाहरूलाई तैराकी तालिम दिनु आवश्यक छ।",
+    "examplesRomanized": "bachaharu lai tairaki talim dinu aawashyak chha.",
+    "exampleEnglish": "It is necessary to provide swimming training to children.",
+    "frequency": "medium",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "रग्बी",
+    "romanization": "rugby",
+    "pos": "noun",
+    "definitions": [
+      "A contact team sport played with an oval ball, where teams attempt to score by grounding the ball in the opponent’s goal area."
+    ],
+    "examples": "नेपालमा रग्बीको लोकप्रियता बढ्दैछ।",
+    "examplesRomanized": "Nepal ma rugby ko lokpriyata baddai chha.",
+    "exampleEnglish": "Rugby is becoming increasingly popular in Nepal.",
+    "frequency": "medium",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "शूटिङ",
+    "romanization": "shooting",
+    "pos": "noun",
+    "definitions": [
+      "A sport involving the use of firearms or bows to hit a target accurately."
+    ],
+    "examples": "उनले शूटिङ प्रतियोगितामा स्वर्ण पदक जिते।",
+    "examplesRomanized": "unle shooting pratiyogita ma swarn padak jite.",
+    "exampleEnglish": "He won a gold medal in the shooting competition.",
+    "frequency": "medium",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "क्याराटे",
+    "romanization": "karate",
+    "pos": "noun",
+    "definitions": [
+      "A martial art focusing on punches, kicks, and defensive techniques."
+    ],
+    "examples": "बालबालिकालाई क्याराटे सिकाउने कक्षा सञ्चालन हुन्छ।",
+    "examplesRomanized": "balbalika lai karate sikaune kaksha sanchalan hunchha.",
+    "exampleEnglish": "Classes are conducted to teach children karate.",
+    "frequency": "medium",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "परम्परागत खेल",
+    "romanization": "paramparagat khel",
+    "pos": "noun",
+    "definitions": [
+      "Traditional or indigenous games played in villages or cultural festivals."
+    ],
+    "examples": "गाउँमा परम्परागत खेलहरु अझै खेलिन्छन्।",
+    "examplesRomanized": "gaun ma paramparagat khel haru ajhai khelinchhan.",
+    "exampleEnglish": "Traditional games are still played in the village.",
+    "frequency": "medium",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "प्रतियोगिता",
+    "romanization": "pratiyogita",
+    "pos": "noun",
+    "definitions": [
+      "A competition or contest, often in sports or games."
+    ],
+    "examples": "विद्यालयमा फुटबल प्रतियोगिता आयोजना भयो।",
+    "examplesRomanized": "vidyalay ma football pratiyogita aayojana bhayo.",
+    "exampleEnglish": "A football competition was organized at school.",
+    "frequency": "high",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "अन्तरविद्यालयी खेल",
+    "romanization": "antarvidyalayi khel",
+    "pos": "noun",
+    "definitions": [
+      "Inter-school sports competitions where students from different schools compete."
+    ],
+    "examples": "अन्तरविद्यालयी खेलमा हाम्रो टोलीले ट्रफी जित्यो।",
+    "examplesRomanized": "antarvidyalayi khel ma hamro toli le trophy jityo.",
+    "exampleEnglish": "Our team won the trophy in the inter-school sports competition.",
+    "frequency": "medium",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "भौतिक प्रशिक्षण",
+    "romanization": "bhautik prashikshan",
+    "pos": "noun",
+    "definitions": [
+      "Physical training or conditioning exercises to improve strength, stamina, and fitness."
+    ],
+    "examples": "खेलाडीहरूले नियमित भौतिक प्रशिक्षण गर्छन्।",
+    "examplesRomanized": "kheladi harule niyamit bhautik prashikshan garchhan.",
+    "exampleEnglish": "Athletes undergo regular physical training.",
+    "frequency": "medium",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "साँस्कृतिक खेल",
+    "romanization": "sanskrutik khel",
+    "pos": "noun",
+    "definitions": [
+      "Games or sports that reflect cultural traditions or are played during festivals."
+    ],
+    "examples": "गणतन्त्र दिवसमा साँस्कृतिक खेल प्रदर्शन गरिन्छ।",
+    "examplesRomanized": "ganatantra diwas ma sanskrutik khel pradarshan garinchha.",
+    "exampleEnglish": "Cultural games are performed on Republic Day.",
+    "frequency": "medium",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "मिनी खेल",
+    "romanization": "mini khel",
+    "pos": "noun",
+    "definitions": [
+      "Small-scale games or sports, often indoor or casual competitions."
+    ],
+    "examples": "विद्यालयको खेलकुद दिवसमा मिनी खेल आयोजना गरियो।",
+    "examplesRomanized": "vidyalay ko khelkud diwas ma mini khel aayojana garyo.",
+    "exampleEnglish": "Mini-games were organized on the school sports day.",
+    "frequency": "low",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "टीम खेल",
+    "romanization": "team khel",
+    "pos": "noun",
+    "definitions": [
+      "Games or sports played by a group of players forming teams against each other."
+    ],
+    "examples": "फुटबल र भलिबल टीम खेलका उदाहरण हुन्।",
+    "examplesRomanized": "football ra volleyball team khel ka udaharan hun.",
+    "exampleEnglish": "Football and volleyball are examples of team sports.",
+    "frequency": "high",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "एकल खेल",
+    "romanization": "ekal khel",
+    "pos": "noun",
+    "definitions": [
+      "Individual sports or games where a single player competes alone."
+    ],
+    "examples": "टेबल टेनिस र शतरंज एकल खेल हुन्।",
+    "examplesRomanized": "table tennis ra shatranj ekal khel hun.",
+    "exampleEnglish": "Table tennis and chess are examples of individual sports.",
+    "frequency": "medium",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "खेलकुद उत्सव",
+    "romanization": "khelkud utsav",
+    "pos": "noun",
+    "definitions": [
+      "A sports festival where various games and competitions are held."
+    ],
+    "examples": "विद्यालयले वार्षिक खेलकुद उत्सव आयोजना गर्‍यो।",
+    "examplesRomanized": "vidyalay le warshik khelkud utsav aayojana garyo.",
+    "exampleEnglish": "The school organized the annual sports festival.",
+    "frequency": "medium",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "दौड",
+    "romanization": "daud",
+    "pos": "noun",
+    "definitions": [
+      "A race or running event, usually part of track and field sports."
+    ],
+    "examples": "विद्यालयको वार्षिक खेलकुदमा १०० मिटर दौड भयो।",
+    "examplesRomanized": "vidyalay ko warshik khelkud ma 100 meter daud bhayo.",
+    "exampleEnglish": "A 100-meter race was held at the school's annual sports event.",
+    "frequency": "high",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "पिङ पङ",
+    "romanization": "ping pang",
+    "pos": "noun",
+    "definitions": [
+      "Table tennis; a fast-paced indoor racket sport."
+    ],
+    "examples": "स्कुलमा पिङ पङ प्रतियोगिता आयोजना गरियो।",
+    "examplesRomanized": "school ma ping pang pratiyogita aayojana garyo.",
+    "exampleEnglish": "A table tennis competition was organized at the school.",
+    "frequency": "medium",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "शतरंज",
+    "romanization": "shatranj",
+    "pos": "noun",
+    "definitions": [
+      "Chess; a strategic board game played between two players."
+    ],
+    "examples": "उनले शतरंजमा राष्ट्रिय स्तरको प्रतियोगिता जिते।",
+    "examplesRomanized": "unle shatranj ma rashtriya star ko pratiyogita jite.",
+    "exampleEnglish": "He won a national-level chess competition.",
+    "frequency": "medium",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "क्रिकेट ब्याट",
+    "romanization": "cricket bat",
+    "pos": "noun",
+    "definitions": [
+      "The wooden bat used by players to hit the ball in cricket."
+    ],
+    "examples": "खेलाडीले बल हान्न क्रिकेट ब्याट समाए।",
+    "examplesRomanized": "kheladi le bal haann cricket bat samaye.",
+    "exampleEnglish": "The player held the cricket bat to hit the ball.",
+    "frequency": "medium",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "गोलपोस्ट",
+    "romanization": "goal post",
+    "pos": "noun",
+    "definitions": [
+      "The frame or structure in football or hockey where players aim to score goals."
+    ],
+    "examples": "खेलाडीले बल गोलपोस्टमा प्रहार गर्‍यो।",
+    "examplesRomanized": "kheladi le bal goal post ma prahar garyo.",
+    "exampleEnglish": "The player struck the ball toward the goal post.",
+    "frequency": "medium",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "साइकल रेस",
+    "romanization": "cycle race",
+    "pos": "noun",
+    "definitions": [
+      "A competition where participants race bicycles over a set distance."
+    ],
+    "examples": "साइकल रेसमा धेरै प्रतिस्पर्धी सहभागी भए।",
+    "examplesRomanized": "cycle race ma dherai pratispardhi sahabhagi bhaye.",
+    "exampleEnglish": "Many competitors participated in the cycling race.",
+    "frequency": "medium",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "स्नोकर",
+    "romanization": "snooker",
+    "pos": "noun",
+    "definitions": [
+      "A cue sport played on a rectangular table with 21 colored balls and a cue stick."
+    ],
+    "examples": "शहरमा स्नोकर प्रतियोगिता आयोजना भयो।",
+    "examplesRomanized": "shahar ma snooker pratiyogita aayojana bhayo.",
+    "exampleEnglish": "A snooker competition was organized in the city.",
+    "frequency": "medium",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "हाकी",
+    "romanization": "hockey",
+    "pos": "noun",
+    "definitions": [
+      "A team sport played on a field or indoor surface, where players use sticks to hit a ball into the opponent’s goal."
+    ],
+    "examples": "नेपालको राष्ट्रिय हाकी टोली उत्कृष्ट प्रदर्शन गर्‍यो।",
+    "examplesRomanized": "Nepal ko rashtriya hockey toli utkrista pradarshan garyo.",
+    "exampleEnglish": "Nepal’s national hockey team performed excellently.",
+    "frequency": "high",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "सर्फिङ",
+    "romanization": "surfing",
+    "pos": "noun",
+    "definitions": [
+      "A water sport where a person rides waves on a surfboard."
+    ],
+    "examples": "समुद्रमा सर्फिङ गर्दा धेरै मजा आउँछ।",
+    "examplesRomanized": "samudra ma surfing garda dherai maja aunchha.",
+    "exampleEnglish": "Surfing in the sea is very enjoyable.",
+    "frequency": "low",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "पेटान्क",
+    "romanization": "petank",
+    "pos": "noun",
+    "definitions": [
+      "A sport in which players throw metal balls as close as possible to a smaller target ball."
+    ],
+    "examples": "बगैँचामा पेटान्क खेलिँदै थियो।",
+    "examplesRomanized": "bagaicha ma petank khelindai thiyo.",
+    "exampleEnglish": "Petanque was being played in the garden.",
+    "frequency": "low",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "डायभिङ",
+    "romanization": "diving",
+    "pos": "noun",
+    "definitions": [
+      "A water sport in which a person jumps or falls into water from a platform or springboard, often performing acrobatics."
+    ],
+    "examples": "अन्तर्राष्ट्रिय प्रतियोगितामा डायभिङ खेलाइयो।",
+    "examplesRomanized": "antararastriya pratiyogita ma diving khelaio.",
+    "exampleEnglish": "Diving was included in the international competition.",
+    "frequency": "medium",
+    "category": "sports"
+  },
+  {
+    "DevanagriWord": "माराथन",
+    "romanization": "marathon",
+    "pos": "noun",
+    "definitions": [
+      "A long-distance running race, typically 42.195 kilometers."
+    ],
+    "examples": "सहरमा वार्षिक माराथन प्रतियोगिता आयोजना भयो।",
+    "examplesRomanized": "shahar ma warshik marathon pratiyogita aayojana bhayo.",
+    "exampleEnglish": "The annual marathon competition was held in the city.",
+    "frequency": "high",
+    "category": "sports"
+  }
+]

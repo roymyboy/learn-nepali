@@ -1,0 +1,249 @@
+[
+  {
+    "DevanagriWord": "नै",
+    "romanization": "nai",
+    "pos": "particle",
+    "definitions": [
+      "emphatic/limiting particle (exactly; just)"
+    ],
+    "examples": "यही नै किताब हो।",
+    "examplesRomanized": "yahi nai kitab ho.",
+    "exampleEnglish": "This is the very book.",
+    "frequency": "low",
+    "category": "particles"
+  },
+  {
+    "DevanagriWord": "पो",
+    "romanization": "po",
+    "pos": "particle",
+    "definitions": [
+      "unexpected/discourse particle"
+    ],
+    "examples": "उ पो यहाँ रहेछ!",
+    "examplesRomanized": "u po yahaa rahechha!",
+    "exampleEnglish": "Oh, he's here after all!",
+    "frequency": "low",
+    "category": "particles"
+  },
+  {
+    "DevanagriWord": "भने",
+    "romanization": "bhane",
+    "pos": "particle",
+    "definitions": [
+      "quotative/conditional particle"
+    ],
+    "examples": "उसले भने, ‘म आउँछु’।",
+    "examplesRomanized": "usle bhane, 'ma aauchhu'.",
+    "exampleEnglish": "He said, 'I'll come'.",
+    "frequency": "low",
+    "category": "particles"
+  },
+  {
+    "DevanagriWord": "त",
+    "romanization": "ta",
+    "pos": "particle",
+    "definitions": [
+      "topic/emphasis particle"
+    ],
+    "examples": "तिमी त राम्रो छौ।",
+    "examplesRomanized": "timi ta ramro chhau.",
+    "exampleEnglish": "You, though, are good.",
+    "frequency": "low",
+    "category": "particles"
+  },
+  {
+    "DevanagriWord": "जस्तो",
+    "romanization": "jasto",
+    "pos": "particle",
+    "definitions": [
+      "comparative particle (like, as)"
+    ],
+    "examples": "तिमी मेरो साथी जस्तो छौ।",
+    "examplesRomanized": "timi mero sathi jasto chhau.",
+    "exampleEnglish": "You are like my friend.",
+    "frequency": "medium",
+    "category": "particles"
+  },
+  {
+    "DevanagriWord": "भइ",
+    "romanization": "bhai",
+    "pos": "particle",
+    "definitions": [
+      "resultative particle (then; so)"
+    ],
+    "examples": "म गएँ, भइ ऊ पनि आयो।",
+    "examplesRomanized": "ma gae, bhai u pani ayo.",
+    "exampleEnglish": "I went, so he also came.",
+    "frequency": "medium",
+    "category": "particles"
+  },
+  {
+    "DevanagriWord": "गर्छ",
+    "romanization": "garchha",
+    "pos": "particle",
+    "definitions": [
+      "habitual/result particle (does/does it)"
+    ],
+    "examples": "ऊ पढ्छ, काम गर्छ।",
+    "examplesRomanized": "u padhchha, kaam garchha.",
+    "exampleEnglish": "He studies and works.",
+    "frequency": "medium",
+    "category": "particles"
+  },
+  {
+    "DevanagriWord": "भइहाल्यो",
+    "romanization": "bhaihalyo",
+    "pos": "particle",
+    "definitions": [
+      "completed/resultative particle (done; finished)"
+    ],
+    "examples": "काम भइहाल्यो।",
+    "examplesRomanized": "kaam bhaihalyo.",
+    "exampleEnglish": "The work is done.",
+    "frequency": "medium",
+    "category": "particles"
+  },
+  {
+    "DevanagriWord": "लाई",
+    "romanization": "lai",
+    "pos": "particle",
+    "definitions": [
+      "dative/benefactive particle (to; for)"
+    ],
+    "examples": "म किताब उसलाई दिन्छु।",
+    "examplesRomanized": "ma kitab uslai dinchhu.",
+    "exampleEnglish": "I give the book to him.",
+    "frequency": "high",
+    "category": "particles"
+  },
+  {
+    "DevanagriWord": "बाट",
+    "romanization": "bat",
+    "pos": "particle",
+    "definitions": [
+      "from (source/agent)"
+    ],
+    "examples": "पत्र स्कूलबाट आयो।",
+    "examplesRomanized": "patra schoolbat ayo.",
+    "exampleEnglish": "The letter came from the school.",
+    "frequency": "high",
+    "category": "particles"
+  },
+  {
+    "DevanagriWord": "जस्तोसुकै",
+    "romanization": "jastosukai",
+    "pos": "particle",
+    "definitions": [
+      "whatever kind; any"
+    ],
+    "examples": "जस्तोसुकै परिस्थितिमा पनि।",
+    "examplesRomanized": "jastosukai paristhitima pani.",
+    "exampleEnglish": "In any kind of situation.",
+    "frequency": "medium",
+    "category": "particles"
+  },
+  {
+    "DevanagriWord": "भरि",
+    "romanization": "bhari",
+    "pos": "particle",
+    "definitions": [
+      "throughout; all over"
+    ],
+    "examples": "दिनभरि पढ्नुहोस्।",
+    "examplesRomanized": "dinbhari padhnuhos.",
+    "exampleEnglish": "Study throughout the day.",
+    "frequency": "medium",
+    "category": "particles"
+  },
+  {
+    "DevanagriWord": "विना",
+    "romanization": "vina",
+    "pos": "particle",
+    "definitions": [
+      "without"
+    ],
+    "examples": "खाना विना आउनुहोस्।",
+    "examplesRomanized": "khana vina aunu hos.",
+    "exampleEnglish": "Come without food.",
+    "frequency": "medium",
+    "category": "particles"
+  },
+  {
+    "DevanagriWord": "भन्ने",
+    "romanization": "bhane",
+    "pos": "particle",
+    "definitions": [
+      "quotative/relating to speech"
+    ],
+    "examples": "उसले भन्नेको अर्थ बुझ्नुपर्छ।",
+    "examplesRomanized": "usle bhanneko artha bujhnu parchha.",
+    "exampleEnglish": "One must understand what he said.",
+    "frequency": "medium",
+    "category": "particles"
+  },
+  {
+    "DevanagriWord": "नैनी",
+    "romanization": "naini",
+    "pos": "particle",
+    "definitions": [
+      "emphatic reinforcement"
+    ],
+    "examples": "यही नैनी हो।",
+    "examplesRomanized": "yahi naini ho.",
+    "exampleEnglish": "This is exactly it.",
+    "frequency": "low",
+    "category": "particles"
+  },
+  {
+    "DevanagriWord": "बस",
+    "romanization": "bas",
+    "pos": "particle",
+    "definitions": [
+      "limit/stop particle"
+    ],
+    "examples": "बस, पर्याप्त भयो।",
+    "examplesRomanized": "bas, paryapt bhayo.",
+    "exampleEnglish": "Stop, that’s enough.",
+    "frequency": "medium",
+    "category": "particles"
+  },
+  {
+    "DevanagriWord": "भन्ने कुरा",
+    "romanization": "bhane kura",
+    "pos": "particle",
+    "definitions": [
+      "regarding what is said"
+    ],
+    "examples": "भन्ने कुरा बुझ्नुपर्छ।",
+    "examplesRomanized": "bhane kura bujhnu parchha.",
+    "exampleEnglish": "One must understand the matter being said.",
+    "frequency": "medium",
+    "category": "particles"
+  },
+  {
+    "DevanagriWord": "संगैसंगै",
+    "romanization": "sangaisangai",
+    "pos": "particle",
+    "definitions": [
+      "simultaneously; together"
+    ],
+    "examples": "खेल संगैसंगै सुरु भयो।",
+    "examplesRomanized": "khel sangaisangai suru bhayo.",
+    "exampleEnglish": "The game started simultaneously.",
+    "frequency": "medium",
+    "category": "particles"
+  },
+  {
+    "DevanagriWord": "रैछ",
+    "romanization": "raichha",
+    "pos": "particle",
+    "definitions": [
+      "evidential particle (apparently)"
+    ],
+    "examples": "ऊ यहाँ रैछ।",
+    "examplesRomanized": "u yaha raichha.",
+    "exampleEnglish": "He is apparently here.",
+    "frequency": "medium",
+    "category": "particles"
+  }
+]

@@ -1,0 +1,1532 @@
+[
+  {
+    "DevanagriWord": "तिहार",
+    "romanization": "tihar",
+    "pos": "proper_noun",
+    "definitions": [
+      "Five-day Hindu festival of lights celebrated nationwide, honoring crows, dogs, cows, and sibling bonds.",
+      "Widely observed in urban and rural Nepal; especially vibrant in Kathmandu Valley, Tarai towns, and hill districts.",
+      "Primarily celebrated by Nepali Hindus and Newars (as Mha Puja/Yamari Punhi linkage), with participation from many communities."
+    ],
+    "examples": "तिहारमा घरमा दीप जलाइन्छ।",
+    "examplesRomanized": "tiharma gharma dip jalainchha.",
+    "exampleEnglish": "During Tihar, lamps are lit at home.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "विवाह पञ्चमी",
+    "romanization": "vivah panchami",
+    "pos": "proper_noun",
+    "definitions": [
+      "Commemoration of the divine marriage of Rama and Sita marked by grand processions and rituals in Janakpur.",
+      "Centred in Madhesh Province (Janakpur and surrounding Tarai districts), drawing pilgrims from Nepal and India.",
+      "Celebrated mainly by Maithil/Madhesi Hindus, with broad Hindu participation."
+    ],
+    "examples": "विवाह पञ्चमीमा जनकपुरमा विशेष मेला लाग्छ।",
+    "examplesRomanized": "vivah panchamima janakpurma vishes mela lagchha.",
+    "exampleEnglish": "A special fair is held in Janakpur on Vivah Panchami.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "कुशे औँसी",
+    "romanization": "kushe aunsi",
+    "pos": "proper_noun",
+    "definitions": [
+      "Day to honor fathers/ancestors; people offer prayers, gifts, and remembrance.",
+      "Observed across Nepal in homes and temples; city shrines and ghats see heavy crowds.",
+      "Observed widely by Hindu households across ethnic groups."
+    ],
+    "examples": "कुशे औँसीमा बाबुलाई सम्मान गरिन्छ।",
+    "examplesRomanized": "kushe aunsima babulai sammaan garinchha.",
+    "exampleEnglish": "On Kuse Aunsi, fathers are honored.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "मातातीर्थ औँसी",
+    "romanization": "mata tirtha aunsi",
+    "pos": "proper_noun",
+    "definitions": [
+      "Day of honoring mothers and departed maternal ancestors; offerings and visits to mothers are customary.",
+      "Famous pilgrimage at Mata Tirtha (Kathmandu), with observances nationwide.",
+      "Primarily observed by Hindu communities; widely followed across ethnic groups."
+    ],
+    "examples": "मातातीर्थ औँसीमा आमालाई भेटेर आशीर्वाद लिन्छन्।",
+    "examplesRomanized": "mata tirtha aunsima aamalai bhetara ashirbad linchhan.",
+    "exampleEnglish": "On Mata Tirtha Aunsi, people visit mothers for blessings.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "गठेमंगल (घण्टाकर्ण)",
+    "romanization": "gathemangal (ghantakarna)",
+    "pos": "proper_noun",
+    "definitions": [
+      "Newar festival to ward off evil and illness; effigies are erected and symbolically driven away/burned.",
+      "Most prominent in Kathmandu Valley Newar settlements; also observed in nearby towns.",
+      "Celebrated by Newars; other Hindu neighbors often join local customs."
+    ],
+    "examples": "गठेमंगलमा अशुभ शक्तिलाई ताडना गरिन्छ।",
+    "examplesRomanized": "gathemangalma ashubh shaktilai tadana garinchha.",
+    "exampleEnglish": "On Gathemangal, evil forces are ritually driven away.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "हरिबोधिनी एकादशी",
+    "romanization": "haribodhini ekadashi",
+    "pos": "proper_noun",
+    "definitions": [
+      "Sacred Ekadashi marking the close of Chaturmas; devotees fast and visit Vishnu temples.",
+      "Observed across Nepal; notable crowds at Narayan temples in Kathmandu Valley and hill regions.",
+      "Celebrated mainly by Hindu Vaishnav devotees across diverse ethnic groups."
+    ],
+    "examples": "हरिबोधिनी एकादशीमा तीर्थयात्रा गरिन्छ।",
+    "examplesRomanized": "haribodhini ekadashima tirthayatra garinchha.",
+    "exampleEnglish": "Pilgrimages are undertaken on Haribodhini Ekadashi.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "गोसायँकुण्ड मेला",
+    "romanization": "gosainkunda mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Pilgrimage fair to the alpine lake Gosaikunda during Janai Purnima; ritual bathing and thread-changing.",
+      "Centres in Rasuwa (Langtang region); pilgrims trek from across Nepal and India.",
+      "Observed by Hindu and Buddhist devotees (Tamang, Sherpa, and hill Hindu communities)."
+    ],
+    "examples": "गोसायँकुण्ड मेलामा भक्तजन गोसाइँकुण्ड पुग्छन्।",
+    "examplesRomanized": "gosainkunda melama bhaktajan gosainkunda pugchhan.",
+    "exampleEnglish": "Devotees trek to Gosaikunda during the fair.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "मकर मेला (पनौती)",
+    "romanization": "makar mela (panauti)",
+    "pos": "proper_noun",
+    "definitions": [
+      "Periodic holy fair held at Panauti at the confluence of rivers; ritual baths and donations earn merit.",
+      "Focused in Panauti (Kavrepalanchok) with visitors from the Valley and mid-hills.",
+      "Observed by Hindu communities across ethnic lines."
+    ],
+    "examples": "मकर मेलामा स्नान तथा दानको पुण्य मानिन्छ।",
+    "examplesRomanized": "makar melama snan tatha dan ko punya maninchha.",
+    "exampleEnglish": "Bathing and charity are considered meritorious at Makar Mela.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "गुन्ला पर्व",
+    "romanization": "gunla parva",
+    "pos": "proper_noun",
+    "definitions": [
+      "Newar Buddhist holy month marked by dawn musical processions, alms, and monastery circumambulations.",
+      "Centred in Kathmandu Valley Newar Buddhist quarters; also noted in Newar towns.",
+      "Celebrated primarily by Newar Buddhists; other Buddhists also participate."
+    ],
+    "examples": "गुन्ला पर्वमा विहार परिक्रमा गरिन्छ।",
+    "examplesRomanized": "gunla parwama vihar parikrama garinchha.",
+    "exampleEnglish": "During Gunla, devotees circumambulate monasteries.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "तुलसी विवाह",
+    "romanization": "tulsi vivah",
+    "pos": "proper_noun",
+    "definitions": [
+      "Ritual marriage of the Tulsi plant to Vishnu, signaling start of the marriage season.",
+      "Observed at household courtyards and Vaishnav temples across Nepal.",
+      "Practiced chiefly by Hindu Vaishnav households across ethnic groups."
+    ],
+    "examples": "तुलसी विवाहमा तुलसीको मण्डप सजाइन्छ।",
+    "examplesRomanized": "tulsi vivahma tulsiko mandap sajainchha.",
+    "exampleEnglish": "A pavilion is decorated for Tulsi Vivah.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "नेपाली नयाँ वर्ष",
+    "romanization": "nepali naya barsha",
+    "pos": "proper_noun",
+    "definitions": [
+      "Bikram Samvat New Year on Baisakh 1; marked by processions, picnics, and temple visits.",
+      "Celebrated nationwide; fairs and concerts common in cities and towns.",
+      "Observed across communities and ethnic groups."
+    ],
+    "examples": "नेपाली नयाँ वर्षमा शुभकामना आदानप्रदान गरिन्छ।",
+    "examplesRomanized": "nepali naya barshama shubhakamana adanpradan garinchha.",
+    "exampleEnglish": "Greetings are exchanged on Nepali New Year.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "हनुमान जयन्ती",
+    "romanization": "hanuman jayanti",
+    "pos": "proper_noun",
+    "definitions": [
+      "Festival marking the birth of Hanuman; devotees visit Hanuman shrines and recite Ramayana hymns.",
+      "Observed in cities and towns throughout Nepal; major temples see special aarti.",
+      "Celebrated by Hindu devotees across ethnic communities."
+    ],
+    "examples": "हनुमान जयन्तीमा मन्दिरमा आरती हुन्छ।",
+    "examplesRomanized": "hanuman jayantima mandirma aarti hunchha.",
+    "exampleEnglish": "Aarti is performed at temples on Hanuman Jayanti.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "रक्षाबन्धन",
+    "romanization": "rakshabandhan",
+    "pos": "proper_noun",
+    "definitions": [
+      "Festival affirming the bond of protection between siblings; sisters tie rakhi/doro and pray for brothers’ well‑being.",
+      "Observed across Nepal in both hills and Tarai; often coincides with Janai Purnima wrist thread traditions.",
+      "Celebrated mainly by Hindu households across many ethnic groups."
+    ],
+    "examples": "रक्षाबन्धनमा दाजुभाइलाई राखी बाधिन्छ।",
+    "examplesRomanized": "rakshabandhanma dajubhailai rakhi badhinchha.",
+    "exampleEnglish": "On Raksha Bandhan, rakhis are tied to brothers.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "गौरा पर्व",
+    "romanization": "gaura parva",
+    "pos": "proper_noun",
+    "definitions": [
+      "Far‑western festival venerating Gaura/Parvati and Shiva with vrata, songs, and community rituals (Deuda dance).",
+      "Most prominent in Sudurpashchim and Karnali provinces; village squares host processions and dances.",
+      "Celebrated mainly by Khas communities (Khas Arya and Dalit groups) of the far‑west; others join locally."
+    ],
+    "examples": "गौरा पर्वमा देउडा खेलिन्छ।",
+    "examplesRomanized": "gaura parvama deuda khelinchha.",
+    "exampleEnglish": "During Gaura Parva, Deuda is performed.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "छैते दशैं",
+    "romanization": "chaite dashain",
+    "pos": "proper_noun",
+    "definitions": [
+      "Spring Durga festival regarded as a smaller Dashain; temples perform special pūjā and animal offerings in places.",
+      "Observed across Nepal in temples and homes, especially in hill districts and the Valley.",
+      "Celebrated by Hindu communities across ethnic groups."
+    ],
+    "examples": "छैते दशैंमा देवीको पूजा गरिन्छ।",
+    "examplesRomanized": "chaite dashainma deviko puja garinchha.",
+    "exampleEnglish": "The Goddess is worshipped on Chaite Dashain.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "नेपाल सम्बत नयाँ वर्ष",
+    "romanization": "nepal sambat naya barsha",
+    "pos": "proper_noun",
+    "definitions": [
+      "New Year of the Nepal Sambat calendar featuring processions, traditional music, and lights in the old city cores.",
+      "Centred in Kathmandu Valley (Kathmandu, Lalitpur, Bhaktapur) with events in Newar towns.",
+      "Celebrated primarily by Newar communities; many non‑Newars participate."
+    ],
+    "examples": "नेपाल सम्बत नयाँ वर्षमा पदयात्रा निस्कन्छ।",
+    "examplesRomanized": "nepal sambat naya barshama padyatra niskanchha.",
+    "exampleEnglish": "Processions are held on Nepal Sambat New Year.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "म्ह पूजा",
+    "romanization": "mha puja",
+    "pos": "proper_noun",
+    "definitions": [
+      "Newar ritual of self‑worship and purification performed during Tihar/ Nepal Sambat New Year to affirm inner divinity.",
+      "Most common in Kathmandu Valley Newar households; community celebrations in Newar localities.",
+      "Celebrated by Newars; friends and guests may be invited."
+    ],
+    "examples": "म्ह पूजामा आत्मपूजा गरिन्छ।",
+    "examplesRomanized": "mha pujama atmapuja garinchha.",
+    "exampleEnglish": "Self-worship is performed during Mha Puja.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "भोटो जात्रा",
+    "romanization": "bhoto jatra",
+    "pos": "proper_noun",
+    "definitions": [
+      "Ceremonial public display of the sacred vest (bhoto) at Jawalakhel, closing the Rato Machhindranath cycle.",
+      "Centred in Lalitpur (Jawalakhel) in the Kathmandu Valley, drawing huge crowds.",
+      "Celebrated by Newar communities; people from all over attend."
+    ],
+    "examples": "भोटो जात्रामामा भोटो देखाइन्छ।",
+    "examplesRomanized": "bhoto jatramama bhoto dekhaainchha.",
+    "exampleEnglish": "During Bhoto Jatra, the vest is displayed.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "कार्तिक नाच",
+    "romanization": "kartik naach",
+    "pos": "proper_noun",
+    "definitions": [
+      "Classical Newar dance‑drama series from the Malla era depicting Hindu deities and myths through nightly performances.",
+      "Performed in Patan (Lalitpur) courtyards during the Kartik month; also staged in other Valley sites.",
+      "Celebrated by Newar communities; enjoyed by broader audiences."
+    ],
+    "examples": "कार्तिक नाचमा धार्मिक नाटक प्रदर्शन हुन्छ।",
+    "examplesRomanized": "kartik naachma dharmik natak pradarshan hunchha.",
+    "exampleEnglish": "Religious dance-drama is performed in Kartik Naach.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "मणी रिम्दु",
+    "romanization": "mani rimdu",
+    "pos": "proper_noun",
+    "definitions": [
+      "Sherpa Buddhist festival with masked Cham dances, empowerments, and prayers at monasteries (Tengboche/Thame/Chiwong).",
+      "Prominent in the Khumbu and Solukhumbu region; also observed by Sherpa communities in Kathmandu.",
+      "Celebrated by Sherpas and other Himalayan Buddhists (Tamang, Tibetan communities)."
+    ],
+    "examples": "मणी रिम्दुमा गुम्बामा छ्याम नाच हुन्छ।",
+    "examplesRomanized": "mani rimduma gumbama chhyam naach hunchha.",
+    "exampleEnglish": "Cham dances are performed at monasteries during Mani Rimdu.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "यार्थुङ",
+    "romanization": "yarthung",
+    "pos": "proper_noun",
+    "definitions": [
+      "Mustang’s post‑monsoon horse festival featuring races, archery, and community feasts.",
+      "Centred around Lo‑Manthang, Muktinath/Jomsom areas in Mustang district.",
+      "Celebrated by local Tibetan‑Buddhist and Thakali communities; visitors join festivities."
+    ],
+    "examples": "यार्थुङमा घोडा दौड हुन्छ।",
+    "examplesRomanized": "yarthungma ghoda daud hunchha.",
+    "exampleEnglish": "Horse races are held during Yarthung.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "ईद उल-फित्र",
+    "romanization": "id ul-fitr",
+    "pos": "proper_noun",
+    "definitions": [
+      "Islamic festival marking the end of Ramadan; includes morning namaz, feasting, and charity (zakat al-fitr).",
+      "Observed by Muslim communities across Nepal, notably in Tarai towns and urban centres like Kathmandu.",
+      "Celebrated by Nepali Muslims (Madhesi, Kashmiri-origin, and hill Muslim communities)."
+    ],
+    "examples": "ईद उल-फित्रमा नमाज पढिन्छ।",
+    "examplesRomanized": "id ul-fitrma namaz padhinchha.",
+    "exampleEnglish": "Namaz is offered on Eid al-Fitr.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "ईद उल-अजहा",
+    "romanization": "id ul-adha",
+    "pos": "proper_noun",
+    "definitions": [
+      "Festival of sacrifice commemorating Abrahamic devotion; involves prayers and qurbani shared with the needy.",
+      "Observed nationwide wherever Muslim communities reside; large congregations in Tarai districts and cities.",
+      "Celebrated by Nepali Muslims across ethnic backgrounds."
+    ],
+    "examples": "ईद उल-अजहामा कुर्बानी गरिन्छ।",
+    "examplesRomanized": "id ul-adhama qurbani garinchha.",
+    "exampleEnglish": "Qurbani is performed on Eid al-Adha.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "क्रिसमस",
+    "romanization": "krismas",
+    "pos": "proper_noun",
+    "definitions": [
+      "Christian festival celebrating the birth of Jesus Christ; includes church services, carols, and sharing meals.",
+      "Observed by Christian communities across Nepal, with services in Kathmandu Valley and many hill towns.",
+      "Celebrated by Nepali Christians; neighbors of diverse groups often join."
+    ],
+    "examples": "क्रिसमसमा चर्चमा प्रार्थना गरिन्छ।",
+    "examplesRomanized": "krismasma churchma prarthana garinchha.",
+    "exampleEnglish": "Prayers are held at churches on Christmas.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "उभौली",
+    "romanization": "ubhauli",
+    "pos": "proper_noun",
+    "definitions": [
+      "Kirat spring festival praying for rains and good harvest; features community dances (Sakela/Sakewa).",
+      "Prominent among Kirat areas of eastern hills and Kathmandu Valley Kirat communities.",
+      "Celebrated by Rai, Limbu, Sunuwar, Yakkha (Kirat groups)."
+    ],
+    "examples": "उभौलीमा किराँत समुदायले साकेला नाच्छ।",
+    "examplesRomanized": "ubhaulima kiraat samudayle sakela nachchha.",
+    "exampleEnglish": "During Ubhauli, the Kirat community performs the Sakela dance.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "उधौली",
+    "romanization": "udhauli",
+    "pos": "proper_noun",
+    "definitions": [
+      "Kirat autumn thanksgiving marking migration to lower altitudes and harvest completion; dances and feasts held.",
+      "Observed in eastern hills and cities with Kirat populations.",
+      "Celebrated by Kirat communities (Rai, Limbu, Sunuwar, Yakkha)."
+    ],
+    "examples": "उधौलीमा अन्नबालीको धन्यवाद दिइन्छ।",
+    "examplesRomanized": "udhaulima annabliko dhanyabad diinchha.",
+    "exampleEnglish": "On Udhauli, thanks are offered for the harvest.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "साकेला",
+    "romanization": "sakela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Kirat circle-dance festival (also called Sakewa) invoking nature and ancestors; communal drums and songs.",
+      "Centred in eastern hills and Kathmandu Valley Kirat neighbourhoods.",
+      "Celebrated by Kirat groups, with wider community attendance."
+    ],
+    "examples": "साकेलामा गोलबद्ध भएर नाचिन्छ।",
+    "examplesRomanized": "sakelama golbaddha bhayera nachinchha.",
+    "exampleEnglish": "During Sakela, people dance in circles.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "रातो मच्छिन्द्रनाथ जात्रा",
+    "romanization": "rato machhindranath jatra",
+    "pos": "proper_noun",
+    "definitions": [
+      "Longest chariot festival in Patan/Lalitpur honouring rain and fertility deity (Bunga Dyah/Rato Machhindranath).",
+      "Centred in Lalitpur (Kathmandu Valley) with processions through Newar quarters.",
+      "Celebrated mainly by Newars; people from across Nepal participate."
+    ],
+    "examples": "रातो मच्छिन्द्रनाथ जात्रामामा रथ तानिन्छ।",
+    "examplesRomanized": "rato machhindranath jatramama rath taninchha.",
+    "exampleEnglish": "During the Rato Machhindranath Jatra, the chariot is pulled.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "सेतो मच्छिन्द्रनाथ जात्रा",
+    "romanization": "seto machhindranath jatra",
+    "pos": "proper_noun",
+    "definitions": [
+      "Chariot procession of Seto Machhindranath (Janabaha Dyo) through Kathmandu’s core, praying for prosperity and health.",
+      "Centred in Kathmandu city (Kathmandu Valley).",
+      "Celebrated by Newar communities, joined by Valley residents."
+    ],
+    "examples": "सेतो मच्छिन्द्रनाथको रथ शहरमा घुमाइन्छ।",
+    "examplesRomanized": "seto machhindranathko rath saharma ghumainchha.",
+    "exampleEnglish": "Seto Machhindranath's chariot is taken around the city.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "सिथि नख:",
+    "romanization": "sithi nakha",
+    "pos": "proper_noun",
+    "definitions": [
+      "Newar festival dedicated to Kumar Kartikeya and community sanitation; wells and ponds are cleaned.",
+      "Observed throughout Kathmandu Valley Newar settlements.",
+      "Celebrated by Newars; others participate in clean-up drives."
+    ],
+    "examples": "सिथि नख:मा कुवा पोखरी सफा गरिन्छ।",
+    "examplesRomanized": "sithi nakhama kuwa pokhari safa garinchha.",
+    "exampleEnglish": "On Sithi Nakha, wells and ponds are cleaned.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "कुमारी जात्रा",
+    "romanization": "kumari jatra",
+    "pos": "proper_noun",
+    "definitions": [
+      "Procession of the Living Goddess Kumari in Kathmandu; chariot rides and public darshan.",
+      "Centred in Basantapur and surrounding core of Kathmandu (Valley).",
+      "Celebrated primarily by Newars; attended by people of many groups."
+    ],
+    "examples": "कुमारी जात्रामामा जीवित देवीको दर्शन गरिन्छ।",
+    "examplesRomanized": "kumari jatramama jivit deviko darshan garinchha.",
+    "exampleEnglish": "During Kumari Jatra, people receive darshan of the Living Goddess.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "बसन्त पञ्चमी",
+    "romanization": "basant panchami",
+    "pos": "proper_noun",
+    "definitions": [
+      "Festival of learning and spring, dedicated to Saraswati; students and musicians worship instruments and books.",
+      "Observed nationwide in schools, homes, and temples; notable in Valley and hill towns.",
+      "Celebrated by Hindu communities and many Buddhists."
+    ],
+    "examples": "बसन्त पञ्चमीमा सरस्वती पूजा गरिन्छ।",
+    "examplesRomanized": "basant panchamima saraswati puja garinchha.",
+    "exampleEnglish": "Saraswati Puja is performed on Basant Panchami.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "रामनवमी",
+    "romanization": "ram navami",
+    "pos": "proper_noun",
+    "definitions": [
+      "Festival marking the birth of Lord Rama; special puja, kirtans, and readings from the Ramayana.",
+      "Observed in temples across Nepal; Janakpur and urban shrines are focal points.",
+      "Celebrated by Hindu devotees across ethnic groups."
+    ],
+    "examples": "रामनवमीमा मन्दिरमा विशेष पूजा हुन्छ।",
+    "examplesRomanized": "ram navamima mandirma vishes puja hunchha.",
+    "exampleEnglish": "Special worship is held at temples on Ram Navami.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "जन्माष्टमी",
+    "romanization": "janmashtami",
+    "pos": "proper_noun",
+    "definitions": [
+      "Festival of Krishna’s birth observed with fasting, night vigils, and kirtans; temples remain open late.",
+      "Observed nationwide; major gatherings at Krishna shrines in Patan and across towns.",
+      "Celebrated by Vaishnav Hindus and wider Hindu communities."
+    ],
+    "examples": "जन्माष्टमीमा भजन कीर्तन गरिन्छ।",
+    "examplesRomanized": "janmashtamima bhajan kirtan garinchha.",
+    "exampleEnglish": "Bhajans and kirtans are performed on Janmashtami.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "नवरात्रि",
+    "romanization": "navaratri",
+    "pos": "proper_noun",
+    "definitions": [
+      "Nine nights devoted to Goddess Durga with fasting, rituals, and cultural programs; culminates in Dashain rites.",
+      "Observed throughout Nepal, especially in temples and community halls.",
+      "Celebrated by Hindu communities across ethnic groups."
+    ],
+    "examples": "नवरात्रिमा देवीको पूजा गरिन्छ।",
+    "examplesRomanized": "navaratrima deviko puja garinchha.",
+    "exampleEnglish": "During Navaratri, the Goddess is worshipped.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "नाग पञ्चमी",
+    "romanization": "naag panchami",
+    "pos": "proper_noun",
+    "definitions": [
+      "Day of serpent veneration for protection and rains; homes post serpent images at doorways.",
+      "Observed across Nepal; strong traditions in Kathmandu Valley and mid-hill villages.",
+      "Celebrated by Hindu households across ethnicities."
+    ],
+    "examples": "नाग पञ्चमीमा नागको पूजा गरिन्छ।",
+    "examplesRomanized": "naag panchamima naagko puja garinchha.",
+    "exampleEnglish": "On Nag Panchami, serpents are worshipped.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "रोपाईं दिवस",
+    "romanization": "ropain diwas",
+    "pos": "proper_noun",
+    "definitions": [
+      "National paddy planting day (Asar 15) marking the start of monsoon agriculture; mud-play and feasts common.",
+      "Observed in farming regions nationwide; especially lively in hill terraces and Tarai fields.",
+      "Participated in by farming communities across ethnic groups."
+    ],
+    "examples": "रोपाईं दिवसमा खेतमा रोपाइँ गरिन्छ।",
+    "examplesRomanized": "ropain diwasma khetma ropai garinchha.",
+    "exampleEnglish": "On Ropain Diwas, rice planting is done in the fields.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "माघी",
+    "romanization": "maghi",
+    "pos": "proper_noun",
+    "definitions": [
+      "Tharu New Year marked by family gatherings, feasts, and community dances.",
+      "Centred in the Tarai (Tharu heartlands) with celebrations in towns and villages.",
+      "Celebrated primarily by Tharu communities; others join locally."
+    ],
+    "examples": "माघीमा थारू समुदायले भोज गर्छ।",
+    "examplesRomanized": "maghima tharu samudayle bhoj garcha.",
+    "exampleEnglish": "During Maghi, the Tharu community holds feasts.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "सोनाम ल्होसार",
+    "romanization": "sonam lhosar",
+    "pos": "proper_noun",
+    "definitions": [
+      "Tamang New Year with traditional dances (Tamang selo), music, and community feasts.",
+      "Observed in Tamang-majority mid-hill districts and Kathmandu Valley.",
+      "Celebrated by Tamang communities; broader public participates in events."
+    ],
+    "examples": "सोनाम ल्होसारमा नयाँ वर्षको स्वागत गरिन्छ।",
+    "examplesRomanized": "sonam lhosarma naya barsako swagat garinchha.",
+    "exampleEnglish": "Sonam Lhosar marks the Tamang New Year.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "तामु ल्होसार",
+    "romanization": "tamu lhosar",
+    "pos": "proper_noun",
+    "definitions": [
+      "Gurung New Year celebrated with rodhi songs, dances, and communal feasting.",
+      "Prominent in western/mid-western hills and Gurung settlements in cities.",
+      "Celebrated by Gurung (Tamu) communities; open public events common."
+    ],
+    "examples": "तामु ल्होसारमा समुदायिक कार्यक्रम हुन्छ।",
+    "examplesRomanized": "tamu lhosarma samudayik karyakram hunchha.",
+    "exampleEnglish": "Community programs are held on Tamu Lhosar.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "ग्याल्पो ल्होसार",
+    "romanization": "gyalpo lhosar",
+    "pos": "proper_noun",
+    "definitions": [
+      "Sherpa New Year observed with monastery ceremonies and masked dances (Cham).",
+      "Centred in Himalayan regions (Khumbu) and Sherpa communities in Kathmandu.",
+      "Celebrated by Sherpa communities; other Himalayan Buddhists join."
+    ],
+    "examples": "ग्याल्पो ल्होसारमा गुम्बामा पूजा गरिन्छ।",
+    "examplesRomanized": "gyalpo lhosarma gumbama puja garinchha.",
+    "exampleEnglish": "On Gyalpo Lhosar, worship is performed at monasteries.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "दशैं",
+    "romanization": "dashain",
+    "pos": "proper_noun",
+    "definitions": [
+      "Nepal’s biggest Hindu festival celebrating the triumph of Durga over evil; families gather for tika and jamara blessings.",
+      "Observed nationwide across hills and Tarai; village and city celebrations last for days.",
+      "Celebrated by Nepali Hindus of many ethnic groups (Khas Arya, Newar, Madhesi, others)."
+    ],
+    "examples": "दशैंमा टीका र जमरा लगाइन्छ।",
+    "examplesRomanized": "dashainma tika ra jamara lagainchha.",
+    "exampleEnglish": "During Dashain, tika and jamara are worn.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "लोसार",
+    "romanization": "losar",
+    "pos": "proper_noun",
+    "definitions": [
+      "Tibetan/Himalayan New Year marked by monastery rituals, family feasts, and cultural programs.",
+      "Centred in Himalayan districts and in Tibetan/Sherpa/Buddhist communities in Kathmandu.",
+      "Celebrated mainly by Tibetan, Sherpa, and Himalayan Buddhist groups (distinct Sonam/Tamu Lhosar variants exist)."
+    ],
+    "examples": "लोसारमा नयाँ वर्षको शुभकामना दिइन्छ।",
+    "examplesRomanized": "losarma naya barsako shubhakamana diinchha.",
+    "exampleEnglish": "On Losar, New Year greetings are exchanged.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "छठ",
+    "romanization": "chhath",
+    "pos": "proper_noun",
+    "definitions": [
+      "Hindu sun-worship festival honouring Surya with riverbank rituals at dawn and dusk over four days.",
+      "Most prominent in the Tarai (Madhesh Province) and in Tarai migrant communities in cities.",
+      "Celebrated mainly by Maithil/Madhesi Hindus; many others respectfully observe."
+    ],
+    "examples": "छठमा सूर्यलाई अर्घ्य दिइन्छ।",
+    "examplesRomanized": "chhathma suryalai arghya diinchha.",
+    "exampleEnglish": "During Chhath, offerings are made to the sun.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "माघे संक्रान्ति",
+    "romanization": "maghe sankranti",
+    "pos": "proper_noun",
+    "definitions": [
+      "Mid‑winter festival marking the sun’s northward turn; families eat sesame sweets, ghee, and yam.",
+      "Observed across Nepal in both hills and Tarai with local fairs and bathing rites.",
+      "Celebrated by Hindu households of many ethnic communities (Tharu observe Maghi as New Year)."
+    ],
+    "examples": "माघे संक्रान्तिमा तिलको लड्डु खान्छन्।",
+    "examplesRomanized": "maghe sankrantima tilko laddu khanchhan.",
+    "exampleEnglish": "On Maghe Sankranti, people eat sesame laddus.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "फागु पूर्णिमा",
+    "romanization": "fagu purnima",
+    "pos": "proper_noun",
+    "definitions": [
+      "Festival of colors (Holi) with playful splashing of coloured water and powders; promotes social harmony.",
+      "Celebrated nationwide, typically one day earlier in the Tarai than in the hills.",
+      "Observed widely by Hindu communities and the broader public."
+    ],
+    "examples": "फागु पूर्णिमामा रङ खेलिन्छ।",
+    "examplesRomanized": "fagu purnimama rang khelinchha.",
+    "exampleEnglish": "On Holi, colors are played.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "तीज",
+    "romanization": "teej",
+    "pos": "proper_noun",
+    "definitions": [
+      "Women’s festival with fasting, dancing, and prayers to Parvati for marital well‑being and family prosperity.",
+      "Observed in Kathmandu Valley and hill regions, with large gatherings at Shiva temples.",
+      "Celebrated by Hindu women across ethnic groups (Khas Arya, Newar, others)."
+    ],
+    "examples": "तीजमा महिलाहरू व्रत बस्छन्।",
+    "examplesRomanized": "teejma mahilaharu vrat baschhan.",
+    "exampleEnglish": "During Teej, women observe fasting.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "इन्द्र जात्रा",
+    "romanization": "indra jatra",
+    "pos": "proper_noun",
+    "definitions": [
+      "Kathmandu’s grand Newar festival honouring Indra, featuring chariot processions, masked dances, and sacred displays.",
+      "Centred in Kathmandu’s historic core (Basantapur, Ason, Indra Chowk).",
+      "Celebrated primarily by Newars; attended by residents from all communities."
+    ],
+    "examples": "इन्द्र जात्रामामा नाचगान हुन्छ।",
+    "examplesRomanized": "indra jatramama nachgaan hunchha.",
+    "exampleEnglish": "There are dances and celebrations during Indra Jatra.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "गाईजात्रा",
+    "romanization": "gaijatra",
+    "pos": "proper_noun",
+    "definitions": [
+      "Newar festival of remembrance where families who lost members hold humorous processions to ease grief.",
+      "Most notable in Kathmandu Valley cities (Kathmandu, Bhaktapur, Lalitpur).",
+      "Celebrated by Newars; others spectate and join local events."
+    ],
+    "examples": "गाईजात्रामा घरघरमा जुलुस निस्कन्छ।",
+    "examplesRomanized": "gaijatrama ghar gharma julus niskanchha.",
+    "exampleEnglish": "During Gai Jatra, processions go house to house.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "बाला चतुर्दशी",
+    "romanization": "bala chaturdashi",
+    "pos": "proper_noun",
+    "definitions": [
+      "Night of remembrance for departed souls with oil lamps, seed‑scattering, and all‑night vigils.",
+      "Major observances around Pashupatinath/Mrigasthali (Kathmandu) and in many hill temples.",
+      "Celebrated by Hindu devotees, especially Newar and hill communities."
+    ],
+    "examples": "बाला चतुर्दशीमा दीवा बालिन्छ।",
+    "examplesRomanized": "bala chaturdashima diva balinchha.",
+    "exampleEnglish": "On Bala Chaturdashi, lamps are lit.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "घोडे जात्रा",
+    "romanization": "ghode jatra",
+    "pos": "proper_noun",
+    "definitions": [
+      "Horse festival with military equestrian displays at Tundikhel believed to ward off evil spirits.",
+      "Centred in Kathmandu city (Tundikhel) with citywide festivities.",
+      "Observed by Kathmandu residents; rooted in Newar traditions and civic celebrations."
+    ],
+    "examples": "घोडे जात्रामामा घोडाको दौड देखिन्छ।",
+    "examplesRomanized": "ghode jatramama ghodako daud dekhinchha.",
+    "exampleEnglish": "Horse races are seen during Ghode Jatra.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "बिस्केट जात्रा",
+    "romanization": "bisket jatra",
+    "pos": "proper_noun",
+    "definitions": [
+      "Bhaktapur’s New Year chariot festival featuring the tug‑of‑war of Bhairav and Bhadrakali chariots.",
+      "Centred in Bhaktapur and Thimi (Kathmandu Valley).",
+      "Celebrated by Newar communities; thousands of visitors join."
+    ],
+    "examples": "बिस्केट जात्रामामा रथ तानिन्छ।",
+    "examplesRomanized": "bisket jatramama rath taninchha.",
+    "exampleEnglish": "Chariots are pulled during Bisket Jatra.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "योमरी पुन्ही",
+    "romanization": "yomari punhi",
+    "pos": "proper_noun",
+    "definitions": [
+      "Newar post‑harvest full‑moon festival marked by making and sharing yomari (sweet rice‑flour dumplings).",
+      "Observed across Kathmandu Valley Newar settlements.",
+      "Celebrated by Newars; many non‑Newars enjoy the culinary tradition."
+    ],
+    "examples": "योमरी पुन्हीमा योमरी खाने चलन छ।",
+    "examplesRomanized": "yomari punhima yomari khane chalan chha.",
+    "exampleEnglish": "On Yomari Punhi, people traditionally eat yomari.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "महाशिवरात्रि",
+    "romanization": "mahashivaratri",
+    "pos": "proper_noun",
+    "definitions": [
+      "Great night of Shiva with fasting, night vigils, and massive pilgrimages to Shiva temples.",
+      "Pashupatinath (Kathmandu) is the focal point; observed across Nepal.",
+      "Celebrated by Hindu Shaivites and devotees from many communities."
+    ],
+    "examples": "महाशिवरात्रिमा पशुपतिनाथमा मेला लाग्छ।",
+    "examplesRomanized": "mahashivaratri ma pashupatinathma mela lagchha.",
+    "exampleEnglish": "A fair is held at Pashupatinath on Maha Shivaratri.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "बुद्ध जयन्ती",
+    "romanization": "buddha jayanti",
+    "pos": "proper_noun",
+    "definitions": [
+      "Birth, enlightenment, and parinirvana day of the Buddha observed with prayers, alms, and processions.",
+      "Major celebrations in Lumbini, Boudhanath, and Swayambhu; observed nationwide.",
+      "Celebrated by Buddhist communities (Newar, Sherpa, Tamang, Tibetan) and many Hindus."
+    ],
+    "examples": "बुद्ध जयन्तीमा शान्ति यात्राहरू निस्कन्छन्।",
+    "examplesRomanized": "buddha jayantima shanti yatraharu niskanchhan.",
+    "exampleEnglish": "Peace processions are held on Buddha Jayanti.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "जनै पूर्णिमा",
+    "romanization": "janai purnima",
+    "pos": "proper_noun",
+    "definitions": [
+      "Full‑moon festival when Brahmin/Chhetri men renew the sacred thread; many receive protective doro on wrists.",
+      "Observed across Nepal; linked with pilgrimages such as Gosaikunda in the hills.",
+      "Celebrated by Hindu communities across ethnic groups."
+    ],
+    "examples": "जनै पूर्णिमामा जनै फेर्ने प्रथा छ।",
+    "examplesRomanized": "janai purnimama janai pherne pratha chha.",
+    "exampleEnglish": "On Janai Purnima, the sacred thread is changed.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "बागलुङ कालिका मेला",
+    "romanization": "baglung kalika mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Regional fair at Baglung Kalika temple with pilgrimages, offerings, and cultural programs.",
+      "Centred in Baglung district; draws devotees from Gandaki and neighbouring regions.",
+      "Celebrated by Hindu devotees across ethnic groups."
+    ],
+    "examples": "बागलुङ कालिका मेलामा भक्तजनको भीड लाग्छ।",
+    "examplesRomanized": "baglung kalika melama bhaktajanko bhid lagchha.",
+    "exampleEnglish": "Crowds of devotees gather at the Baglung Kalika Mela.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "पाल्पा रानीमहल मेला",
+    "romanization": "palpa ranimahal mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Local fair around the historic Rani Mahal on the Kali Gandaki river, featuring cultural showcases and worship.",
+      "Centred in Palpa district (Tansen/Rani Mahal area).",
+      "Celebrated by local communities and visitors."
+    ],
+    "examples": "रानीमहल मेलामा सांस्कृतिक कार्यक्रमहरू आयोजना हुन्छन्।",
+    "examplesRomanized": "ranimahal melama sanskritik karyakramharu ayojana hunchhan.",
+    "exampleEnglish": "Cultural programs are organized during the Rani Mahal fair.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "भीमसेन जात्रा",
+    "romanization": "bhimsen jatra",
+    "pos": "proper_noun",
+    "definitions": [
+      "Festival honouring Bhimsen, patron of traders and strength, with processions and market rituals.",
+      "Observed in Newar towns (Patan, Bhaktapur) and hill bazaars.",
+      "Celebrated by Newar merchant guilds and local communities."
+    ],
+    "examples": "भीमसेन जात्रामामा व्यापारीहरूले विशेष पूजा गर्छन्।",
+    "examplesRomanized": "bhimsen jatramama byaparile vishes puja garchhan.",
+    "exampleEnglish": "During Bhimsen Jatra, traders perform special worship.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "गोरखा दरबार मेला",
+    "romanization": "gorkha darbar mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Pilgrimage and cultural fair at the historic Gorkha Durbar and Gorakhkali/Gorakhnath shrines.",
+      "Centred in Gorkha district; attracts visitors from across Nepal.",
+      "Celebrated by Hindu devotees and local communities."
+    ],
+    "examples": "गोरखा दरबार मेलामा दर्शनार्थीहरूको भीड लाग्छ।",
+    "examplesRomanized": "gorkha darbar melama darshanarthiharu ko bhid lagchha.",
+    "exampleEnglish": "Large crowds visit the Gorkha Durbar Mela for darshan.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "कालिञ्चोक भगवती मेला",
+    "romanization": "kalinchowk bhagawati mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Temple fair at Kalinchowk Bhagawati with snow‑peak pilgrimages, offerings, and winter treks.",
+      "Centred in Dolakha district; draws pilgrims from Kathmandu Valley and eastern/central hills.",
+      "Celebrated by Hindu devotees across ethnic groups."
+    ],
+    "examples": "कालिञ्चोक मेलामा भक्तजनले शिखरमाथि पूजा गर्छन्।",
+    "examplesRomanized": "kalinchowk melama bhaktajanele shikhar mathi puja garchhan.",
+    "exampleEnglish": "At Kalinchowk Mela, devotees worship atop the peak.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "स्वर्गद्वारी मेला",
+    "romanization": "swargadwari mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Holy fair at Swargadwari Ashram with fire rituals, alms, and pilgrim camps.",
+      "Centred in Pyuthan (mid‑west); pilgrims arrive from Rapti and neighbouring provinces.",
+      "Celebrated by Hindu devotees across ethnic groups."
+    ],
+    "examples": "स्वर्गद्वारी मेलामा दर्शन र दान गर्नेहरूको भीड लाग्छ।",
+    "examplesRomanized": "swargadwari melama darshan ra dan garne haruko bhid lagchha.",
+    "exampleEnglish": "Crowds gather for darshan and charity at the Swargadwari fair.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "बराहक्षेत्र मेला",
+    "romanization": "barahakshetra mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Pilgrimage fair at Barahakshetra (Chatara) on auspicious days with river confluence bathing and worship.",
+      "Centred in Sunsari (Koshi confluence); eastern Tarai and hill devotees attend in large numbers.",
+      "Celebrated by Hindu devotees from many ethnic communities."
+    ],
+    "examples": "बराहक्षेत्र मेलामा श्रद्धालुहरूले चटारा घाटमा स्नान गर्छन्।",
+    "examplesRomanized": "barahakshetra melama shraddaluharu le chatara ghatma snan garchhan.",
+    "exampleEnglish": "At Barahakshetra Mela, devotees bathe at the Chatara ghats.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "बुढानीलकण्ठ मेला",
+    "romanization": "budhanilkantha mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Fair at the reclining Vishnu (Budhanilkantha) on Haribodhini Ekadashi and other auspicious days.",
+      "Centred at Budhanilkantha (Kathmandu); Valley residents and pilgrims visit in droves.",
+      "Celebrated by Vaishnav and other Hindu devotees."
+    ],
+    "examples": "बुढानीलकण्ठ मेलामा विष्णुको दर्शनका लागि लामो लाइन लाग्छ।",
+    "examplesRomanized": "budhanilkantha melama vishnuko darshan ka lagi lamo line lagchha.",
+    "exampleEnglish": "Long queues form for Vishnu’s darshan at the Budhanilkantha fair.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "ताल बाराही मेला",
+    "romanization": "tal barahi mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Lake‑island temple fair of Tal Barahi with boat pilgrimages and lakeside worship.",
+      "Centred in Pokhara (Phewa Lake); Kaski and Gandaki visitors gather on holy days.",
+      "Celebrated by Hindu devotees and local communities."
+    ],
+    "examples": "ताल बाराही मेलामा डुङ्गाबाट मन्दिर पुगेर पूजा गरिन्छ।",
+    "examplesRomanized": "tal barahi melama dunga bata mandir pugera puja garinchha.",
+    "exampleEnglish": "At the Tal Barahi fair, devotees reach the temple by boat for worship.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "बिन्द्यबासिनी मेला",
+    "romanization": "bindhyabasini mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Temple fair at Bindhyabasini with goddess worship and cultural programs on festival days.",
+      "Centred in Pokhara city; attracts devotees from across Gandaki Province.",
+      "Celebrated by Hindu devotees across ethnic groups."
+    ],
+    "examples": "बिन्द्यबासिनी मेलामा भक्तजनले विशेष पूजा गर्छन्।",
+    "examplesRomanized": "bindhyabasini melama bhaktajanele vishes puja garchhan.",
+    "exampleEnglish": "Devotees perform special worship at the Bindhyabasini fair.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "खप्तड बाबा मेला",
+    "romanization": "khaptad baba mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Fair in Khaptad region honouring Khaptad Baba with pilgrimages, meditation, and community feasts.",
+      "Centred in Khaptad National Park area (Sudurpashchim).",
+      "Celebrated by devotees from far‑western hills across ethnic groups."
+    ],
+    "examples": "खप्तड बाबा मेलामा भक्तजन धाममा पुगेर ध्यान र दर्शन गर्छन्।",
+    "examplesRomanized": "khaptad baba melama bhaktajan dhamma pugera dhyan ra darshan garchhan.",
+    "exampleEnglish": "At the Khaptad Baba fair, devotees meditate and take darshan at the holy site.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "माइपोखरी मेला",
+    "romanization": "mai pokhari mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Sacred lake fair at Mai Pokhari with offerings to local deities and conservation rituals.",
+      "Centred in Ilam district; eastern hill communities gather annually.",
+      "Celebrated by Kirat, Hindu, and Buddhist devotees."
+    ],
+    "examples": "माइपोखरी मेलामा सरोवर वरिपरि पूजा र प्रदक्षिणा गरिन्छ।",
+    "examplesRomanized": "mai pokhari melama sarowar waripari puja ra pradakshina garinchha.",
+    "exampleEnglish": "At the Mai Pokhari fair, devotees perform worship and circumambulation around the lake.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "जीतिया",
+    "romanization": "jitiya",
+    "pos": "proper_noun",
+    "definitions": [
+      "Jivitputrika (Jitiya) fast observed by mothers for the well‑being and longevity of their children.",
+      "Prominent in the Tarai/Madhesh and Mithila belt; also observed by migrants in cities.",
+      "Celebrated mainly by Maithil/Madhesi Hindu women; Tharu and other communities also observe locally."
+    ],
+    "examples": "जीतियामा आमाहरू सन्तानको दीर्घायुका लागि व्रत बस्छन्।",
+    "examplesRomanized": "jitiya ma aamaharu santanko dirghayuka lagi vrat baschhan.",
+    "exampleEnglish": "On Jitiya, mothers fast for their children's long life.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "समा–चकेवा",
+    "romanization": "sama chakewa",
+    "pos": "proper_noun",
+    "definitions": [
+      "Mithila siblings’ festival where clay birds (Sama and Chakeva) are crafted and exchanged celebrating sister‑brother bonds.",
+      "Centred in the Mithila/Tarai region; observed in urban Mithila communities as well.",
+      "Celebrated by Maithil communities; others in the Tarai also participate."
+    ],
+    "examples": "समा–चकेवामा दिदीबहिनीले माटोका पंछी साटासाट गर्छन्।",
+    "examplesRomanized": "sama‑chakewama didi bahinile matoka panchhi satasat garchhan.",
+    "exampleEnglish": "During Sama–Chakeva, sisters exchange clay birds.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "चासोक ताङ्नाम",
+    "romanization": "chasok tangnam",
+    "pos": "proper_noun",
+    "definitions": [
+      "Limbu harvest festival thanking nature and ancestors with offerings and community feasts.",
+      "Observed in eastern hills (Limbuwan) and Limbu communities in cities.",
+      "Celebrated primarily by Limbu (Yakthung) communities."
+    ],
+    "examples": "चासोक ताङ्नाममा प्रकृतिलाई धन्यवाद दिइन्छ।",
+    "examplesRomanized": "chasok tangnamma prakritilai dhanyabad diinchha.",
+    "exampleEnglish": "During Chasok Tangnam, thanks are offered to nature.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "भूमे पूजा",
+    "romanization": "bhume puja",
+    "pos": "proper_noun",
+    "definitions": [
+      "Hill festival of earth‑worship seeking land fertility and community well‑being; includes communal rites and dances.",
+      "Observed in mid‑hill districts and Magar villages; variants occur among Rai and Gurung groups.",
+      "Celebrated primarily by Magar communities; also observed by Rai/Gurung in local forms."
+    ],
+    "examples": "भूमे पूजामा गाउँलेहरूले जमिनको पूजा गर्छन्।",
+    "examplesRomanized": "bhume pujama gauleharule jamin ko puja garchhan.",
+    "exampleEnglish": "At Bhume Puja, villagers worship the land.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "सिकाली जात्रा",
+    "romanization": "sikali jatra",
+    "pos": "proper_noun",
+    "definitions": [
+      "Khokana’s Newar festival dedicated to Rudrayani with masked dances and processions in open fields.",
+      "Centred in Khokana (Lalitpur) of Kathmandu Valley.",
+      "Celebrated by Newar communities; spectators from across the Valley attend."
+    ],
+    "examples": "सिकाली जात्रामामा मुखौटे नाच प्रदर्शन गरिन्छ।",
+    "examplesRomanized": "sikali jatramama mukhaute naach pradarshan garinchha.",
+    "exampleEnglish": "Masked dances are performed during Sikali Jatra.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "पहां चह्रे (पाहां चह्रे)",
+    "romanization": "pahan chahre",
+    "pos": "proper_noun",
+    "definitions": [
+      "Newar spring festival honouring Ajima goddesses with feasts and processions; coincides around Ghode Jatra period.",
+      "Observed in Kathmandu Valley Newar neighbourhoods.",
+      "Celebrated by Newar communities; locals of many groups join events."
+    ],
+    "examples": "पहां चह्रेमामा अजिमाहरूको सम्मानमा जुलुस निकालिन्छ।",
+    "examplesRomanized": "pahan chahrema ajimaharuko sammaanma julus nikalinchha.",
+    "exampleEnglish": "During Pahan Chahre, processions honour the Ajima goddesses.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "ल्हाबाब धूचेन",
+    "romanization": "lhabab duchen",
+    "pos": "proper_noun",
+    "definitions": [
+      "Buddhist festival commemorating the Buddha’s descent from the heavenly realm; merit‑making and prayers held.",
+      "Observed in Himalayan districts and Buddhist monasteries in cities.",
+      "Celebrated by Tibetan, Sherpa, Tamang, and other Buddhist communities."
+    ],
+    "examples": "ल्हाबाब धूचेनमा गुम्बामा प्रार्थना गरिन्छ।",
+    "examplesRomanized": "lhabab duchenma gumbama prarthana garinchha.",
+    "exampleEnglish": "Prayers are offered at monasteries on Lhabab Duchen.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "इद–ए–मिलाद (मावलिद)",
+    "romanization": "eid‑e‑milad (mawlid)",
+    "pos": "proper_noun",
+    "definitions": [
+      "Observance of the Prophet Muhammad’s birthday with processions, sermons, and prayers.",
+      "Observed by Muslim communities in Tarai towns and urban centres across Nepal.",
+      "Celebrated by Nepali Muslims of diverse backgrounds."
+    ],
+    "examples": "इद–ए–मिलादमा जुलुस र रौनक देखिन्छ।",
+    "examplesRomanized": "id‑e‑miladma julus ra raunak dekhinchha.",
+    "exampleEnglish": "Processions and celebrations are seen on Eid‑e‑Milad.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "शबे–बरात",
+    "romanization": "shab‑e‑barat",
+    "pos": "proper_noun",
+    "definitions": [
+      "Night of forgiveness and prayers in Islamic tradition; people offer night vigils and charity.",
+      "Observed by Muslim communities in Tarai districts and Nepal’s cities.",
+      "Celebrated by Nepali Muslims across ethnic groups."
+    ],
+    "examples": "शबे–बरातमा रातभर नमाज र दुवा गरिन्छ।",
+    "examplesRomanized": "shab‑e‑baratma ratbhar namaz ra duwa garinchha.",
+    "exampleEnglish": "On Shab‑e‑Barat, people pray through the night.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "इस्टर",
+    "romanization": "easter",
+    "pos": "proper_noun",
+    "definitions": [
+      "Christian festival celebrating the resurrection of Jesus; includes church services and family gatherings.",
+      "Observed by Christian communities nationwide, especially in urban congregations.",
+      "Celebrated by Nepali Christians; neighbours often extend greetings."
+    ],
+    "examples": "इस्टरमा चर्चमा विशेष आराधना गरिन्छ।",
+    "examplesRomanized": "easterma churchma vishes aradhana garinchha.",
+    "exampleEnglish": "Special worship services are held in churches on Easter.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "जानकी नवमी",
+    "romanization": "janaki navami",
+    "pos": "proper_noun",
+    "definitions": [
+      "Sita Jayanti (birth anniversary of Sita/Janaki) with rituals at Janaki Temple and homes.",
+      "Centred in Janakpur and Mithila region; observed by devotees across Nepal and India.",
+      "Celebrated by Maithil/Madhesi Hindus and Hindu devotees nationwide."
+    ],
+    "examples": "जानकी नवमीमा जनकपुरको जानकी मन्दिरमा विशेष पूजा हुन्छ।",
+    "examplesRomanized": "janaki navamima janakpuro janaki mandirma vishes puja hunchha.",
+    "exampleEnglish": "Special worship is held at Janaki Temple on Janaki Navami.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "जूर शीतल",
+    "romanization": "jur sital",
+    "pos": "proper_noun",
+    "definitions": [
+      "Maithili New Year (Baisakh 2) observed with water sprinkling, new beginnings, and community feasts.",
+      "Centred in the Mithila/Tarai region; observed by Maithil communities in towns and cities.",
+      "Celebrated primarily by Maithil communities; neighbours often join."
+    ],
+    "examples": "जूर शीतलमा पानी छर्केर नयाँ वर्षको स्वागत गरिन्छ।",
+    "examplesRomanized": "jur sitalma pani charkera naya barsako swagat garinchha.",
+    "exampleEnglish": "On Jur Sital, people sprinkle water to welcome the New Year.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "स्वस्थानी व्रत कथा",
+    "romanization": "swasthani vrata katha",
+    "pos": "proper_noun",
+    "definitions": [
+      "Month‑long Hindu observance where devotees recite the Swasthani tale and fast on specific days for blessings.",
+      "Observed nationwide during Paush/Magh with strong participation in Kathmandu Valley and hill towns.",
+      "Celebrated by Hindu households across diverse ethnic groups."
+    ],
+    "examples": "स्वस्थानी व्रत कथामा दैनिक कथा सुन्ने गरिन्छ।",
+    "examplesRomanized": "swasthani vrata kathama dainik katha sunne garinchha.",
+    "exampleEnglish": "During Swasthani Brata Katha, the story is recited daily.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "मत्य:",
+    "romanization": "matya",
+    "pos": "proper_noun",
+    "definitions": [
+      "Newar festival of lights in Patan where devotees circle the city lighting lamps at stupas and shrines.",
+      "Centred in Lalitpur (Patan) within the Kathmandu Valley.",
+      "Celebrated primarily by Newar communities; residents of many groups join."
+    ],
+    "examples": "मत्य:मा विहार र चैत्य वरिपरि दीप बालिन्छ।",
+    "examplesRomanized": "matyama vihar ra chaitya waripari dip balinchha.",
+    "exampleEnglish": "On Matya, lamps are lit around viharas and chaityas.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "नवदुर्गा नाच",
+    "romanization": "nava durga naach",
+    "pos": "proper_noun",
+    "definitions": [
+      "Ritual Newar masked dance cycle invoking the Nine Durgas, performed across months in Bhaktapur area.",
+      "Centred in Bhaktapur (Kathmandu Valley) with performances in neighbourhood squares and temples.",
+      "Celebrated by Newar communities; widely attended by visitors."
+    ],
+    "examples": "नवदुर्गा नाचमा मुखौटे लगाएर देवदेवीको रूप प्रस्तुत हुन्छ।",
+    "examplesRomanized": "nava durga naachma mukhaute lagayera devdevi ko rup prastut hunchha.",
+    "exampleEnglish": "In the Nava Durga Naach, masked dancers portray deities.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "खड्ग जात्रा",
+    "romanization": "khadga jatra",
+    "pos": "proper_noun",
+    "definitions": [
+      "Sword festival associated with Dashain wherein ceremonial swords are displayed and paraded for protection rites.",
+      "Observed in Lalitpur/Kathmandu and several hill towns with local variations.",
+      "Celebrated by Newar and broader Hindu communities."
+    ],
+    "examples": "खड्ग जात्रामामा खड्गको पूजा गरिन्छ।",
+    "examplesRomanized": "khadga jatramama khadgako puja garinchha.",
+    "exampleEnglish": "During Khadga Jatra, ceremonial swords are worshipped.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "गढीमाई मेला",
+    "romanization": "gadhimai mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Large fair at the Gadhimai temple held periodically; devotees seek blessings for prosperity and protection.",
+      "Centred in Bara district (Madhesh/Tarai) attracting pilgrims from Nepal and India.",
+      "Celebrated by Madhesi/Maithil Hindus and many other devotees."
+    ],
+    "examples": "गढीमाई मेलामा लाखौँ भक्तजन पुग्छन्।",
+    "examplesRomanized": "gadhimai melama lakhau bhaktajan pugchhan.",
+    "exampleEnglish": "Hundreds of thousands of devotees visit the Gadhimai Mela.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "तारकेश्वर मेला",
+    "romanization": "tarkeshwor mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Pilgrimage fair to Tarkeshwor Mahadev with hill treks, worship, and community gatherings.",
+      "Observed in Tarkeshwor (northwest Kathmandu) and neighbouring hill communities.",
+      "Celebrated by Hindu devotees across ethnic groups."
+    ],
+    "examples": "तारकेश्वर मेलामा भक्तजनले पहाड चढेर दर्शन गर्छन्।",
+    "examplesRomanized": "tarkeshwor melama bhaktajanele pahad chadera darshan garchhan.",
+    "exampleEnglish": "At the Tarkeshwor Mela, devotees climb the hill for darshan.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "देवघाट मकर मेला",
+    "romanization": "devghat makar mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Holy fair at Devghat on Maghe Sankranti where pilgrims bathe at the confluence and offer prayers.",
+      "Centred at Devghat (Chitwan/Tanahun) drawing pilgrims from central and western Nepal.",
+      "Celebrated by Hindu devotees from many ethnic communities."
+    ],
+    "examples": "देवघाट मकर मेलामा स्नान र दान गर्ने चलन छ।",
+    "examplesRomanized": "devghat makar melama snan ra dan garne chalan chha.",
+    "exampleEnglish": "At the Devghat Makar Mela, people bathe and donate in charity.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "तिजी",
+    "romanization": "tiji",
+    "pos": "proper_noun",
+    "definitions": [
+      "Lo Manthang’s three‑day Vajrayana Buddhist festival reenacting the triumph of good over chaos with masked dances.",
+      "Centred in Mustang (Lo Manthang); draws pilgrims and visitors from across Nepal and abroad.",
+      "Celebrated by Tibetan‑Buddhist communities (Lopa) with participation from locals and tourists."
+    ],
+    "examples": "तिजीमा ल्हामो नाच र धार्मिक अनुष्ठान हुन्छ।",
+    "examplesRomanized": "tijima lhamo naach ra dharmic anushthan hunchha.",
+    "exampleEnglish": "During Tiji, there are sacred masked dances and rituals.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "दुम्जी",
+    "romanization": "dumji",
+    "pos": "proper_noun",
+    "definitions": [
+      "Sherpa community festival honouring Guru Rinpoche and local deities with feasts and dances.",
+      "Observed in Khumbu/Solukhumbu villages and Sherpa neighbourhoods of Kathmandu.",
+      "Celebrated by Sherpa communities; other Himalayan Buddhists attend."
+    ],
+    "examples": "दुम्जीमा गाउँलेहरूले मिलेर पूजा र भोज गर्छन्।",
+    "examplesRomanized": "dumjima gauleharule milera puja ra bhoj garchhan.",
+    "exampleEnglish": "At Dumji, villagers gather for worship and feasting.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "घाँटु नाच",
+    "romanization": "ghatu naach",
+    "pos": "proper_noun",
+    "definitions": [
+      "Gurung spring dance‑drama narrating divine love and heroism, performed by young women in trance‑like devotion.",
+      "Prominent in Kaski, Lamjung, Tanahun and Gurung settlements in cities.",
+      "Celebrated primarily by Gurung (Tamu) communities; others attend as spectators."
+    ],
+    "examples": "घाँटु नाच वैशाखतिर गाउँमा प्रस्तुत हुन्छ।",
+    "examplesRomanized": "ghatu naach baisaakh tira gauma prastut hunchha.",
+    "exampleEnglish": "Ghatu Naach is performed in villages during Baisakh.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "अष्टिम्की",
+    "romanization": "ashtimki",
+    "pos": "proper_noun",
+    "definitions": [
+      "Tharu festival marking Krishna Janmashtami with wall‑painted Ashtimki art and community rituals.",
+      "Centred in Tharu areas of the Tarai; celebrated in villages and town colonies.",
+      "Celebrated primarily by Tharu communities."
+    ],
+    "examples": "अष्टिम्कीमा घरको भित्तामा चित्र बनाइन्छ।",
+    "examplesRomanized": "ashtimkima gharko bhittama chitra banainchha.",
+    "exampleEnglish": "On Ashtimki, wall paintings are made at home.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "माधव नारायण व्रत",
+    "romanization": "madhav narayan vrata",
+    "pos": "proper_noun",
+    "definitions": [
+      "Month‑long devotion to Madhav Narayan (Vishnu) with river ablutions and daily pilgrimages carrying kalash.",
+      "Prominent along Hanumanghat/Bhaktapur and Sankhu areas; observed across the Valley.",
+      "Celebrated by Hindu devotees (especially Newar Vaishnavs)."
+    ],
+    "examples": "माधव नारायण व्रतमा भक्तजनले कलश बोकेर तीर्थ गर्छन्।",
+    "examplesRomanized": "madhav narayan vratma bhaktajanele kalash boker tirtha garchhan.",
+    "exampleEnglish": "During the Madhav Narayan vow, devotees carry pots on pilgrimages.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "कुम्भेश्वर मेला",
+    "romanization": "kumbheshwar mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Janai Purnima fair at Kumbheshwar temple and pond with ritual bathing and thread ceremony.",
+      "Centred in Patan/Lalitpur (Kathmandu Valley).",
+      "Celebrated by Hindu devotees across ethnic groups."
+    ],
+    "examples": "कुम्भेश्वर मेलामा पाँचधारा दहमा स्नान गरिन्छ।",
+    "examplesRomanized": "kumbheshwar melama panchdhara dahma snan garinchha.",
+    "exampleEnglish": "At Kumbheshwar Mela, devotees bathe in the five‑spout pond.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "सम्यक महादान",
+    "romanization": "samyak mahadan",
+    "pos": "proper_noun",
+    "definitions": [
+      "Grand Newar Buddhist almsgiving held periodically with displays of Dipankara Buddha and mass dana.",
+      "Held in Patan (Nagbahal) and Kathmandu (Basantapur) at multiyear intervals.",
+      "Celebrated by Newar Buddhists; thousands participate."
+    ],
+    "examples": "सम्यक महादानमा डिपंकर बुद्धको प्रदर्शनी गरिन्छ।",
+    "examplesRomanized": "samyak mahadanma dipankar buddha ko pradarshani garinchha.",
+    "exampleEnglish": "During Samyak Mahadan, Dipankara Buddhas are displayed for almsgiving.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "शे गोम्पा मेला",
+    "romanization": "she gompa mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Periodic holy fair at Shey Gompa in Upper Dolpo, combining pilgrimage, prayers, and community gathering.",
+      "Centred in Shey Phoksundo/Upper Dolpo region; draws Himalayan pilgrims.",
+      "Celebrated by Tibetan‑Buddhist communities and local Dolpo‑pa."
+    ],
+    "examples": "शे गोम्पा मेलामा दूरदराजका तीर्थयात्री आइपुग्छन्।",
+    "examplesRomanized": "she gompa melama durdarajka tirthayatri aipugchhan.",
+    "exampleEnglish": "Pilgrims from far regions arrive for the Shey Gompa Mela.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "हलेसी महादेव मेला",
+    "romanization": "halesi mahadev mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Pilgrimage fair to Halesi Mahadev cave‑temple, revered by Hindus, Buddhists, and Kirats.",
+      "Centred in Khotang district; devotees arrive from eastern hills and beyond.",
+      "Celebrated by Hindu, Buddhist, and Kirat communities."
+    ],
+    "examples": "हलेसी महादेव मेलामा भक्तजन गुफा मन्दिरमा पूजा गर्छन्।",
+    "examplesRomanized": "halesi mahadev melama bhaktajan gufa mandirma puja garchhan.",
+    "exampleEnglish": "At Halesi Mahadev Mela, devotees worship at the cave temple.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "मनकामना मेला",
+    "romanization": "manakamana mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Temple fair at Manakamana where devotees pray for wishes and offer prasad; seasonal crowds peak on auspicious days.",
+      "Centred in Gorkha district; pilgrims come via cable car and trails from across Nepal.",
+      "Celebrated by Hindu devotees across ethnic groups."
+    ],
+    "examples": "मनकामना मेलामा भक्तजनले मान मनाउने पूजा गर्छन्।",
+    "examplesRomanized": "manakamana melama bhaktajanele man manauNe puja garchhan.",
+    "exampleEnglish": "At the Manakamana Mela, devotees perform wish‑fulfilling rituals.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "मुक्तिनाथ मेला",
+    "romanization": "muktinath mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Pilgrim fair at Muktinath temple, a sacred site for Hindus and Buddhists with 108 spouts for ritual bathing.",
+      "Centred in Mustang (Jomsom/Muktinath) drawing pilgrims from Nepal and India.",
+      "Celebrated by Hindu Vaishnavs and Himalayan Buddhists."
+    ],
+    "examples": "मुक्तिनाथ मेलामा १०८ धारामा स्नान गर्ने चलन छ।",
+    "examplesRomanized": "muktinath melama 108 dharama snan garne chalan chha.",
+    "exampleEnglish": "At Muktinath Mela, devotees bathe in the 108 spouts.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "पाथिभरा मेला",
+    "romanization": "pathibhara mela",
+    "pos": "proper_noun",
+    "definitions": [
+      "Temple fair at Pathibhara Devi, a powerful wish‑fulfilling goddess of the eastern Himalaya.",
+      "Centred in Taplejung district; eastern hill pilgrims and Darjeeling/Sikkim devotees visit.",
+      "Celebrated by Hindu and Kirat communities."
+    ],
+    "examples": "पाथिभरा मेलामा भक्तजनले देवीको दर्शन गर्छन्।",
+    "examplesRomanized": "pathibhara melama bhaktajanele deviko darshan garchhan.",
+    "exampleEnglish": "At Pathibhara Mela, devotees take darshan of the goddess.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "बोडे जात्रा",
+    "romanization": "bode jatra",
+    "pos": "proper_noun",
+    "definitions": [
+      "Unique Newar festival of Bode famed for the tongue‑piercing ritual and community processions.",
+      "Centred in Bode (Bhaktapur) within the Kathmandu Valley.",
+      "Celebrated by Newar communities; widely watched by visitors."
+    ],
+    "examples": "बोडे जात्रामामा जिब्रो छेड्ने अनुष्ठान प्रसिद्ध छ।",
+    "examplesRomanized": "bode jatramama jibro chhedne anushthan prasiddha chha.",
+    "exampleEnglish": "The tongue‑piercing rite is famous during Bode Jatra.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "पचली भैरव जात्रा",
+    "romanization": "pachali bhairav jatra",
+    "pos": "proper_noun",
+    "definitions": [
+      "Newar festival venerating Pachali Bhairav with processions, feasts, and communal rituals by guthis.",
+      "Observed in Kathmandu (Teku/Pachali area) and Newar neighbourhoods.",
+      "Celebrated by Newar communities; city residents join."
+    ],
+    "examples": "पचली भैरव जात्रामामा भैरवको रथ तानिन्छ र पूजाआजा गरिन्छ।",
+    "examplesRomanized": "pachali bhairav jatramama bhairavko rath taninchha ra puja aaja garinchha.",
+    "exampleEnglish": "During Pachali Bhairav Jatra, Bhairav’s chariot is pulled and rituals are performed.",
+    "frequency": "low",
+    "category": "festival"
+  },
+  {
+    "DevanagriWord": "गुफा पूजा (कुमारी प्रवेश)",
+    "romanization": "gufa puja (kumari pravesh)",
+    "pos": "proper_noun",
+    "definitions": [
+      "Rite of seclusion and initiation for Newar girls (Kumari Pravesh) accompanied by family feasts and worship.",
+      "Observed in Kathmandu Valley and Newar towns.",
+      "Celebrated by Newar communities as a lifecycle festival."
+    ],
+    "examples": "गुफा पूजामा बालिकालाई शुभाशिष दिइन्छ।",
+    "examplesRomanized": "gufa pujama balikalai shubhashish diinchha.",
+    "exampleEnglish": "Blessings are bestowed upon the girl during Gufa Puja.",
+    "frequency": "low",
+    "category": "festival"
+  }
+]
