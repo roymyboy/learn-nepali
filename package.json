@@ -15,10 +15,10 @@
     "url": "https://github.com/yourusername/learn-nepali/issues"
   },
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "next dev --turbopack -H 0.0.0.0 -p 3000",
     "build": "next build --turbopack",
     "export": "next build && next export",
-    "start": "next start",
+    "start": "next start -H 0.0.0.0 -p 3000",
     "lint": "eslint",
     "type-check": "tsc --noEmit",
     "preview": "npm run build && npm run start"
