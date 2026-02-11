@@ -1,5 +1,8 @@
 import { DictionaryEntry, JsonDictionaryEntry } from '@/types';
 
+// Base path for static hosting (e.g. /learn-nepali on GitHub Pages). Next.js does not prefix fetch() URLs.
+const getDataBase = () => process.env.NEXT_PUBLIC_BASE_PATH || '';
+
 // List of JSON files to load
 const JSON_FILES = [
   'adverbs.json',
@@ -101,7 +104,7 @@ function convertJsonEntry(jsonEntry: JsonDictionaryEntry): DictionaryEntry | nul
 // Load data from a single JSON file
 async function loadJsonFile(filename: string): Promise<DictionaryEntry[]> {
   try {
-    const response = await fetch(`/data/${filename}`);
+    const response = await fetch(`${getDataBase()}/data/${filename}`);
     if (!response.ok) {
       throw new Error(`Failed to load ${filename}: ${response.statusText}`);
     }
@@ -1022,7 +1025,7 @@ export async function loadPhrasesForLearning(): Promise<Phrase[]> {
 
   // 1. Load verb phrases from verbs.json (363 entries)
   try {
-    const verbsResponse = await fetch('/data/verbs.json');
+    const verbsResponse = await fetch(`${getDataBase()}/data/verbs.json`);
     if (verbsResponse.ok) {
       const verbs: JsonDictionaryEntry[] = await verbsResponse.json();
       
@@ -1046,7 +1049,7 @@ export async function loadPhrasesForLearning(): Promise<Phrase[]> {
 
   // 2. Load additional phrases from phrases.json (~50 entries)
   try {
-    const phrasesResponse = await fetch('/data/phrases.json');
+    const phrasesResponse = await fetch(`${getDataBase()}/data/phrases.json`);
     if (phrasesResponse.ok) {
       const phrases: Phrase[] = await phrasesResponse.json();
       allPhrases.push(...phrases.map(p => ({ ...p, isCustom: false })));

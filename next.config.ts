@@ -8,6 +8,10 @@ const nextConfig: NextConfig = {
   // For GitHub Pages project site: set BASE_PATH to repo name (e.g. /learn-nepali)
   basePath: basePath,
   assetPrefix: basePath ? `${basePath}/` : '',
+  // Expose base path to client so fetch() requests use it (Next.js does not prefix fetch URLs)
+  env: {
+    NEXT_PUBLIC_BASE_PATH: basePath,
+  },
   images: {
     unoptimized: true
   },
