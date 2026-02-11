@@ -25,6 +25,16 @@ export default function Home() {
       {/* Theme Toggle Button */}
       <ThemeToggle />
 
+      {/* Learn Page Link */}
+      <div className="fixed top-4 left-4 z-50">
+        <a
+          href="/learn"
+          className="px-4 py-2 bg-purple-600 hover:bg-purple-700 text-white rounded-lg font-medium transition-colors shadow-lg flex items-center gap-2"
+        >
+          <span>📚</span> Learn Phrases
+        </a>
+      </div>
+
       {/* Main Content Container */}
       <div className="relative z-10 min-h-screen flex items-center justify-center">
         <main className="w-full px-4 sm:px-6 lg:px-8 py-8">

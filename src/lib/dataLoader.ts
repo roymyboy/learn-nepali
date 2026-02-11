@@ -1008,3 +1008,147 @@ export async function getAvailableFrequencies(): Promise<string[]> {
     return order[a as keyof typeof order] - order[b as keyof typeof order];
   });
 }
+// Learn Feature - Phrase Loading Functions
+import { Phrase } from '@/types';
+
+/**
+ * Load phrases for the Learn feature
+ * Combines verb phrases, additional phrases, and custom user phrases
+ */
+export async function loadPhrasesForLearning(): Promise<Phrase[]> {
+  const allPhrases: Phrase[] = [];
+
+  // 1. Load verb phrases from verbs.json (363 entries)
+  try {
+    const verbsResponse = await fetch('/data/verbs.json');
+    if (verbsResponse.ok) {
+      const verbs: JsonDictionaryEntry[] = await verbsResponse.json();
+      
+      // Transform verb entries into phrase format
+      verbs.forEach(verb => {
+        if (verb.examples && verb.examplesRomanized && verb.exampleEnglish) {
+          allPhrases.push({
+            devanagari: verb.examples,
+            romanization: verb.examplesRomanized,
+            english: verb.exampleEnglish,
+            category: 'verbs',
+            isCustom: false,
+            verb: verb.DevanagriWord,
+          });
+        }
+      });
+    }
+  } catch (error) {
+    console.error('Error loading verb phrases:', error);
+  }
+
+  // 2. Load additional phrases from phrases.json (~50 entries)
+  try {
+    const phrasesResponse = await fetch('/data/phrases.json');
+    if (phrasesResponse.ok) {
+      const phrases: Phrase[] = await phrasesResponse.json();
+      allPhrases.push(...phrases.map(p => ({ ...p, isCustom: false })));
+    }
+  } catch (error) {
+    console.error('Error loading phrases:', error);
+  }
+
+  // 3. Load custom user phrases from localStorage
+  const customPhrases = loadCustomPhrases();
+  allPhrases.push(...customPhrases);
+
+  return allPhrases;
+}
+
+/**
+ * Load custom user phrases from localStorage
+ */
+export function loadCustomPhrases(): Phrase[] {
+  if (typeof window === 'undefined') return [];
+  
+  try {
+    const stored = localStorage.getItem('customPhrases');
+    if (stored) {
+      return JSON.parse(stored);
+    }
+  } catch (error) {
+    console.error('Error loading custom phrases:', error);
+  }
+  
+  return [];
+}
+
+/**
+ * Save a custom phrase to localStorage
+ * Note: Auto-conjugation will be added in a future update
+ */
+export function saveCustomPhrase(phrase: Phrase): void {
+  if (typeof window === 'undefined') return;
+  
+  try {
+    const customPhrases = loadCustomPhrases();
+    const newPhrase = {
+      ...phrase,
+      isCustom: true,
+    };
+    
+    customPhrases.push(newPhrase);
+    localStorage.setItem('customPhrases', JSON.stringify(customPhrases));
+  } catch (error) {
+    console.error('Error saving custom phrase:', error);
+  }
+}
+
+/**
+ * Delete a custom phrase from localStorage
+ */
+export function deleteCustomPhrase(phraseToDelete: Phrase): void {
+  if (typeof window === 'undefined') return;
+  
+  try {
+    const customPhrases = loadCustomPhrases();
+    const filtered = customPhrases.filter(
+      p => p.devanagari !== phraseToDelete.devanagari || 
+           p.english !== phraseToDelete.english
+    );
+    localStorage.setItem('customPhrases', JSON.stringify(filtered));
+  } catch (error) {
+    console.error('Error deleting custom phrase:', error);
+  }
+}
+
+/**
+ * Clear all custom phrases from localStorage
+ */
+export function clearCustomPhrases(): void {
+  if (typeof window === 'undefined') return;
+  
+  try {
+    localStorage.removeItem('customPhrases');
+  } catch (error) {
+    console.error('Error clearing custom phrases:', error);
+  }
+}
+
+/**
+ * Update a custom phrase in localStorage
+ */
+export function updateCustomPhrase(oldPhrase: Phrase, newPhrase: Phrase): void {
+  if (typeof window === 'undefined') return;
+  
+  try {
+    const customPhrases = loadCustomPhrases();
+    const index = customPhrases.findIndex(
+      p => p.devanagari === oldPhrase.devanagari && 
+           p.romanization === oldPhrase.romanization &&
+           p.english === oldPhrase.english
+    );
+    
+    if (index !== -1) {
+      customPhrases[index] = { ...newPhrase, isCustom: true };
+      localStorage.setItem('customPhrases', JSON.stringify(customPhrases));
+    }
+  } catch (error) {
+    console.error('Error updating custom phrase:', error);
+  }
+}
