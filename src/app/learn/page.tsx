@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect, useCallback } from 'react';
+import Link from 'next/link';
 import { Phrase, LanguageDirection } from '@/types';
 import { loadPhrasesForLearning, saveCustomPhrase, updateCustomPhrase, deleteCustomPhrase } from '@/lib/dataLoader';
 import Flashcard from '@/components/Flashcard';
@@ -10,7 +11,6 @@ import EditPhraseModal from '@/components/EditPhraseModal';
 
 export default function LearnPage() {
     const [phrases, setPhrases] = useState<Phrase[]>([]);
-    const [currentIndex, setCurrentIndex] = useState(0);
     const [isFlipped, setIsFlipped] = useState(false);
     const [languageDirection, setLanguageDirection] = useState<LanguageDirection>('nepali-to-english');
     const [stillLearning, setStillLearning] = useState<number[]>([]);
@@ -31,10 +31,42 @@ export default function LearnPage() {
         loadData();
     }, []);
 
+    const handleFlip = () => {
+        setIsFlipped(prev => !prev);
+    };
+
+    const moveToNextCard = useCallback(() => {
+        setIsFlipped(false);
+    }, []);
+
+    const handleStillLearning = useCallback(() => {
+        if (stillLearning.length === 0) return;
+
+        const current = stillLearning[0];
+        const remaining = stillLearning.slice(1);
+
+        // Move current card to end of still learning queue
+        setStillLearning([...remaining, current]);
+        moveToNextCard();
+    }, [stillLearning, moveToNextCard]);
+
+    const handleKnow = useCallback(() => {
+        if (stillLearning.length === 0) return;
+
+        const current = stillLearning[0];
+        const remaining = stillLearning.slice(1);
+
+        setStillLearning(remaining);
+        setKnow(know => [...know, current]);
+        moveToNextCard();
+    }, [stillLearning, moveToNextCard]);
+
     // Keyboard controls
     useEffect(() => {
         const handleKeyPress = (e: KeyboardEvent) => {
-            if (showAddForm) return; // Disable keyboard controls when form is open
+            if (showAddForm) return;
+
+            const currentPhrase = stillLearning.length > 0 ? phrases[stillLearning[0]] : null;
 
             if (e.key === ' ' || e.code === 'Space') {
                 e.preventDefault();
@@ -47,7 +79,7 @@ export default function LearnPage() {
                 handleKnow();
             } else if (e.key === 'e' || e.key === 'E') {
                 e.preventDefault();
-                if (currentPhrase && currentPhrase.isCustom) {
+                if (currentPhrase?.isCustom) {
                     setEditingPhrase(currentPhrase);
                 }
             }
@@ -55,45 +87,11 @@ export default function LearnPage() {
 
         window.addEventListener('keydown', handleKeyPress);
         return () => window.removeEventListener('keydown', handleKeyPress);
-    }, [currentIndex, stillLearning, showAddForm, editingPhrase]);
-
-    const handleFlip = () => {
-        setIsFlipped(prev => !prev);
-    };
-
-    const moveToNextCard = useCallback(() => {
-        setIsFlipped(false);
-        if (stillLearning.length > 0) {
-            setCurrentIndex(stillLearning[0]);
-        }
-    }, [stillLearning]);
-
-    const handleStillLearning = () => {
-        if (stillLearning.length === 0) return;
-
-        const current = stillLearning[0];
-        const remaining = stillLearning.slice(1);
-
-        // Move current card to end of still learning queue
-        setStillLearning([...remaining, current]);
-        moveToNextCard();
-    };
-
-    const handleKnow = () => {
-        if (stillLearning.length === 0) return;
-
-        const current = stillLearning[0];
-        const remaining = stillLearning.slice(1);
-
-        setStillLearning(remaining);
-        setKnow([...know, current]);
-        moveToNextCard();
-    };
+    }, [showAddForm, phrases, stillLearning, handleKnow, handleStillLearning]);
 
     const handleReset = () => {
         setStillLearning(phrases.map((_, i) => i));
         setKnow([]);
-        setCurrentIndex(0);
         setIsFlipped(false);
     };
 
@@ -188,7 +186,7 @@ export default function LearnPage() {
                             Congratulations!
                         </h2>
                         <p className="text-xl text-gray-600 dark:text-gray-400 mb-8">
-                            You've completed all {phrases.length} phrases!
+                            You&apos;ve completed all {phrases.length} phrases!
                         </p>
                         <button
                             onClick={handleReset}
@@ -249,22 +247,22 @@ export default function LearnPage() {
 
                 {/* Back to Home */}
                 <div className="text-center mt-12">
-                    <a
+                    <Link
                         href="/"
                         className="text-blue-600 dark:text-blue-400 hover:underline"
                     >
                         ← Back to Dictionary
+                    </Link>
 
-                        {/* Edit Phrase Modal */}
-                        {editingPhrase && (
-                            <EditPhraseModal
-                                phrase={editingPhrase}
-                                onSave={handleUpdatePhrase}
-                                onDelete={handleDeletePhrase}
-                                onCancel={() => setEditingPhrase(null)}
-                            />
-                        )}
-                    </a>
+                    {/* Edit Phrase Modal */}
+                    {editingPhrase && (
+                        <EditPhraseModal
+                            phrase={editingPhrase}
+                            onSave={handleUpdatePhrase}
+                            onDelete={handleDeletePhrase}
+                            onCancel={() => setEditingPhrase(null)}
+                        />
+                    )}
                 </div>
             </div>
         </div>

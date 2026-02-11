@@ -197,10 +197,11 @@ export function detectSubjectAndTense(phrase: string): { subject: Subject | null
 /**
  * Conjugate a phrase to a different subject while maintaining the same tense
  */
+/* eslint-disable @typescript-eslint/no-unused-vars -- stub for future implementation */
 export function conjugatePhrase(
-  phrase: Phrase,
-  targetSubject: Subject,
-  targetTense?: Tense
+  _phrase: Phrase,
+  _targetSubject: Subject,
+  _targetTense?: Tense
 ): Phrase | null {
   // This is a simplified version - would need more sophisticated parsing
   // For now, return null to indicate this needs manual implementation
@@ -210,7 +211,9 @@ export function conjugatePhrase(
 /**
  * Generate all conjugations for a given phrase (all subjects in same tense)
  */
-export function generateAllConjugations(basePhrase: Phrase): Phrase[] {
+export function generateAllConjugations(
+  _basePhrase: Phrase
+): Phrase[] {
   // This would generate variations for all subjects
   // For now, return empty array - this needs the full phrase parsing logic
   return [];

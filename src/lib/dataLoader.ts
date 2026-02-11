@@ -609,7 +609,7 @@ function searchWithIndex(query: string, searchFields?: SearchField[]): SearchRes
   
   // Convert to SearchResult format and sort with exact match prioritization
   return Array.from(resultMap.values())
-    .map(({ entry, matchedFields, matchScores, highlightedText, exactMatch, matchType }) => {
+    .map(({ entry, matchedFields, matchScores, highlightedText }) => {
       return {
         ...entry,
         matchInfo: {
@@ -661,7 +661,9 @@ export async function searchWords(query: string): Promise<DictionaryEntry[]> {
   const results = await searchWordsEnhanced(query);
   // Convert SearchResult[] to DictionaryEntry[] by removing matchInfo
   return results.map(result => {
+    // Strip matchInfo for backward-compatible DictionaryEntry[] return type
     const { matchInfo, ...entry } = result;
+    void matchInfo;
     return entry;
   });
 }

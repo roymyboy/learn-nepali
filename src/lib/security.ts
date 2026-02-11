@@ -102,18 +102,15 @@ export class SecurityManager {
     }, 500);
 
     // Method 2: Console detection
-    let devtoolsOpen = false;
     const element = new Image();
     Object.defineProperty(element, 'id', {
       get: function() {
-        devtoolsOpen = true;
         checkDevTools();
         throw new Error('DevTools detected');
       }
     });
     
     setInterval(() => {
-      devtoolsOpen = false;
       console.log(element);
       console.clear();
     }, 1000);
