@@ -1,4 +1,4 @@
-import { VerbRoot, Subject, Tense } from '@/types';
+import { VerbRoot, Subject } from '@/types';
 
 /**
  * Japanese-style conjugation engine adapted for Nepali

@@ -164,7 +164,7 @@ export default function ConjugatePage() {
                     <div className="text-center text-gray-500 mt-8">
                         Type a valid Nepali verb to see conjugations.
                         <br />
-                        <span className="text-xs">(Try ending with 'नु' like 'खानु')</span>
+                        <span className="text-xs">(Try ending with &apos;नु&apos; like &apos;खानु&apos;)</span>
                     </div>
                 )}
             </div>
