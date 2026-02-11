@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import DictionarySearch from '@/components/DictionarySearch';
 import ThemeToggle from '../components/ThemeToggle';
 
@@ -27,12 +28,12 @@ export default function Home() {
 
       {/* Learn Page Link */}
       <div className="fixed top-4 left-4 z-50">
-        <a
+        <Link
           href="/learn"
           className="px-4 py-2 bg-purple-600 hover:bg-purple-700 text-white rounded-lg font-medium transition-colors shadow-lg flex items-center gap-2"
         >
           <span>📚</span> Learn Phrases
-        </a>
+        </Link>
       </div>
 
       {/* Main Content Container */}
