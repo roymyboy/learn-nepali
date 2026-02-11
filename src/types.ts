@@ -42,6 +42,7 @@ export type LanguageDirection = 'nepali-to-english' | 'english-to-nepali';
 
 export interface VerbRoot {
   root: string;
+  romanRoot?: string;
   type: 'consonant' | 'vowel';
   isIrregular: boolean;
   dictionaryForm?: string;

@@ -27,21 +27,27 @@ export default function Home() {
       <ThemeToggle />
 
       {/* Learn Page Link */}
-      <div className="fixed top-4 left-4 z-50">
-        <Link
-          href="/learn"
-          className="px-4 py-2 bg-purple-600 hover:bg-purple-700 text-white rounded-lg font-medium transition-colors shadow-lg flex items-center gap-2"
-        >
-          <span>📚</span> Learn Phrases
-        </Link>
-      </div>
+
 
       {/* Main Content Container */}
       <div className="relative z-10 min-h-screen flex items-center justify-center">
         <main className="w-full px-4 sm:px-6 lg:px-8 py-8">
           {/* Centered Dictionary Section */}
           <div className="w-[80vw] mx-auto">
-            <DictionarySearch />
+            <DictionarySearch>
+              <Link
+                href="/learn"
+                className="px-4 py-2 bg-purple-600 hover:bg-purple-700 text-white rounded-lg font-medium transition-colors shadow-lg flex items-center gap-2"
+              >
+                <span>📚</span> Learn Phrases
+              </Link>
+              <Link
+                href="/conjugate"
+                className="px-4 py-2 bg-green-600 hover:bg-green-700 text-white rounded-lg font-medium transition-colors shadow-lg flex items-center gap-2"
+              >
+                <span>🗣️</span> Conjugate Verb
+              </Link>
+            </DictionarySearch>
           </div>
         </main>
       </div>

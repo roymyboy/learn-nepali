@@ -78,12 +78,12 @@ export type SearchField = 'word' | 'romanization' | 'definitions' | 'category' |
 // Convert JSON entry to DictionaryEntry format
 function convertJsonEntry(jsonEntry: JsonDictionaryEntry): DictionaryEntry | null {
   // Validate required fields
-  if (!jsonEntry || 
-      !jsonEntry.DevanagriWord || 
-      !jsonEntry.romanization || 
-      !jsonEntry.pos || 
-      !jsonEntry.definitions ||
-      !Array.isArray(jsonEntry.definitions)) {
+  if (!jsonEntry ||
+    !jsonEntry.DevanagriWord ||
+    !jsonEntry.romanization ||
+    !jsonEntry.pos ||
+    !jsonEntry.definitions ||
+    !Array.isArray(jsonEntry.definitions)) {
     console.warn('Invalid entry found:', jsonEntry);
     return null;
   }
@@ -109,12 +109,12 @@ async function loadJsonFile(filename: string): Promise<DictionaryEntry[]> {
       throw new Error(`Failed to load ${filename}: ${response.statusText}`);
     }
     const jsonData: JsonDictionaryEntry[] = await response.json();
-    
+
     if (!Array.isArray(jsonData)) {
       console.error(`Invalid JSON structure in ${filename}: expected array`);
       return [];
     }
-    
+
     return jsonData.map(convertJsonEntry).filter((entry): entry is DictionaryEntry => entry !== null);
   } catch (error) {
     console.error(`Error loading ${filename}:`, error);
@@ -138,7 +138,7 @@ function buildSearchIndex(entries: DictionaryEntry[]): SearchIndex {
         wordIndex.set(entry.word, new Set());
       }
       wordIndex.get(entry.word)!.add(index);
-      
+
       // Also index individual words if multi-word
       const words = entry.word.split(/\s+/);
       if (words.length > 1) {
@@ -154,13 +154,13 @@ function buildSearchIndex(entries: DictionaryEntry[]): SearchIndex {
     // Index romanization (lowercase for case-insensitive search)
     if (entry.romanization) {
       const normalized = entry.romanization.toLowerCase();
-      
+
       // Index the full romanization
       if (!romanizationIndex.has(normalized)) {
         romanizationIndex.set(normalized, new Set());
       }
       romanizationIndex.get(normalized)!.add(index);
-      
+
       // Also index individual words if multi-word
       const romanizations = normalized.split(/\s+/);
       if (romanizations.length > 1) {
@@ -178,12 +178,12 @@ function buildSearchIndex(entries: DictionaryEntry[]): SearchIndex {
       entry.definitions.forEach(def => {
         if (def) {
           const defLower = def.toLowerCase();
-          
+
           // Check if this is an exact single-word definition or a short definition
           const trimmedDef = defLower.trim();
           // Remove common punctuation at the end
           const cleanDef = trimmedDef.replace(/[.,;:!?]$/, '').trim();
-          
+
           // Check for exact single-word definitions
           if (cleanDef && !cleanDef.includes(' ')) {
             // This is a single-word definition - index as exact match
@@ -192,7 +192,7 @@ function buildSearchIndex(entries: DictionaryEntry[]): SearchIndex {
             }
             definitionExactIndex.get(cleanDef)!.add(index);
           }
-          
+
           // Also check if the definition starts with a single word followed by punctuation
           const firstWordMatch = trimmedDef.match(/^(\w+)[;,:]?\s/);
           if (firstWordMatch) {
@@ -204,7 +204,7 @@ function buildSearchIndex(entries: DictionaryEntry[]): SearchIndex {
               definitionExactIndex.get(firstWord)!.add(index);
             }
           }
-          
+
           // Index all words in the definition
           // Remove punctuation and split into words
           const words = defLower.replace(/[.,;:!?'"()]/g, ' ').split(/\s+/);
@@ -253,23 +253,23 @@ export async function loadDictionaryData(): Promise<DictionaryEntry[]> {
     allData.push(...data);
   }
   cachedData = allData;
-  
+
   // Build search index
   searchIndex = buildSearchIndex(allData);
-  
+
   // Clear search cache when rebuilding index
   searchCache.clear();
-  
+
   return allData;
 }
 
 // Calculate Levenshtein distance for fuzzy matching
 function levenshteinDistance(str1: string, str2: string): number {
   const matrix = Array(str2.length + 1).fill(null).map(() => Array(str1.length + 1).fill(null));
-  
+
   for (let i = 0; i <= str1.length; i++) matrix[0][i] = i;
   for (let j = 0; j <= str2.length; j++) matrix[j][0] = j;
-  
+
   for (let j = 1; j <= str2.length; j++) {
     for (let i = 1; i <= str1.length; i++) {
       const indicator = str1[i - 1] === str2[j - 1] ? 0 : 1;
@@ -280,7 +280,7 @@ function levenshteinDistance(str1: string, str2: string): number {
       );
     }
   }
-  
+
   return matrix[str2.length][str1.length];
 }
 
@@ -294,14 +294,14 @@ function calculateSimilarity(str1: string, str2: string): number {
 // Enhanced search with detailed match information and exact match prioritization
 function searchWithIndex(query: string, searchFields?: SearchField[]): SearchResult[] {
   if (!searchIndex) return [];
-  
+
   const trimmedQuery = query.trim();
   const lowerQuery = trimmedQuery.toLowerCase();
-  
+
   // Split query into words, keeping original case for Devanagari
   const queryWords = trimmedQuery.split(/\s+/);
   const lowerQueryWords = lowerQuery.split(/\s+/);
-  
+
   const resultMap = new Map<number, {
     entry: DictionaryEntry;
     matchedFields: Set<string>;
@@ -310,14 +310,14 @@ function searchWithIndex(query: string, searchFields?: SearchField[]): SearchRes
     exactMatch: boolean;
     matchType: 'exact' | 'partial' | 'fuzzy';
   }>();
-  
+
   // Default search fields if none specified
   const fieldsToSearch = searchFields || ['word', 'romanization', 'definitions', 'category'];
-  
+
   // Search in each index with detailed tracking
   queryWords.forEach((word, wordIndex) => {
     const lowerWord = lowerQueryWords[wordIndex];
-    
+
     // Search in word index (Devanagari) - EXACT MATCHES FIRST
     if (fieldsToSearch.includes('word')) {
       // Exact matches in word index (highest priority) - use original case
@@ -342,7 +342,7 @@ function searchWithIndex(query: string, searchFields?: SearchField[]): SearchRes
           result.matchType = 'exact';
         });
       }
-      
+
       // Partial matches in word index (medium priority)
       searchIndex!.wordIndex.forEach((indices, indexedWord) => {
         if (indexedWord.includes(word) && indexedWord !== word) {
@@ -368,7 +368,7 @@ function searchWithIndex(query: string, searchFields?: SearchField[]): SearchRes
           });
         }
       });
-      
+
       // Fuzzy matches for Devanagari words (lowest priority)
       searchIndex!.wordIndex.forEach((indices, indexedWord) => {
         const similarity = calculateSimilarity(word, indexedWord);
@@ -396,7 +396,7 @@ function searchWithIndex(query: string, searchFields?: SearchField[]): SearchRes
         }
       });
     }
-    
+
     // Search in romanization index - EXACT MATCHES FIRST
     if (fieldsToSearch.includes('romanization')) {
       // Exact matches in romanization index (highest priority) - use lowercase
@@ -421,7 +421,7 @@ function searchWithIndex(query: string, searchFields?: SearchField[]): SearchRes
           result.matchType = 'exact';
         });
       }
-      
+
       // Partial matches in romanization index (medium priority)
       searchIndex!.romanizationIndex.forEach((indices, indexedRoman) => {
         if (indexedRoman.includes(lowerWord) && indexedRoman !== lowerWord) {
@@ -447,7 +447,7 @@ function searchWithIndex(query: string, searchFields?: SearchField[]): SearchRes
           });
         }
       });
-      
+
       // Fuzzy matches for romanization (lowest priority)
       searchIndex!.romanizationIndex.forEach((indices, indexedRoman) => {
         const similarity = calculateSimilarity(lowerWord, indexedRoman);
@@ -475,7 +475,7 @@ function searchWithIndex(query: string, searchFields?: SearchField[]): SearchRes
         }
       });
     }
-    
+
     // Search in definitions - EXACT MATCHES FIRST
     if (fieldsToSearch.includes('definitions')) {
       // Check for exact single-word definitions (highest priority)
@@ -500,7 +500,7 @@ function searchWithIndex(query: string, searchFields?: SearchField[]): SearchRes
           result.matchType = 'exact';
         });
       }
-      
+
       // Exact word matches in definitions (high priority)
       searchIndex!.definitionIndex.forEach((indices, defWord) => {
         if (defWord === lowerWord) {
@@ -528,7 +528,7 @@ function searchWithIndex(query: string, searchFields?: SearchField[]): SearchRes
           });
         }
       });
-      
+
       // Partial matches in definitions (medium priority)
       searchIndex!.definitionIndex.forEach((indices, defWord) => {
         if (defWord.includes(lowerWord) && defWord !== lowerWord) {
@@ -555,7 +555,7 @@ function searchWithIndex(query: string, searchFields?: SearchField[]): SearchRes
           });
         }
       });
-      
+
       // Fuzzy matches in definitions (lowest priority)
       searchIndex!.definitionIndex.forEach((indices, defWord) => {
         const similarity = calculateSimilarity(lowerWord, defWord);
@@ -583,7 +583,7 @@ function searchWithIndex(query: string, searchFields?: SearchField[]): SearchRes
         }
       });
     }
-    
+
     // Search in categories
     if (fieldsToSearch.includes('category')) {
       searchIndex!.categoryIndex.forEach((indices, category) => {
@@ -609,7 +609,7 @@ function searchWithIndex(query: string, searchFields?: SearchField[]): SearchRes
       });
     }
   });
-  
+
   // Convert to SearchResult format and sort with exact match prioritization
   return Array.from(resultMap.values())
     .map(({ entry, matchedFields, matchScores, highlightedText }) => {
@@ -624,24 +624,24 @@ function searchWithIndex(query: string, searchFields?: SearchField[]): SearchRes
     })
     .sort((a, b) => {
       // First priority: Exact matches always come first
-      const aExact = a.matchInfo.matchScores.word >= 1000 || 
-                     a.matchInfo.matchScores.romanization >= 800 || 
-                     a.matchInfo.matchScores.definitions >= 600;
-      const bExact = b.matchInfo.matchScores.word >= 1000 || 
-                     b.matchInfo.matchScores.romanization >= 800 || 
-                     b.matchInfo.matchScores.definitions >= 600;
-      
+      const aExact = a.matchInfo.matchScores.word >= 1000 ||
+        a.matchInfo.matchScores.romanization >= 800 ||
+        a.matchInfo.matchScores.definitions >= 600;
+      const bExact = b.matchInfo.matchScores.word >= 1000 ||
+        b.matchInfo.matchScores.romanization >= 800 ||
+        b.matchInfo.matchScores.definitions >= 600;
+
       if (aExact && !bExact) return -1; // a comes first
       if (!aExact && bExact) return 1;  // b comes first
-      
+
       // Second priority: Total score for non-exact matches
       const scoreA = Object.values(a.matchInfo.matchScores).reduce((sum, score) => sum + score, 0);
       const scoreB = Object.values(b.matchInfo.matchScores).reduce((sum, score) => sum + score, 0);
-      
+
       // Third priority: Number of matched fields
       const fieldsA = a.matchInfo.matchedFields.length;
       const fieldsB = b.matchInfo.matchedFields.length;
-      
+
       if (scoreA !== scoreB) return scoreB - scoreA;
       return fieldsB - fieldsA;
     })
@@ -673,33 +673,33 @@ export async function searchWords(query: string): Promise<DictionaryEntry[]> {
 
 // Enhanced search with field-specific options
 export async function searchWordsEnhanced(
-  query: string, 
+  query: string,
   searchFields?: SearchField[]
 ): Promise<SearchResult[]> {
   const cacheKey = `${query}_${searchFields?.join(',') || 'all'}`;
-  
+
   // Check cache first
   if (searchCache.has(cacheKey)) {
     return searchCache.get(cacheKey) as SearchResult[];
   }
-  
+
   // Use indexed search if available
   if (searchIndex) {
     const results = searchWithIndex(query, searchFields);
     searchCache.set(cacheKey, results);
     return results;
   }
-  
+
   // Fallback to original search method
   const dictionary = await loadDictionaryData();
   const results: SearchResult[] = [];
   const lowerQuery = query.toLowerCase();
-  
+
   dictionary.forEach(entry => {
     const matchedFields: string[] = [];
     const matchScores: { [field: string]: number } = {};
     const highlightedText: { [field: string]: string } = {};
-    
+
     // Check exact word match (highest priority)
     if (entry.word && entry.word === query) {
       matchedFields.push('word');
@@ -712,7 +712,7 @@ export async function searchWordsEnhanced(
       matchScores.word = 100; // Medium score for partial match
       highlightedText.word = highlightMatch(entry.word, query);
     }
-    
+
     // Check exact romanization match (high priority)
     if (entry.romanization && entry.romanization.toLowerCase() === lowerQuery) {
       matchedFields.push('romanization');
@@ -725,28 +725,28 @@ export async function searchWordsEnhanced(
       matchScores.romanization = 80; // Medium score for partial match
       highlightedText.romanization = highlightMatch(entry.romanization, query);
     }
-    
+
     // Check definitions match
     if (entry.definitions && entry.definitions.some(def => def && def.toLowerCase().includes(lowerQuery))) {
       matchedFields.push('definitions');
       matchScores.definitions = 60; // Medium score for definition match
       highlightedText.definitions = highlightMatchInDefinitions(entry.definitions, query);
     }
-    
+
     // Check category match
     if (entry.category && entry.category.toLowerCase().includes(lowerQuery)) {
       matchedFields.push('category');
       matchScores.category = 30; // Lower score for category match
       highlightedText.category = highlightMatch(entry.category, query);
     }
-    
+
     // Check examples match
     if (entry.examplesRomanized && entry.examplesRomanized.some(ex => ex && ex.toLowerCase().includes(lowerQuery))) {
       matchedFields.push('examples');
       matchScores.examples = 40; // Medium score for example match
       highlightedText.examples = entry.examplesRomanized.map(ex => highlightMatch(ex, query)).join(' | ');
     }
-    
+
     if (matchedFields.length > 0) {
       results.push({
         ...entry,
@@ -758,32 +758,32 @@ export async function searchWordsEnhanced(
       });
     }
   });
-  
+
   // Sort with exact match prioritization
   const finalResults = results
     .sort((a, b) => {
       // First priority: Exact matches always come first
-      const aExact = a.matchInfo.matchScores.word >= 1000 || 
-                     a.matchInfo.matchScores.romanization >= 800;
-      const bExact = b.matchInfo.matchScores.word >= 1000 || 
-                     b.matchInfo.matchScores.romanization >= 800;
-      
+      const aExact = a.matchInfo.matchScores.word >= 1000 ||
+        a.matchInfo.matchScores.romanization >= 800;
+      const bExact = b.matchInfo.matchScores.word >= 1000 ||
+        b.matchInfo.matchScores.romanization >= 800;
+
       if (aExact && !bExact) return -1; // a comes first
       if (!aExact && bExact) return 1;  // b comes first
-      
+
       // Second priority: Total score for non-exact matches
       const scoreA = Object.values(a.matchInfo.matchScores).reduce((sum, score) => sum + score, 0);
       const scoreB = Object.values(b.matchInfo.matchScores).reduce((sum, score) => sum + score, 0);
-      
+
       // Third priority: Number of matched fields
       const fieldsA = a.matchInfo.matchedFields.length;
       const fieldsB = b.matchInfo.matchedFields.length;
-      
+
       if (scoreA !== scoreB) return scoreB - scoreA;
       return fieldsB - fieldsA;
     })
     .slice(0, 15);
-    
+
   searchCache.set(cacheKey, finalResults);
   return finalResults;
 }
@@ -798,6 +798,21 @@ export async function searchRomanization(query: string): Promise<SearchResult[]>
   return searchWordsEnhanced(query, ['romanization']);
 }
 
+// Lookup a verb by Devanagari or Romanization
+export async function lookupVerb(query: string): Promise<DictionaryEntry | null> {
+  // First try exact match
+  const results = await searchWordsEnhanced(query, ['word', 'romanization']);
+
+  // Filter for verbs
+  const verbs = results.filter(r => r.pos.toLowerCase().includes('verb'));
+
+  if (verbs.length > 0) {
+    return verbs[0]; // Return best match
+  }
+
+  return null;
+}
+
 // Search specifically in definitions
 export async function searchDefinitions(query: string): Promise<SearchResult[]> {
   return searchWordsEnhanced(query, ['definitions']);
@@ -805,7 +820,7 @@ export async function searchDefinitions(query: string): Promise<SearchResult[]> 
 
 // Multi-field search with explicit field selection
 export async function searchInFields(
-  query: string, 
+  query: string,
   fields: SearchField[]
 ): Promise<SearchResult[]> {
   return searchWordsEnhanced(query, fields);
@@ -821,18 +836,18 @@ export async function advancedSearch(options: {
   fuzzyThreshold?: number;
   searchFields?: SearchField[];
 }): Promise<SearchResult[]> {
-  const { 
-    query, 
-    category, 
-    frequency, 
-    pos, 
-    exactMatch = false, 
+  const {
+    query,
+    category,
+    frequency,
+    pos,
+    exactMatch = false,
     fuzzyThreshold = 0.7,
     searchFields = ['word', 'romanization', 'definitions']
   } = options;
-  
+
   let results: SearchResult[] = [];
-  
+
   // Apply text search first if query is provided
   if (query) {
     results = await searchWordsEnhanced(query, searchFields);
@@ -848,31 +863,31 @@ export async function advancedSearch(options: {
       }
     }));
   }
-  
+
   // Filter by category
   if (category) {
     results = results.filter(result => result.category === category);
   }
-  
+
   // Filter by frequency
   if (frequency) {
     results = results.filter(result => result.frequency === frequency);
   }
-  
+
   // Filter by part of speech
   if (pos) {
     results = results.filter(result => result.pos === pos);
   }
-  
+
   // Apply exact match filtering if requested
   if (exactMatch && query) {
     const lowerQuery = query.toLowerCase();
-    results = results.filter(result => 
-      result.word === query || 
+    results = results.filter(result =>
+      result.word === query ||
       result.romanization.toLowerCase() === lowerQuery
     );
   }
-  
+
   // Apply fuzzy threshold filtering if specified
   if (fuzzyThreshold < 1.0 && query) {
     const lowerQuery = query.toLowerCase();
@@ -883,16 +898,16 @@ export async function advancedSearch(options: {
         const words = def.toLowerCase().split(/\s+/);
         return words.some(word => calculateSimilarity(lowerQuery, word) >= fuzzyThreshold);
       });
-      
-      return wordSimilarity >= fuzzyThreshold || 
-             romanSimilarity >= fuzzyThreshold ||
-             defSimilarity ||
-             result.word.includes(query) ||
-             result.romanization.toLowerCase().includes(lowerQuery) ||
-             result.definitions.some(def => def.toLowerCase().includes(lowerQuery));
+
+      return wordSimilarity >= fuzzyThreshold ||
+        romanSimilarity >= fuzzyThreshold ||
+        defSimilarity ||
+        result.word.includes(query) ||
+        result.romanization.toLowerCase().includes(lowerQuery) ||
+        result.definitions.some(def => def.toLowerCase().includes(lowerQuery));
     });
   }
-  
+
   return results.slice(0, 50); // Return more results for advanced search
 }
 
@@ -900,27 +915,27 @@ export async function advancedSearch(options: {
 export async function findSimilarWords(word: string, threshold: number = 0.7): Promise<DictionaryEntry[]> {
   const dictionary = await loadDictionaryData();
   const results: Array<{ entry: DictionaryEntry; similarity: number }> = [];
-  
+
   dictionary.forEach(entry => {
     let maxSimilarity = 0;
-    
+
     // Check word similarity
     if (entry.word) {
       const wordSim = calculateSimilarity(word, entry.word);
       maxSimilarity = Math.max(maxSimilarity, wordSim);
     }
-    
+
     // Check romanization similarity
     if (entry.romanization) {
       const romanSim = calculateSimilarity(word.toLowerCase(), entry.romanization.toLowerCase());
       maxSimilarity = Math.max(maxSimilarity, romanSim);
     }
-    
+
     if (maxSimilarity >= threshold) {
       results.push({ entry, similarity: maxSimilarity });
     }
   });
-  
+
   return results
     .sort((a, b) => b.similarity - a.similarity)
     .slice(0, 20)
@@ -930,24 +945,24 @@ export async function findSimilarWords(word: string, threshold: number = 0.7): P
 // Get search suggestions based on partial input
 export async function getSearchSuggestions(partialQuery: string, limit: number = 10): Promise<string[]> {
   if (!searchIndex || partialQuery.length < 2) return [];
-  
+
   const suggestions = new Set<string>();
   const lowerQuery = partialQuery.toLowerCase();
-  
+
   // Get suggestions from word index
   searchIndex.wordIndex.forEach((indices, word) => {
     if (word.startsWith(lowerQuery)) {
       suggestions.add(word);
     }
   });
-  
+
   // Get suggestions from romanization index
   searchIndex.romanizationIndex.forEach((indices, roman) => {
     if (roman.startsWith(lowerQuery)) {
       suggestions.add(roman);
     }
   });
-  
+
   return Array.from(suggestions).slice(0, limit);
 }
 
@@ -974,10 +989,10 @@ export function getSearchStats(): {
 } {
   return {
     totalEntries: searchIndex?.entries.length || 0,
-    indexSize: searchIndex ? 
-      searchIndex.wordIndex.size + 
-      searchIndex.romanizationIndex.size + 
-      searchIndex.definitionIndex.size + 
+    indexSize: searchIndex ?
+      searchIndex.wordIndex.size +
+      searchIndex.romanizationIndex.size +
+      searchIndex.definitionIndex.size +
       searchIndex.definitionExactIndex.size +
       searchIndex.categoryIndex.size : 0,
     cacheSize: searchCache.size
@@ -1028,7 +1043,7 @@ export async function loadPhrasesForLearning(): Promise<Phrase[]> {
     const verbsResponse = await fetch(`${getDataBase()}/data/verbs.json`);
     if (verbsResponse.ok) {
       const verbs: JsonDictionaryEntry[] = await verbsResponse.json();
-      
+
       // Transform verb entries into phrase format
       verbs.forEach(verb => {
         if (verb.examples && verb.examplesRomanized && verb.exampleEnglish) {
@@ -1070,7 +1085,7 @@ export async function loadPhrasesForLearning(): Promise<Phrase[]> {
  */
 export function loadCustomPhrases(): Phrase[] {
   if (typeof window === 'undefined') return [];
-  
+
   try {
     const stored = localStorage.getItem('customPhrases');
     if (stored) {
@@ -1079,24 +1094,24 @@ export function loadCustomPhrases(): Phrase[] {
   } catch (error) {
     console.error('Error loading custom phrases:', error);
   }
-  
+
   return [];
 }
 
 /**
  * Save a custom phrase to localStorage
- * Note: Auto-conjugation will be added in a future update
+
  */
 export function saveCustomPhrase(phrase: Phrase): void {
   if (typeof window === 'undefined') return;
-  
+
   try {
     const customPhrases = loadCustomPhrases();
     const newPhrase = {
       ...phrase,
       isCustom: true,
     };
-    
+
     customPhrases.push(newPhrase);
     localStorage.setItem('customPhrases', JSON.stringify(customPhrases));
   } catch (error) {
@@ -1109,12 +1124,12 @@ export function saveCustomPhrase(phrase: Phrase): void {
  */
 export function deleteCustomPhrase(phraseToDelete: Phrase): void {
   if (typeof window === 'undefined') return;
-  
+
   try {
     const customPhrases = loadCustomPhrases();
     const filtered = customPhrases.filter(
-      p => p.devanagari !== phraseToDelete.devanagari || 
-           p.english !== phraseToDelete.english
+      p => p.devanagari !== phraseToDelete.devanagari ||
+        p.english !== phraseToDelete.english
     );
     localStorage.setItem('customPhrases', JSON.stringify(filtered));
   } catch (error) {
@@ -1127,7 +1142,7 @@ export function deleteCustomPhrase(phraseToDelete: Phrase): void {
  */
 export function clearCustomPhrases(): void {
   if (typeof window === 'undefined') return;
-  
+
   try {
     localStorage.removeItem('customPhrases');
   } catch (error) {
@@ -1140,15 +1155,15 @@ export function clearCustomPhrases(): void {
  */
 export function updateCustomPhrase(oldPhrase: Phrase, newPhrase: Phrase): void {
   if (typeof window === 'undefined') return;
-  
+
   try {
     const customPhrases = loadCustomPhrases();
     const index = customPhrases.findIndex(
-      p => p.devanagari === oldPhrase.devanagari && 
-           p.romanization === oldPhrase.romanization &&
-           p.english === oldPhrase.english
+      p => p.devanagari === oldPhrase.devanagari &&
+        p.romanization === oldPhrase.romanization &&
+        p.english === oldPhrase.english
     );
-    
+
     if (index !== -1) {
       customPhrases[index] = { ...newPhrase, isCustom: true };
       localStorage.setItem('customPhrases', JSON.stringify(customPhrases));
