@@ -1,9 +1,13 @@
 import type { NextConfig } from "next";
 
+const basePath = process.env.BASE_PATH || '';
 const nextConfig: NextConfig = {
   // Enable static export for free hosting
   output: 'export',
   trailingSlash: true,
+  // For GitHub Pages project site: set BASE_PATH to repo name (e.g. /learn-nepali)
+  basePath: basePath,
+  assetPrefix: basePath ? `${basePath}/` : '',
   images: {
     unoptimized: true
   },
