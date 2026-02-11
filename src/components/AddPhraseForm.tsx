@@ -116,9 +116,7 @@ export default function AddPhraseForm({ onSave, onCancel }: AddPhraseFormProps) 
                 </div>
             </form>
 
-            <p className="text-xs text-gray-500 dark:text-gray-400 mt-4">
-                Note: Auto-conjugation feature coming soon! For now, add each conjugated form separately.
-            </p>
+
         </div>
     );
 }
