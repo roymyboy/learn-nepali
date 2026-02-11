@@ -1,0 +1,302 @@
+[
+    {
+        "devanagari": "नमस्ते",
+        "romanization": "namaste",
+        "english": "Hello / Greetings",
+        "category": "greetings"
+    },
+    {
+        "devanagari": "म सञ्चै छु",
+        "romanization": "ma sanchai chhu",
+        "english": "I am fine",
+        "category": "greetings"
+    },
+    {
+        "devanagari": "मेरो नाम... हो",
+        "romanization": "mero naam... ho",
+        "english": "My name is...",
+        "category": "introductions"
+    },
+    {
+        "devanagari": "तपाईंको नाम के हो?",
+        "romanization": "tapaaiko naam ke ho?",
+        "english": "What is your name?",
+        "category": "questions"
+    },
+    {
+        "devanagari": "तपाईंलाई भेट्न पाउँदा खुशी लाग्यो",
+        "romanization": "tapaaailai bhetna paunda khushi lagyo",
+        "english": "Nice to meet you",
+        "category": "greetings"
+    },
+    {
+        "devanagari": "मलाई यो मन पर्छ",
+        "romanization": "malai yo man parchha",
+        "english": "I like this",
+        "category": "expressions"
+    },
+    {
+        "devanagari": "धन्यवाद",
+        "romanization": "dhanyabad",
+        "english": "Thank you",
+        "category": "greetings"
+    },
+    {
+        "devanagari": "कृपया",
+        "romanization": "kripaya",
+        "english": "Please",
+        "category": "polite"
+    },
+    {
+        "devanagari": "माफ गर्नुहोस्",
+        "romanization": "maaf garnuhos",
+        "english": "Excuse me / Sorry",
+        "category": "polite"
+    },
+    {
+        "devanagari": "तपाईं कहाँ जानुहुन्छ?",
+        "romanization": "tapaai kaha januhunchha?",
+        "english": "Where are you going?",
+        "category": "questions"
+    },
+    {
+        "devanagari": "तपाईंले खाना खानुभयो?",
+        "romanization": "tapaaile khana khanubhayo?",
+        "english": "Have you eaten?",
+        "category": "questions"
+    },
+    {
+        "devanagari": "म मद्दत गर्न सक्छु?",
+        "romanization": "ma maddat garna sakchhu?",
+        "english": "Can I help?",
+        "category": "questions"
+    },
+    {
+        "devanagari": "यो कति हो?",
+        "romanization": "yo kati ho?",
+        "english": "How much is this?",
+        "category": "shopping"
+    },
+    {
+        "devanagari": "म बुझिनँ",
+        "romanization": "ma bujhina",
+        "english": "I don't understand",
+        "category": "expressions"
+    },
+    {
+        "devanagari": "फेरि भन्नुहोस्",
+        "romanization": "pheri bhannuhos",
+        "english": "Please say again",
+        "category": "requests"
+    },
+    {
+        "devanagari": "बिस्तारै बोल्नुहोस्",
+        "romanization": "bistarai bolnuhos",
+        "english": "Please speak slowly",
+        "category": "requests"
+    },
+    {
+        "devanagari": "म नेपाली सिक्दै छु",
+        "romanization": "ma nepali sikdai chhu",
+        "english": "I am learning Nepali",
+        "category": "introductions"
+    },
+    {
+        "devanagari": "तपाईं कहाँबाट हुनुहुन्छ?",
+        "romanization": "tapaai kahabata hunuhunchha?",
+        "english": "Where are you from?",
+        "category": "questions"
+    },
+    {
+        "devanagari": "म अमेरिकाबाट हुँ",
+        "romanization": "ma amerikabata hu",
+        "english": "I am from America",
+        "category": "introductions"
+    },
+    {
+        "devanagari": "शुभ प्रभात",
+        "romanization": "shubha prabhat",
+        "english": "Good morning",
+        "category": "greetings"
+    },
+    {
+        "devanagari": "शुभ रात्री",
+        "romanization": "shubha ratri",
+        "english": "Good night",
+        "category": "greetings"
+    },
+    {
+        "devanagari": "फेरि भेटौंला",
+        "romanization": "pheri bhetaula",
+        "english": "See you again",
+        "category": "farewells"
+    },
+    {
+        "devanagari": "हजुर?",
+        "romanization": "hajur?",
+        "english": "Yes? / Pardon?",
+        "category": "responses"
+    },
+    {
+        "devanagari": "होइन",
+        "romanization": "hoina",
+        "english": "No",
+        "category": "responses"
+    },
+    {
+        "devanagari": "हो",
+        "romanization": "ho",
+        "english": "Yes",
+        "category": "responses"
+    },
+    {
+        "devanagari": "ठीक छ",
+        "romanization": "thik chha",
+        "english": "It's okay / Alright",
+        "category": "responses"
+    },
+    {
+        "devanagari": "कुनै समस्या छैन",
+        "romanization": "kunai samasya chhaina",
+        "english": "No problem",
+        "category": "responses"
+    },
+    {
+        "devanagari": "म थकित छु",
+        "romanization": "ma thakit chhu",
+        "english": "I am tired",
+        "category": "feelings"
+    },
+    {
+        "devanagari": "मलाई भोक लाग्यो",
+        "romanization": "malai bhok lagyo",
+        "english": "I am hungry",
+        "category": "feelings"
+    },
+    {
+        "devanagari": "मलाई तिर्खा लाग्यो",
+        "romanization": "malai tirkha lagyo",
+        "english": "I am thirsty",
+        "category": "feelings"
+    },
+    {
+        "devanagari": "यो धेरै राम्रो छ",
+        "romanization": "yo dherai ramro chha",
+        "english": "This is very good",
+        "category": "expressions"
+    },
+    {
+        "devanagari": "यो धेरै मिठो छ",
+        "romanization": "yo dherai mitho chha",
+        "english": "This is very delicious",
+        "category": "food"
+    },
+    {
+        "devanagari": "मलाई मन पर्यो",
+        "romanization": "malai man paryo",
+        "english": "I liked it",
+        "category": "expressions"
+    },
+    {
+        "devanagari": "तपाईं कस्तो हुनुहुन्छ?",
+        "romanization": "tapaai kasto hunuhunchha?",
+        "english": "How are you?",
+        "category": "greetings"
+    },
+    {
+        "devanagari": "म राम्रो छु",
+        "romanization": "ma ramro chhu",
+        "english": "I am good",
+        "category": "responses"
+    },
+    {
+        "devanagari": "तपाईंलाई के चाहिन्छ?",
+        "romanization": "tapaaila ke chahinchha?",
+        "english": "What do you need?",
+        "category": "questions"
+    },
+    {
+        "devanagari": "मलाई पानी चाहिन्छ",
+        "romanization": "malai pani chahinchha",
+        "english": "I need water",
+        "category": "requests"
+    },
+    {
+        "devanagari": "शौचालय कहाँ छ?",
+        "romanization": "shauchalaya kaha chha?",
+        "english": "Where is the bathroom?",
+        "category": "questions"
+    },
+    {
+        "devanagari": "म हराएको छु",
+        "romanization": "ma haraeko chhu",
+        "english": "I am lost",
+        "category": "emergencies"
+    },
+    {
+        "devanagari": "मलाई मद्दत चाहिन्छ",
+        "romanization": "malai maddat chahinchha",
+        "english": "I need help",
+        "category": "emergencies"
+    },
+    {
+        "devanagari": "कति बजे?",
+        "romanization": "kati baje?",
+        "english": "What time is it?",
+        "category": "questions"
+    },
+    {
+        "devanagari": "आज मौसम कस्तो छ?",
+        "romanization": "aaja mausam kasto chha?",
+        "english": "How is the weather today?",
+        "category": "questions"
+    },
+    {
+        "devanagari": "म पछि आउँछु",
+        "romanization": "ma pachhi aauchhu",
+        "english": "I will come later",
+        "category": "time"
+    },
+    {
+        "devanagari": "अलि पर्खनुहोस्",
+        "romanization": "ali parkhanuh os",
+        "english": "Please wait a moment",
+        "category": "requests"
+    },
+    {
+        "devanagari": "हतार गर्नुहोस्",
+        "romanization": "hatar garnuhos",
+        "english": "Please hurry",
+        "category": "requests"
+    },
+    {
+        "devanagari": "बिस्तारै जानुहोस्",
+        "romanization": "bistarai januhos",
+        "english": "Go slowly",
+        "category": "directions"
+    },
+    {
+        "devanagari": "यहाँ आउनुहोस्",
+        "romanization": "yaha aunuhos",
+        "english": "Come here",
+        "category": "directions"
+    },
+    {
+        "devanagari": "त्यहाँ जानुहोस्",
+        "romanization": "tyaha januhos",
+        "english": "Go there",
+        "category": "directions"
+    },
+    {
+        "devanagari": "सिधा जानुहोस्",
+        "romanization": "sidha januhos",
+        "english": "Go straight",
+        "category": "directions"
+    },
+    {
+        "devanagari": "दायाँ मोड्नुहोस्",
+        "romanization": "daya modnuhos",
+        "english": "Turn right",
+        "category": "directions"
+    }
+]

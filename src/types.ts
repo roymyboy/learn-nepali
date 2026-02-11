@@ -24,3 +24,25 @@ export interface JsonDictionaryEntry {
 }
 
 
+// Learn Feature Types
+export interface Phrase {
+  devanagari: string;
+  romanization: string;
+  english: string;
+  category?: string;
+  isCustom?: boolean;
+  verb?: string;
+  subject?: Subject;
+  tense?: Tense;
+}
+
+export type Subject = 'ma' | 'haami' | 'timi' | 'tapaai' | 'uha';
+export type Tense = 'present' | 'past' | 'future';
+export type LanguageDirection = 'nepali-to-english' | 'english-to-nepali';
+
+export interface VerbRoot {
+  root: string;
+  type: 'consonant' | 'vowel';
+  isIrregular: boolean;
+  dictionaryForm?: string;
+}
